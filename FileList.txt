@@ -1,0 +1,5 @@
+<UI>
+
+..\data\erroestring.string
+..\data\messagestring.string
+..\data\npcstring.string
