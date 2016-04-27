@@ -7,10 +7,8 @@
 # KR Patch
 한글패치와 관련된 파일들을 트리와 함께 보관해둔 곳입니다.
 
-# tree
+# Tree
 300히어로즈 data.jmp파일내에 존재하는 폴더들을 전부 정리해둔 곳입니다.
 
-
-
-
+# Need Help
 I need some help to edit .x file. Please let me know how to do.
