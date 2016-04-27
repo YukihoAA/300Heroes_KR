@@ -3,7 +3,7 @@
 data\xwindow\font\msyh.ttf - 폰트파일
 data\splash00.bmp - 시작시 로딩화면 이미지
 
-data\ui\* - UI 관련 png 파일들
+data\ui\* - UI 관련 png 파일들 (한글화 할 필요성이 있는 파일들)
 
 data\erroestring.string - 에러메시지
 data\messagestring.string - 클라이언트 메시지

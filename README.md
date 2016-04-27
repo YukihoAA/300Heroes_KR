@@ -20,7 +20,7 @@ Name_voice: data\audio\voice
 Name_CN: excel\string_client_c.dat
 
 # Tree.zip
-300히어로즈 data.jmp파일내에 존재하는 폴더들을 전부 정리해둔 곳입니다.
+300히어로즈 data.jmp파일내에 존재하는 폴더 구조를 저장해둔 파일입니다.
 
 # Need Help
 I need some help to edit .x file. Please let me know how to do.
