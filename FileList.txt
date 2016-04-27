@@ -1,10 +1,19 @@
 <UI>
 
 data\xwindow\font\msyh.ttf - 폰트파일
+data\splash00.bmp - 시작시 로딩화면 이미지
+
+data\ui\* - UI 관련 png 파일들
 
 data\erroestring.string - 에러메시지
 data\messagestring.string - 클라이언트 메시지
 data\npcstring.string - NPC 대화
+
+excel\string_client_c.dat - 메인 string 파일
+excel\growupabilitytable_lan_c.dat - 특성관련 파일
+excel\growupgeniustable_lan_c.dat -  특성관련 파일
+excel\npc_lan_c - npc 관련 파일
+excel\worldmapcfg_lan_c - 경기장 내 안내 파일
 
 
 <skin>
