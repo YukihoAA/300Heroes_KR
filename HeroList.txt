@@ -1,0 +1,5 @@
+HeroNum / Name_skil / Name_voice / CN / KR / Romaji (JP) / *string_client_c (if name isn't same as Name_voice)
+
+134 / 134 / kuangsan / 时崎狂三 / 토키사키 쿠루미 / Tokisaki Kurumi
+170 / 170 / qinli / 五河琴里 / 이츠카 코토리 / Itsuka Kotori
+183 / 183 / dasha / 大傻 / 콩고 / Kongou

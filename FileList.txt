@@ -18,5 +18,14 @@ excel\worldmapcfg_lan_c - 경기장 내 안내 파일
 
 <skin>
 
-data\character\roleaction\*.x - Compressed Modeling data. (Can unziped by offzip, but I don't know how to edit it)
-data\character\roleaction\*.dds - 텍스쳐 파일 (포토샵으로 수정 가능)
+data\character\roleaction\[#HeroNum].x - Compressed 3D Modeling data. (Can unziped by offzip, but I don't know how to edit it)
+data\character\roleaction\[#HeroNum].dds - 텍스쳐 파일 (포토샵으로 수정 가능)
+ui\hero\[#HeroNum].png - 영웅 선택시 배경화면
+ui\head\[#HeroNum].dds - 정사각형 영웅 이미지
+ui\head\role\[#HeroNum].png - 직사각형 영웅 이미지 (영웅 선택화면)
+
+<voice>
+
+data\audio\voice\[#HeroName_Voice]\*.ogg - 영웅 보이스
+data\audio\voice\[#HeroName_Voice]\*_skin*.ogg - 영웅 보이스 (스킨에 적용되는 보이스)
+data\audio\skill\[#HeroName_skil]\*.ogg - 영웅 스킬 사운드 이펙트

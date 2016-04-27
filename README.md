@@ -10,6 +10,15 @@
 # FileList.txt
 한글화 및 커스터마이징과 관련된 파일 리스트는 FileList.txt를 참조해주세요.
 
+# HeroList.txt
+Data.jmp파일내에서 사용되는 각 영웅의 번호와 이름을 정리해두었습니다.
+Data.jmp내의 영웅 이름이 일관되지 않고, 번호와 여러가지 이름을 혼용하기 때문에 꼭 필요한 문서입니다.
+
+관련된 폴더
+Name_skil:  data\audio\skill
+Name_voice: data\audio\voice
+Name_CN: excel\string_client_c.dat
+
 # Tree.zip
 300히어로즈 data.jmp파일내에 존재하는 폴더들을 전부 정리해둔 곳입니다.
 
