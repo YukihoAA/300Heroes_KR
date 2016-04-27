@@ -1,8 +1,10 @@
 <UI>
 
-data\erroestring.string
-data\messagestring.string
-data\npcstring.string
+data\xwindow\font\msyh.ttf - 폰트파일
+
+data\erroestring.string - 에러메시지
+data\messagestring.string - 클라이언트 메시지
+data\npcstring.string - NPC 대화
 
 
 <skin>
