@@ -1,5 +1,11 @@
 <UI>
 
-..\data\erroestring.string
-..\data\messagestring.string
-..\data\npcstring.string
+data\erroestring.string
+data\messagestring.string
+data\npcstring.string
+
+
+<skin>
+
+data\character\roleaction\*.x - Compressed Modeling data. (Can unziped by offzip, but I don't know how to edit it)
+data\character\roleaction\*.dds - 텍스쳐 파일 (포토샵으로 수정 가능)
