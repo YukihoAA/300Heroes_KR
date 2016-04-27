@@ -36,12 +36,12 @@ Cyma님의 한글패치 v0.2.410 버전의 내용물을 모아놓았습니다.<b
 Data.jmp파일내에서 사용되는 각 영웅의 번호와 이름을 정리해두었습니다. <br/>
 Data.jmp내의 영웅 이름이 일관되지 않고, 번호와 여러가지 이름을 혼용하기 때문에 꼭 필요한 문서입니다. <br/><br/>
 
+- Format에 맞추어 Pull Request해주세요. (Format에 맞지 않게 수정한 Pull Request는 승인하지 않습니다) <br/><br/>
+
 관련된 폴더 <br/>
 Name_skil:  data\audio\skill <br/>
 Name_voice: data\audio\voice <br/>
-Name_CN: excel\string_client_c.dat <br/><br/>
-
-- Format에 맞추어 Pull Request해주세요. (Format에 맞지 않게 수정한 Pull Request는 승인하지 않습니다)
+Name_CN: excel\string_client_c.dat
 
 
 # Tree.zip
