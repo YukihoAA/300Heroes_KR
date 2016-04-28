@@ -2,7 +2,9 @@
 
 1. 300영웅 패치파일 생성 및 적용기 - http://yun.baidu.com/share/link?uk=1730673092&shareid=794629020&third=0&adapt=pc&fr=ftw
 
-2. 300영웅 Data.jmp 뷰어 - http://cafe.naver.com/300heroze/15912 (여기 있는 300CS보다는 1번의 파일을 이용해주세요)
+2. 300영웅 Data.jmp 추출기 v1.15.4 - http://tieba.baidu.com/p/3594185855 (반드시 Locale Emulator를 사용할것)
+
+3. 300영웅 Data.jmp 추출기 v1.00.0 - http://cafe.naver.com/300heroze/15912
 
 
 
@@ -56,3 +58,7 @@
 1-1. 명령어: offzip -z 15 -a [파일명].x "출력폴더경로" 0
 
 2. 바이두에서 아무리 찾아봐도 답이 없다. 다들 포기한 듯. 포기하는게 편하다라는 답변이 많다.
+
+3. 시마카제님의 보고서들
+- http://cafe.naver.com/300heroze/21287
+- http://cafe.naver.com/300heroze/21270
