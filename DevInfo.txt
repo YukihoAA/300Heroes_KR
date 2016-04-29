@@ -6,6 +6,8 @@
 
 3. 300영웅 Data.jmp 추출기 v1.00.0 - http://cafe.naver.com/300heroze/15912
 
+4. String Client Compiler - https://github.com/SinaMafuyu/String_Client_Compiler/releases (string_client_c.dat 수정도구)
+
 
 
 # 패치파일 생성기
@@ -23,7 +25,7 @@
 
 1. 한글 패치를 하기 위해 .dat 파일을 수정할 경우 반드시 총 byte수가 기존과 일치해야한다.
 
-2. 0x0a는 NULL문자를 표현하는 바이트다. 이 바이트가 기존 .dat과 위치가 항상 동일해야한다. (더 많아도, 적어도 안된다.)
+2. 0x0a는 개행문자를 표현하는 바이트다. 이 바이트가 기존 .dat과 위치가 항상 동일해야한다. (더 많아도, 적어도 안된다.)
 
 2-1. Notepad++도 결코 완벽하지 못하다. HEX-Editer를 동시 이용하면서 수정할 필요가 있다.
 
@@ -35,7 +37,7 @@
 
 # string_client_c.dat 작성규칙
 
-1. ID 항목은0axx0axx65로 시작. 12로 종료 (16진수 HEX 데이터)
+1. ID 항목은0axx0axx로 시작. 12로 종료 (16진수 HEX 데이터)
 
 2. String 값은 ID 항목 다음 비트를 건너뛰고 그 다음 비트부터 존재. 종료 표시자는 없으나 다음 ID항목의 시작값인 0a로 인식 가능.
 
