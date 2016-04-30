@@ -1,6 +1,6 @@
 # Tool
 
-1. 300영웅 패치파일 생성 및 적용기 v 0.23 - http://yun.baidu.com/share/link?uk=1730673092&shareid=794629020&third=0&adapt=pc&fr=ftw
+1. 300영웅 패치파일 생성 및 적용기 (英雄补丁生成与安装) v 0.23 - http://yun.baidu.com/share/link?uk=1730673092&shareid=794629020&third=0&adapt=pc&fr=ftw
 
 2. 300영웅 Data.jmp 추출기 v1.15.4 - http://tieba.baidu.com/p/3594185855 (반드시 Locale Emulator를 사용할것)
 

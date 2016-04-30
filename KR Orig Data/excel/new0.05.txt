@@ -356,7 +356,7 @@ NO
 生命上限
 
 20 10 6 10 0 eUI_sMpMax
-付唱烹
+付唱樊
 
 25 13 8 10 0 eUI_sMpMaxPer
 弥措付唱
@@ -470,7 +470,7 @@ NO
 攻击改变 百分比
 
 44 21 19 10 0 eUI_ePlayAtt_MagicPer
-法术强度改变 百分比
+林巩碍档改变 百分比
 
 44 19 21 10 0 eUI_ePlayAtt_IcePer
 冰元素攻击改变 百分比
@@ -509,7 +509,7 @@ NO
 傍拜
 
 36 24 8 10 0 eUI_ChangedPlayAtt_Magic
-法术强度
+林巩碍档
 
 36 22 10 10 0 eUI_ChangedPlayAtt_Ice
 冰元素攻击
@@ -6801,7 +6801,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 怒气值
 
 19 9 6 10 0 ui_mp_tip
-付唱烹
+付唱樊
 
 23 15 4 10 0 ui_TelePort_tip
 回城
@@ -8065,7 +8065,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 积疙仿 + 
 
 34 21 9 10 0 eClient_MagicValueAdd
-付唱烹 + 
+付唱樊 + 
 
 37 22 11 10 0 eClient_AttackSpeedAdd
 傍拜加档 + 
@@ -8131,7 +8131,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 物理防御每级成长 + 
 
 63 40 19 10 0 eClient_CharAttr_MagicAttack_LevelGrowth
-法术强度每级成长 + 
+林巩碍档每级成长 + 
 
 55 34 17 10 0 eClient_CharAttr_HPMax_LevelGrowth
 生命值每级成长 + 

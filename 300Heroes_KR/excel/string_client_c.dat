@@ -262,7 +262,7 @@ eUI_nHpMax»ı¸í·Â
 eUI_sHpMaxPerÉúÃüÉÏÏŞ
 
 
-eUI_sMpMax¸¶³ªÅë
+eUI_sMpMax¸¶³ª·®
 
 eUI_sMpMaxPerÃÖ´ë¸¶³ª
 
@@ -341,7 +341,7 @@ $
 *
 eUI_ePlayAtt_PhysicsPer¹¥»÷¸Ä±ä °Ù·Ö±È
 ,
-eUI_ePlayAtt_MagicPer·¨ÊõÇ¿¶È¸Ä±ä °Ù·Ö±È
+eUI_ePlayAtt_MagicPerÁÖ¹®°­µµ¸Ä±ä °Ù·Ö±È
 ,
 eUI_ePlayAtt_IcePer±ùÔªËØ¹¥»÷¸Ä±ä °Ù·Ö±È
 -
@@ -367,7 +367,7 @@ $
 "
 eUI_ChangedPlayAtt_Physics°ø°İ
 $
-eUI_ChangedPlayAtt_Magic·¨ÊõÇ¿¶È
+eUI_ChangedPlayAtt_MagicÁÖ¹®°­µµ
 $
 eUI_ChangedPlayAtt_Ice
 ±ùÔªËØ¹¥»÷
@@ -4863,7 +4863,7 @@ D
 
 ui_dander_tipÅ­ÆøÖµ
 
-	ui_mp_tip¸¶³ªÅë
+	ui_mp_tip¸¶³ª·®
 
 ui_TelePort_tip»Ø³Ç
  
@@ -5733,7 +5733,7 @@ f
 !
 eClient_LifeValueAdd	»ı¸í·Â + 
 "
-eClient_MagicValueAdd	¸¶³ªÅë + 
+eClient_MagicValueAdd	¸¶³ª·® + 
 %
 eClient_AttackSpeedAdd°ø°İ¼Óµµ + 
 )
@@ -5777,7 +5777,7 @@ A
 =
 &eClient_CharAttr_PhysicDef_LevelGrowthÎïÀí·ÀÓùÃ¿¼¶³É³¤ + 
 ?
-(eClient_CharAttr_MagicAttack_LevelGrowth·¨ÊõÇ¿¶ÈÃ¿¼¶³É³¤ + 
+(eClient_CharAttr_MagicAttack_LevelGrowthÁÖ¹®°­µµÃ¿¼¶³É³¤ + 
 7
 "eClient_CharAttr_HPMax_LevelGrowthÉúÃüÖµÃ¿¼¶³É³¤ + 
 7
