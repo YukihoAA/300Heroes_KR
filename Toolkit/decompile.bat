@@ -1,0 +1,1 @@
+scc decompile string_client_c.dat dec.txt

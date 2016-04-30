@@ -1,0 +1,1 @@
+scc compile string_client_c.dat new.txt
