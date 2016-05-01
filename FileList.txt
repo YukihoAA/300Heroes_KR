@@ -20,6 +20,7 @@ excel\worldmapcfg_lan_c - 경기장 내 안내 파일
 
 data\character\roleaction\[#HeroNum].x - Compressed 3D Modeling data. (Can unziped by offzip, but I don't know how to edit it)
 data\character\roleaction\[#HeroNum].dds - 텍스쳐 파일 (포토샵으로 수정 가능)
+data\effect\skill\[#HeroNum]_[#HeroName]\*.ini - 이펙트 설정파일, 조작으로 스킬 형태 수정 가능
 ui\hero\[#HeroNum].png - 영웅 선택시 배경화면
 ui\head\[#HeroNum].dds - 정사각형 영웅 이미지
 ui\head\role\[#HeroNum].png - 직사각형 영웅 이미지 (영웅 선택화면)

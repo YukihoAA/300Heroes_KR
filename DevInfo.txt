@@ -10,7 +10,11 @@
 
 5. HxD Hex Editor - https://mh-nexus.de/en/hxd/
 
-6. FlexHex Editor - http://www.flexhex.com/download/ (멀티바이트 문자를 지원하나 쉐어웨어다.)
+6. FlexHex Editor - http://www.flexhex.com/download/ (멀티바이트 문자를 지원하나 (중국어가 나옴) 쉐어웨어다.)
+
+7. Nvidia Photoshop DDS Plugin - https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop (dds 파일 편집을 위해 필요)
+
+8. XnView - http://www.xnview.com/en/ (dds파일 뷰어)
 
 
 
@@ -92,6 +96,18 @@
 3. 한글 폰트일 경우 Locale을 중국어로 변경하면 모든 글씨가 깨지게 된다. (중국어 폰트가 없기 때문, Locale때문에 한글도 깨짐)
 
 4. 본 프로젝트에서는 맑은 고딕이 사용된다.
+
+
+
+# 스킨 제작
+
+1. 기본적으로 300히어로즈는 아직 모델링 파일 추출이 힘들다. 그래서 텍스쳐만 수정해서 제작한다.
+
+2. 혹은 ini파일을 이용한 약간의 수정은 가능하다. .x항목의 시마카제님의 보고서 참조
+
+3. DATA 뷰어로 수정하고자 하는 파일을 열어서 수정 후 재 적용하는 원리는 한글패치와 같다.
+
+4. 관련 파일은 FileList.txt 참조
 
 
 
