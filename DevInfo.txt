@@ -8,13 +8,15 @@
 
 4. String Client Compiler - https://github.com/SinaMafuyu/String_Client_Compiler/releases (string_client_c.dat 수정도구)
 
-5. HxD Hex Editor - https://mh-nexus.de/en/hxd/
+5. Compiled String Decompiler - https://github.com/SinaMafuyu/CompiledStringDecompilor/releases (.dat 수정도구)
 
-6. FlexHex Editor - http://www.flexhex.com/download/ (멀티바이트 문자를 지원하나 (중국어가 나옴) 쉐어웨어다.)
+6. HxD Hex Editor - https://mh-nexus.de/en/hxd/
 
-7. Nvidia Photoshop DDS Plugin - https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop (dds 파일 편집을 위해 필요)
+7. FlexHex Editor - http://www.flexhex.com/download/ (멀티바이트 문자를 지원하나 (중국어가 나옴) 쉐어웨어다.)
 
-8. XnView - http://www.xnview.com/en/ (dds파일 뷰어)
+8. Nvidia Photoshop DDS Plugin - https://developer.nvidia.com/nvidia-texture-tools-adobe-photoshop (dds 파일 편집을 위해 필요)
+
+9. XnView - http://www.xnview.com/en/ (dds파일 뷰어)
 
 
 
