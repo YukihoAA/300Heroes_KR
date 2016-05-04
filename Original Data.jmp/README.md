@@ -1,4 +1,4 @@
-# Patch Data
+# Original Data.jmp
 한글화와 관련된 "원본 파일"들을 폴더 구조와 함께 보관해둔 곳입니다. <br/><br/>
 
 - <b> 원본파일 </b>을 업로드 하는 폴더입니다. 한글화한 파일은 300Heroes_KR폴더에 Commit해주세요. <br/><br/>
