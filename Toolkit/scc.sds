@@ -1,0 +1,12 @@
+// for string_client_c.dat
+sds:v1.0
+200 2000
+0A #a #d 0A #b ID $12 #c #e ST
+
+#d <= 80
+#d ~ 0A
+#a != 0A
+#e ~ 0
+#e < 20
+#c $
+#e $

@@ -1,0 +1,7 @@
+// for worldmapcfg_lan_c.dat
+sds:v1.0
+50 1
+0A #a 08 #b #d 12 #c ID
+
+#d ~ 30
+#d < 20
