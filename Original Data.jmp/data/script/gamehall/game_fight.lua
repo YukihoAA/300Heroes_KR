@@ -1,10 +1,8 @@
 include("../Data/Script/Common/include.lua")
 include("../Data/Script/Common/window.lua")
 
-
 -- 永恒竞技、永恒战场、勇者斗恶龙、天梯排位、二次元杀阵
 local btn_ListBK = nil
-
 local btn_Forever = nil
 local btn_ForeverWar = nil
 local btn_Dragon = nil
@@ -68,20 +66,16 @@ local EquipDeploy = nil				-- 装备配置按钮
 -- 相关按钮~
 local pNewClassButton_YHJJ = nil	-- 新手教学按钮
 local pNewClassButton_YHZC = nil
-
 local pSoloSoloButton_YHJJ = nil	-- Solo
 local pSoloSoloButton_YHZC = nil
-
 local pTeamButton_YHJJ = nil		-- 组队战斗
 local pTeamButton_YHZC = nil
 local pTeamButton_YZDEL = nil
-
 local pSingleButton_YHJJ = nil		-- 单人匹配
 local pSingleButton_YHZC = nil
 local pSingleButton_YZDEL = nil
 local pSingleButton_TTPW = nil
 local pSingleButton_ECYSZ = nil
-
 local pDeathButton_YZDEL = nil		-- 跨服战场
 
 -- 背景图片和Logo图片切换
@@ -138,7 +132,7 @@ function InitMainGame_Fight(wnd)
 	XWindowEnableAlphaTouch(btn_ForeverWar.id)
 	btn_ForeverWar.script[XE_LBDOWN] = function()
 		XClickPlaySound(5)
-		XIsOpenYHZC(1)
+		XIsOpenYHZC()
 		XSetGameType_Fight(1)
 		btn_ListBK:SetPosition(245,53)
 		-- fightBK.changeimage(FightBKPic[2])
@@ -228,20 +222,20 @@ function InitMainGame_Fight(wnd)
 	pSingleButton_YHJJ:AddFont("单人匹配", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pNewClassButton_YHJJ.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XGameStartXinShouJiaoXue(1, EPLAYMODE_MATCH_ATH)
+		XGameStartXinShouJiaoXue( EPLAYMODE_MATCH_ATH )
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
 	end
 	pSoloSoloButton_YHJJ.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XGameFightSolo(1, EPLAYMODE_MATCH_ATH)
+		XGameFightSolo(EPLAYMODE_MATCH_ATH)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
 	end
 	pTeamButton_YHJJ.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		XGetIsLeader(1)
-		XGameTeamFight(1, EPLAYMODE_MATCH_ATH)
+		XGameTeamFight(EPLAYMODE_MATCH_ATH)
 		XSetTeamType(1)				-- 1表示当前队伍类型是组队，0表示单人
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
@@ -251,7 +245,7 @@ function InitMainGame_Fight(wnd)
 	end
 	pSingleButton_YHJJ.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XStartCrossServerGame(1, EPLAYMODE_MATCH_ATH)
+		XStartCrossServerGame(EPLAYMODE_MATCH_ATH)
 		XSetTeamType(0)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
@@ -278,27 +272,27 @@ function InitMainGame_Fight(wnd)
 	
 	pSoloSoloButton_YHZC.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XGameFightSolo(1, EPLAYMODE_MATCH_BATTLE)
+		XGameFightSolo(EPLAYMODE_MATCH_BATTLE)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
 	end
 	pSingleButton_YHZC.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XGameStartOneHeroGame(1, EPLAYMODE_MATCH_BATTLE)
+		XGameStartOneHeroGame(EPLAYMODE_MATCH_BATTLE)
 		XSetTeamType(0)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
 	end
 	pNewClassButton_YHZC.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XGameStartXinShouJiaoXue(1, EPLAYMODE_MATCH_BATTLE)
+		XGameStartXinShouJiaoXue( EPLAYMODE_MATCH_BATTLE )
 		XSetTeamType(0)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
 	end
 	pDeathButton_YZDEL.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XStartCrossServerGame(1, EPLAYMODE_MATCH_BATTLE)
+		XStartCrossServerGame(EPLAYMODE_MATCH_BATTLE)
 		XSetTeamType(0)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
@@ -306,7 +300,7 @@ function InitMainGame_Fight(wnd)
 	pTeamButton_YHZC.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		XGetIsLeader(1)
-		XGameTeamFight(1, EPLAYMODE_MATCH_BATTLE)
+		XGameTeamFight(EPLAYMODE_MATCH_BATTLE)
 		XSetTeamType(1)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
@@ -327,7 +321,7 @@ function InitMainGame_Fight(wnd)
 	pSingleButton_YZDEL:AddFont("单人游戏", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pSingleButton_YZDEL.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XGameStartOneHeroGame(1, EPLAYMODE_FUN_PVE0)
+		XGameStartOneHeroGame(EPLAYMODE_FUN_PVE0)
 		XSetTeamType(0)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
@@ -335,7 +329,7 @@ function InitMainGame_Fight(wnd)
 	pTeamButton_YZDEL.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		XGetIsLeader(1)
-		XGameTeamFight(1, EPLAYMODE_FUN_PVE0)
+		XGameTeamFight(EPLAYMODE_FUN_PVE0)
 		XSetTeamType(1)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
@@ -352,7 +346,7 @@ function InitMainGame_Fight(wnd)
 	pSingleButton_TTPW:AddFont("敬请期待", 15, 8, 0, 20, 179, 15, 0xff0000)
 	pSingleButton_TTPW:SetEnabled(0)
 	pSingleButton_TTPW.script[XE_LBUP] = function()
-		XStartCrossServerGame(1, EPLAYMODE_MATCH_RANK)
+		XStartCrossServerGame(EPLAYMODE_MATCH_RANK)
 		XSetTeamType(0)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)
@@ -365,7 +359,7 @@ function InitMainGame_Fight(wnd)
 	pSingleButton_ECYSZ:AddFont("单人游戏", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pSingleButton_ECYSZ:AddFont("18:00 - 22:00 开放", 15, 8, 0, 20, 179, 15, 0xff0000)
 	pSingleButton_ECYSZ.script[XE_LBUP] = function()
-		XGameStartOneHeroGame(1, EPLAYMODE_FUN_PVP0)
+		XGameStartOneHeroGame(EPLAYMODE_FUN_PVP0)
 		XSetTeamType(0)
 		SetGameHallIsVisible(1)		-- 退回大厅界面
 		g_game_fight_ui:SetVisible(0)

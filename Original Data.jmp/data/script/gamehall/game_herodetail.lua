@@ -357,14 +357,12 @@ function InitMainGame_HeroDetailA(wnd)
 		-- ¼Ó
 		WND_WAKEADD_BTN[i].script[XE_LBUP] = function()
 			XClickPlaySound(5)
-			-- XClickAddPlusBtnWakeup(i)
 			XClickAddButtonGrowthUp(i-1)
 		end
 		
 		-- ¼õ
 		WND_WAKEPLUS_BTN[i].script[XE_LBUP] = function()
 			XClickPlaySound(5)
-			-- XClickAddPlusBtnWakeup(11+i)
 			XClickPlusButtonGrowthUp(i-1)
 		end
 	end
@@ -377,7 +375,6 @@ function InitMainGame_HeroDetailA(wnd)
 	btn_Advice.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		-- ÍÆ¼ö
-		-- XClickAdviceWakeup(1)
 		XClickAdviceGrowth()
 	end
 	btn_Yes = WND_WAKEUP:AddButton(path_hero.."WAKEBTN1_hero.png",path_hero.."WAKEBTN2_hero.png",path_hero.."WAKEBTN3_hero.png",160,243,46,21)
@@ -405,7 +402,7 @@ function InitMainGame_HeroDetailA(wnd)
 	btn_wakeupp:AddFont("¿ªÆô¾õÐÑ",15,8,0,0,100,32,0xbeb5ee)
 	btn_wakeupp.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XClickOpenWakeup(1)
+		XClickOpenWakeup()
 	end
 	
 	WND_WAKEUP:AddImage(path_hero.."wakerules_hero.png",280,33,113,233)

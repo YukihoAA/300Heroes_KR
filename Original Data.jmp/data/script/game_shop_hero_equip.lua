@@ -140,7 +140,7 @@ function Init_MenuListpart(wnd)
 	btn_CloseWait = img_WaitTimeBg:AddButton(path.."queuenum/".."clane.png",path.."queuenum/".."clanem.png",path.."queuenum/".."clane.png",320,30,32,16)
 	XWindowEnableAlphaTouch(btn_CloseWait.id)
 	btn_CloseWait.script[XE_LBUP] = function()
-		XCloseWait(1)
+		XCloseWait()
 	end
 	
 	img_WaitTimeBg:AddImage(path.."maohao_hall.png",221,-5,64,64)

@@ -96,7 +96,7 @@ function InitMainTeamFight_ui(wnd)
 	btn_JieSanDuiWu.script[XE_LBUP] = function()
 		g_GameTeamFight_ui:SetVisible(0)
 		ClearGameTeamChat()
-		XQuitTeam(1)
+		XQuitTeam()
 		RightCount = 0
 		LeftCount = 0
 	end
@@ -104,7 +104,7 @@ function InitMainTeamFight_ui(wnd)
 	btn_StartGame = PlayerInfo_TeamFight[1]:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png",8,475, 179, 56)	
 	btn_StartGame:AddFont("开始游戏",18,8,0,0,179,56,0xffB5A9D7)
 	btn_StartGame.script[XE_LBUP] = function()
-		XGameStartGame(1,Team_type)
+		XGameStartGame(Team_type)
 		RightCount = 0
 		LeftCount = 0
 	end
@@ -120,19 +120,19 @@ function InitMainTeamFight_ui(wnd)
 		btn_Team_n[i] = PlayerInfo_TeamFight[i+1]:AddButton(path_setup.."btn1_mail.png",path_setup.."btn2_mail.png",path_setup.."btn3_mail.png",115,37,100,32)
 		btn_Team_n[i]:AddFont("组队邀请",15,8,0,0,100,32,0xffffff)
 		btn_Team_n[i].script[XE_LBUP] = function()
-			XGameIsOpenFriendList(1)
+			XGameIsOpenFriendList()
 			chatInputEdit_Team:SetVisible(0)
 		end
 	end
 	
 	-- 一建邀请好友
 	btn_YiJianYaoQing.script[XE_LBUP] = function()
-		XAddAllFriends(1)
+		XAddAllFriends()
 	end
 	
 	-- 当鼠标点下时，刷新当前所有可以邀请的好友，这句话很重要！不要删！
 	btn_YiJianYaoQing.script[XE_LBDOWN] = function()
-		XAddAllFriends_D(1)
+		XAddAllFriends_D()
 	end
 	
 		
@@ -154,68 +154,68 @@ function InitMainTeamFight_ui(wnd)
 	
 	btn_AddFriend_n[1].script[XE_LBUP] = function()
 		if (IsLeader == 1) then
-			XAddPlayerFriend(1,1)
+			XAddPlayerFriend(1)
 		else
-			XAddPlayerFriend(1,0)
+			XAddPlayerFriend(0)
 		end
 	end
 	
 	btn_AddFriend_n[2].script[XE_LBUP] = function()
 		if (IsLeader == 1) then
-			XAddPlayerFriend(1,2)
+			XAddPlayerFriend(2)
 		else
 			if (MySelfIndex == 1) then
-				XAddPlayerFriend(1,2)
+				XAddPlayerFriend(2)
 			else
-				XAddPlayerFriend(1,1)
+				XAddPlayerFriend(1)
 			end
 		end
 	end
 	
 	btn_AddFriend_n[3].script[XE_LBUP] = function()
 		if (IsLeader == 1) then
-			XAddPlayerFriend(1,3)
+			XAddPlayerFriend(3)
 		else
 			if (MySelfIndex == 3) then
-				XAddPlayerFriend(1, 2)
+				XAddPlayerFriend(2)
 			else
-				XAddPlayerFriend(1, 3)
+				XAddPlayerFriend(3)
 			end
 		end
 	end
 	
 	btn_AddFriend_n[4].script[XE_LBUP] = function()
 		if (IsLeader == 1) then
-			XAddPlayerFriend(1,4)
+			XAddPlayerFriend(4)
 		else
 			if (MySelfIndex == 4) then
-				XAddPlayerFriend(1,3)
+				XAddPlayerFriend(3)
 			else
-				XAddPlayerFriend(1,4)
+				XAddPlayerFriend(4)
 			end
 		end
 	end
 	
 	btn_AddFriend_n[5].script[XE_LBUP] = function()
 		if (IsLeader == 1) then
-			XAddPlayerFriend(1,5)
+			XAddPlayerFriend(5)
 		else
 			if (MySelfIndex == 5) then
-				XAddPlayerFriend(1,4)
+				XAddPlayerFriend(4)
 			else
-				XAddPlayerFriend(1,5)
+				XAddPlayerFriend(5)
 			end
 		end
 	end
 	
 	btn_AddFriend_n[6].script[XE_LBUP] = function()
 		if (IsLeader == 1) then
-			XAddPlayerFriend(1,6)
+			XAddPlayerFriend(6)
 		else
 			if (MySelfIndex == 6) then
-				XAddPlayerFriend(1,5)
+				XAddPlayerFriend(5)
 			else
-				XAddPlayerFriend(1,6)
+				XAddPlayerFriend(6)
 			end
 		end
 	end
@@ -225,7 +225,7 @@ function InitMainTeamFight_ui(wnd)
 		btn_Out_n[n] = PlayerInfo_bg[n]:AddButton(path_mode.."addfriend1_hero.png", path_mode.."addfriend2_hero.png", path_mode.."addfriend3_hero.png", 265, 62, 64, 32)
 		btn_Out_n[n]:AddFont("踢出", 18, 0, 7, 0, 80, 20, 0xffffffff)
 		btn_Out_n[n].script[XE_LBUP] = function()
-			XKickPlayer(1,n)
+			XKickPlayer(n)
 			PlayerNameFont[n] = nil
 		end
 	end
@@ -329,7 +329,7 @@ function InitMainTeamFight_ui(wnd)
 		YaoQingCount = 0
 		SelPlayerId = {}
 		PopFriendsUI()
-		XIsYaoQing(1)
+		XIsYaoQing()
 		for index,value in pairs(img_YaoQingFriends_bg) do
 			img_YaoQingFriends_bg[index]:SetVisible(0)
 		end
@@ -343,7 +343,7 @@ function InitMainTeamFight_ui(wnd)
 			for i=1, MaxCount do
 				-- log("\nPlayerIdlen = " .. #PlayerId)
 				-- log("\ni+Many_Equip1 = " .. i+Many_Equip1)
-				XAddYaoQingFriends( 1, PlayerId[1+Many_Equip1])
+				XAddYaoQingFriends(PlayerId[1+Many_Equip1])
 				if ( LeftCount < 6 ) then
 					img_YaoQingFriends_bg[LeftCount]:SetVisible(0)
 				end
@@ -372,7 +372,7 @@ function InitMainTeamFight_ui(wnd)
 		LeftCount = 0
 		YaoQingCount = 0
 		SelPlayerId = {}
-		XIsClearFriendsList(1)
+		XIsClearFriendsList()
 		PopFriendsUI()
 		for index,value in pairs(img_YaoQingFriends_bg) do
 			img_YaoQingFriends_bg[index]:SetVisible(0)
@@ -401,7 +401,7 @@ function InitMainTeamFight_ui(wnd)
 			if ( LeftCount > 0) then
 				-- log("\nPlayerIdlen = " .. #PlayerId)
 				-- log("\ni+Many_Equip1 = " .. i+Many_Equip1)
-				XAddYaoQingFriends( 1, PlayerId[i+Many_Equip1])
+				XAddYaoQingFriends(PlayerId[i+Many_Equip1])
 				if ( LeftCount < 6 ) then
 					img_YaoQingFriends_bg[LeftCount]:SetVisible(0)
 				end
@@ -439,7 +439,7 @@ function InitMainTeamFight_ui(wnd)
 			if ( RightCount > 0) then
 				-- log("\nSelPlayerId = " .. #SelPlayerId)
 				-- log("\ni+Many_Equip2 = " .. i+Many_Equip2)
-				XIsDelFriends( 1, SelPlayerId[i+Many_Equip2])
+				XIsDelFriends(SelPlayerId[i+Many_Equip2])
 				
 				PlayerId[#PlayerId+1] = SelPlayerId[i+Many_Equip2]
 				SelPlayerId = Vector_Remove( SelPlayerId, i+Many_Equip2)
@@ -482,7 +482,7 @@ end
 -- 弹出组队界面UI
 function PopTeamFightUI()
 	SetGameHallIsVisible(1)				--退回大厅界面
-	XGameTeamFight(1, Team_type)
+	XGameTeamFight(Team_type)
 	g_GameTeamFight_ui:SetVisible(1)
 	RightCount = 0
 	LeftCount = 0
@@ -720,7 +720,7 @@ function PopFriendsUI()
 			img_Image2:SetVisible(1)
 		end
 	else
-		XIsClearFriendsList(1)
+		XIsClearFriendsList()
 		img_FriendsYaoQing:SetVisible(1)
 		img_TeamFight_bg:SetVisible(0)
 	end
@@ -927,7 +927,7 @@ function SetTeamFightIsVisible(flag)
 		elseif flag ==0 and g_GameTeamFight_ui:IsVisible() == true then 
 			g_GameTeamFight_ui:SetVisible(0)
 			ClearGameTeamChat()
-			XQuitTeam(1)
+			XQuitTeam()
 			RightCount = 0
 			LeftCount = 0
 		end

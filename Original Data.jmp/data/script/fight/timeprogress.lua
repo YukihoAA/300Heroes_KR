@@ -7,6 +7,7 @@ local CdTime = nil
 local skilliconimage = nil
 local StrLineBlue = nil
 local strLineRed = nil
+local back = nil
 
 
 function InitTimeProgress_ui(wnd,bisopen)
@@ -16,11 +17,15 @@ function InitTimeProgress_ui(wnd,bisopen)
 end
 
 function InitTimeProgress(wnd)
-   wnd:AddImage(path_equip.."progress.png", 0, 0, 259, 26)  
+   back = wnd:AddImage(path_equip.."progress.png", 0, 0, 259, 26)  
+   back:SetTouchEnabled(0)
    strLineRed = wnd:AddImage(path_equip.."progressRed.png",0,40,259,26)
    strLineRed:SetAddImageRect(strLineRed.id, 0,40, 259*(0/1000), 26, 0,40, 259*(0/1000), 26)
+   strLineRed:SetTouchEnabled(0)
+   
    StrLineBlue = wnd:AddImage(path_equip.."progressBlue.png",0,0,259,26)
    StrLineBlue:SetAddImageRect(StrLineBlue.id, 0, 0, 259*(0/1000), 26, 0 ,0, 259*(0/1000), 26) 
+   StrLineBlue:SetTouchEnabled(0)
    SkillName = wnd:AddFont("", 12, 8, 0, 0, 259, 26, 0xc4ffff)
    CdTime = wnd:AddFont("", 12, 6, 0, 0, 245, 26, 0xc4ffff)
    wnd:SetVisible(0) 

@@ -257,7 +257,7 @@ function InitMainGame_HeroInfo(wnd)
 		btn_hideCallBK[dis].script[XE_LBUP] = function()
 			if (dis+CurShowDesignIndex-1) <= #btn_hideCallFont then
 				if btn_hideCallFont[dis+CurShowDesignIndex-1] ~= "" then
-					XClickComboBoxList(1, btn_hideCallFont[dis+CurShowDesignIndex-1])
+					XClickComboBoxList(btn_hideCallFont[dis+CurShowDesignIndex-1])
 					Font_hideCall:SetFontText(btn_hideCallFont[dis+CurShowDesignIndex-1],0xbeb5ee)
 					index_hideCall = dis
 					
@@ -357,7 +357,7 @@ function InitMainGame_HeroInfo(wnd)
 		btn_RankB:SetCheckButtonClicked(0)
 		btn_RankC:SetCheckButtonClicked(0)
 		
-		XClickPlayerInfoCheckBtn(1, 0)
+		XClickPlayerInfoCheckBtn(0)
 	end
 	
 	-- 战场战绩
@@ -369,7 +369,7 @@ function InitMainGame_HeroInfo(wnd)
 		btn_RankA:SetCheckButtonClicked(0)
 		btn_RankC:SetCheckButtonClicked(0)
 		
-		XClickPlayerInfoCheckBtn(1, 1)
+		XClickPlayerInfoCheckBtn(1)
 	end
 	
 	-- 排位战绩
@@ -381,7 +381,7 @@ function InitMainGame_HeroInfo(wnd)
 		btn_RankA:SetCheckButtonClicked(0)
 		btn_RankB:SetCheckButtonClicked(0)
 		
-		XClickPlayerInfoCheckBtn(1, 2)
+		XClickPlayerInfoCheckBtn(2)
 	end
 	
 	wnd:AddFont("对战胜率", 12, 0, 695, 510, 100, 12, 0x8b83e6)

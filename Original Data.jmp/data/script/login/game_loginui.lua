@@ -59,9 +59,10 @@ function show_login_ui(wnd,bisopen)
 
 		InitGame_FourpartUI(G_login_ui,0)
 	
+		InitGame_ChoseHeroUI(G_login_ui, 0)					--log("\nshow_login_ui33   ")-- 游戏开始界面2
 		InitGameStart_ui(G_login_ui, 0)						--log("\nshow_login_ui31   ")-- 游戏开始界面1
 		InitSummonerSkill_ui(G_login_ui, 0)					--log("\nshow_login_ui32   ")-- 召唤师技能选择
-		InitGame_ChoseHeroUI(G_login_ui, 0)					--log("\nshow_login_ui33   ")-- 游戏开始界面2
+		
 		InitGame_SkinFrame(G_login_ui, 0)					--log("\nshow_login_ui34   ")-- 皮肤选择
 		InitReadyTime_ui(G_login_ui,0)						--log("\nshow_login_ui35   ")-- 准备开始时间90秒倒计时
 		

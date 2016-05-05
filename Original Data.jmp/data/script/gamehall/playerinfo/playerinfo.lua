@@ -46,7 +46,7 @@ function InitMain_PlayerInfo(wnd)
 		XClickPlaySound(5)
 		btn_ListBK:SetPosition(135,53)
 		
-		XGamePlayerInfoIsOpen(1)
+		XGamePlayerInfoIsOpen()
 		--SetGameHeroInfoIsVisible(1)
 		SetGameHeroTalentIsVisible(0)
 		SetGameHeroSkillIsVisible(0)
@@ -170,7 +170,7 @@ function SetPlayerInfoIsVisible(flag)
 		if flag == 1 then
 			g_PlayerInfo_ui:SetVisible(1)
 			XShopUiIsClick(1, 0)
-			XGamePlayerInfoIsOpen(1)
+			XGamePlayerInfoIsOpen()
 			
 			SetGameHeroTalentIsVisible(0)
 			SetGameHeroSkillIsVisible(0)

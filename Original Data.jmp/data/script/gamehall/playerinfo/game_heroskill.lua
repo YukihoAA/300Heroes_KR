@@ -35,7 +35,7 @@ end
 function SetGameHeroSkillIsVisible(flag) 
 	if g_game_heroSkill_ui ~= nil then
 		if flag == 1 and g_game_heroSkill_ui:IsVisible() == false then
-			XGetSkillInfo(1)
+			XGetSkillInfo()
 			g_game_heroSkill_ui:SetVisible(1)
 			SetAllSpecialVisible()
 		elseif flag == 0 and g_game_heroSkill_ui:IsVisible() == true then

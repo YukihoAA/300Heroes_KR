@@ -232,7 +232,7 @@ function InitMainGameStart_ui(wnd)
 	BTN_go.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		-- XSetCurSelSkinIndex(GetClientSelSkinIndex_skinframe())
-		XGameHeroStart(1)
+		XGameHeroStart()
 	end
 	
 	--wnd:AddImage(path_start.."10_SKIN.png",130,518,128,256)

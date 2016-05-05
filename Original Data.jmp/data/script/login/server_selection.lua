@@ -364,7 +364,7 @@ function onEnter()
 		end
 		XGameSigninId(userinput.id)
 		XGameSigninPassword(passinput.id)
-		XGameSigninLoginGame(1)
+		XGameSigninLoginGame()
 	else
 		-- log("\nonEnter   0")
 	end
@@ -483,7 +483,7 @@ function GetLastChoseServer(str, cstr2, cLastSelIndex)
 	if cLastSelIndex>0 then
 		-- log("\naaaaaaaaaaaaaa1")
 		XServerListIndex(cLastSelIndex-1) -- C++索引从0开始，所以-1
-		XServerSelectionIsOpen(1)
+		XServerSelectionIsOpen()
 		
 		img_ShangCiDengLu:SetVisible(1)
 		
@@ -639,7 +639,7 @@ function CreateServerListButton(ServerListCount)
 				XClickPlaySound(5)
 				-- 通知C++选择的服务器索引
 				XServerListIndex(c-1)
-				XServerSelectionIsOpen(1)
+				XServerSelectionIsOpen()
 				
 				-- 隐藏不需要的UI
 				img_DianXinTuiJian:SetVisible(0)
@@ -830,7 +830,7 @@ function ClickServerPic_TuiJian( SelServerIndex)
 		return
 	end
 	XServerListIndex(SelServerIndex-1)
-	XServerSelectionIsOpen(1)
+	XServerSelectionIsOpen()
 	
 	-- 隐藏不需要的UI
 	img_DianXinTuiJian:SetVisible(0)
