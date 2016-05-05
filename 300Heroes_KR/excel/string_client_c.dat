@@ -536,9 +536,9 @@ B
 5
 eClient_Guild_Create_TextÇëÊäÈëĞÂ´´½¨µÄ¹«»áµÄÃû×Ö
 9
-eClient_Guild_Create_NoGold´´½¨ĞÂ¹«»áËùĞèÒªµÄ×êÊ¯²»×ã
+eClient_Guild_Create_NoGold´´½¨ĞÂ¹«»áËùĞèÒªµÄº¸¼®²»×ã
 2
-eClient_Guild_Create_Info´´½¨ĞÂ¹«»áĞèÒª100×êÊ¯
+eClient_Guild_Create_Info´´½¨ĞÂ¹«»áĞèÒª100º¸¼®
 *
 eClient_Guild_NoticeÇëÊäÈëĞÂµÄ¹«»á¹«¸æ
 9
@@ -858,9 +858,9 @@ P
 eClient_FunPetBuild
 ÕÙ»½ÊŞ·Ö½â
 1
-eGoldSaleData_String%8d½ğ/100½ğ±Ò %8d %8dĞ¡Ê±
+eGoldSaleData_String%8d½ğ/100±İÈ­ %8d %8dĞ¡Ê±
 8
-eGoldSaleNote_String %d %dĞ¡Ê± %d %d½ğ/100½ğ±Ò %dĞ¡Ê±
+eGoldSaleNote_String %d %dĞ¡Ê± %d %d½ğ/100±İÈ­ %dĞ¡Ê±
 !
 eClient_MailSender1
 ·¢¼şÈË£º%s
@@ -879,7 +879,7 @@ P
 8
  eClient_UsecrystalballMessageboxÊÇ·ñÒª¼ÇÂ¼µ±Ç°×ø±ê£¿
 "
-eClient_FunGoldConsign½ğ±Ò½»Ò×
+eClient_FunGoldConsign±İÈ­½»Ò×
 4
 &eClient_InputBox_PrivateShopChangeName
 ÊäÈëÉÌµêÃû
@@ -1134,9 +1134,9 @@ Name_shana»ş³ª
 
 
 Name_geleiGray
-
+
 
-Name_sanli¹ÌÄ«
+Name_sanli¹ÌÄ«»ç
 
 Name_heiÈæ
 
@@ -1217,8 +1217,8 @@ Name_ryuko·ù  ÄÚ
 Name_yukariÀ¯Ä«¸®
 
 Name_liangyishi½Ã  Å°
-
-Name_zekamashi½Ã¸¶
+
+Name_zekamashi½Ã¸¶Ä«Á¦
 
 	Name_jojo
 ±â¹¦ÇÑÁÒÁÒ
@@ -1227,9 +1227,8 @@ Name_ryuko·ù  ÄÚ
 
 
 Name_kyokoÄì    ÄÚ
-
-Name_sayaka
-»ç  ¾ß  Ä«
+
+Name_sayaka¹ÌÅ° »ç¾ßÄ«
 
 Name_jinmuyanÄ«³×Å°
 
@@ -1365,9 +1364,9 @@ eUI_Steps9	80 - 89¼¶
 (
 eClient_FunShowGuildListÏÔÊ¾¹«»áÁĞ±í
 /
-eGoldSale_ConSignbuy_FailedÎ¯ÍĞ½ğ±Ò½»Ò×Ê§°Ü
+eGoldSale_ConSignbuy_FailedÎ¯ÍĞ±İÈ­½»Ò×Ê§°Ü
 0
-eGoldSale_ConSignSell_FailedÎ¯ÍĞ½ğ±Ò½»Ò×Ê§°Ü
+eGoldSale_ConSignSell_FailedÎ¯ÍĞ±İÈ­½»Ò×Ê§°Ü
 
 eClient_help_new
 
@@ -1443,11 +1442,11 @@ eUI_Steps9	80 - 89¼¶
 5
 eClient_SafeChangePwd_ErrorÁ½´Î°²È«ÃÜÂëÊäÈë²»Ò»ÖÂ
 .
-eClient_Text_HourMinSec%d Ğ¡Ê± %d ·Ö %d Ãë
+eClient_Text_HourMinSec%d Ğ¡Ê± %d ·Ö %d ÃÊ
 "
-eClient_Text_MinSec%d ·Ö %d Ãë
+eClient_Text_MinSec%d ·Ö %d ÃÊ
 
-eClient_Text_Sec%d Ãë
+eClient_Text_Sec%d ÃÊ
 ;
 eExchange_RequestBestartDeal{#fff7dc7f=%s#}ÇëÇóÓëÄú½»Ò×
 -
@@ -1525,7 +1524,7 @@ eTaskType9·¨Æ÷
 
 eClient_Minute·Ö
 
-eClient_SecondÃë
+eClient_SecondÃÊ
 4
 eClient_MailDelete_MakesureÈ·¶¨ÒªÉ¾³ıÕâÒ»·âĞÅ¼ş?
 4
@@ -1545,7 +1544,7 @@ eTaskType9·¨Æ÷
 )
 eClient_MailAddressLongÊÕ¼şÈËÃû×ÖÌ«³¤
 
-eClient_Gold½ğ±Ò
+eClient_Gold±İÈ­
 
 eClient_Money½ğÇ®
  
@@ -1563,11 +1562,11 @@ eTaskType9·¨Æ÷
 !
 ePet_SHOWNAME_DropPet2¿É²¶×½2
 !
-eGoldSaleUI_BuyButton¹ºÂò½ğ±Ò
+eGoldSaleUI_BuyButton¹ºÂò±İÈ­
 "
-eGoldSaleUI_SellButton³öÊÛ½ğ±Ò
+eGoldSaleUI_SellButton³öÊÛ±İÈ­
 %
-TaskAcceptResult0½ÓÊÜÈÎÎñ[%s]³É¹¦
+TaskAcceptResult0½ÓÊÜÈÎÎñ[%s]¼º°ø
 7
 TaskAcceptResult1"ÈÎÎñÊıÁ¿ÒÑ´ïÉÏÏŞ£¬ÎŞ·¨ÔÙ½ÓÈÎÎñ[%s]
 %
@@ -1731,7 +1730,7 @@ $
 )
 eUI_Produce_AmountCntErrÉú²úÊı²»ÄÜÎª0
 1
-eUI_Relive_ReturnTime×Ô¶¯Ç°ÍùÄ¹µØ£¬Ê£Óà %d Ãë
+eUI_Relive_ReturnTime×Ô¶¯Ç°ÍùÄ¹µØ£¬Ê£Óà %d ÃÊ
  
 eTaskDoneResult0Íê³ÉÈÎÎñ[%s]
 .
@@ -1922,7 +1921,7 @@ F
 
 eClientGemFlare£¨·¢¹â£©
 E
-eUI_BagUI_ExpBag1Éı¼¶±³°üĞèÒªÏûºÄ {#ffffde00=%d#} ½ğ±Ò\nÊÇ·ñ¼ÌĞø£¿
+eUI_BagUI_ExpBag1Éı¼¶±³°üĞèÒªÏûºÄ {#ffffde00=%d#} ±İÈ­\nÊÇ·ñ¼ÌĞø£¿
 -
 eGuild_Me_ExpelÄú±»¹«»á¿ª³ıÁË£¬ÏÖÔÚÃ»¹«»á
 &
@@ -2002,9 +2001,9 @@ E
 
 	[perfect]¼«Æ·µÄ
 +
-eDoubleTime_OpenSuccessË«±¶Ê±¼ä¿ªÆô³É¹¦
+eDoubleTime_OpenSuccessË«±¶Ê±¼ä¿ªÆô¼º°ø
 ,
-eDoubleTime_CloseSuccessË«±¶Ê±¼ä¹Ø±Õ³É¹¦
+eDoubleTime_CloseSuccessË«±¶Ê±¼ä¹Ø±Õ¼º°ø
 @
 eDoubleTime_NoAddonTime%{#ffff1f0e=Ä¿Ç°ÄúÃ»ÓĞ¿ÉÓÃµÄË«±¶Ê±¼ä#}
 /
@@ -2093,11 +2092,11 @@ X
 ,
 eUIRanklist_NoRankÄúµ±Ç°ÅÅÃû£ºÎ´½øÈëÅÅÃû
 D
-eUIStorage_ExpandNeedGold'Ôö¼Ó²Ö¿âÉÏÏŞĞèÒªÏûºÄ %d ½ğ±Ò,ÊÇ·ñ¼ÌĞø£¿
+eUIStorage_ExpandNeedGold'Ôö¼Ó²Ö¿âÉÏÏŞĞèÒªÏûºÄ %d ±İÈ­,ÊÇ·ñ¼ÌĞø£¿
 
 eClient_Warnning¾¯¸æ
 7
-eUIStorage_ExpandError_NoGold½ğ±Ò²»×ã£¬ÎŞ·¨À©Õ¹²Ö¿â
+eUIStorage_ExpandError_NoGold±İÈ­²»×ã£¬ÎŞ·¨À©Õ¹²Ö¿â
 )
 eUIStorage_MaxNum²Ö¿âÒÑ¾­´ïµ½×î´óÊıÁ¿
 
@@ -2133,7 +2132,7 @@ U
 ^
 eClient_ExpelStudentNeedMoney=¿ª³ıÍ½µÜĞèÒªÄú{#ffffe400=»¨·Ñ½ğÇ®5000#}\nÄúÊÇ·ñÈ·¶¨¿ª³ıÍ½µÜ£¿
 4
-eWorldChatNeedSomethingÊÀ½çÆµµÀ·¢ÑÔĞèÒªÏûºÄ1½ğ±Ò
+eWorldChatNeedSomethingÊÀ½çÆµµÀ·¢ÑÔĞèÒªÏûºÄ1±İÈ­
 6
 eNationChatNeedSomething¹ú¼ÒÆµµÀ·¢ÑÔĞèÒªÏûºÄ1%µÄMP
 (
@@ -2181,19 +2180,19 @@ E
 )
 eBargainMapNotAllowµ±Ç°³¡¾°²»ÔÊĞí°ÚÌ¯
 A
-eGoldSaleData_ExamineString"%10s %8s %8d %8d½ğ/100½ğ±Ò %6dĞ¡Ê±
+eGoldSaleData_ExamineString"%10s %8s %8d %8d½ğ/100±İÈ­ %6dĞ¡Ê±
 ,
-eGoldSale_ConSignSell_Sucess³öÊÛ½ğ±Ò³É¹¦
+eGoldSale_ConSignSell_Sucess³öÊÛ±İÈ­¼º°ø
  
-eGoldConsignLackGold½ğ±Ò²»×ã
+eGoldConsignLackGold±İÈ­²»×ã
 !
 eGoldConsignLackMoney½ğÇ®²»×ã
 "
-eGoldConsignFailed½ğ±ÒÎ¯ÍĞÊ§°Ü
+eGoldConsignFailed±İÈ­Î¯ÍĞÊ§°Ü
 #
-eGoldConsignSucceed½ğ±Ò½»Ò×³É¹¦
+eGoldConsignSucceed±İÈ­½»Ò×¼º°ø
 (
-eGoldConsignSystem½ğ±Ò½»Ò×£¬ÏµÍ³Ô­Òò
+eGoldConsignSystem±İÈ­½»Ò×£¬ÏµÍ³Ô­Òò
 8
 "eUIMagicWeapon_YouhaveNoEquippedMWÄúÃ»ÓĞ×°±¸ÖĞµÄ·¨Æ÷
 
@@ -2319,7 +2318,7 @@ $
 D
 "eText_Server_TeamRequestOnlyHeaderÖ»ÓĞ¶Ó³¤²Å¿ÉÒÔÑûÇë±ğÈË¼ÓÈë¶ÓÎé
 .
-eText_Server_TeamJoinSuccess¼ÓÈë¶ÓÎé³É¹¦£¡
+eText_Server_TeamJoinSuccess¼ÓÈë¶ÓÎé¼º°ø£¡
 $
 eText_Server_TeamDisband¶ÓÎé½âÉ¢
 )
@@ -2339,7 +2338,7 @@ $
 9
 eText_CanNotPushItemIntoStorage²»ÄÜ°Ñ¸ÃÎïÆ··ÅÈë²Ö¿â£¡
 (
-eText_BankTradeSucceedÒøĞĞ½»Ò×³É¹¦£¡
+eText_BankTradeSucceedÒøĞĞ½»Ò×¼º°ø£¡
 1
 eText_BankTradeBankFullËù´æµÄÇ®³¬¹ıÇ®¹ñÉÏÏŞ£¡
 1
@@ -2375,7 +2374,7 @@ $
 3
 eText_DeathWaitTimeÄúÒÑ¾­ËÀÍö£¬¸´»îµ¹¼ÆÊ±»¹Ê£ÏÂ
 *
-eText_PwdResetSuceedÄúµÄÃÜÂëĞŞ¸Ä³É¹¦£¡
+eText_PwdResetSuceedÄúµÄÃÜÂëĞŞ¸Ä¼º°ø£¡
 0
 eText_PlsSetPwdFirstÇëÏÈÉèÖÃÎïÆ·µÄ¼ÓÃÜÃÜÂë£¡
 ,
@@ -2428,7 +2427,7 @@ $
 
 eSystemName_MP·¨Á¦
 
-eSystemName_SecondÃë
+eSystemName_SecondÃÊ
 *
 eText_InputItemPwdÇëÊäÈëÎïÆ·µÄ¼ÓËøÃÜÂë
 )
@@ -2444,7 +2443,7 @@ $
 '
 eText_GetGateÕıÔÚ»ñÈ¡¸ºÔØ½ÏµÍGate¡­
 5
-eText_ConnectToGate»ñÈ¡GateĞÅÏ¢³É¹¦£¬Õı×¼±¸Á¬½Ó¡­
+eText_ConnectToGate»ñÈ¡GateĞÅÏ¢¼º°ø£¬Õı×¼±¸Á¬½Ó¡­
 &
 eText_SendRightCheck·¢ËÍÑéÖ¤ÏûÏ¢¡­
 8
@@ -2475,7 +2474,7 @@ A
 /
 eText_IfAskClearPwdÄúÊÇ·ñÉêÇëÃÜÂëÇå³ı¹¦ÄÜ£¿
 J
-eText_Succ_Of_App_ClearPwd,ÉêÇë³É¹¦£¬15ÈÕºóÏµÍ³½«×Ô¶¯Çå³ıÎïÆ·µÄ¼ÓÃÜÃÜÂë
+eText_Succ_Of_App_ClearPwd,ÉêÇë¼º°ø£¬15ÈÕºóÏµÍ³½«×Ô¶¯Çå³ıÎïÆ·µÄ¼ÓÃÜÃÜÂë
 7
 eText_YouHaveAlreadyAppliedÄúÒÑ¾­ÉêÇë¹ıÃÜÂëÇå³ı¹¦ÄÜ
 5
@@ -2494,7 +2493,7 @@ J
 eText_TeamFail
 ×é¶ÓÊ§°Ü£¡
 "
-eText_TeamScuscc³É¹¦¼ÓÈë¶ÓÎé£¡
+eText_TeamScuscc¼º°ø¼ÓÈë¶ÓÎé£¡
 /
 eText_AddTeam_AskÒª¼ÓÈëÄúµÄ¶ÓÎé£¬ÄúÍ¬ÒâÂğ£¿
 /
@@ -2505,7 +2504,7 @@ J
 eExchange_UnKnown½»Ò×Ê§°Ü£¬Î´Öª´íÎó£¡
 
 eExchange_sucess
-½»Ò×³É¹¦£¡
+½»Ò×¼º°ø£¡
 
 eExchange_fail_0
 ½»Ò×Ê§°Ü£¡
@@ -2552,7 +2551,7 @@ $
 -
 eUI_Bank_LevelUp_Text_1½ğ£¬È·¶¨Éı¼¶²Ö¿â£¿
 
-eText_SecondÃë
+eText_SecondÃÊ
 *
 eText_Sell_PriceÇëÊäÈë¸ÃÎïÆ·Âô³öµÄ¼Û¸ñ
 "
@@ -2593,7 +2592,7 @@ eText_FailÊ§°Ü
 eText_Input_Cnt
 ÇëÊäÈëÊıÁ¿
 
-eText_CompSucessºÏ³É³É¹¦
+eText_CompSucessºÏ³É¼º°ø
 
 eText_CompFailºÏ³ÉÊ§°Ü
 $
@@ -2683,9 +2682,9 @@ $eText_GetItemFromOtherPlaceCostMoneyÌáÈ¡´ËÎïÆ·ĞèÖ§¸¶
 '
 eText_SelectConleModeÇëÑ¡Ôñ²Ù×÷·½Ê½
 F
-eUI_NotMemoyToRepair.¶Ô²»Æğ£¬ÄúµÄ½ğ±Ò»ò½ğÇ®²»×ã\n²»ÄÜ½øĞĞ´ËÏî²Ù×÷£¡
+eUI_NotMemoyToRepair.¶Ô²»Æğ£¬ÄúµÄ±İÈ­»ò½ğÇ®²»×ã\n²»ÄÜ½øĞĞ´ËÏî²Ù×÷£¡
 ‹
-eUI_RemoteStorageNeedMoneym¿ªÆô¸Ã¹¦ÄÜĞèÒªÏûºÄ {#ffffde00=%d#} ½ğ±Ò,ÊÇ·ñ¼ÌĞø£¿\n{#ffffde00=¿ªÆôºó¿ÉÒÔÊ¹ÓÃ 10 Ğ¡Ê±£¨ÀëÏß²»Ó°ÏìÊ¹ÓÃÊ±¼ä£©#}
+eUI_RemoteStorageNeedMoneym¿ªÆô¸Ã¹¦ÄÜĞèÒªÏûºÄ {#ffffde00=%d#} ±İÈ­,ÊÇ·ñ¼ÌĞø£¿\n{#ffffde00=¿ªÆôºó¿ÉÒÔÊ¹ÓÃ 10 Ğ¡Ê±£¨ÀëÏß²»Ó°ÏìÊ¹ÓÃÊ±¼ä£©#}
 (
 eUI_StorageNeedPswÇëÊäÈëÃÜÂë¿ªÆô²Ö¿â
 H
@@ -2765,7 +2764,7 @@ E
 A
 eClient_AddInfo_2slk_49&ÎŞ·¨ÒÆ¶¯£¬ÇëÕıÈ·»Ø´ğÑéÖ¤ÂëÍ¼Æ¬ÉÏµÄÎÄ×Ö
 #
-eClient_AddInfo_2slk_50ÑéÖ¤³É¹¦
+eClient_AddInfo_2slk_50ÑéÖ¤¼º°ø
 9
 eClient_AddInfo_2slk_51¼¸ÃëÖÓºó½«¸ü»»ÑéÖ¤Í¼Æ¬ÖØĞÂÑéÖ¤
 /
@@ -2819,7 +2818,7 @@ A
 %
 eClient_AddInfo_2slk_125	ÈÎÎñ[%s] 
 %
-eClient_AddInfo_2slk_126	%s %d Ãë 
+eClient_AddInfo_2slk_126	%s %d ÃÊ 
 1
 eClient_AddInfo_2slk_127%s ÔÚÇĞ´èÖĞÕ½Ê¤ÁË %s 
 %
@@ -2827,7 +2826,7 @@ A
 C
 eClient_AddInfo_2slk_129'ÄúÕıÔÚÀë¿ªÇĞ´èÇøÓò£¬%d ÃëºóÄú½«Êäµô±ÈÈü
 /
-eClient_AddInfo_2slk_130ÑéÖ¤Ê£ÓàÊ±¼ä %d Ãë 
+eClient_AddInfo_2slk_130ÑéÖ¤Ê£ÓàÊ±¼ä %d ÃÊ 
 )
 eClient_AddInfo_2slk_131ÑéÖ¤Ê±¼äÒÑµ½ 
 
@@ -2895,7 +2894,7 @@ k
 %
 eAttrType_ResistanceDizzy±âÀıÀúÇ×
 C
-eUI_ShopCenterSliverError&¶Ô²»Æğ£¬ÄúµÄ½ğ±Ò²»×ã\nÎŞ·¨¹ºÂò´ËÉÌÆ·£¡
+eUI_ShopCenterSliverError&¶Ô²»Æğ£¬ÄúµÄ±İÈ­²»×ã\nÎŞ·¨¹ºÂò´ËÉÌÆ·£¡
 
 eSex_Man³²
 
@@ -2904,17 +2903,17 @@ eSex_FeMan¿©
 
 eShopUI_Storage%d
 
-eShopUI_Price2%s ×êÊ¯
+eShopUI_Price2%s º¸¼®
 
 eShopUI_VIPPrice2%d ½ğ
 
-eShopUI_Price%d ½ğ±Ò
+eShopUI_Price%d ±İÈ­
 
-eShopUI_VIPPrice%d ½ğ±Ò
+eShopUI_VIPPrice%d ±İÈ­
 O
 eCostSilverToRePairItem4ÄúĞèÏûºÄ{#FFFFD940=%d #}¸ö×°±¸ĞŞÀí´¸\nÊÇ·ñĞèÒªĞŞÀí£¿
 7
-eUI_ShopCenterSliverCntÄúĞèÏûºÄ{#FFFFD940=%d #}½ğ±Ò
+eUI_ShopCenterSliverCntÄúĞèÏûºÄ{#FFFFD940=%d #}±İÈ­
 
 eClient_help_person°ïÖúÏµÍ³
 9
@@ -2973,7 +2972,7 @@ _
 C
 eClinet_Blacklist_Add_Text%{#ffa7b59e=ÇëÊäÈëÏë¼ÓÈëºÚÃûµ¥µÄÃû×Ö#}
 A
-eClient_ExpandBag_NotMoney#ÄúµÄ½ğ±Ò²»×ã£¬À©³ä±³°üĞèÒª500½ğ±Ò£¡
+eClient_ExpandBag_NotMoney#ÄúµÄ±İÈ­²»×ã£¬À©³ä±³°üĞèÒª500±İÈ­£¡
 
 eUI_OpenGetTSRool
 4
@@ -3005,7 +3004,7 @@ v
 '
 eText_ReasonAddItem8¹ºÂò»ñµÃ %s¡Á%d
 -
-eText_ReasonAddItem9Éú²ú³É¹¦£¬»ñµÃ %s¡Á%d
+eText_ReasonAddItem9Éú²ú¼º°ø£¬»ñµÃ %s¡Á%d
 $
 eText_ReasonAddItem10»ñµÃ %s¡Á%d
 
@@ -3019,7 +3018,7 @@ $
 
 eText_ReasonAddItem15
 .
-eText_ReasonAddItem16½»Ò×³É¹¦£¬»ñµÃ %s¡Á%d
+eText_ReasonAddItem16½»Ò×¼º°ø£¬»ñµÃ %s¡Á%d
 
 eText_ReasonAddItem17
 
@@ -3027,7 +3026,7 @@ $
 
 eText_ReasonAddItem19
 3
-eText_ReasonAddItem20³É¹¦½«ÕÙ»½ÊŞ·Ö½â³É %s %d¸ö
+eText_ReasonAddItem20¼º°ø½«ÕÙ»½ÊŞ·Ö½â³É %s %d¸ö
 
 eText_ReasonAddItem21
 
@@ -3043,7 +3042,7 @@ $
 &
 eText_ReasonAddItem27¹ºÂòÁË %s¡Á%d
 "
-eText_ReasonAddItem33	Êê»Ø³É¹¦!
+eText_ReasonAddItem33	Êê»Ø¼º°ø!
 
 eText_ReasonSubItem0
 
@@ -3077,7 +3076,7 @@ $
 
 eText_ReasonSubItem15
 .
-eText_ReasonSubItem16½»Ò×³É¹¦£¬Ê§È¥ %s¡Á%d
+eText_ReasonSubItem16½»Ò×¼º°ø£¬Ê§È¥ %s¡Á%d
 
 eText_ReasonSubItem17
 
@@ -3104,12 +3103,14 @@ $
 eText_ReasonSubItem28¶ªÆúÁË %s¡Á%d
 &
 eText_ReasonSubItem29ÉÏ½ÉÁË %s¡Á%d
+)
+eText_ReasonSubItem33ÏûºÄÒ»ÕÅÊê»ØÈ¯£¡
 
 eText_ReasonGetItem%s %s
 É
 eClient_NewerInGame±»¶Ó­À´µ½ÕâÀï£¬´©Ô½¶øÀ´µÄÓ¢ĞÛÓÚ´Ë´¦µ®Éú£¡ÔÚÕâÀïÄã½«¾­ÀúÎ´ÔøÓöµ½¹ıµÄ¹ÊÊÂ£¬¸ü¿ÉÔÚ´Ë½¨¹¦Á¢ÒµÃûÑïËÄ·½£¬Ï£ÍûÄãÄÜ³É¾ÍÒ»·¬ÊôÓÚÄã×Ô¼ºµÄ´«Ææ£¡\n½ÇÉ«²é¿´¡¾C¡¿\n´ò¿ª±³°ü¡¾B¡¿\nÈÎÎñ½çÃæ¡¾L¡¿
 !
-eLogin_ErrorCode0ÓÎÏ·µÇÈë³É¹¦
+eLogin_ErrorCode0ÓÎÏ·µÇÈë¼º°ø
 -
 eLogin_ErrorCode1ÄúµÄÕÊºÅ´íÎó£¬ÇëÖØĞÂÊäÈë
 -
@@ -3148,7 +3149,7 @@ w
 ‡
 eLogin_ErrorCode136p×ğ¾´µÄ300Ó¢ĞÛÓÃ»§ÄúºÃ:ÄúµÄÕËºÅÉêËßÒÑÍê³É,Çë¾¡¿ìµÇÂ½ÕËºÅÉı¼¶Ò³Ãæ½øĞĞÕËºÅÉı¼¶,Éı¼¶Íê³ÉºóÇëÓÃĞÂµÄÕËºÅÃÜÂëµÇÂ½ÓÎÏ·¡£
 (
-eUI_Mail_SendResult_TrueÓÊ¼ş·¢ËÍ³É¹¦
+eUI_Mail_SendResult_TrueÓÊ¼ş·¢ËÍ¼º°ø
 )
 eUI_Mail_SendResult_FalseÓÊ¼ş·¢ËÍÊ§°Ü
 
@@ -3160,7 +3161,7 @@ w
 #
 eUI_UseItem_YesNoÊÇ·ñÊ¹ÓÃ´ËÎïÆ·
 L
-eClient_ExitTimeInfo4ÕıÔÚ±£´æÍæ¼ÒÊı¾İ£¬ÇëÉÔºò...\n{#FFFFD940=Ê£Óà %d Ãë#}
+eClient_ExitTimeInfo4ÕıÔÚ±£´æÍæ¼ÒÊı¾İ£¬ÇëÉÔºò...\n{#FFFFD940=Ê£Óà %d ÃÊ#}
 +
 eLogin_StartConnectFailed·şÎñÆ÷Á¬½ÓÊ§°Ü
 .
@@ -3176,7 +3177,7 @@ L
 7
 eGold_SaleUI_Unit_price1{#FFFFD940=Äú½«»ñµÃ %d ½ğ#}
 ^
-eUI_RideIntensifyAskFÇ¿»¯ÏûºÄ£º{#FFFFD940=%d¸ö%s#}\n³É¹¦¼¸ÂÊ£º{#FFFFD940=%d%%#}\nÊÇ·ñ¼ÌĞø£¿
+eUI_RideIntensifyAskFÇ¿»¯ÏûºÄ£º{#FFFFD940=%d¸ö%s#}\n¼º°ø¼¸ÂÊ£º{#FFFFD940=%d%%#}\nÊÇ·ñ¼ÌĞø£¿
 %
 eProduceNoSkillÄúÃ»ÓĞÕâ¸öÉú²ú¼¼ÄÜ
 2
@@ -3198,13 +3199,13 @@ L
 6
 ui_minimap_line_infoµ±Ç°·şÎñÆ÷£º%s\nÍøÂç×´Ì¬£º%dms
 ‰
-eText_SysMail_GoldSystemBuyé½ğ±Ò½»Ò×Î¯ÍĞ-¹ºÈë½ğ±Ò\nÄúµÄ¹Òµ¥ÓÚ{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}£¬ÒÔ{#ffffd666=%d½ğ/100½ğ±Ò(µ¥ºÅ£º%d£©#}µÄ¼Û¸ñ³É¹¦¹ºÈë{#ffffd666=%d¡Á100½ğ±Ò#}£¬¹²»¨·Ñ{#ffffd666=%d½ğ#}¡£\n\n{#ffffd666=¸½¼şÄÚÈİÎª±¾´Î½»Ò×Ëù»ñµÃµÄ½ğ±Ò£¬Çë×¢ÒâÊÕÈ¡¡£#}
+eText_SysMail_GoldSystemBuyé±İÈ­½»Ò×Î¯ÍĞ-¹ºÈë±İÈ­\nÄúµÄ¹Òµ¥ÓÚ{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}£¬ÒÔ{#ffffd666=%d½ğ/100±İÈ­(µ¥ºÅ£º%d£©#}µÄ¼Û¸ñ¼º°ø¹ºÈë{#ffffd666=%d¡Á100±İÈ­#}£¬¹²»¨·Ñ{#ffffd666=%d½ğ#}¡£\n\n{#ffffd666=¸½¼şÄÚÈİÎª±¾´Î½»Ò×Ëù»ñµÃµÄ±İÈ­£¬Çë×¢ÒâÊÕÈ¡¡£#}
 Š
-eText_SysMail_GoldSystemSellé½ğ±Ò½»Ò×Î¯ÍĞ-Âô³ö½ğ±Ò\nÄúµÄ¹Òµ¥ÓÚ{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}£¬ÒÔ{#ffffd666=%d½ğ/100½ğ±Ò(µ¥ºÅ£º%d£©#}µÄ¼Û¸ñ³É¹¦Âô³ö{#ffffd666=%d¡Á100½ğ±Ò#}£¬¹²»ñµÃ{#ffffd666=%d½ğ#}¡£\n\n{#ffffd666=¸½¼şÄÚÈİÎª±¾´Î½»Ò×Ëù»ñµÃµÄ½ğÇ®£¬Çë×¢ÒâÊÕÈ¡¡£#}
+eText_SysMail_GoldSystemSellé±İÈ­½»Ò×Î¯ÍĞ-Âô³ö±İÈ­\nÄúµÄ¹Òµ¥ÓÚ{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}£¬ÒÔ{#ffffd666=%d½ğ/100±İÈ­(µ¥ºÅ£º%d£©#}µÄ¼Û¸ñ¼º°øÂô³ö{#ffffd666=%d¡Á100±İÈ­#}£¬¹²»ñµÃ{#ffffd666=%d½ğ#}¡£\n\n{#ffffd666=¸½¼şÄÚÈİÎª±¾´Î½»Ò×Ëù»ñµÃµÄ½ğÇ®£¬Çë×¢ÒâÊÕÈ¡¡£#}
 
-eText_SysMail_GoldSystemBuyExitê½ğ±Ò½»Ò×Î¯ÍĞ-ÏµÍ³ÍËµ¥\nÄúµÄ¹Òµ¥ÒÑµ½ÆÚ£¬ÏµÍ³×Ô¶¯ÍË»Ø£¬²¢½«ÄúÊ£Óà½ğ¶îÒÔ¸½¼şĞÎÊ½·µ»¹¡£\n¹ıÆÚÊ±¼ä£º{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}\nµ¥ºÅ£º{#ffffd666=%d#}\nÊ£Óà½ğ¶î£º{#ffffd666=%d½ğ#}\n\n{#ffffd666=¸½¼şÄÚÈİÎª¹Òµ¥Ê£Óà½ğ¶î£¬Çë×¢ÒâÁìÈ¡¡£#}
+eText_SysMail_GoldSystemBuyExitê±İÈ­½»Ò×Î¯ÍĞ-ÏµÍ³ÍËµ¥\nÄúµÄ¹Òµ¥ÒÑµ½ÆÚ£¬ÏµÍ³×Ô¶¯ÍË»Ø£¬²¢½«ÄúÊ£Óà½ğ¶îÒÔ¸½¼şĞÎÊ½·µ»¹¡£\n¹ıÆÚÊ±¼ä£º{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}\nµ¥ºÅ£º{#ffffd666=%d#}\nÊ£Óà½ğ¶î£º{#ffffd666=%d½ğ#}\n\n{#ffffd666=¸½¼şÄÚÈİÎª¹Òµ¥Ê£Óà½ğ¶î£¬Çë×¢ÒâÁìÈ¡¡£#}
 ’
- eText_SysMail_GoldSystemSellExití½ğ±Ò½»Ò×Î¯ÍĞ-ÏµÍ³ÍËµ¥\nÄúµÄ¹Òµ¥ÒÑµ½ÆÚ£¬ÏµÍ³×Ô¶¯ÍË»Ø£¬²¢½«ÄúÊ£Óà½ğ¶îÒÔ¸½¼şĞÎÊ½·µ»¹¡£\n¹ıÆÚÊ±¼ä£º{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}\nµ¥ºÅ£º{#ffffd666=%d#}\nÊ£Óà½ğ¶î£º{#ffffd666=%d ½ğ±Ò#}\n\n{#ffffd666=¸½¼şÄÚÈİÎª¹Òµ¥Ê£Óà½ğ¶î£¬Çë×¢ÒâÁìÈ¡¡£#}
+ eText_SysMail_GoldSystemSellExití±İÈ­½»Ò×Î¯ÍĞ-ÏµÍ³ÍËµ¥\nÄúµÄ¹Òµ¥ÒÑµ½ÆÚ£¬ÏµÍ³×Ô¶¯ÍË»Ø£¬²¢½«ÄúÊ£Óà½ğ¶îÒÔ¸½¼şĞÎÊ½·µ»¹¡£\n¹ıÆÚÊ±¼ä£º{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}\nµ¥ºÅ£º{#ffffd666=%d#}\nÊ£Óà½ğ¶î£º{#ffffd666=%d ±İÈ­#}\n\n{#ffffd666=¸½¼şÄÚÈİÎª¹Òµ¥Ê£Óà½ğ¶î£¬Çë×¢ÒâÁìÈ¡¡£#}
 D
 eUI_PrivateShop_Error0*ÇëÏÈ¹Ø±ÕÄúµÄ¸öÈËÉÌµê£¬ÔÙµ÷ÕûĞèÒª³öÊÛµÄÎïÆ·
 +
@@ -3214,11 +3215,11 @@ f
 Z
 eUI_PrivateShop_BuyPet@½«ÒÔ{#FFFFD940=%d½ğ#}µÄ¼Û¸ñ¹ºÂòÕÙ»½ÊŞ{#FFFFD940=%s#}\nÊÇ·ñ¼ÌĞø£¿
 ?
-eGoldConsignInvalidPara$½»Ò×Ê§°Ü£¬Äú¹ºÂòµÄ½ğ±ÒÊıÁ¿³¬³öÉÏÏŞ£¡
+eGoldConsignInvalidPara$½»Ò×Ê§°Ü£¬Äú¹ºÂòµÄ±İÈ­ÊıÁ¿³¬³öÉÏÏŞ£¡
 :
-eGoldSaleData_StringEx %8d %18d½ğ/100½ğ±Ò %28d %12dĞ¡Ê±
+eGoldSaleData_StringEx %8d %18d½ğ/100±İÈ­ %28d %12dĞ¡Ê±
 F
-eGoldSaleData_ExamineStringEx%%6d %10s %22d %18d½ğ/100½ğ±Ò %10dĞ¡Ê±
+eGoldSaleData_ExamineStringEx%%6d %10s %22d %18d½ğ/100±İÈ­ %10dĞ¡Ê±
 ^
  eUI_PrivateShop_BuyExclusiveItem:½«ÒÔ{#FFFFD940=%d½ğ#}µÄ¼Û¸ñ¹ºÂò{#FFFFD940=%s#}\nÊÇ·ñ¼ÌĞø£¿
 :
@@ -3329,13 +3330,13 @@ Q
 *
 eNpcShop_BagFullÄúµÄ±³°üÒÑÂú£¬ÎŞ·¨»Ø¹º
 
-eMsgResBuyResult0¹ºÂò³É¹¦
+eMsgResBuyResult0¹ºÂò¼º°ø
 
 eMsgResBuyResult1¹ºÂòÊ§°Ü
 )
-eMsgResBuyResult2ÕÙ»½Ê¦£¬ÄúµÄ×êÊ¯²»¹»
+eMsgResBuyResult2ÕÙ»½Ê¦£¬ÄúµÄº¸¼®²»¹»
 )
-eMsgResBuyResult3ÕÙ»½Ê¦£¬ÄúµÄ×êÊ¯²»¹»
+eMsgResBuyResult3ÕÙ»½Ê¦£¬ÄúµÄº¸¼®²»¹»
 '
 eMsgResBuyResult4Äú¹ºÂòµÄÉÌÆ·²»´æÔÚ
 /
@@ -3347,9 +3348,9 @@ Q
 )
 eMsgResBuyResult8ÕÙ»½Ê¦£¬ÄúµÄÔùµã²»×ã
 )
-eMsgResBuyResult9ÕÙ»½Ê¦£¬ÄúµÄ½ğ±Ò²»×ã
+eMsgResBuyResult9ÕÙ»½Ê¦£¬ÄúµÄ±İÈ­²»×ã
 *
-eMsgResBuyResult10ÕÙ»½Ê¦£¬ÄúµÄ½ğ±Ò²»×ã
+eMsgResBuyResult10ÕÙ»½Ê¦£¬ÄúµÄ±İÈ­²»×ã
 *
 eMsgResBuyResult11ÕÙ»½Ê¦£¬ÄúµÄ¹¦Ñ«²»×ã
 .
@@ -3359,11 +3360,11 @@ Q
 ,
 eMsgResBuyResult14ÒÑÓµÓĞÁËÏàÍ¬µÄÊÔÓÃ×°±¸
 "
-eMsgResBuyResult15ÁìÈ¡ÊÔÓÃ³É¹¦
+eMsgResBuyResult15ÁìÈ¡ÊÔÓÃ¼º°ø
 *
-eClient_CharAttr_GoldAddÄú»ñµÃ %s ×êÊ¯
+eClient_CharAttr_GoldAddÄú»ñµÃ %s º¸¼®
 *
-eClient_CharAttr_GoldSubÄúÏûºÄ %s ×êÊ¯
+eClient_CharAttr_GoldSubÄúÏûºÄ %s º¸¼®
 –
  eNetWorkClose_CheckVersionFailedrÓë·şÎñÆ÷°æ±¾²»Ò»ÖÂ\nÇë¸üĞÂ¿Í»§¶Ëµ½×îĞÂ°æ±¾£¬Èç¹û¸üĞÂÊ§°Ü¿ÉÒÔ³¢ÊÔĞŞ¸´¿Í»§¶Ë»òÏÂÔØ×îĞÂ¿Í»§¶Ë\n ¿Í·şµç»°:021-51312215
 !
@@ -3385,9 +3386,9 @@ Q
 /
 eGraphicCodeCheck_Answer_TimeÊ£ÓàÊ±¼ä£º%dÃë
 P
-eGoldSale_confirmNote06{#ff36db03=µ¥ºÅ:%d#}\n³öÊÛ¼Û:%d½ğ/100½ğ±Ò\n³öÊÛÊıÁ¿:%d
+eGoldSale_confirmNote06{#ff36db03=µ¥ºÅ:%d#}\n³öÊÛ¼Û:%d½ğ/100±İÈ­\n³öÊÛÊıÁ¿:%d
 P
-eGoldSale_confirmNote16{#ff36db03=µ¥ºÅ:%d#}\nÇó¹º¼Û:%d½ğ/100½ğ±Ò\nÇó¹ºÊıÁ¿:%d
+eGoldSale_confirmNote16{#ff36db03=µ¥ºÅ:%d#}\nÇó¹º¼Û:%d½ğ/100±İÈ­\nÇó¹ºÊıÁ¿:%d
 
 ui_npc_equip_bless×°±¸×£¸£
 %
@@ -3397,7 +3398,7 @@ P
 3
 eShop_SellItem!ÄúÈ·ÈÏÒª³öÊÛ {#ffffee5e=%s#} Âğ£¿
 ?
-eClient_ExitWait10Seconds"ÇëÉÔºò...\n{#FFFFD940=Ê£Óà %d Ãë#}
+eClient_ExitWait10Seconds"ÇëÉÔºò...\n{#FFFFD940=Ê£Óà %d ÃÊ#}
 -
 eEr_Skill_119Ã»ÓĞ×°±¸¶Ü£¬ÎŞ·¨Ê¹ÓÃ¶ÜÏµ¼¼ÄÜ
 4
@@ -3443,9 +3444,9 @@ K
 3
 eGoldSale_FindErrorËÑË÷µÄµ¥ºÅ²»´æÔÚ£¬ÇëÖØĞÂËÑË÷
 Q
-eDeletePlayerSuccss:½ÇÉ«É¾³ı³É¹¦\n{#ffffee5e=ÌáÊ¾£ºÔÚ7ÌìÄÚÄú¿ÉÒÔËæÊ±»Ö¸´½ÇÉ«#}
+eDeletePlayerSuccss:½ÇÉ«É¾³ı¼º°ø\n{#ffffee5e=ÌáÊ¾£ºÔÚ7ÌìÄÚÄú¿ÉÒÔËæÊ±»Ö¸´½ÇÉ«#}
 &
-eResumePlayer_Success»Ö¸´½ÇÉ«³É¹¦!
+eResumePlayer_Success»Ö¸´½ÇÉ«¼º°ø!
 #
 eResumePlayer_Fail»Ö¸´½ÇÉ«Ê§°Ü!
 m
@@ -3589,7 +3590,7 @@ $eDeletePlayerFail_eYouAreGuildMaster ¼Ò×å×å³¤ÎŞ·¨É¾³ı½ÇÉ«£¬Çë×ª½»Ö°Îñ
 “
 eClient_KillLimitFullzÎÂÜ°ÌáÊ¾£º\nÄúÒÑ½øÈëÉî¶ÈÆ£ÀÍ×´Ì¬£¬É±¹Ö½«²»ÔÙ\n»ñµÃÈÎºÎÊÕÒæ£¬Äú¿ÉÒÔÍ¨¹ı²ÎÓë»î¶¯\nÀ´»ñµÃ¸üºÃµÄÊÕÒæÒÔ¼°ÌåÑé¸ü¶àµÄÓÎ\nÏ·ÀÖÈ¤£¡
 )
-eUI_Fans_CardResMsg0¹§Ï²Äã³É¹¦¼¤»îF¿¨
+eUI_Fans_CardResMsg0¹§Ï²Äã¼º°ø¼¤»îF¿¨
 2
 eUI_Fans_CardResMsg1ÄúÊäÈëµÄ¿¨ºÅÎŞĞ§»òÒÑ±»Ê¹ÓÃ
 8
@@ -3666,7 +3667,7 @@ $
 F
 ePrivateShop_BuyItemRecord([color=ffffe096]%02d:%02d %s ¹ºÂò %s¡Á%d
 ‰
-ePrivateShop_BuyPetRecordl[color=ffffe096]%02d:%02d %s [color=fff7f764]ÒÔ [color=ffffd940]%d½ğ±Ò [color=ffffffff]µÄ¼Û¸ñ¹ºÂòÁËÕÙ»½ÊŞ %s
+ePrivateShop_BuyPetRecordl[color=ffffe096]%02d:%02d %s [color=fff7f764]ÒÔ [color=ffffd940]%d±İÈ­ [color=ffffffff]µÄ¼Û¸ñ¹ºÂòÁËÕÙ»½ÊŞ %s
 9
 eGuildLogic_ReqJoinUnion%s¼Ò×å ÇëÇó¼ÓÈëÄúµÄ¼Ò×åÍ¬ÃË£¡
 =
@@ -3717,7 +3718,7 @@ G
 4
 "eClient_MoveingOpenPlayerShopErrorÒÆ¶¯ÖĞ²»ÄÜ°ÚÌ¯
 2
-eClient_UI_NpcShopLackMedalsÄúµÄÌ½ÏÕÕß½ğ±Ò²»×ã
+eClient_UI_NpcShopLackMedalsÄúµÄÌ½ÏÕÕß±İÈ­²»×ã
 "
 eClient_ExplorerShop
 Ì½ÏÕÕßÉÌµê
@@ -3794,18 +3795,18 @@ j
 ÎŞÏ¾Ç¿»¯Ê¯
 &
 eClient_Strength_Succeed
-Ç¿»¯³É¹¦£¡
+Ç¿»¯¼º°ø£¡
 %
 eClient_Strength_Failed
 Ç¿»¯Ê§°Ü£¡
 )
 eClient_Low_Upgrade_Succeed
-Éı½×³É¹¦£¡
+Éı½×¼º°ø£¡
 (
 eClient_Low_Upgrade_Failed
 Éı½×Ê§°Ü£¡
 .
-eClient_High_Upgrade_Succeed¸ß¼¶Éı½×³É¹¦£¡
+eClient_High_Upgrade_Succeed¸ß¼¶Éı½×¼º°ø£¡
 -
 eClient_High_upgrade_Failed¸ß¼¶Éı½×Ê§°Ü£¡
 #
@@ -3933,7 +3934,7 @@ U
     ¡°Ó°ÎèÕß¡±Ç§´úºÍ¡°¼²·çÖ®ÈÌ¡±ÍûÔÂÍ¬ÊôÓÚÄÏ·½³Ç°î¹ÍÓ¶µÄÈÌÕß²¿¶Ó¡£ÍûÔÂÉÃ³¤ÒÔÈÌÊõ¸¨Öú¾ü¶Ó×÷Õ½£»¶øÇ§´úÔòÊÇ¶ÀÀ´¶ÀÍùµÄ´Ì¿Í£¬µ¶ÏÂÉÙÓĞ»î¿Ú¡£
     È»¶øËæ×ÅÕ½Õù¼Ó¾ç£¬Ç§´úÑá¾ëÁË¿´×Å×Ô¼ºµÄÈÌÕßÍ¬°ûÃÇÒ»¸ö¸öÈ¥ËÍËÀ¡£ËûÃÇÊÇÒşÃØ²¿¶Ó£¬²»ÊÜÕı¹æ¾üµÄ×ğÖØ£¬Éí»³µÄÈÌÊõÓÖÈÃÈËÎ·¾å¡£×îÖÕÇ§´ú±³ÆúÁË´å×Ó£¬³ÉÁËÌÓÈÌ¡£
 ÈÌÕßµÄÉúÃü²»ÊôÓÚ×Ô¼º£¬ÊôÓÚ´å×ÓµÄÊ×Áì¡£ÓÚÊÇÒ»Ö½¸ñÉ±ÁîÏÂ´ï£¬ÈÌÕßÃÇÄ¦È­²ÁÕÆ£¬ËæÊ±×¼±¸É±ËÀÕâÎ»ÉùÃûÏÔºÕµÄÇ°±²¡£
-    È»¶øÆù½ñÎªÖ¹´ÓÎ´ÓĞÈË³É¹¦¹ı¡£ÈÎºÎ½Ó½üÇ§´úµÄµĞÈË£¬¶¼ËÀÔÚÁËËı÷ÈÓ°°ãµÄÉí·¨ÏÂ¡£ÁÙËÀÇ°£¬ËûÃÇÑÛÖĞµ¹Ó³×ÅÇ§´úÆáºÚµÄÓ°×Ó¡£
+    È»¶øÆù½ñÎªÖ¹´ÓÎ´ÓĞÈË¼º°ø¹ı¡£ÈÎºÎ½Ó½üÇ§´úµÄµĞÈË£¬¶¼ËÀÔÚÁËËı÷ÈÓ°°ãµÄÉí·¨ÏÂ¡£ÁÙËÀÇ°£¬ËûÃÇÑÛÖĞµ¹Ó³×ÅÇ§´úÆáºÚµÄÓ°×Ó¡£
 
 eProfessionIdx_kalasi„    ·ç£¬½«Õ½ÕùÑªĞÈµÄÆøÏ¢´µÉÏÁË±±·½¸ßÔ­¡£
     Õâ¹ÉÆøÎ¶ÈÃ¿¨À­Ë¹Ôê¶¯²»°²¡£¼¸¸öÔÂÇ°£¬ËûÊÔÍ¼ÌôÕ½²¿ÂäÇõ³¤µÄÎ»ÖÃ¡£×÷ÎªÉÏÈÎÇõ³¤µÄ¶ù×Ó£¬¿ñÕ½Ê¿ÑªÂöµÄ¼Ì³ĞÕß£¬¿¨À­Ë¹ÈÏÎª×Ô¼ºÀíÓ¦µÇÉÏÇõ³¤µÄ±¦×ù¡£
@@ -4002,7 +4003,7 @@ U
     ÔÚËıµÄÅĞ¾öÊéÉÏĞ´×Å£ºÒòÎªÈÃÓ¢ĞÛ¹ıÓÚÆµ·±µØËÀÍö£¬ÌØÅĞ¾ö°ş¶áÑÅµäÄÈÕÙ»½Ê¦Éí·İ£¬½øÈëÓ¢ĞÛÖ®ÁĞ£¬ÔÚÃ¿Ìì±»É±¼¸°ÙÍò´ÎµÄ¼å°¾ÖĞÎª×Ô¼ºµÄ¶ñÁÓĞĞÎªÊê×ï£¡
 ‡
 eProfessionIdx_shilaikeë    Ëæ×Å°¢·²ÌáµÄÃûÆøÔ½À´Ô½´ó£¬·ÛË¿ÃÇÈÃËûµÄÉú»îÈÕ½¥À«´ÂÁËÆğÀ´£¬ËûµÄÂ¿×Ó»ï°éÖğ½¥±»ËûËùÊèÔ¶£¬°¢·²ÌáÒ»ÃÅĞÄË¼Ïë×ÅÈçºÎË¦µôÕâÍ·ÀÏÂ¿×Ó²¢ÓÃËüÔÙ×¬ÉÏÒ»±Ê¡£
-    Ö±µ½Ä³ÌìËûÏëµ½ÁËÒ»¸ö¾øÃîµÄ¼Æ»®£¬Ëû»Ñ³ÆÕâÊÇÍ·¿ÉÒÔÀ­½ğ±ÒµÄÂ¿×Ó£¬²¢Ç£×ÅÂ¿×ÓÕÒµ½ÁËÌìÕæÀÃÂşµÄ°ÍÒÀÀÏÒ¯£¬Ëµ·şËûÓÃÈ«²¿µÄ²Æ²ú»»È¡ÁËÕâÍ·Â¿×Ó£¬´Ó´ËÒÔºó¡­¡­°¢·²Ìá³ÉÁË²ÆÖ÷ÀÏÒ¯£¬¶ø°ÍÒÀÀÏÒ¯Ôò±äµÃÒ»ÎŞËùÓĞ¡ª¡ª³ıÁËÄÇÍ·Â¿×Ó¡£
+    Ö±µ½Ä³ÌìËûÏëµ½ÁËÒ»¸ö¾øÃîµÄ¼Æ»®£¬Ëû»Ñ³ÆÕâÊÇÍ·¿ÉÒÔÀ­±İÈ­µÄÂ¿×Ó£¬²¢Ç£×ÅÂ¿×ÓÕÒµ½ÁËÌìÕæÀÃÂşµÄ°ÍÒÀÀÏÒ¯£¬Ëµ·şËûÓÃÈ«²¿µÄ²Æ²ú»»È¡ÁËÕâÍ·Â¿×Ó£¬´Ó´ËÒÔºó¡­¡­°¢·²Ìá³ÉÁË²ÆÖ÷ÀÏÒ¯£¬¶ø°ÍÒÀÀÏÒ¯Ôò±äµÃÒ»ÎŞËùÓĞ¡ª¡ª³ıÁËÄÇÍ·Â¿×Ó¡£
     ¾ÍÔÚËû¾õµÃÇ°Í¾Ò»Æ¬»Ò°µµÄÊ±ºò£¬ÕâÍ·Â¿×Ó¾ÓÈ»¿ª¿ÚËµ»°ÁË£º¡°Ç×°®µÄÅóÓÑ£¬Çë²»Òª±¯ÉË£¬ÎÒ²¢²»ÊÇÒ»Í·Â¿×Ó£¬ÎÒÊÇÈûÂ×¸ÇµØµÄ°ßÂíÍõ×Ó¡ª¡ª°Â°ßÂí£¡ÎÒÔøÔÚÂí´ï¼ÓË¹¼Ó±íÑİ¹ı£¬ÓµÓĞÖÚ¶àµÄ·ÛË¿£¬Èç¹ûÄãÄÜ°ïÖúÎÒ»Øµ½Å¦Ô¼£¬ÎÒ»á¸øÄãºÜ¶àºÜ¶àµÄ²Æ±¦£¬ÃÀ½ğ£¡Äã¶®Ã´£¿¡±
     ÌìÕæÀÃÂşµÄ°ÍÒÀÀÏÒ¯ÓÖÏàĞÅÁËÂ¿×ÓµÄ»°£¬Å¶£¬ÊÇ°Â°ßÂíµÄ»°¡­¡­ÓÚÊÇËûÃÇÉÏÂ·ÁË£¬¾­ÀúÁËÎŞÊıµÄ¹ÊÊÂ£¬¿ÉÒÔ½²ÕûÕûÒ»Ç§ÁãÒ»Ò¹£¬×îÖÕ×ß½øÁËÒ»¸ö½Ğ×öÓÀºãÖ®µØµÄ´«Ëµ£¡
 Ã
@@ -4112,15 +4113,15 @@ U
     Ö±µ½À´µ½°µÒ¹¾«ÁéµÄÁìµØ£¬ÊìÏ¤µÄÀ¥ÑÅÓïÍ¸Â¶³öµÄÑá¶ñÓë¿Ö¾åÈÃËû²»ÖªËù´ë£¬µ«ËûÕÒµ½ÁËËıµÄ´æÔÚ¡ª¡ªÄÇ¸öÆï×Å°×»¢µÄÅ®ÈË¡£
     ×·Ëæ×ÅËıµÄÄÜÁ¿¹ì¼££¬ËûÆÆ¿ªĞé¿Õ£¬À´µ½ÁËÓÀºãÖ®µØ£¬ËûÖªµÀ£¬ÄÇ¸öÅ®ÈËÒ»¶¨°ïËûÕÒ»Ø×Ô¼º£¡
 û
-eProfessionIdx_tongrenà    ÆäÊµÔÚ¡¶300Ó¢ĞÛ¡··â²âµÄÄÇÒ»Ìì£¬Í©ÈËÒÑ¾­µÇ³¡¹ıÁË£¬²¢³É¹¦´ò°ÜÁËµ±³õ³Æ°ÔÓÀºãÖ®µØµÄËùÓĞÓ¢ĞÛ¡£×îÖÕÊ¹ÖÆ×÷×é¾ö¶¨ÍÆ·­Ô­ÓĞµÄMMORPGÊÀ½ç£¬²¢°ÑÓÎÏ·ÖØËÜÎªMOBAÊÀ½ç¡£
+eProfessionIdx_tongrenà    ÆäÊµÔÚ¡¶300Ó¢ĞÛ¡··â²âµÄÄÇÒ»Ìì£¬Í©ÈËÒÑ¾­µÇ³¡¹ıÁË£¬²¢¼º°ø´ò°ÜÁËµ±³õ³Æ°ÔÓÀºãÖ®µØµÄËùÓĞÓ¢ĞÛ¡£×îÖÕÊ¹ÖÆ×÷×é¾ö¶¨ÍÆ·­Ô­ÓĞµÄMMORPGÊÀ½ç£¬²¢°ÑÓÎÏ·ÖØËÜÎªMOBAÊÀ½ç¡£
     Ã÷ÈÕÄÎ±»GM°ó¼ÜÈëÓÀºãÖ®µØºó£¬Í©ÈËÒ»ÎŞ·´¹ËµØ´³ÈëÁËÓÀºãÖ®µØ£»Í©ÈËÀûÓÃµ±³õ·â²âµÄ¾­ÑéÔÚÓÀºãÖ®µØ´óÕ¹ÉíÊÖ¡£
-    ÎªÁË°ÑÃ÷ÈÕÄÎ´ÓÕÙ»½Ê¦ÊÖÖĞ¾È³öÀ´£¬Í©ÈËµÄÄ¿±êÊÇ´òµ¹ÓÎÏ·µÄ×îÖÕGM£¬²¢³É¹¦¶áÈ¡ÓÎÏ·µÄ¿ØÖÆÈ¨¡£
+    ÎªÁË°ÑÃ÷ÈÕÄÎ´ÓÕÙ»½Ê¦ÊÖÖĞ¾È³öÀ´£¬Í©ÈËµÄÄ¿±êÊÇ´òµ¹ÓÎÏ·µÄ×îÖÕGM£¬²¢¼º°ø¶áÈ¡ÓÎÏ·µÄ¿ØÖÆÈ¨¡£
 
 ¬
 eProfessionIdx_yubanmeiqin    ÓùÛàÃÀÇÙµÄ³¬ÄÜÁ¦´ïµ½level6Ê±£¬³¬µç´ÅÅÚ²úÉúµÄ¾Ş´óÄÜÁ¿½«»áÅ¤ÇúÊ±¿Õ¡£ÔÚÒ»´ÎÅ¼È»µÄ»úÓöÖĞ£¬³¬µç´ÅÅÚÅ¤ÇúÁËÊ±¿Õ´ò¿ªÁËÍ¨ÍùÓÀºãÖ®µØµÄµÀÂ·£»¶øºÚ×ÓÈ´ÔÚÒ»±ß»ÃÏë×ÅºÍ½ã½ã´óÈËµÄË½±¼µÄÂÃÍ¾£¬µ±Ëı¿´µ½Å¤ÇúÊ±¿ÕÀïµÄÓÀºãÖ®µØÉÏÑİ×Å¼¤Çé´óÂÒ¶·Ê±£¬ºÚ×ÓÁé»úÒ»¶¯£¬È»ºó±§ÆğÃÀÇÙË²¼äÒÆ¶¯ÁË½øÈ¥¡£
 
 –
-eProfessionIdx_inoriı  ÔÚÓ£Âú¼¯µÄÆµ·±ĞÔÉ§ÈÅÏÂ£¬Òş²ØÔÚ˜GÆíÄÚĞÄÉî´¦µÄÕæÃûÖÕÓÚµ½´ïÁËËıÈÌÄÍµÄÁÙ½çµã£¬ÔÚÓëÓ£Âú¼¯Ïà¼ûµÄĞÅÄîÏÂ£¬ÖÕÓÚÕ½Ê¤ÁË˜GÆí£¬¾õĞÑºóµÄÕæÃûÈ´·¢ÏÖÁËÓ£Âú¼¯µÄ±³ÅÑ£¬Ó£Âú¼¯µÄÈÕ³£ÎŞÁ¼ĞĞÎªÒıÆğÁËÕæÃûµÄ´×Òâ£¬¾öĞÄ³¹µ×¾»»¯Õâ¸öÊÀ½ç£¬ÓÚÊÇÒı·¢ÁËÊ§ÂäµÄÊ¥µ®ÊÂ¼ş¡£½á¾Ö˜GÆí³É¹¦µÄÒÖÖÆÁËÕæÃûµÄ±©×ß£¬µ«˜GÆíµÄ¸èÉùÈ´´òÆÆÁËÊ±¿Õ´«µİµ½ÁËÓÀºãÖ®µØ£¬ÎªÁË·ÀÖ¹ÕæÃûÔÙ´ÎËÕĞÑ´øÀ´µÄÔÖÄÑ£¬˜GÆí¾öÒâ¸æ±ğÓ£Âú¼¯À´µ½ÓÀºãÖ®µØÑ°ÇóĞÂÉú.
+eProfessionIdx_inoriı  ÔÚÓ£Âú¼¯µÄÆµ·±ĞÔÉ§ÈÅÏÂ£¬Òş²ØÔÚ˜GÆíÄÚĞÄÉî´¦µÄÕæÃûÖÕÓÚµ½´ïÁËËıÈÌÄÍµÄÁÙ½çµã£¬ÔÚÓëÓ£Âú¼¯Ïà¼ûµÄĞÅÄîÏÂ£¬ÖÕÓÚÕ½Ê¤ÁË˜GÆí£¬¾õĞÑºóµÄÕæÃûÈ´·¢ÏÖÁËÓ£Âú¼¯µÄ±³ÅÑ£¬Ó£Âú¼¯µÄÈÕ³£ÎŞÁ¼ĞĞÎªÒıÆğÁËÕæÃûµÄ´×Òâ£¬¾öĞÄ³¹µ×¾»»¯Õâ¸öÊÀ½ç£¬ÓÚÊÇÒı·¢ÁËÊ§ÂäµÄÊ¥µ®ÊÂ¼ş¡£½á¾Ö˜GÆí¼º°øµÄÒÖÖÆÁËÕæÃûµÄ±©×ß£¬µ«˜GÆíµÄ¸èÉùÈ´´òÆÆÁËÊ±¿Õ´«µİµ½ÁËÓÀºãÖ®µØ£¬ÎªÁË·ÀÖ¹ÕæÃûÔÙ´ÎËÕĞÑ´øÀ´µÄÔÖÄÑ£¬˜GÆí¾öÒâ¸æ±ğÓ£Âú¼¯À´µ½ÓÀºãÖ®µØÑ°ÇóĞÂÉú.
 ™
 eProfessionIdx_shana€    ÏÄÄÈºÍÓÆ¶şĞÒ¸£µØÉú»îÔÚÒ»ÆğÒÔºó£¬ÎŞÁÄ»éºóÉú»îÈÃÏÄÄÈ¼ÅÄ¯ÄÑÄÍ¡£ÎªÁËÊµ(xun)ÏÖ(zhao)×Ô(ci)ÎÒ(ji)£¬ÏÄÄÈÇĞ¿ªÁËÊ±¿ÕÖ®ÃÅ£¬À´µ½ÁËÓÀºãÖ®µØ¡£ÔÚºÍÓÀºãÖ®µØµÄ¸÷ÖÖµĞÈËÕ½¶·ÖĞ£¬ÏÄÄÈ²»¶ÏµØÌá(diu)Éı(diao)×Å×Ô¼ºµÄ¾õ£¨jie£©Îò(cao)£¬ÎªÁË³ÉÎªÕæÕıµÄºì£¨ao£©ÊÀ(jiao)Ö®Íõ¶øÅ¬Á¦¡£
 š
@@ -4155,7 +4156,7 @@ U
 eProfessionIdx_QueenOfVanpireÖ    ¼§Ë¿Ğãß¯ËÍ×ßÁËÈÌÒ°ÈÌºÍ°¢Á¼Á¼Ä¾ÀúÖ®ºó£¬¿ªÆôÁËĞÂµÄÊÀ½çÏß¡£Ëı¿´µ½ÁíÒ»¸öÊÀ½çµÄ×Ô¼ºÄÜ¹»»ñµÃĞÒ¸££¬¼§Ë¿Ğãß¯¾ö¶¨Ò²½øĞĞ¼¸´ÎÊ±¼äÂÃĞĞ£¬¿´¿´ÊÇ·ñÄÜ¹»Îª×Ô¼ºÕÒµ½ĞÒ¸£¡£È»¶øÔÚ¶à¸öÊ±¿ÕÖĞ£¬ÊÀ½ç±»Ëı·´¸´»ÙÃğ£¬ËıÊ¼ÖÕÎŞ·¨ÕÒµ½ËıËùÏ£ÍûµÄĞÒ¸£¡£ÔÚÒ»´ÎÊ±¼äÂÃĞĞÖĞ£¬ËıÅ¼È»´©Ô½µ½ÁËÓÀºãÖ®µØ£¬Õâ´ÎËı·¢ÏÖ×Ô¼ºÎŞ·¨»ÙÃğÊÀ½çÁË¡£ËıÖÕÓÚÕÒµ½ÁËÏëÒªµÄĞÒ¸£¡ª¡ªÎŞÇîÎŞ¾¡µÄÕ½¶·ÓëÏÊÑª¡£
 ‘
 eProfessionIdx_kamiù    ÎªÁËÄÜ¹»ÈÃÊÀ½çÉÏËùÓĞÖµµÃÆÚ´ıµÄ¶ş´ÎÔªÃÀÅ®ĞÄ¸ÊÇéÔ¸µØ¼ÓÈë300Ó¢ĞÛ£¬ÖÆ×÷×éÖÆ¶©ÁËÒ»¸ö¡°ÉñÖ®¹¥ÂÔ¡±¼Æ»®£¬Ö¼ÔÚÌôÑ¡Ò»Î»¶ÔÅ®ĞÔÓµÓĞ¾Ş´óÎüÒıÁ¦µÄÈË£¬ÈÃËûÍ¨¹ı¶¯Ö®ÒÔÇé£¬ÏşÖ®ÒÔÀíµÄ·½Ê½£¬È¥Ëµ·şÄÇĞ©¶ÔÒìÊÀ½ç±§ÓĞ¿Ö¾å¸ĞµÄ¶ş´ÎÔªÃÀÅ®¼ÓÈëÓÀºãÖ®µØ¡­¡­×îÖÕ£¬Ò»Ãû¸ßÖĞÉúÒÔÎŞ¿ÉÆ¥µĞµÄ¾Ş´óÓÅÊÆ»÷°ÜÁËÆäËû¾ºÕù¶ÔÊÖ£¬³ÉÎªÁËÖÆ×÷×éµÄ×î¼ÑÈËÑ¡£¬ËûµÄÃû×Ö½Ğ£º¹ğÄ¾¹ğÂí¡£
-    Ò»Ãû´úºÅÎªelo250µÄ¹¤×÷ÈËÔ±£¬´øÉÏÁË´óÁ¿·ÊÔíÇ°ÍùÈÕ±¾£¬²¢ÔÚXX¸ßÖĞÅÔ±ßµÄĞ¡ÂÃ¹İÓë¸ßÖĞÉú¹ğÄ¾¹ğÂí½øĞĞÁËÒ»¶Î³¤Ì¸£¬³É¹¦Ëµ·ş¹ğÄ¾¹ğÂí¼ÓÈë300ÖÆ×÷×é£¬µ£ÈÎÊ×Ï¯ÁÔÍ·¹ËÎÊ£¬¸ºÔğÉñÖ®¹¥ÂÔ¼Æ»®£¬´ÓÊÂÕë¶Ô¸ß¶Ë¶ş´ÎÔªÃÀÅ®µÄÍÚ½Ç¹¤×÷¡£
+    Ò»Ãû´úºÅÎªelo250µÄ¹¤×÷ÈËÔ±£¬´øÉÏÁË´óÁ¿·ÊÔíÇ°ÍùÈÕ±¾£¬²¢ÔÚXX¸ßÖĞÅÔ±ßµÄĞ¡ÂÃ¹İÓë¸ßÖĞÉú¹ğÄ¾¹ğÂí½øĞĞÁËÒ»¶Î³¤Ì¸£¬¼º°øËµ·ş¹ğÄ¾¹ğÂí¼ÓÈë300ÖÆ×÷×é£¬µ£ÈÎÊ×Ï¯ÁÔÍ·¹ËÎÊ£¬¸ºÔğÉñÖ®¹¥ÂÔ¼Æ»®£¬´ÓÊÂÕë¶Ô¸ß¶Ë¶ş´ÎÔªÃÀÅ®µÄÍÚ½Ç¹¤×÷¡£
     ÔÚ¹¤×÷µÄÏĞÏ¾Ê±¼ä£¬ÕâÎ»ÉñÖ®¹¥ÂÔµÄ¸ºÔğÈËÒ²»á½øÈëÓÎÏ·ÖĞ°çÑİÒ»ÏÂÓ¢ĞÛ£¬ÔÚÕ½¶·ÖĞ½ü¾àÀë¹Û²ì¶ş´ÎÔªÃÀÅ®ÃÇµÄ±íÏÖ£¬ÑĞ¾¿ËıÃÇµÄĞÔ¸ñ£¬Êµ¼ù¹¥ÂÔ¼¼ÇÉ£¬²¢×îÖÕÓ¦ÓÃÓÚÊµ¼ù£¬Ô´Ô´²»¶ÏµØ½«×î¶¥¼âµÄ¶ş´ÎÔªÃÀÅ®ÍÚ£¨guai£©½Ç£¨dai£©ÖÁ300Ó¢ĞÛ¡£
 
 ƒ
@@ -4201,7 +4202,7 @@ U
 š	
 eProfessionIdx_buzhihuowuü    Ä³ÌìÒ»Ôç£¬Éñ´óÈËÕıÒª³öÃÅ¾ÙĞĞÑŞÓö½ÌÊ¦µÄµÚÈıÊ®¶ş³¡Ñİ½²£¬µ«¸ÕÒ»ÍÆ¿ª¼ÒÃÅ£¬¾ÍÁ¢¿Ì±»ÑÛÇ°µÄÇéĞÎ¾ª´ôÁË¡ª¡ªµØÉÏ°ÚÂúÁË¸÷ÖÖ¹ıÆøµÄ±¾×Ó¡¢Ö»Ê£ÄÚÒÂµÄÊÖ°ì¡¢²¼Âú¸÷ÖÖ°ß×Õ£¨ÊÇ¿ÚË®°É£¬Ò»¶¨ÊÇ¿ÚË®°É£©µÄ¶ş´ÎÔªÃÀÅ®±§Õí¡­¡­
     ¡°Éñ´óÈË£¬Èç¹ûÄãÄÜ¸É³ÉÕâÒ»Æ±µÄ»°£¬ÕâĞ©¡­¡­¶¼ÊÇÄãµÄ£¬Å¶ºÇºÇºÇ¡±
-    Ò»ÉùÒùĞ¦½«ÕıÔÚ·çÖĞÁèÂÒµÄ¹ğÄ¾¹ğÂíÀ­»ØÁËÏÖÊµ£¬ËûÈÏ³öÁËÕâ¸ö¼Ò»ï£ºµÚÒ»¸öÊ¹ÓÃÑÇË¹ÄÈÊ¤ÀûÒ»ÍòÅÌ³É¹¦±§µÃ°×¸»ÃÀµÄ¿ª·¢×é³ÉÔ±£¬¶øËûµÄÉíºó£¬ÊÇËÄ°Ù¶à¸öº£´óÒ¯¡£
+    Ò»ÉùÒùĞ¦½«ÕıÔÚ·çÖĞÁèÂÒµÄ¹ğÄ¾¹ğÂíÀ­»ØÁËÏÖÊµ£¬ËûÈÏ³öÁËÕâ¸ö¼Ò»ï£ºµÚÒ»¸öÊ¹ÓÃÑÇË¹ÄÈÊ¤ÀûÒ»ÍòÅÌ¼º°ø±§µÃ°×¸»ÃÀµÄ¿ª·¢×é³ÉÔ±£¬¶øËûµÄÉíºó£¬ÊÇËÄ°Ù¶à¸öº£´óÒ¯¡£
     ¡°ÄÉÄá£¿Ê²Ã´ºÍÉñÂí°¡£¬ÄãÄÜËµÇå³şµãÂğ£¬·Ùµ­£¡¡±
     ¡°ÊÇÕâÑùµÄ£¬×Ô´ÓÉÏ´Î¿ª·¢×éÖÒÊµµÄĞ¡»ï°é¿ì²¥·¨Ê¦·ÖÏíÁËÒ»¸öÒÔ²»Öª»ğÎèÎªÖ÷½ÇµÄ¶¯»­Ö®ºó£¬¿ª·¢×éÀïÄÇĞ©¿É°®µÄÄĞº¢×ÓÃÇ¾ÍÒ»Ö±ÄîÄî²»Íü£¬ÏÖÔÚËûÃÇÖÕÓÚ°Ñ³Ö²»×¡ÁË£¬ÓÚÊÇ¾ÍÈÃÎÒ³öÃæÀ´ÕÒÄãÉÌÁ¿Ò»ÏÂ£¬ÄÜ²»ÄÜ°Ñ»ğÎè¹¥ÂÔµ½ÓÀºãÖ®µØÀ´£¿¡±¡ª¡ªÄÇ¸ö¼Ò»ïÈçÊÇ¡£
     ¡°ÕâÑù°¡£¬ÈÃÎÒÏëÏë¡±
@@ -4572,7 +4573,7 @@ w
 K
 eClient_IsEquipInlayGem0ÊÇ·ñÈ·¶¨½«{#ff00ff00=%s#}ÏâÇ¶µ½{#ff00ff00=%s#}ÉÏ
 %
-eClient_InlayGemSuccessedÏâÇ¶³É¹¦
+eClient_InlayGemSuccessedÏâÇ¶¼º°ø
 3
 eClient_NoneIntroduce¸ÃÖ°Òµ»¹Î´¿ª·Å£¬¾´ÇëÆÚ´ı¡£
 $
@@ -4640,7 +4641,7 @@ $
 %
 NotHaveFlowerItemÄúÃ»ÓĞµÀ¾ß[ÏÊ»¨]
 +
-eGuild_Build_LvUp_Success¡¾%s¡¿Éı¼¶³É¹¦
+eGuild_Build_LvUp_Success¡¾%s¡¿Éı¼¶¼º°ø
 '
 eClient_GuildDomain_BidÊäÈëÁîÅÆÊıÁ¿
 .
@@ -4845,7 +4846,7 @@ D
 #
 eClient_JumpHeroDisActiveÎ´¼¤»î
 *
-eClient_LearnSkill_Success¼¼ÄÜÉı¼¶³É¹¦
+eClient_LearnSkill_Success¼¼ÄÜÉı¼¶¼º°ø
 0
 eUI_DuplicateNewbieTransformµã»÷Í·ÏñÇĞ»»Ó¢ĞÛ
 6
@@ -4869,7 +4870,7 @@ D
  
 ui_shop_tipÉÌµê£¬¿ì½İ¼ü¡¾P¡¿
 '
-eUseItemSuccess¡¾%s¡¿ÒÑ¾­Ê¹ÓÃ³É¹¦£¡
+eUseItemSuccess¡¾%s¡¿ÒÑ¾­Ê¹ÓÃ¼º°ø£¡
 (
 eClient_KeySet_CancleKey¼üÎ»%sÒÑÈ¡Ïû
 +
@@ -4913,11 +4914,11 @@ M
 E
 eClinet_ShopCenterTypeInfo_Hero"¹ºÂòµÄÓ¢ĞÛ¿ÉÒÔÔÚ¾º¼¼³¡ºÍÕ½³¡ÖĞÊ¹ÓÃ
 >
-eClient_ItemExpiryDate$ÓĞĞ§ÆÚÎª %d Ìì %d Ğ¡Ê± %d ·ÖÖÓ %d Ãë
+eClient_ItemExpiryDate$ÓĞĞ§ÆÚÎª %d Ìì %d Ğ¡Ê± %d ·ÖÖÓ %d ÃÊ
 1
 eClient_ItemPassExpiryDateÓĞĞ§ÆÚÒÑ¹ı,¼´½«Ïú»Ù
 A
-eClient_AlchemyExpiryDate$ÓĞĞ§ÆÚÎª %d Ìì %d Ğ¡Ê± %d ·ÖÖÓ %d Ãë
+eClient_AlchemyExpiryDate$ÓĞĞ§ÆÚÎª %d Ìì %d Ğ¡Ê± %d ·ÖÖÓ %d ÃÊ
 4
 eClient_AlchemyPassExpiryDateÓĞĞ§ÆÚÒÑ¹ı,¼´½«ÏûÊ§
 A
@@ -5207,15 +5208,15 @@ $
 eClient_SumNeedExpend
 ¹²ĞèÒªÏûºÄ
 
-eClient_EquipUpGoldOr½ğ±Ò»ò
+eClient_EquipUpGoldOr±İÈ­»ò
 
-eClient_PointVolume×êÊ¯
+eClient_PointVolumeº¸¼®
 :
-eClient_NotEnoughGold!ÄúÃ»ÓĞ×ã¹»µÄ½ğ±Ò,ÊÇ·ñÊ¹ÓÃ×êÊ¯Éı¼¶
+eClient_NotEnoughGold!ÄúÃ»ÓĞ×ã¹»µÄ±İÈ­,ÊÇ·ñÊ¹ÓÃº¸¼®Éı¼¶
 I
-eClient_NotEnoughMoney/ÄúÃ»ÓĞ×ã¹»µÄ×êÊ¯,Äã¿ÉÒÔÍ¨¹ı½ğ±ÒÉı¼¶»òÕßÁ¢¼´³äÖµ
+eClient_NotEnoughMoney/ÄúÃ»ÓĞ×ã¹»µÄº¸¼®,Äã¿ÉÒÔÍ¨¹ı±İÈ­Éı¼¶»òÕßÁ¢¼´³äÖµ
 D
-eClient_NotEnoughMoneyAndGold#ÄúÃ»ÓĞ×ã¹»µÄ½ğ±ÒºÍ×êÊ¯,ÊÇ·ñÁ¢¼´³äÖµ
+eClient_NotEnoughMoneyAndGold#ÄúÃ»ÓĞ×ã¹»µÄ±İÈ­ºÍº¸¼®,ÊÇ·ñÁ¢¼´³äÖµ
  
 eClient_SkillName¼¼ÄÜÃû  :  
 !
@@ -5224,7 +5225,7 @@ D
 eClient_SkillCDTime
   ÀäÈ´Ê±¼ä
 +
-eClient_EquipUpgradeSucceed×°±¸Éı¼¶³É¹¦
+eClient_EquipUpgradeSucceed×°±¸Éı¼¶¼º°ø
  
 eClient_eErrorUnknowÎ´Öª´íÎó
 )
@@ -5237,9 +5238,9 @@ D
 -
 eClient_eErrorSkillNotFound×°±¸¼¼ÄÜÎ´ÕÒµ½
 ,
-eClient_eErrorNotEnoughMoneyÉı¼¶½ğ±Ò²»¹»
+eClient_eErrorNotEnoughMoneyÉı¼¶±İÈ­²»¹»
 +
-eClient_eErrorNotEnoughGoldÉı¼¶×êÊ¯²»¹»
+eClient_eErrorNotEnoughGoldÉı¼¶º¸¼®²»¹»
 .
 eClient_eErrorNotEnoughExploitÉı¼¶¹¦Ñ«²»¹»
 7
@@ -5406,23 +5407,23 @@ $
 î
 eClinet_fastkeyuseexplainĞ¿ì½İ¼ü¶¨Òå ¿ÉÓÃµ½µÄ¼üÅÌµÄ°´¼ü xml¿ÉÓÃ[mouseleft] [mouseright] [backspace] [tab] [enter] [shift] [ctrl] [alt] [pause] [capslock] [esc] [space] [pageup][pagedown] [end] [home] [left] [up] [right] [down] [insert] [delete] [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [a] [b] [c] [d] [e] [f] [g] [h] [i] [j] [k] [l] [m] [n] [o] [p] [q] [r] [s] [t] [u] [v] [w] [x] [y] [z] [numeric0] [numeric1] [numeric2] [numeric3] [numeric4] [numeric5] [numeric6] [numeric7] [numeric8] [numeric9] [numeric*] [numeric+] [numeric-] [numeric/] [numeric.] [f1] [f2] [f3] [f4] [f5] [f6] [f7] [f8] [f9] [f10] [f11] [f12] [numlock] [leftshift] [rightshift] [leftctrl] [rightctrl] [leftmenu] [rightmenu] [;] [=] [,] [-] [.] [/] [~] [[] [|] []] [&apos;]
 
-eClinet_gold%s×êÊ¯
+eClinet_gold%sº¸¼®
 
-eClinet_money%d½ğ±Ò
+eClinet_money%d±İÈ­
 
 eClinet_exploit%d¹¦Ñ«
 %
-eClinet_GoldOrMoney%s×êÊ¯»ò%d½ğ±Ò
+eClinet_GoldOrMoney%sº¸¼®»ò%d±İÈ­
 &
 eClinet_notenoughmoneyÉíÉÏ½ğÇ®²»¹»
 $
 eClinet_notenoughexploit¹¦Ñ«²»¹»
 %
-eClinet_notenoughgoldÉíÉÏ×êÊ¯²»¹»
+eClinet_notenoughgoldÉíÉÏº¸¼®²»¹»
 2
 eClinet_bagisfullclearbag±³°üÒÑÂú£¬ÇëÇåÀí±³°ü!
 
-eClinet_goldor×êÊ¯»ò
+eClinet_goldorº¸¼®»ò
 
 eClinet_buyhero¹ºÂòÓ¢ĞÛ
 
@@ -5454,7 +5455,7 @@ $
 
 eClinet_buy±¸¸Å
 
-eClinet_orGold»ò%s×êÊ¯
+eClinet_orGold»ò%sº¸¼®
 -
 eClinet_determinegetequipÈ·¶¨ÒªÁìÈ¡ÊÔÓÃ×°
 ,
@@ -5490,7 +5491,7 @@ $
 
 eClinet_choosesuc¾Ù±¨
 %
-eClinet_unrealusesucc»ÃÁéÆôÓÃ³É¹¦
+eClinet_unrealusesucc»ÃÁéÆôÓÃ¼º°ø
 #
 eClinet_nothaveunreal
 »ÃÁéÎ´ÓµÓĞ
@@ -5537,25 +5538,25 @@ $
 6
 !eClient_ThisOrderStilettoNeedCost±¾´Î´ò¿×,ĞèÒªÏûºÄ
 Y
-!eClinet_curstilettoisusemoneygold4±¾´Î´ò¿×,ĞèÒªÏûºÄ"<<umoney<<"½ğ±Ò»òÕß"<<ugold<<"×êÊ¯
+!eClinet_curstilettoisusemoneygold4±¾´Î´ò¿×,ĞèÒªÏûºÄ"<<umoney<<"±İÈ­»òÕß"<<ugold<<"º¸¼®
 %
 eClinet_chosepaywayÇëÑ¡ÔñÖ§¸¶·½Ê½
 ?
-eClinet_notenoughmoneyusegoldÄãÃ»ÓĞ×ã¹»µÄ½ğ±Ò£¬ÊÇ·ñÊ¹ÓÃ×êÊ¯
+eClinet_notenoughmoneyusegoldÄãÃ»ÓĞ×ã¹»µÄ±İÈ­£¬ÊÇ·ñÊ¹ÓÃº¸¼®
 ?
-eClinet_notenoughgoldusemoneyÄãÃ»ÓĞ×ã¹»µÄ×êÊ¯£¬ÊÇ·ñÊ¹ÓÃ½ğ±Ò
+eClinet_notenoughgoldusemoneyÄãÃ»ÓĞ×ã¹»µÄº¸¼®£¬ÊÇ·ñÊ¹ÓÃ±İÈ­
 G
-eClinet_notenoughgoldandmoney&ÄãÃ»ÓĞ×ã¹»µÄ½ğ±Ò»òÕß×êÊ¯£¬ÊÇ·ñÁ¢¼´³äÖµ
+eClinet_notenoughgoldandmoney&ÄãÃ»ÓĞ×ã¹»µÄ±İÈ­»òÕßº¸¼®£¬ÊÇ·ñÁ¢¼´³äÖµ
 1
 eClinet_LevelGemGiveUpNeed¼¶±¦Ê¯Õª³ı,ĞèÒªÏûºÄ
 
-eClient_MoneyOr½ğ±Ò»òÕß
+eClient_MoneyOr±İÈ­»òÕß
 
-eClient_GameGold×êÊ¯
+eClient_GameGoldº¸¼®
 ,
 eClinet_notenoughgem±³°üÀïÃæ±¦Ê¯ÊıÁ¿²»¹»
 *
-eClinet_fuseloseºÏ³ÉÊ§°Ü£¡×£ÄãÏÂ´Î³É¹¦
+eClinet_fuseloseºÏ³ÉÊ§°Ü£¡×£ÄãÏÂ´Î¼º°ø
 7
  eClient_LevelGemCompoundNeedCost¼¶±¦Ê¯ºÏ³É,ĞèÒªÏûºÄ
 1
@@ -5581,7 +5582,7 @@ S
 *
 eClinet_NotequiprepairÃ»ÓĞ×°±¸ĞèÒªĞŞÀí
 2
-eClinet_repairEquipConsumeĞŞÀíĞèÒªÏûºÄ %d ½ğ±Ò
+eClinet_repairEquipConsumeĞŞÀíĞèÒªÏûºÄ %d ±İÈ­
 &
 eClinet_cannotrepair¸ÃµÀ¾ß²»ÄÜĞŞÀí
 0
@@ -5589,7 +5590,7 @@ S
 :
 eClinet_storehousePasswordErrorÃÜÂë´íÎó£¬ÎŞ·¨´ò¿ª²Ö¿â!
 D
-#eClinet_NotenoughgoldOpenstorehouseÃ»ÓĞ×ã¹»µÄ×êÊ¯£¬ÎŞ·¨´ò¿ª²Ö¿â!
+#eClinet_NotenoughgoldOpenstorehouseÃ»ÓĞ×ã¹»µÄº¸¼®£¬ÎŞ·¨´ò¿ª²Ö¿â!
 6
 eClinet_itemdontUseInthisSceneÎïÆ·²»ÄÜÔÚ¸Ã³¡¾°Ê¹ÓÃ
 9
@@ -5610,7 +5611,7 @@ D
 eClinet_TimeisPass
 ÓĞĞ§ÆÚÒÑ¹ı
 7
-eClinet_TimehaveDay ÓĞĞ§ÆÚ»¹ÓĞ %d Ğ¡Ê± %d ·ÖÖÓ %d Ãë
+eClinet_TimehaveDay ÓĞĞ§ÆÚ»¹ÓĞ %d Ğ¡Ê± %d ·ÖÖÓ %d ÃÊ
 1
 eClient_TimeHaveExceedDayÓĞĞ§ÆÚ»¹ÓĞ³¬¹ı %d Ìì
 .
@@ -5713,7 +5714,7 @@ $
 eClient_YouNeedCost
 ÄãĞèÒª»¨·Ñ
 :
-"eClient_PointActivateNewGeniusPage×êÊ¯À´¼¤»îĞÂµÄÌì¸³Ò³
+"eClient_PointActivateNewGeniusPageº¸¼®À´¼¤»îĞÂµÄÌì¸³Ò³
 S
 $eClient_RightButtonClickGiveUpGenius+%s\n \n<color=FFFFFF00>ÓÒ¼üµã»÷·ÅÆú¸ÃÌì¸³\n
 T
@@ -5767,7 +5768,7 @@ f
 (
 eClient_CharAttr_MPAbsorb¸¶³ªÈí¼ö + 
 @
-eClient_CharAttr_KillBonusMoney»÷É±ÈÎÒâµ¥Î»»á¶îÍâ»ñµÃ½ğ±Ò + 
+eClient_CharAttr_KillBonusMoney»÷É±ÈÎÒâµ¥Î»»á¶îÍâ»ñµÃ±İÈ­ + 
 ;
 eClient_CharAttr_KillRestoreHP»÷É±ÈÎÒâµ¥Î»»Ö¸´ÉúÃüÖµ + 
 ;
@@ -5793,7 +5794,7 @@ A
 -
 eClient_CharAttr_ColdDownMinusÀäÈ´Ëõ¼õ + 
 ;
-$eClient_CharAttr_BonusMoney10SecondsÃ¿10ÃëÖÓÔö¼Ó½ğ±Ò + 
+$eClient_CharAttr_BonusMoney10SecondsÃ¿10ÃëÖÓÔö¼Ó±İÈ­ + 
 .
 eClient_CharAttr_InitBonusMoney³õÊ¼½ğÇ® + 
 
@@ -5815,7 +5816,7 @@ $eClient_CharAttr_BonusMoney10SecondsÃ¿10ÃëÖÓÔö¼Ó½ğ±Ò +
 
 eClient_FontBlackBodyºÚÌå
 
-eClient_HeaveSucess  ³É¹¦
+eClient_HeaveSucess  ¼º°ø
 
 eClient_HeaveReport½Å°í  
 
@@ -5854,7 +5855,7 @@ $eClient_CharAttr_BonusMoney10SecondsÃ¿10ÃëÖÓÔö¼Ó½ğ±Ò +
 :
 "eClient_EquipNoMeetRepeatCondition×°±¸²»Âú×ãÖØÖıµÄÌõ¼ş
 E
-#eClient_RepeatAttrNeedExpendDiamondÃ¿´ÎÖØÖıËæ»úÊôĞÔĞèÒªÏûºÄ%d×êÊ¯
+#eClient_RepeatAttrNeedExpendDiamondÃ¿´ÎÖØÖıËæ»úÊôĞÔĞèÒªÏûºÄ%dº¸¼®
 6
 "eClient_CongratulationsYouHaveHero¹§Ï²ÄãÓµÓĞÁË %s!
 
@@ -5876,11 +5877,11 @@ A
 1
 eClient_WhetherAcceptDieTaskÊÇ·ñ½ÓÊÜËÀÍöÈÎÎñ?
 Y
-$eClient_EquipInlayGemTogetherDestroy1×°±¸ÏâÇ¶ÓĞ±¦Ê¯,±¦Ê¯Ò²»áÒ»ÆğÏú»Ù\nÄÜ»ñµÃ%d½ğ±Ò\n%s
+$eClient_EquipInlayGemTogetherDestroy1×°±¸ÏâÇ¶ÓĞ±¦Ê¯,±¦Ê¯Ò²»áÒ»ÆğÏú»Ù\nÄÜ»ñµÃ%d±İÈ­\n%s
 (
-eClient_CanGainMoneyÄÜ»ñµÃ%d½ğ±Ò\n%s
+eClient_CanGainMoneyÄÜ»ñµÃ%d±İÈ­\n%s
 S
-)eClient_TimeItemAndTryOutEquipNoGainMoney&Ê±Ğ§µÀ¾ßºÍÊÔÓÃ×°±¸Ïú»Ù²»ÄÜ»ñµÃ½ğ±Ò\n%s
+)eClient_TimeItemAndTryOutEquipNoGainMoney&Ê±Ğ§µÀ¾ßºÍÊÔÓÃ×°±¸Ïú»Ù²»ÄÜ»ñµÃ±İÈ­\n%s
 Z
 (eClient_EquipOtherHeroEquipNotHaveEffect.×°±¸ÆäËûÓ¢ĞÛµÄ×¨Êô×°±¸½«»ñµÃ²»ÁËÈÎºÎÊôĞÔºÍĞ§¹û
 Q
@@ -5908,7 +5909,7 @@ F
 eClient_PropertyNotAddLock
 ²Æ²úÎ´¼ÓËø
 @
-(eClient_PointActivateNewGeniusPageByGold½ğ±ÒÀ´¼¤»îĞÂµÄÌì¸³Ò³
+(eClient_PointActivateNewGeniusPageByGold±İÈ­À´¼¤»îĞÂµÄÌì¸³Ò³
 F
 eClient_LockPasswordCancelTimeH#»¹ÓĞ %dÌì %dĞ¡Ê± ²Æ²úËøµÄÃÜÂë½«È¡Ïû
 C
@@ -5992,9 +5993,9 @@ $
 
 eClient_Or»òÕß
 7
-eClient_SpendGoldActivategenius×êÊ¯À´¼¤»îÕâÒ³Ìì¸³Ò³
+eClient_SpendGoldActivategeniusº¸¼®À´¼¤»îÕâÒ³Ìì¸³Ò³
 ;
-!eClient_NotHaveEnoughMoneyAndGoldÄãÃ»ÓĞ×ã¹»µÄ½ğ±ÒºÍ×êÊ¯
+!eClient_NotHaveEnoughMoneyAndGoldÄãÃ»ÓĞ×ã¹»µÄ±İÈ­ºÍº¸¼®
 H
 (eClient_PassWordIsNullCanCloseSafetyLockÃÜÂëÉèÖÃÎª¿Õ»á¹Ø±Õ°²È«Ëø¹¦ÄÜ
 9
@@ -6030,7 +6031,7 @@ H
 @
  eClient_QuickOperator_Long10wordÉè¶¨µÄ»°ÓïÌ«³¤£¬ÇëËõ¶ÌºóÖØÊÔ
 &
-eClient_BattleSignalSaveOK±£´æ³É¹¦
+eClient_BattleSignalSaveOK±£´æ¼º°ø
 $
 eClient_HeroTryOutÓ¢ĞÛ %s µÄÊÔÓÃ
 *
@@ -6074,7 +6075,7 @@ $
 T
 eClient_SkipNewAÊÇ·ñ¼ÌĞøĞÂÊÖÑµÁ·?\nÈç¹ûÄúÊÇ×ÊÉîÍæ¼Ò¿ÉÒÔÑ¡ÔñÌø¹ıÑµÁ·Ö±½Ó½øÈëÓÎÏ·¡£
 @
-eClient_MoneyNotEnoughRandom ×êÊ¯²»×ãÒÔ¼ÌĞø½øĞĞËæ»ú£¬Çë³äÖµ£¡
+eClient_MoneyNotEnoughRandom º¸¼®²»×ãÒÔ¼ÌĞø½øĞĞËæ»ú£¬Çë³äÖµ£¡
 #
 eClient_Gamble_Random
 Ëæ»ú£¨%d£©
@@ -6086,15 +6087,15 @@ T
 -
 eClient_PleaseGamble_RandomÇëËæ»ú³éÈ¡½±Æ·
 >
-eClient_NextGamble_Random!ÔÙ´ÎËæ»ú³éÈ¡½±Æ·ĞèÒªÏûºÄ:%.1f×êÊ¯
+eClient_NextGamble_Random!ÔÙ´ÎËæ»ú³éÈ¡½±Æ·ĞèÒªÏûºÄ:%.1fº¸¼®
 %
 eClient_MailNoTimesÓÊ¼ş¼´½«±»É¾³ı
 ,
 eClient_MailSaveTimesÓÊ¼ş±£´æÆÚ»¹ÓĞ:%dÌì
 =
-eClient_Random_SpendAllGold±¾´ÎËæ»ú%d´Î£¬Ò»¹²»¨·Ñ%d×êÊ¯£¡
+eClient_Random_SpendAllGold±¾´ÎËæ»ú%d´Î£¬Ò»¹²»¨·Ñ%dº¸¼®£¡
 S
-eClient_Random_SpendGold7ÊÇ·ñÏûºÄ×êÊ¯Ëæ»ú£¬Ö±µ½Ëæ»úµ½,±¾´ÎËæ»ú×î¶à½«»¨·Ñ%.1f×êÊ¯
+eClient_Random_SpendGold7ÊÇ·ñÏûºÄº¸¼®Ëæ»ú£¬Ö±µ½Ëæ»úµ½,±¾´ÎËæ»ú×î¶à½«»¨·Ñ%.1fº¸¼®
 
 eClient_lotSelÖÇÄÜ³öÊÛ
 )
@@ -6104,7 +6105,7 @@ S
 3
 eClient_EquipSoulNeedSpendGold±¾´ÎÖıÔì»ê½«»¨·Ñ:
 @
-'eClient_EquipSoulNeedSpendGoldNotEnough£¬ÄãµÄ×êÊ¯²»¹»,Çë³äÖµ
+'eClient_EquipSoulNeedSpendGoldNotEnough£¬ÄãµÄº¸¼®²»¹»,Çë³äÖµ
 0
 eClient_NotEquipSoul²»ÊÇÖı»ê×°±¸£¬²»ÄÜÖı»ê£¡
 /
@@ -6176,7 +6177,7 @@ P
 
 eClient_OkÈ·¶¨
 
-eClient_UseyuanbaoÊ¹ÓÃ×êÊ¯
+eClient_UseyuanbaoÊ¹ÓÃº¸¼®
 "
 eClient_ReNameÊäÈë½ÇÉ«µÄĞÂÃû×Ö
 A
@@ -6193,19 +6194,19 @@ A
  
 eClient_NameTooShortÃû×ÖÌ«¶Ì
 %
-eClient_ReNameSucceedĞŞ¸ÄÃû×Ö³É¹¦
+eClient_ReNameSucceedĞŞ¸ÄÃû×Ö¼º°ø
 ˆ
-eClient_VIPInfo0ó\nµ±Ç°²»ÊÇVIPÓÃ»§,²»ÏíÊÜVIPÌØÈ¨¡£\n \nÏÂÒ»¼¶(1¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï30×êÊ¯¿ÉÌáÉıÖÁVIP1¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.1±¶£¬Ê×Ê¤½±ÀøÌá¸ß100½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½25³¡£¬µ¥ÏîVIP¹¦ÄÜ9.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½30¡£#}
+eClient_VIPInfo0ó\nµ±Ç°²»ÊÇVIPÓÃ»§,²»ÏíÊÜVIPÌØÈ¨¡£\n \nÏÂÒ»¼¶(1¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï30º¸¼®¿ÉÌáÉıÖÁVIP1¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.1±¶£¬Ê×Ê¤½±ÀøÌá¸ß100±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½25³¡£¬µ¥ÏîVIP¹¦ÄÜ9.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½30¡£#}
 ‘
-eClient_VIPInfo1ü\nµ±Ç°(1¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.1±¶£¬Ê×Ê¤½±ÀøÌá¸ß100½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½25³¡£¬µ¥ÏîVIP¹¦ÄÜ9.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½30¡£#}\n \nÏÂÒ»¼¶(2¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï100×êÊ¯¿ÉÌáÉıÖÁVIP2¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.2±¶£¬Ê×Ê¤½±ÀøÌá¸ß150½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½30³¡£¬µ¥ÏîVIP¹¦ÄÜ9ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½40¡£#}
+eClient_VIPInfo1ü\nµ±Ç°(1¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.1±¶£¬Ê×Ê¤½±ÀøÌá¸ß100±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½25³¡£¬µ¥ÏîVIP¹¦ÄÜ9.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½30¡£#}\n \nÏÂÒ»¼¶(2¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï100º¸¼®¿ÉÌáÉıÖÁVIP2¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.2±¶£¬Ê×Ê¤½±ÀøÌá¸ß150±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½30³¡£¬µ¥ÏîVIP¹¦ÄÜ9ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½40¡£#}
 
-eClient_VIPInfo2ø\nµ±Ç°(2¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.2±¶£¬Ê×Ê¤½±ÀøÌá¸ß150½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½30³¡£¬µ¥ÏîVIP¹¦ÄÜ9ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½40¡£#}\n \nÏÂÒ»¼¶(3¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï500×êÊ¯¿ÉÌáÉıÖÁVIP3¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.3±¶£¬Ê×Ê¤½±ÀøÌá¸ß200½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½50¡£#}
+eClient_VIPInfo2ø\nµ±Ç°(2¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.2±¶£¬Ê×Ê¤½±ÀøÌá¸ß150±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½30³¡£¬µ¥ÏîVIP¹¦ÄÜ9ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½40¡£#}\n \nÏÂÒ»¼¶(3¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï500º¸¼®¿ÉÌáÉıÖÁVIP3¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.3±¶£¬Ê×Ê¤½±ÀøÌá¸ß200±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½50¡£#}
 Š
-eClient_VIPInfo3õ\nµ±Ç°(3¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.3±¶£¬Ê×Ê¤½±ÀøÌá¸ß200½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½50¡£#}\n \nÏÂÒ»¼¶(4¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï1000×êÊ¯¿ÉÌáÉıÖÁVIP4¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½60¡£#}
+eClient_VIPInfo3õ\nµ±Ç°(3¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.3±¶£¬Ê×Ê¤½±ÀøÌá¸ß200±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½50¡£#}\n \nÏÂÒ»¼¶(4¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï1000º¸¼®¿ÉÌáÉıÖÁVIP4¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½60¡£#}
 ˆ
-eClient_VIPInfo4ó\nµ±Ç°(4¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½60¡£#}\n \nÏÂÒ»¼¶(5¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï5000×êÊ¯¿ÉÌáÉıÖÁVIP5¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½70¡£#}
+eClient_VIPInfo4ó\nµ±Ç°(4¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½60¡£#}\n \nÏÂÒ»¼¶(5¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï5000º¸¼®¿ÉÌáÉıÖÁVIP5¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½70¡£#}
 ë
-eClient_VIPInfo5Ö\nµ±Ç°(5¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½70¡£ºÃÓÑÉÏÏŞÔö¼Óµ½130ÈË¡£#}\n \nµ±Ç°ÒÑ¾­ÊÇ×î¸ßVIPµÈ¼¶¡£
+eClient_VIPInfo5Ö\nµ±Ç°(5¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡±İÈ­Óë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250±İÈ­£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½70¡£ºÃÓÑÉÏÏŞÔö¼Óµ½130ÈË¡£#}\n \nµ±Ç°ÒÑ¾­ÊÇ×î¸ßVIPµÈ¼¶¡£
 &
 eClient_VIPInfo6\n6¼¶VIPÌØÈ¨£ºÄã²Â
 $
@@ -6231,7 +6232,7 @@ n
 !
 eClient_hideTitle¡¼ÄªÈ£¼û±è¡½
 †
-eClient_ReqDuelsÊäÈëÌôÕ½µÄ¶ÔÊÖÃû×Ö£¬Ã¿´ÎÌôÕ½ĞèÒª1¸öSoloĞí¿ÉÖ¤ºÍ2000½ğ±ÒµÄÊÖĞø·Ñ£¬Èç¹ûÈ¡ÏûÌôÕ½»òÕß¶Ô·½¾Ü¾øSoloĞí¿ÉÖ¤½«Í¨¹ıÓÊ¼ş·µ»¹¡£
+eClient_ReqDuelsÊäÈëÌôÕ½µÄ¶ÔÊÖÃû×Ö£¬Ã¿´ÎÌôÕ½ĞèÒª1¸öSoloĞí¿ÉÖ¤ºÍ2000±İÈ­µÄÊÖĞø·Ñ£¬Èç¹ûÈ¡ÏûÌôÕ½»òÕß¶Ô·½¾Ü¾øSoloĞí¿ÉÖ¤½«Í¨¹ıÓÊ¼ş·µ»¹¡£
 ,
 eClient_RequestDuelItemSoloÇã°¡Áõ1°³ÇÊ¿ä
 "
@@ -6303,39 +6304,39 @@ n
 #
 eClient_ChatChannelGuild±æµå /g
 ,
-eClient_FirstPay10Ê×´Î³äÖµµ¥±ÊÂú 10 ×êÊ¯
+eClient_FirstPay10Ê×´Î³äÖµµ¥±ÊÂú 10 º¸¼®
 2
 eClient_FirstPay10_Award346;1000:805;1:25116;2
 ,
-eClient_FirstPay50Ê×´Î³äÖµµ¥±ÊÂú 50 ×êÊ¯
+eClient_FirstPay50Ê×´Î³äÖµµ¥±ÊÂú 50 º¸¼®
 3
 eClient_FirstPay50_Award346;5000:805;4:25116;10
 .
-eClient_FirstPay100Ê×´Î³äÖµµ¥±ÊÂú 100 ×êÊ¯
+eClient_FirstPay100Ê×´Î³äÖµµ¥±ÊÂú 100 º¸¼®
 >
 eClient_FirstPay100_Award!346;10000:805;8:25116;10:25115;10
 .
-eClient_FirstPay300Ê×´Î³äÖµµ¥±ÊÂú 300 ×êÊ¯
+eClient_FirstPay300Ê×´Î³äÖµµ¥±ÊÂú 300 º¸¼®
 5
 eClient_FirstPay300_Award346;30000:805;21:27050;1
 .
-eClient_FirstPay500Ê×´Î³äÖµµ¥±ÊÂú 500 ×êÊ¯
+eClient_FirstPay500Ê×´Î³äÖµµ¥±ÊÂú 500 º¸¼®
 5
 eClient_FirstPay500_Award346;50000:805;30:27051;1
 0
-eClient_FirstPay1000Ê×´Î³äÖµµ¥±ÊÂú 1000 ×êÊ¯
+eClient_FirstPay1000Ê×´Î³äÖµµ¥±ÊÂú 1000 º¸¼®
 V
 eClient_FirstPay1000_Award8346;50000:41052;4:41082;4:41002;4@41122;4:805;50:27034;1
 0
-eClient_FirstPay2000Ê×´Î³äÖµµ¥±ÊÂú 2000 ×êÊ¯
+eClient_FirstPay2000Ê×´Î³äÖµµ¥±ÊÂú 2000 º¸¼®
 ~
 eClient_FirstPay2000_Award`346;50000:41052;6:41082;6:41002;6@41122;6:41054;1:41084;1:41004;1@41124;1:805;80:27050;1:27051;1
 0
-eClient_FirstPay3000Ê×´Î³äÖµµ¥±ÊÂú 3000 ×êÊ¯
+eClient_FirstPay3000Ê×´Î³äÖµµ¥±ÊÂú 3000 º¸¼®
 ‚
 eClient_FirstPay3000_Awardd346;50000:41052;12:41082;12:41002;12@41122;12:41054;3:41084;3:41004;3@41124;3:805;90:27051;1:27034;1
 0
-eClient_FirstPay5000Ê×´Î³äÖµµ¥±ÊÂú 5000 ×êÊ¯
+eClient_FirstPay5000Ê×´Î³äÖµµ¥±ÊÂú 5000 º¸¼®
 ‡
 eClient_FirstPay5000_Awardi346;50000:41054;4:41084;4:41004;4@41124;4:41055;1:41085;1:41005;1@41125;1:805;100:27050;1:27051;1@27034;1
 &
@@ -6396,7 +6397,7 @@ P
 eClient_AlchemySoulEQuipNotÖı»ê×°±¸²»ÄÜÁ¶½ğ!
 !
 eClient_AlchemySucc
-Á¶½ğ³É¹¦£¡
+Á¶½ğ¼º°ø£¡
 ,
 eClient_AlchemynotFindEquip×°±¸²»ÄÜÕÒµ½!
 0
@@ -6410,7 +6411,7 @@ E
 7
 eClient_AlchemyeMaxAttrÁ¶½ğÊôĞÔ¸öÊıÒÑ¾­´ïµ½×î´óÖµ£¡
 1
-eClient_AlchemyerestoreAttrSucc»¹Ô­ÊôĞÔ³É¹¦£¡
+eClient_AlchemyerestoreAttrSucc»¹Ô­ÊôĞÔ¼º°ø£¡
 8
 eClient_AlchemyeIsCoverAttrÊÇ·ñ¸²¸ÇµôÒÑ¾­Á¶½ğµÄÊôĞÔ?
 Y
@@ -6423,10 +6424,10 @@ Y
 eClient_UI_EnterÀÔ ·Â
 
 eClient_GetMoney
-»ñµÃ%d½ğ±Ò
+»ñµÃ%d±İÈ­
 
 eClient_UseMoney
-Ïû·Ñ%d½ğ±Ò
+Ïû·Ñ%d±İÈ­
 "
 eClinet_battleevaluateitemÈÙÓş
 
