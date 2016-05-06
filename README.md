@@ -3,8 +3,8 @@
 
 - 더 좋은 DATA를 가지고 있으신 분들은 자유롭게 Pull Request 해주세요.<br/>
 <br/>
-기본적인 GitHub 사용법 - https://git-scm.com/book/ko/v2 <br/>
-GitHub에서 기여하는법 - https://git-scm.com/book/ko/v2/GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0 <br/>
+- 기본적인 GitHub 사용법 - https://git-scm.com/book/ko/v2 <br/>
+- GitHub에서 기여하는법 - https://git-scm.com/book/ko/v2/GitHub-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0 <br/>
 
 
 # GPL License
