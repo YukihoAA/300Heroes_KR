@@ -1,0 +1,8679 @@
+63 20 39 10 0 eLogin_UserPassError
+
+
+76 19 53 10 0 eLogin_VersionError
+
+
+61 16 41 10 0 eLogin_UserError
+
+
+65 20 41 10 0 eLogin_PasswordError
+
+
+74 16 54 10 0 eLogin_UseOnline
+
+
+66 21 41 10 0 eLogin_UsePassError_1
+
+
+38 16 18 10 0 eLogin_LastLogin
+
+
+44 14 26 10 0 eLogin_TimeOut
+
+
+44 20 20 10 0 eLogin_AccountOnline
+
+
+39 23 12 10 0 eLogin_WaitingSignining
+
+
+46 28 14 10 0 eLogin_WaitingUserDisConnect
+
+
+17 11 2 10 0 eText_Empty
+
+
+34 16 14 10 0 eLogin_CurServer
+
+
+51 14 33 10 0 eLogin_UnKnown
+
+
+32 14 14 10 0 eLogin_CurLine
+
+
+25 15 6 10 0 eLogin_LineName
+
+
+29 21 4 10 0 eLogin_LineState_Idle
+
+
+31 23 4 10 0 eLogin_LineState_Normal
+
+
+29 21 4 10 0 eLogin_LineState_Busy
+
+
+29 21 4 10 0 eLogin_LineState_Full
+
+
+32 24 4 10 0 eLogin_LineState_Unknown
+
+
+62 22 36 10 0 eLogin_LineFull_Notify
+
+
+56 17 35 10 0 eBulletinMsgError
+
+
+59 22 33 10 0 eCreate_PlayerNameSame
+
+
+56 19 33 10 0 eCreate_SystemError
+
+
+52 15 33 10 0 eCreate_TimeOut
+
+
+56 19 33 10 0 eCreate_InvalidName
+
+
+22 10 8 10 0 eSystemMsg
+
+
+31 17 10 10 0 eDeletePlayerFail
+
+
+57 13 40 10 0 eExchange_Ask
+
+
+26 12 10 10 0 eExchange_OK
+
+
+35 19 12 10 0 eExchange_OtherExit
+
+
+33 17 12 10 0 eExchange_Error_2
+
+
+35 17 14 10 0 eExchange_Error_3
+
+
+31 13 14 10 0 ePack_NotGrid
+
+
+28 14 10 10 0 eExchange_fail
+
+
+31 17 10 10 0 eExchange_timeout
+
+
+35 17 14 10 0 eExchange_ItemCnt
+
+
+54 18 32 10 0 eExchange_NotMoney
+
+
+40 18 18 10 0 eExchange_InputCnt
+
+
+45 17 24 10 0 eExchange_NotGrid
+
+
+43 21 18 10 0 eExchange_InputBuyCnt
+
+
+43 21 18 10 0 ePack_InputTakeOutCnt
+
+
+96 19 73 10 0 eLogin_DeletePlayer
+
+
+46 22 20 10 0 eExchange_InputSellCnt
+
+
+22 12 6 10 0 eUI_InputBox
+
+
+41 17 20 10 0 eUI_InputThrowCnt
+
+
+20 12 4 10 0 eUI_Exchange
+
+
+25 13 8 10 0 eUI_AddFriend
+
+
+16 8 4 10 0 eUI_Team
+
+
+20 12 4 10 0 eUI_FellowMe
+
+
+31 13 14 10 0 eItem_UseFail
+
+
+21 13 4 10 0 eUnknown_fail
+
+
+33 13 16 10 0 eUI_EquipFail
+
+
+17 9 4 10 0 eUI_Price
+
+
+24 12 8 10 0 eUI_ExitGame
+
+
+29 13 12 10 0 eUI_InputName
+
+
+32 14 14 10 0 eUI_PlayerFull
+
+
+38 14 20 10 0 eUI_BuyConfirm
+
+
+31 11 16 10 0 eUI_LevelUp
+
+
+54 20 30 10 0 eUI_ConfirmThrowItem
+
+
+66 24 38 10 0 eUI_ConfirmThrowTaskItem
+
+
+38 12 22 10 0 eUI_NotMemoy
+
+
+43 15 24 10 0 eUI_ShopNotItem
+
+
+40 16 20 10 0 eUI_SkillLevelup
+
+
+21 13 4 10 0 eUI_ItemLvl_0
+
+
+21 13 4 10 0 eUI_ItemLvl_1
+
+
+21 13 4 10 0 eUI_ItemLvl_2
+
+
+21 13 4 10 0 eUI_ItemLvl_3
+
+
+21 13 4 10 0 eUI_ItemLvl_4
+
+
+21 13 4 10 0 eUI_Unknown_0
+
+
+21 13 4 10 0 eUI_Unknown_1
+
+
+28 20 4 10 0 eProfession_Assassin
+
+
+27 19 4 10 0 eProfession_Warrior
+
+
+28 18 6 10 0 eProfession_Knight
+
+
+25 17 4 10 0 eProfession_Rabbi
+
+
+28 18 6 10 0 eProfession_Priest
+
+
+27 19 4 10 0 eProfession_Unknown
+
+
+28 16 8 10 0 eNeed_Profession
+
+
+25 15 6 10 0 eUI_AttStrength
+
+
+29 17 8 10 0 eUI_MagicStrength
+
+
+13 7 2 10 0 eUI_Yes
+
+
+12 6 2 10 0 eUI_NO
+
+
+21 9 8 10 0 eUI_AddHP
+
+
+21 9 8 10 0 eUI_AddMP
+
+
+22 10 8 10 0 eUI_AddExp
+
+
+32 15 13 10 0 eUI_Add_Unknown
+
+
+24 12 8 10 0 eUI_AttSpeed
+
+
+27 15 8 10 0 eUI_AttackSpeed
+
+
+33 19 10 10 0 eUI_stPlayAtt_Blaze
+
+
+33 19 10 10 0 eUI_stPlayAtt_Frost
+
+
+35 21 10 10 0 eUI_stPlayAtt_Thunder
+
+
+34 20 10 10 0 eUI_stPlayAtt_Poison
+
+
+30 20 6 10 0 eUI_ePlayAtt_Physics
+
+
+30 18 8 10 0 eUI_ePlayAtt_Magic
+
+
+28 16 8 10 0 eUI_Hurt_Physics
+
+
+26 14 8 10 0 eUI_Hurt_Magic
+
+
+26 12 10 10 0 eUI_Hurt_Ice
+
+
+27 13 10 10 0 eUI_Hurt_Fire
+
+
+28 14 10 10 0 eUI_Hurt_Light
+
+
+27 13 10 10 0 eUI_Hurt_Dark
+
+
+18 10 4 10 0 eUI_sExact
+
+
+26 14 8 10 0 eUI_CritialHit
+
+
+30 18 8 10 0 eUI_CriticalDamage
+
+
+20 12 4 10 0 eUI_sAddLuck
+
+
+30 18 8 10 0 eUI_sIntonateSpeed
+
+
+29 17 8 10 0 eUI_stAtkSpeedAdd
+
+
+35 21 10 10 0 eUI_stPlayAtt_Blaze_0
+
+
+35 21 10 10 0 eUI_stPlayAtt_Frost_0
+
+
+37 23 10 10 0 eUI_stPlayAtt_Thunder_0
+
+
+28 16 8 10 0 eUI_ePlayHolyDef
+
+
+23 15 4 10 0 eUI_sPhysicsDef
+
+
+30 16 10 10 0 eUI_ePlayFireDef
+
+
+29 15 10 10 0 eUI_ePlayIceDef
+
+
+31 17 10 10 0 eUI_ePlayLightDef
+
+
+30 16 10 10 0 eUI_ePlayDarkDef
+
+
+20 10 6 10 0 eUI_nHpMax
+
+
+25 15 6 10 0 eUI_shieldValue
+
+
+25 13 8 10 0 eUI_sHpMaxPer
+
+
+20 10 6 10 0 eUI_sMpMax
+
+
+25 13 8 10 0 eUI_sMpMaxPer
+
+
+25 13 8 10 0 eUI_HpRestore
+
+
+25 13 8 10 0 eUI_MpRestore
+
+
+29 17 8 10 0 eUI_danderRestore
+
+
+29 17 8 10 0 ui_energy_Restore
+
+
+30 14 12 10 0 eUI_sHpRestore
+
+
+30 14 12 10 0 eUI_sMpRestore
+
+
+28 16 8 10 0 eUI_sReboundRate
+
+
+18 10 4 10 0 eUI_sDodge
+
+
+22 14 4 10 0 eUI_sAddLuck_0
+
+
+28 16 8 10 0 eUI_sComposeRate
+
+
+34 18 12 10 0 eUI_fBaseMoveSpeed
+
+
+26 14 8 10 0 eUI_fMoveSpeed
+
+
+27 15 8 10 0 eUI_ustPrepTime
+
+
+36 20 12 10 0 eUI_ustStatusHitRate
+
+
+23 13 6 10 0 eUI_ustCostHP
+
+
+23 13 6 10 0 eUI_ustCostMP
+
+
+42 26 12 10 0 eUI_stDamageEffectDistance
+
+
+30 14 12 10 0 eUI_bHoldSkill
+
+
+31 15 12 10 0 eUI_bNeedWeapon
+
+
+29 17 8 10 0 eUI_CoolDownMinus
+
+
+35 23 8 10 0 eUI_dwSkillColddownTime
+
+
+34 20 10 10 0 eUI_dwSubComboStatus
+
+
+27 15 8 10 0 eUI_ustHoldTime
+
+
+26 14 8 10 0 eUI_bHedgeNull
+
+
+29 17 8 10 0 eUI_iDurationTime
+
+
+37 21 12 10 0 eUI_iBalanceDelayTime
+
+
+42 20 18 10 0 eUI_bAttckedNoStatus
+
+
+36 18 14 10 0 eUI_bAttckNoStatus
+
+
+30 18 8 10 0 eUI_BATTR_STRENGTH
+
+
+34 22 8 10 0 eUI_BATTR_CONSTITUTION
+
+
+29 17 8 10 0 eUI_BATTR_AGILITY
+
+
+34 22 8 10 0 eUI_BATTR_INTELLIGENCE
+
+
+28 16 8 10 0 eUI_BATTR_SPIRIT
+
+
+26 14 8 10 0 eUI_BATTR_LUCK
+
+
+33 19 10 10 0 eUI_fChanged_ExpMul
+
+
+42 23 15 10 0 eUI_ePlayAtt_PhysicsPer
+
+
+44 21 19 10 0 eUI_ePlayAtt_MagicPer
+
+
+44 19 21 10 0 eUI_ePlayAtt_IcePer
+
+
+45 20 21 10 0 eUI_ePlayAtt_FirePer
+
+
+48 23 21 10 0 eUI_ePlayAtt_ThunderPer
+
+
+47 22 21 10 0 eUI_ePlayAtt_PoisonPer
+
+
+22 14 4 10 0 eUI_SuperArmor
+
+
+30 18 8 10 0 eUI_DamageIncrease
+
+
+31 19 8 10 0 eUI_DamageReduction
+
+
+29 17 8 10 0 eUI_ArmorPuncture
+
+
+34 22 8 10 0 eUI_MagicArmorPuncture
+
+
+36 24 8 10 0 eUI_ArmorPuncturePercent
+
+
+41 29 8 10 0 eUI_MagicArmorPuncturePercent
+
+
+34 26 4 10 0 eUI_ChangedPlayAtt_Physics
+
+
+36 24 8 10 0 eUI_ChangedPlayAtt_Magic
+
+
+36 22 10 10 0 eUI_ChangedPlayAtt_Ice
+
+
+37 23 10 10 0 eUI_ChangedPlayAtt_Fire
+
+
+40 26 10 10 0 eUI_ChangedPlayAtt_Thunder
+
+
+39 25 10 10 0 eUI_ChangedPlayAtt_Poison
+
+
+35 27 4 10 0 eUI_stChangedPhysicsDef_Per
+
+
+31 23 4 10 0 eUI_ChangededPhysicsDef
+
+
+33 21 8 10 0 eUI_ChangededMagicDef
+
+
+39 25 10 10 0 eUI_ChangedDefElement_Ice
+
+
+40 26 10 10 0 eUI_ChangedDefPlayDef_Fire
+
+
+43 29 10 10 0 eUI_ChangedDefPlayDef_Thunder
+
+
+42 28 10 10 0 eUI_ChangedDefPlayDef_Poison
+
+
+43 27 12 10 0 eUI_stChangWeapon_Attribute
+
+
+38 22 12 10 0 eUI_stChangWeapon_Only
+
+
+48 25 19 10 0 eUI_stChanged_FianHurtPer
+
+
+38 22 12 10 0 eUI_stChanged_FianHurt
+
+
+36 20 12 10 0 eUI_stMagic_FreeHurt
+
+
+46 23 19 10 0 eUI_stMagic_FreeHurtPer
+
+
+33 19 10 10 0 eUI_stChanged_HPMax
+
+
+43 22 17 10 0 eUI_stChanged_HPMaxPer
+
+
+33 19 10 10 0 eUI_stChanged_MPMax
+
+
+43 22 17 10 0 eUI_stChanged_MPMaxPer
+
+
+27 15 8 10 0 eUI_stResume_HP
+
+
+27 15 8 10 0 eUI_stResume_MP
+
+
+28 16 8 10 0 eUI_stChanged_HP
+
+
+28 16 8 10 0 eUI_stChanged_MP
+
+
+37 21 12 10 0 eUI_stChanged_AttRect
+
+
+33 17 12 10 0 eUI_stChanged_Hit
+
+
+39 23 12 10 0 eUI_stChanged_FrenzyPer
+
+
+38 22 12 10 0 eUI_fChanged_FrenzyVal
+
+
+36 24 8 10 0 eUI_stChanged_ReboundVal
+
+
+32 15 13 10 0 eHurtImmunity_0
+
+
+32 15 13 10 0 eHurtImmunity_1
+
+
+34 15 15 10 0 eHurtImmunity_2
+
+
+34 15 15 10 0 eHurtImmunity_3
+
+
+34 15 15 10 0 eHurtImmunity_4
+
+
+34 15 15 10 0 eHurtImmunity_5
+
+
+23 11 8 10 0 eStatusFree
+
+
+33 14 15 10 0 eStatusFreePer
+
+
+22 10 8 10 0 eHedgeNull
+
+
+24 12 8 10 0 eUI_HPAbsorb
+
+
+32 22 6 10 0 eUI_stAbsorbExtraHPVal
+
+
+24 12 8 10 0 eUI_MPAbsorb
+
+
+32 22 6 10 0 eUI_stAbsorbExtraMPVal
+
+
+33 21 8 10 0 eUI_fMoveSpeedChanged
+
+
+34 21 9 10 0 eUI_stAttSpeedChanged
+
+
+26 14 8 10 0 eUI_bIsMoveAtt
+
+
+34 22 8 10 0 eUI_stPrepSpeedChanged
+
+
+25 11 10 10 0 eUI_bIsMove
+
+
+24 10 10 10 0 eUI_bIsAtt
+
+
+35 17 14 10 0 eUI_bIsUsingMagic
+
+
+35 17 14 10 0 eUI_bIsUsingTools
+
+
+27 15 8 10 0 eUI_bIsRandWalk
+
+
+32 20 8 10 0 eUI_Element_Ice_Hurt
+
+
+33 21 8 10 0 eUI_Element_Fire_Hurt
+
+
+38 24 10 10 0 eUI_Element_Thunder_Hurt
+
+
+37 23 10 10 0 eUI_Element_Poison_Hurt
+
+
+35 21 10 10 0 eUI_stChangedPhy_Hurt
+
+
+45 24 17 10 0 eUI_stChangedPhy_HurtPer
+
+
+44 23 17 10 0 eUI_Element_Ice_HurtPer
+
+
+45 24 17 10 0 eUI_Element_Fire_HurtPer
+
+
+48 27 17 10 0 eUI_Element_Thunder_HurtPer
+
+
+47 26 17 10 0 eUI_Element_Poison_HurtPer
+
+
+62 24 34 10 0 eClient_AddTreasure_Full
+
+
+57 31 22 10 0 eClient_Change_Relation_Teacher
+
+
+53 31 18 10 0 eClient_Change_Relation_Student
+
+
+55 33 18 10 0 eClient_Student_Appraise_2Teacher
+
+
+49 27 18 10 0 eClient_Select_Kill_Student
+
+
+65 35 26 10 0 eClient_MsgRelation_S2C_ReqRemoveTS
+
+
+44 32 8 10 0 eClient_Team_Create_Default_Name
+
+
+38 27 7 10 0 eClient_Team_Show_Level_Job
+
+
+71 30 37 10 0 eClient_Team_Request_Follow_Me
+
+
+66 29 33 10 0 eClient_Team_Invite_Join_Team
+
+
+39 19 16 10 0 eGuild_Invite_Join_
+
+
+66 20 42 10 0 eGuild_Invite_Summon
+
+
+53 25 24 10 0 eClient_Guild_Create_Text
+
+
+57 27 26 10 0 eClient_Guild_Create_NoGold
+
+
+50 25 21 10 0 eClient_Guild_Create_Info
+
+
+42 20 18 10 0 eClient_Guild_Notice
+
+
+57 27 26 10 0 eClient_Guild_Create_NoText
+
+
+25 17 4 10 0 eClient_Guild_Day
+
+
+34 22 8 10 0 eClient_Guild_Less1Day
+
+
+55 29 22 10 0 eClient_Guild_InputInviteName
+
+
+58 30 24 10 0 eClient_Guild_InputChangeAbout
+
+
+85 33 48 10 0 eClient_Friend_Request_ADD_Friend
+
+
+40 29 7 10 0 eClient_Friend_Show_level_Job
+
+
+40 30 6 10 0 eClient_Friend_Show_Which_line
+
+
+66 23 39 10 0 eClinet_Friend_Add_Text
+
+
+41 33 4 10 0 eClient_MonsterType_NormalMonster
+
+
+44 36 4 10 0 eClient_MonsterType_ExcellentMonster
+
+
+39 31 4 10 0 eClient_MonsterType_RareMonster
+
+
+41 33 4 10 0 eClient_MonsterType_LeaderMonster
+
+
+39 31 4 10 0 eClient_MonsterType_BossMonster
+
+
+38 30 4 10 0 eClient_MonsterType_GodMonster
+
+
+43 35 4 10 0 eClient_MonsterType_IllusionMonster
+
+
+34 26 4 10 0 eClient_MonsterType_Bullet
+
+
+32 24 4 10 0 eClient_MonsterType_Herb
+
+
+32 24 4 10 0 eClient_MonsterType_Mine
+
+
+32 24 4 10 0 eClient_MonsterType_Wood
+
+
+36 28 4 10 0 eClient_MonsterType_Treasure
+
+
+36 28 4 10 0 eClient_MonsterType_Building
+
+
+38 30 4 10 0 eClient_MonsterType_Collection
+
+
+34 26 4 10 0 eClient_MonsterRace_Animal
+
+
+33 25 4 10 0 eClient_MonsterRace_Human
+
+
+33 25 4 10 0 eClient_MonsterRace_Plant
+
+
+34 26 4 10 0 eClient_MonsterRace_Undead
+
+
+34 26 4 10 0 eClient_MonsterRace_Daemon
+
+
+35 27 4 10 0 eClient_MonsterRace_Machine
+
+
+35 27 4 10 0 eClient_MonsterRace_Special
+
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Normal
+
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Family
+
+
+47 35 8 10 0 eClient_Chat_Prepositive_Text_Guild
+
+
+46 34 8 10 0 eClient_Chat_Prepositive_Text_Team
+
+
+49 37 8 10 0 eClient_Chat_Prepositive_Text_Private
+
+
+47 35 8 10 0 eClient_Chat_Prepositive_Text_World
+
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Friend
+
+
+51 36 11 10 0 eClient_Chat_Prepositive_Text_Battle
+
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_System
+
+
+49 34 11 10 0 eClient_Chat_Prepositive_Text_Bull
+
+
+47 35 8 10 0 eClient_Chat_Prepositive_Text_Shout
+
+
+53 37 12 10 0 eClient_Chat_Prepositive_Text_ShoutEx
+
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Region
+
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Nation
+
+
+47 35 8 10 0 eClient_Chat_Prepositive_Text_Lobby
+
+
+30 21 5 10 0 eClient_Npc_CanAccept
+
+
+30 21 5 10 0 eClient_Npc_CanFinish
+
+
+29 18 7 10 0 eClinet_Npc_Undone
+
+
+37 24 9 10 0 eClinet_Npc_Unsuccessful
+
+
+23 15 4 10 0 eClient_NpcTalk
+
+
+23 15 4 10 0 eClient_NpcHelp
+
+
+23 15 4 10 0 eClient_NpcShop
+
+
+27 19 4 10 0 eClient_NpcTransmit
+
+
+24 16 4 10 0 eClient_NpcLeave
+
+
+31 23 4 10 0 eClient_PetState_Defend
+
+
+38 30 4 10 0 eClient_PetState_CounterStrike
+
+
+31 23 4 10 0 eClient_PetState_Attack
+
+
+33 25 4 10 0 eClient_PetQuality_Normal
+
+
+46 25 17 10 0 eClient_PetQuality_Better
+
+
+44 23 17 10 0 eClient_PetQuality_Good
+
+
+49 28 17 10 0 eClient_PetQuality_Excellent
+
+
+47 26 17 10 0 eClient_PetQuality_Perfect
+
+
+33 25 4 10 0 eClient_PetNature_Naughty
+
+
+33 25 4 10 0 eClient_PetNature_Earnest
+
+
+30 22 4 10 0 eClient_PetNature_Rush
+
+
+31 23 4 10 0 eClient_PetNature_Blood
+
+
+31 23 4 10 0 eClient_PetNature_Timid
+
+
+30 22 4 10 0 eClient_PetNature_Calm
+
+
+39 31 4 10 0 eClient_PetGrowthType_Precocity
+
+
+37 29 4 10 0 eClient_PetGrowthType_Balance
+
+
+40 32 4 10 0 eClient_PetGrowthType_LateMature
+
+
+35 25 6 10 0 eClient_PetState_Fighting
+
+
+33 19 10 10 0 eClient_NpcMergePet
+
+
+40 22 14 10 0 eClient_NpcGetMergePet
+
+
+25 17 4 10 0 eClient_SpwanText
+
+
+46 24 18 10 0 eClient_NeedSuperiorHelp
+
+
+117 24 89 10 0 eClient_HelpNewPlayerMsg
+
+
+51 23 24 10 0 eClient_ReqSuperiorList
+
+
+48 20 24 10 0 eClient_ReqNewerList
+
+
+57 15 38 10 0 eClient_BeNewer
+
+
+60 18 38 10 0 eClient_BeSuperior
+
+
+39 23 12 10 0 eClient_ReqSuperiorHelp
+
+
+36 20 12 10 0 eClinet_ReqHelpNewer
+
+
+20 14 2 10 0 eClient_Level1
+
+
+23 13 6 10 0 eClient_Level
+
+
+22 12 6 10 0 eCLient_Wear
+
+
+21 11 6 10 0 eClient_Job
+
+
+21 11 6 10 0 eClient_Sex
+
+
+27 17 6 10 0 eClient_UnBinding
+
+
+25 15 6 10 0 eClient_Binding
+
+
+35 23 8 10 0 eClient_RightHandWeapon
+
+
+34 22 8 10 0 eClient_LeftHandWeapon
+
+
+27 13 10 10 0 eClient_Price
+
+
+30 16 10 10 0 eClient_GrowRate
+
+
+29 17 8 10 0 eClient_GrowLevel
+
+
+28 16 8 10 0 eClient_GrowAttr
+
+
+31 19 8 10 0 eClient_BindingAttr
+
+
+25 15 6 10 0 eClient_UnBeset
+
+
+26 16 6 10 0 eClient_EquipOne
+
+
+26 16 6 10 0 eClinet_EquipTwo
+
+
+28 18 6 10 0 eClient_EquipThree
+
+
+27 17 6 10 0 eClient_EquipFour
+
+
+27 17 6 10 0 eClient_EquipFive
+
+
+25 15 6 10 0 eClinet_AttrOne
+
+
+25 15 6 10 0 eClient_AttrTwo
+
+
+23 13 6 10 0 eClient_Three
+
+
+22 12 6 10 0 eClient_Four
+
+
+90 21 65 10 0 eClient_RemainderTime
+
+
+23 15 4 10 0 eClient_Warrior
+
+
+24 14 6 10 0 eClient_Knight
+
+
+24 16 4 10 0 eClient_Assassin
+
+
+20 12 4 10 0 eClient_Mage
+
+
+24 14 6 10 0 eClient_Priest
+
+
+31 19 8 10 0 eClient_RestoreItem
+
+
+31 19 8 10 0 eClient_ComposeItem
+
+
+35 23 8 10 0 eClient_InitiativeSkill
+
+
+28 16 8 10 0 eClient_TaskItem
+
+
+43 32 7 10 0 eClient_ReliveUI_DeathPunishItem
+
+
+86 32 50 10 0 eClient_ReliveUI_DeathPunishOthe
+
+
+62 23 35 10 0 eClient_ReliveUI_Killer
+
+
+57 23 30 10 0 eClient_eNpcFunBecomeTS
+
+
+71 23 44 10 0 eClient_eNpcFunFinishTS
+
+
+48 26 18 10 0 eClient_eNpcFunFireStudent
+
+
+50 28 18 10 0 eClient_eNpcFunBetrayTeacher
+
+
+58 28 26 10 0 eClient_eNpcFunUpdateTeacher
+
+
+65 23 38 10 0 eClient_eNpcFunRemoveTS
+
+
+31 17 10 10 0 eClient_ItemLevel
+
+
+24 12 8 10 0 eClient_Rare
+
+
+30 16 10 10 0 eClient_UseLevel
+
+
+32 18 10 10 0 eClient_SkillLevel
+
+
+27 15 8 10 0 eClient_MPConst
+
+
+34 20 10 10 0 eClient_ColdDownTime
+
+
+49 20 25 10 0 eClient_OtherPetLock
+
+
+36 24 8 10 0 eClient_NpcFunLearnSkill
+
+
+45 33 8 10 0 eClient_NpcFuncCountryForbidSpeak
+
+
+43 31 8 10 0 eClient_CountryForbidSpeakInput
+
+
+42 30 8 10 0 eClient_NpcFuncCountryImprison
+
+
+40 28 8 10 0 eClient_CountryImprisonInput
+
+
+39 21 14 10 0 eClient_PetPatchSkill
+
+
+33 19 10 10 0 eClient_PetStrength
+
+
+33 19 10 10 0 eClient_PetInitBaby
+
+
+33 21 8 10 0 eClient_FunEquipBoost
+
+
+36 20 12 10 0 eClient_FunEquipFace
+
+
+40 24 12 10 0 eClient_FunEquipFaceIcon
+
+
+32 20 8 10 0 eClient_FunEquipHair
+
+
+45 27 14 10 0 eClient_PleaseSetRebornItem
+
+
+80 24 52 10 0 eClient_PleaseSetSexItem
+
+
+46 26 16 10 0 eClient_PleaseInputPetName
+
+
+23 15 4 10 0 eClient_PetMale
+
+
+25 17 4 10 0 eClient_PetFemale
+
+
+34 18 12 10 0 eClient_PetSexRate
+
+
+31 19 8 10 0 eClient_ExpendMoney
+
+
+33 19 10 10 0 eClient_FunPetBuild
+
+
+49 20 25 10 0 eGoldSaleData_String
+
+
+56 20 32 10 0 eGoldSaleNote_String
+
+
+33 19 10 10 0 eClient_MailSender1
+
+
+31 19 8 10 0 eClient_MailSender2
+
+
+30 18 8 10 0 eClient_MailTitle1
+
+
+30 18 8 10 0 eClient_MailTitle2
+
+
+37 23 10 10 0 eGold_SaleUI_Unit_price
+
+
+35 21 10 10 0 eClient_PetGeneration
+
+
+56 32 20 10 0 eClient_UsecrystalballMessagebox
+
+
+34 22 8 10 0 eClient_FunGoldConsign
+
+
+52 38 10 10 0 eClient_InputBox_PrivateShopChangeName
+
+
+42 30 8 10 0 eClient_InputBox_ChangeNameDef
+
+
+44 26 14 10 0 eClinet_Friend1v1ChatTitle
+
+
+19 12 3 10 0 ePetNameLvl0
+
+
+19 12 3 10 0 ePetNameLvl1
+
+
+19 12 3 10 0 ePetNameLvl2
+
+
+19 12 3 10 0 ePetNameLvl3
+
+
+19 12 3 10 0 ePetNameLvl4
+
+
+19 12 3 10 0 ePetNameLvl5
+
+
+19 12 3 10 0 ePetNameLvl6
+
+
+19 12 3 10 0 ePetNameLvl7
+
+
+19 12 3 10 0 ePetNameLvl8
+
+
+20 12 4 10 0 ePetNameLvl9
+
+
+35 15 16 10 0 ePetNameLvl0_ui
+
+
+35 15 16 10 0 ePetNameLvl1_ui
+
+
+35 15 16 10 0 ePetNameLvl2_ui
+
+
+35 15 16 10 0 ePetNameLvl3_ui
+
+
+35 15 16 10 0 ePetNameLvl4_ui
+
+
+35 15 16 10 0 ePetNameLvl5_ui
+
+
+26 12 10 10 0 ShowPetLine3
+
+
+21 9 8 10 0 Name_Soul
+
+
+45 25 16 10 0 Name_IlluminatiPrometheus
+
+
+26 16 6 10 0 Name_MonthRabbit
+
+
+33 21 8 10 0 Name_AnamnesisCoherer
+
+
+28 16 8 10 0 Name_RomeMonarch
+
+
+38 24 10 10 0 Name_DestroyDragonTrojan
+
+
+25 13 8 10 0 Name_Succubae
+
+
+27 15 8 10 0 Name_CattleKing
+
+
+24 16 4 10 0 Name_ProtectLing
+
+
+32 18 10 10 0 Name_ExplorerLaura
+
+
+29 17 8 10 0 Name_RockColossus
+
+
+34 24 6 10 0 Name_DestroyDragonTrojan
+
+
+34 24 6 10 0 Name_DestroyDragonTrojan
+
+
+23 11 8 10 0 Name_Monkey
+
+
+29 17 8 10 0 Name_PrettyHunter
+
+
+27 15 8 10 0 Name_StyxPunter
+
+
+26 14 8 10 0 Name_StormLady
+
+
+29 17 8 10 0 Name_AraneidBegum
+
+
+30 18 8 10 0 Name_AnchorCaptain
+
+
+27 15 8 10 0 Name_bianyimogu
+
+
+31 19 8 10 0 Name_huaxingzhanshi
+
+
+29 17 8 10 0 Name_jifengzhiren
+
+
+25 15 6 10 0 Name_meihouwang
+
+
+31 19 8 10 0 Name_manchuiyongshi
+
+
+26 18 4 10 0 Name_yingxiongwang
+
+
+28 16 8 10 0 Name_emuolieshou
+
+
+30 16 10 10 0 Name_jixiegongdi
+
+
+26 18 4 10 0 Name_hanbingnvjisi
+
+
+29 17 8 10 0 Name_leitingzhinu
+
+
+27 15 8 10 0 Name_kapaidashi
+
+
+21 13 4 10 0 Name_mangseng
+
+
+24 10 10 10 0 Name_liluo
+
+
+22 12 6 10 0 Name_qiandai
+
+
+23 11 8 10 0 Name_kalasi
+
+
+21 9 8 10 0 Name_ainu
+
+
+21 11 6 10 0 Name_bolisi
+
+
+21 9 8 10 0 Name_muli
+
+
+24 12 8 10 0 Name_haokaya
+
+
+24 12 8 10 0 Name_duolixi
+
+
+24 12 8 10 0 Name_mingren
+
+
+22 10 8 10 0 Name_lufei
+
+
+26 14 8 10 0 Name_haenlaite
+
+
+22 12 6 10 0 Name_aoteman
+
+
+22 12 6 10 0 Name_wusuopu
+
+
+22 12 6 10 0 Name_woailuo
+
+
+19 10 5 10 0 Name_saber
+
+
+23 13 6 10 0 Name_xialuote
+
+
+25 13 8 10 0 Name_shilaike
+
+
+23 13 6 10 0 Name_yadianna
+
+
+21 11 6 10 0 Name_qiaoba
+
+
+24 12 8 10 0 Name_yingyan
+
+
+18 10 4 10 0 Name_croki
+
+
+17 9 4 10 0 Name_lvbu
+
+
+21 13 4 10 0 Name_diaochan
+
+
+21 13 4 10 0 Name_zhangfei
+
+
+25 15 6 10 0 Name_zhugeliang
+
+
+19 11 4 10 0 Name_guanyu
+
+
+21 13 4 10 0 Name_dashewan
+
+
+24 12 8 10 0 Name_hamcock
+
+
+20 9 7 10 0 Name_aisi
+
+
+22 12 6 10 0 Name_zilaiye
+
+
+21 11 6 10 0 Name_zuozhu
+
+
+24 12 8 10 0 Name_mingren
+
+
+24 12 8 10 0 Name_baihuzi
+
+
+21 11 6 10 0 Name_kakaxi
+
+
+20 12 4 10 0 Name_suolong
+
+
+19 11 4 10 0 Name_sishen
+
+
+25 8 13 10 0 Name_xue
+
+
+23 11 8 10 0 Name_luojie
+
+
+26 9 13 10 0 Name_xue2
+
+
+19 11 4 10 0 Name_fuwang
+
+
+29 17 8 10 0 Name_tongkunvwang
+
+
+22 12 6 10 0 Name_difashi
+
+
+33 19 10 10 0 Name_yueliangnvjisi
+
+
+28 16 8 10 0 Name_diyulingzhu
+
+
+20 12 4 10 0 Name_jinzhan
+
+
+22 14 4 10 0 Name_yuancheng
+
+
+18 8 6 10 0 Name_fda
+
+
+23 13 6 10 0 Name_shushiwa
+
+
+22 12 6 10 0 Name_qishiwa
+
+
+17 9 4 10 0 Name_nazi
+
+
+24 10 10 10 0 Name_asuna
+
+
+21 11 6 10 0 Name_hunter
+
+
+19 11 4 10 0 Name_zombie
+
+
+20 10 6 10 0 Name_rogue
+
+
+22 12 6 10 0 Name_warrior
+
+
+20 12 4 10 0 Name_suolong
+
+
+21 11 6 10 0 Name_cleric
+
+
+30 18 8 10 0 Name_heiyansheshou
+
+
+20 12 4 10 0 Name_tongren
+
+
+28 16 8 10 0 Name_yubanmeiqin
+
+
+25 13 8 10 0 Name_lingmeng
+
+
+18 10 4 10 0 Name_inori
+
+
+18 10 4 10 0 Name_shana
+
+
+30 16 10 10 0 Name_jinshanshan
+
+
+23 11 8 10 0 Name_chuyin
+
+
+27 15 8 10 0 Name_safeiluosi
+
+
+18 10 4 10 0 Name_gelei
+
+
+18 10 4 10 0 Name_sanli
+
+
+14 8 2 10 0 Name_hei
+
+
+21 11 6 10 0 Name_sessho
+
+
+21 9 8 10 0 Name_kami
+
+
+31 19 8 10 0 Name_QueenOfVanpire
+
+
+25 15 6 10 0 Name_lixiaolang
+
+
+24 12 8 10 0 Name_jianxin
+
+
+24 14 6 10 0 Name_sunwukong
+
+
+23 13 6 10 0 Name_lvziqiao
+
+
+24 12 8 10 0 Name_freedom
+
+
+25 15 6 10 0 Name_chenmeijia
+
+
+27 15 8 10 0 Name_buzhihuowu
+
+
+25 13 8 10 0 Name_kuangsan
+
+
+27 17 6 10 0 Name_zengxiaoxian
+
+
+23 9 10 10 0 Name_16ye
+
+
+17 9 4 10 0 Name_yeye
+
+
+20 8 8 10 0 Name_gin
+
+
+27 17 6 10 0 Name_littlewukong
+
+
+23 11 8 10 0 Name_icarus
+
+
+24 10 10 10 0 Name_konan
+
+
+24 10 10 10 0 Name_rikka
+
+
+24 10 10 10 0 Name_tohka
+
+
+21 9 8 10 0 Name_yami
+
+
+20 10 6 10 0 Name_ryuko
+
+
+18 8 6 10 0 Name_nep
+
+
+21 11 6 10 0 Name_homura
+
+
+22 12 6 10 0 Name_oumashu
+
+
+23 11 8 10 0 Name_madoka
+
+
+22 12 6 10 0 Name_nyaruko
+
+
+23 13 6 10 0 Name_lihuazou
+
+
+17 9 4 10 0 Name_momo
+
+
+20 8 8 10 0 Name_wrs
+
+
+29 17 8 10 0 Name_baijingheizi
+
+
+21 11 6 10 0 Name_archer
+
+
+25 13 8 10 0 Name_kuroneko
+
+
+21 11 6 10 0 Name_yukari
+
+
+25 15 6 10 0 Name_liangyishi
+
+
+22 14 4 10 0 Name_zekamashi
+
+
+23 9 10 10 0 Name_jojo
+
+
+19 11 4 10 0 Name_killua
+
+
+22 10 8 10 0 Name_kyoko
+
+
+25 11 10 10 0 Name_sayaka
+
+
+23 13 6 10 0 Name_jinmuyan
+
+
+29 17 8 10 0 Name_gaotingnaiye
+
+
+22 10 8 10 0 Name_qinli
+
+
+23 11 8 10 0 Name_shinai
+
+
+18 8 6 10 0 Name_rin
+
+
+20 10 6 10 0 Name_iriya
+
+
+18 10 4 10 0 Name_feite
+
+
+17 9 4 10 0 Name_nilu
+
+
+19 11 4 10 0 Name_zhezhi
+
+
+22 12 6 10 0 Name_siminai
+
+
+23 13 6 10 0 Name_heixueji
+
+
+24 12 8 10 0 Name_yaomeng
+
+
+22 12 6 10 0 Name_bamamei
+
+
+17 9 4 10 0 Name_kezi
+
+
+21 11 6 10 0 Name_yaliya
+
+
+22 12 6 10 0 Name_nuowalu
+
+
+18 10 4 10 0 Name_dasha
+
+
+37 23 10 10 0 Name_zhandoubaolongshou
+
+
+31 19 8 10 0 Name_yifangtongxing
+
+
+30 18 8 10 0 Name_youxiaomeijiu
+
+
+32 18 10 10 0 Name_mulaihongliqi
+
+
+17 9 4 10 0 Name_dita
+
+
+29 17 8 10 0 Name_lishanweilai
+
+
+18 10 4 10 0 Name_yisha
+
+
+22 10 8 10 0 eUI_Steps0
+
+
+21 10 7 10 0 eUI_Steps1
+
+
+23 10 9 10 0 eUI_Steps2
+
+
+23 10 9 10 0 eUI_Steps3
+
+
+23 10 9 10 0 eUI_Steps4
+
+
+23 10 9 10 0 eUI_Steps5
+
+
+23 10 9 10 0 eUI_Steps6
+
+
+23 10 9 10 0 eUI_Steps7
+
+
+23 10 9 10 0 eUI_Steps8
+
+
+23 10 9 10 0 eUI_Steps9
+
+
+25 11 10 10 0 eUI_Steps10
+
+
+19 11 4 10 0 eUI_Steps11
+
+
+19 11 4 10 0 eUI_Steps12
+
+
+19 11 4 10 0 eUI_Steps13
+
+
+19 11 4 10 0 eUI_Steps14
+
+
+19 11 4 10 0 eUI_Steps15
+
+
+19 11 4 10 0 eUI_Steps16
+
+
+19 11 4 10 0 eUI_Steps17
+
+
+19 11 4 10 0 eUI_Steps18
+
+
+19 11 4 10 0 eUI_Steps19
+
+
+19 11 4 10 0 eUI_Steps20
+
+
+24 12 8 10 0 eUI_Quality0
+
+
+19 12 3 10 0 eUI_Quality1
+
+
+19 12 3 10 0 eUI_Quality2
+
+
+19 12 3 10 0 eUI_Quality3
+
+
+19 12 3 10 0 eUI_Quality4
+
+
+19 12 3 10 0 eUI_Quality5
+
+
+19 12 3 10 0 eUI_Quality6
+
+
+19 12 3 10 0 eUI_Quality7
+
+
+19 12 3 10 0 eUI_Quality8
+
+
+19 12 3 10 0 eUI_Quality9
+
+
+21 13 4 10 0 eUI_Quality10
+
+
+34 22 8 10 0 eClient_FunGuildCreate
+
+
+40 24 12 10 0 eClient_FunShowGuildList
+
+
+47 27 16 10 0 eGoldSale_ConSignbuy_Failed
+
+
+48 28 16 10 0 eGoldSale_ConSignSell_Failed
+
+
+18 16 0 10 0 eClient_help_new
+
+
+20 18 0 10 0 eClient_help_quest
+
+
+21 19 0 10 0 eClient_help_remove
+
+
+20 18 0 10 0 eClient_help_skill
+
+
+19 17 0 10 0 eClient_help_pack
+
+
+20 18 0 10 0 eClient_help_equip
+
+
+18 16 0 10 0 eClient_help_buy
+
+
+20 18 0 10 0 eClient_help_depot
+
+
+21 19 0 10 0 eClient_help_action
+
+
+19 17 0 10 0 eClient_help_team
+
+
+20 18 0 10 0 eClient_help_carry
+
+
+20 18 0 10 0 eClient_help_death
+
+
+23 21 0 10 0 eClient_help_business
+
+
+20 18 0 10 0 eClient_help_title
+
+
+21 19 0 10 0 eClient_help_credit
+
+
+20 18 0 10 0 eClient_help_stall
+
+
+23 21 0 10 0 eClient_help_nineteen
+
+
+21 19 0 10 0 eClient_help_thirty
+
+
+22 20 0 10 0 eClient_help_mystery
+
+
+18 16 0 10 0 eClient_help_sit
+
+
+18 16 0 10 0 eClient_help_pet
+
+
+19 17 0 10 0 eClient_help_anew
+
+
+18 16 0 10 0 eClient_sup_high
+
+
+17 15 0 10 0 eClient_sup_low
+
+
+24 22 0 10 0 eClient_sup_cancelhigh
+
+
+23 21 0 10 0 eClient_sup_cancellow
+
+
+21 13 4 10 0 eSangreaLevel
+
+
+22 12 6 10 0 eSangrealExp
+
+
+21 13 4 10 0 eSangrealType
+
+
+17 15 0 10 0 eNormalSangreal
+
+
+15 13 0 10 0 eGoldSangreal
+
+
+31 15 12 10 0 eSangrealAddons
+
+
+22 14 4 10 0 strSangrealCap
+
+
+54 20 30 10 0 eClient_SafeTimeLast
+
+
+37 15 18 10 0 eClient_SafePwd
+
+
+51 27 20 10 0 eClient_SafeChangePwd_Empty
+
+
+53 27 22 10 0 eClient_SafeChangePwd_Error
+
+
+46 23 19 10 0 eClient_Text_HourMinSec
+
+
+34 19 11 10 0 eClient_Text_MinSec
+
+
+25 16 5 10 0 eClient_Text_Sec
+
+
+59 28 27 10 0 eExchange_RequestBestartDeal
+
+
+45 22 19 10 0 eExchange_ACKSTARTDEAL
+
+
+36 18 14 10 0 eTask_Cancel_Faild
+
+
+46 20 22 10 0 eClient_AskRemovePet
+
+
+49 29 16 10 0 eClient_PrivateShop_InputName
+
+
+34 14 16 10 0 eClient_getcre
+
+
+36 14 18 10 0 eClient_getges
+
+
+55 29 22 10 0 eClinet_Guild_Bid_Input_Money
+
+
+76 27 45 10 0 eClinet_Chat_Hyber_More_Two
+
+
+45 25 16 10 0 eClient_UI_AckAgreeRelive
+
+
+31 19 8 10 0 eClient_UI_BuyFaild
+
+
+43 19 20 10 0 eClient_UI_ItemNull
+
+
+74 22 48 10 0 eClient_UI_ItemNotSell
+
+
+18 10 4 10 0 eTaskType0
+
+
+18 10 4 10 0 eTaskType1
+
+
+18 10 4 10 0 eTaskType2
+
+
+18 10 4 10 0 eTaskType3
+
+
+18 10 4 10 0 eTaskType4
+
+
+18 10 4 10 0 eTaskType5
+
+
+18 10 4 10 0 eTaskType6
+
+
+18 10 4 10 0 eTaskType7
+
+
+18 10 4 10 0 eTaskType8
+
+
+18 10 4 10 0 eTaskType9
+
+
+19 11 4 10 0 eTaskType10
+
+
+19 11 4 10 0 eTaskType11
+
+
+44 21 19 10 0 eTaskUI_List_Complete
+
+
+30 12 14 10 0 eTaskUI_List
+
+
+47 30 13 10 0 eTaskUI_List_Complete_No_Level
+
+
+33 21 8 10 0 eTaskUI_List_No_Level
+
+
+45 15 26 10 0 eClietn_PetClew
+
+
+17 11 2 10 0 eClient_Day
+
+
+20 12 4 10 0 eClient_Hour
+
+
+20 14 2 10 0 eClient_Minute
+
+
+20 14 2 10 0 eClient_Second
+
+
+52 27 21 10 0 eClient_MailDelete_Makesure
+
+
+52 25 23 10 0 eClient_MailDelete_Forbid
+
+
+39 21 14 10 0 eClient_MailMoneyShow
+
+
+41 23 14 10 0 eClient_MailAddressNull
+
+
+49 23 22 10 0 eClient_MailTitleTooLen
+
+
+48 22 22 10 0 eClient_MailTextTooLen
+
+
+50 22 24 10 0 eClient_MailMoneyError
+
+
+53 23 26 10 0 eClient_MailEncelopNote
+
+
+41 23 14 10 0 eClient_MailAddressLong
+
+
+20 12 4 10 0 eClient_Gold
+
+
+21 13 4 10 0 eClient_Money
+
+
+32 16 12 10 0 eTaskUI_ShowTime
+
+
+38 22 12 10 0 eTaskUI_ShowTimeFailed
+
+
+35 17 14 10 0 eTaskUI_ShowTime2
+
+
+41 23 14 10 0 eTaskUI_ShowTimeFailed2
+
+
+31 21 6 10 0 ePet_SHOWNAME_DropPet
+
+
+27 15 8 10 0 eUI_OpenStorage
+
+
+33 22 7 10 0 ePet_SHOWNAME_DropPet2
+
+
+33 21 8 10 0 eGoldSaleUI_BuyButton
+
+
+34 22 8 10 0 eGoldSaleUI_SellButton
+
+
+37 17 16 10 0 TaskAcceptResult0
+
+
+55 17 34 10 0 TaskAcceptResult1
+
+
+37 17 16 10 0 TaskAcceptResult2
+
+
+47 17 26 10 0 TaskAcceptResult3
+
+
+51 17 30 10 0 TaskAcceptResult4
+
+
+53 17 32 10 0 TaskAcceptResult5
+
+
+51 17 30 10 0 TaskAcceptResult6
+
+
+47 17 26 10 0 TaskAcceptResult7
+
+
+45 17 24 10 0 TaskAcceptResult8
+
+
+43 17 22 10 0 TaskAcceptResult9
+
+
+46 18 24 10 0 TaskAcceptResult10
+
+
+46 18 24 10 0 TaskAcceptResult11
+
+
+58 18 36 10 0 TaskAcceptResult12
+
+
+58 18 36 10 0 TaskAcceptResult13
+
+
+54 18 32 10 0 TaskAcceptResult14
+
+
+46 18 24 10 0 TaskAcceptResult15
+
+
+46 18 24 10 0 TaskAcceptResult16
+
+
+50 18 28 10 0 TaskAcceptResult17
+
+
+50 18 28 10 0 TaskAcceptResult18
+
+
+50 18 28 10 0 TaskAcceptResult19
+
+
+48 18 26 10 0 TaskAcceptResult20
+
+
+48 18 26 10 0 TaskAcceptResult21
+
+
+48 18 26 10 0 TaskAcceptResult22
+
+
+36 18 14 10 0 TaskAcceptResult27
+
+
+52 26 22 10 0 eUI_CollectionSkillNeedLvl
+
+
+52 22 26 10 0 eUI_BulletSkillNeedLvl
+
+
+23 15 4 10 0 eClient_Crystal
+
+
+23 11 8 10 0 eClient_Gem
+
+
+21 13 4 10 0 eClient_Stone
+
+
+24 16 4 10 0 eClient_ReelItem
+
+
+29 17 8 10 0 eClient_OtherItem
+
+
+33 12 17 10 0 eUI_Prestige
+
+
+30 11 15 10 0 eUI_Teacher
+
+
+28 9 15 10 0 eUI_Honor
+
+
+29 8 17 10 0 eUI_Kill
+
+
+34 16 14 10 0 eClient_MergePet
+
+
+26 12 10 10 0 eClient_Pool
+
+
+23 11 8 10 0 eUI_npc_Lv1
+
+
+25 11 10 10 0 eUI_npc_Lv2
+
+
+27 11 12 10 0 eUI_npc_Lv3
+
+
+29 11 14 10 0 eUI_npc_Lv4
+
+
+31 11 16 10 0 eUI_npc_Lv5
+
+
+24 12 8 10 0 eUI_area_Lv1
+
+
+24 12 8 10 0 eUI_area_Lv2
+
+
+24 12 8 10 0 eUI_area_Lv3
+
+
+24 12 8 10 0 eUI_area_Lv4
+
+
+24 12 8 10 0 eUI_area_Lv5
+
+
+84 13 67 10 0 tip_pet_level
+
+
+92 19 69 10 0 tip_pet_growth_rate
+
+
+28 14 10 10 0 tip_pet_amount
+
+
+30 16 10 10 0 tip_pet_born_num
+
+
+47 12 31 10 0 tip_pet_name
+
+
+27 13 10 10 0 tip_pet_phyle
+
+
+72 14 54 10 0 tip_pet_mettle
+
+
+35 17 14 10 0 tip_pet_exp_total
+
+
+44 16 24 10 0 tip_pet_exp_next
+
+
+125 23 98 10 0 tip_pet_summon_fidelity
+
+
+69 17 48 10 0 tip_pet_summon_lv
+
+
+58 20 34 10 0 tip_pet_constitution
+
+
+52 14 34 10 0 tip_pet_spirit
+
+
+56 16 36 10 0 tip_pet_strength
+
+
+61 21 36 10 0 tip_pet_intelligencep
+
+
+69 15 50 10 0 tip_pet_agility
+
+
+110 28 78 10 0 tip_pet_free_base_attr_point
+
+
+49 10 35 10 0 tip_pet_hp
+
+
+58 10 44 10 0 tip_pet_mp
+
+
+29 11 14 10 0 tip_pet_str
+
+
+32 14 14 10 0 tip_pet_mp_atk
+
+
+29 11 14 10 0 tip_pet_hit
+
+
+31 13 14 10 0 tip_pet_dodge
+
+
+38 18 16 10 0 tip_pet_double_att
+
+
+25 11 10 10 0 tip_pet_sex
+
+
+115 15 96 10 0 tip_pet_quality
+
+
+82 20 58 10 0 tip_pet_double_title
+
+
+23 13 6 10 0 eClient_NoGem
+
+
+36 20 12 10 0 eTeam_Target_No_Team
+
+
+30 18 8 10 0 eUI_Produce_Failed
+
+
+41 24 13 10 0 eUI_Produce_AmountCntErr
+
+
+49 21 24 10 0 eUI_Relive_ReturnTime
+
+
+32 16 12 10 0 eTaskDoneResult0
+
+
+46 16 26 10 0 eTaskDoneResult1
+
+
+34 16 14 10 0 eTaskDoneResult2
+
+
+36 16 16 10 0 eTaskDoneResult3
+
+
+32 16 12 10 0 eTaskDoneResult4
+
+
+38 22 12 10 0 eGuild_RankChange_Fail
+
+
+40 18 18 10 0 eGuild_Select_NULL
+
+
+30 12 14 10 0 eGuild_DoNot
+
+
+38 20 14 10 0 eNpcDlgUI_AcceptTask
+
+
+34 18 12 10 0 eNpcDlgUI_DoneTask
+
+
+13 11 0 10 0 eEr_Skill_0
+
+
+19 11 4 10 0 eEr_Skill_1
+
+
+13 11 0 10 0 eEr_Skill_2
+
+
+33 11 18 10 0 eEr_Skill_3
+
+
+27 11 12 10 0 eEr_Skill_4
+
+
+33 11 18 10 0 eEr_Skill_5
+
+
+29 11 14 10 0 eEr_Skill_6
+
+
+13 11 0 10 0 eEr_Skill_7
+
+
+31 11 16 10 0 eEr_Skill_8
+
+
+25 11 10 10 0 eEr_Skill_9
+
+
+32 12 16 10 0 eEr_Skill_10
+
+
+35 13 18 10 0 eEr_Skill_100
+
+
+21 13 4 10 0 eEr_Skill_101
+
+
+27 13 10 10 0 eEr_Skill_102
+
+
+23 13 6 10 0 eEr_Skill_103
+
+
+33 13 16 10 0 eEr_Skill_104
+
+
+39 13 22 10 0 eEr_Skill_105
+
+
+39 13 22 10 0 eEr_Skill_106
+
+
+31 13 14 10 0 eEr_Skill_107
+
+
+35 13 18 10 0 eEr_Skill_108
+
+
+35 13 18 10 0 eEr_Skill_109
+
+
+37 13 20 10 0 eEr_Skill_110
+
+
+37 13 20 10 0 eEr_Skill_111
+
+
+37 13 20 10 0 eEr_Skill_112
+
+
+37 13 20 10 0 eEr_Skill_113
+
+
+37 13 20 10 0 eEr_Skill_114
+
+
+29 13 12 10 0 eEr_Skill_115
+
+
+43 13 26 10 0 eEr_Skill_116
+
+
+37 13 20 10 0 eEr_Skill_117
+
+
+37 13 20 10 0 eEr_Skill_118
+
+
+41 13 24 10 0 eEr_Skill_119
+
+
+41 13 24 10 0 eEr_Skill_120
+
+
+27 13 10 10 0 eEr_Skill_200
+
+
+29 13 12 10 0 eEr_Skill_201
+
+
+21 13 4 10 0 eEr_Skill_202
+
+
+33 13 16 10 0 eEr_Skill_203
+
+
+37 13 20 10 0 eEr_Skill_204
+
+
+29 13 12 10 0 eEr_Skill_205
+
+
+31 13 14 10 0 eEr_Skill_206
+
+
+37 13 20 10 0 eEr_Skill_207
+
+
+33 13 16 10 0 eEr_Skill_208
+
+
+27 13 10 10 0 eEr_Skill_209
+
+
+29 13 12 10 0 eEr_Skill_210
+
+
+29 13 12 10 0 eEr_Skill_211
+
+
+26 13 9 10 0 eEr_Skill_212
+
+
+31 13 14 10 0 eEr_Skill_213
+
+
+27 13 10 10 0 eEr_Skill_214
+
+
+27 13 10 10 0 eEr_Skill_215
+
+
+27 13 10 10 0 eEr_Skill_216
+
+
+31 13 14 10 0 eEr_Skill_217
+
+
+37 13 20 10 0 eEr_Skill_218
+
+
+37 13 20 10 0 eEr_Skill_219
+
+
+31 13 14 10 0 eEr_Skill_220
+
+
+31 13 14 10 0 eEr_Skill_221
+
+
+25 13 8 10 0 eEr_Skill_222
+
+
+25 13 8 10 0 eEr_Skill_223
+
+
+25 13 8 10 0 eEr_Skill_255
+
+
+40 22 14 10 0 eEr_Skill_Error_Notify
+
+
+54 18 32 10 0 eEr_Skill_NoTarget
+
+
+47 25 18 10 0 eClient_Following_NotMove
+
+
+46 24 18 10 0 eClient_Following_NotHit
+
+
+32 16 12 10 0 eSelect_NoCreate
+
+
+34 24 6 10 0 eClient_FriendUI_Teacher
+
+
+35 25 6 10 0 eClient_FriendUI_prentice
+
+
+36 22 10 10 0 eExchangeUI_InputMoney
+
+
+47 25 18 10 0 eMapSystem_NotPrivateShop
+
+
+36 22 10 10 0 eGuild_Self_Not_Leader
+
+
+49 23 22 10 0 eBlacklist_Add_MakeSure
+
+
+43 19 20 10 0 eClient_CopyName_OK
+
+
+41 17 20 10 0 eGuild_Member_Add
+
+
+80 31 45 10 0 eError_Chat_Private_InpurtError
+
+
+78 35 39 10 0 eError_Chat_Lobby_SummonerLevelNeed
+
+
+78 35 39 10 0 eError_Chat_Shout_SummonerLevelNeed
+
+
+59 26 29 10 0 eError_Expect_IsNotTeacher
+
+
+70 26 40 10 0 LevelNotEnoughChangePKMode
+
+
+44 27 13 10 0 eText_YouGetItem_Collection
+
+
+41 18 19 10 0 eClient_FlyFlagPos
+
+
+38 20 14 10 0 eClinet_FlyFlagCount
+
+
+22 12 6 10 0 eClientNoGem
+
+
+27 15 8 10 0 eClientGemFlare
+
+
+69 16 49 10 0 eUI_BagUI_ExpBag
+
+
+45 15 26 10 0 eGuild_Me_Expel
+
+
+38 18 16 10 0 eGuild_Other_Expel
+
+
+49 29 16 10 0 eExchangeSystem_BindItemError
+
+
+13 7 2 10 0 [level]
+
+
+30 18 8 10 0 eGuild_Tasker_Mask
+
+
+24 22 0 10 0 NotHaveLoudspeakerItem
+
+
+31 19 8 10 0 eNpcFunGuildDisband
+
+
+29 17 8 10 0 eUI_Hurt_MagicDef
+
+
+24 16 4 10 0 eComposeFoundry0
+
+
+24 16 4 10 0 eComposeFoundry1
+
+
+22 16 2 10 0 eComposeFoundry2
+
+
+24 16 4 10 0 eComposeFoundry3
+
+
+24 16 4 10 0 eComposeFoundry4
+
+
+24 16 4 10 0 eComposeFoundry5
+
+
+24 16 4 10 0 eComposeFoundry6
+
+
+22 14 4 10 0 eComposeCloth0
+
+
+22 14 4 10 0 eComposeCloth1
+
+
+22 14 4 10 0 eComposeCloth2
+
+
+22 14 4 10 0 eComposeCloth3
+
+
+22 14 4 10 0 eComposeCloth4
+
+
+22 14 4 10 0 eComposeCloth5
+
+
+22 14 4 10 0 eComposeCloth6
+
+
+22 14 4 10 0 eComposeCloth7
+
+
+26 18 4 10 0 eComposeTechnical0
+
+
+26 18 4 10 0 eComposeTechnical1
+
+
+26 18 4 10 0 eComposeTechnical2
+
+
+26 18 4 10 0 eComposeTechnical3
+
+
+26 18 4 10 0 eComposeTechnical4
+
+
+26 18 4 10 0 eComposeTechnical5
+
+
+24 16 4 10 0 eComposeAlchemy0
+
+
+30 16 10 10 0 eComposeAlchemy1
+
+
+30 16 10 10 0 eComposeAlchemy2
+
+
+24 16 4 10 0 eComposeAlchemy3
+
+
+28 20 4 10 0 eComposeProficiency0
+
+
+28 20 4 10 0 eComposeProficiency1
+
+
+28 20 4 10 0 eComposeProficiency2
+
+
+28 20 4 10 0 eComposeProficiency3
+
+
+19 9 6 10 0 [perfect]
+
+
+43 23 16 10 0 eDoubleTime_OpenSuccess
+
+
+44 24 16 10 0 eDoubleTime_CloseSuccess
+
+
+64 23 37 10 0 eDoubleTime_NoAddonTime
+
+
+47 19 24 10 0 eDoubleTime_TimeOut
+
+
+56 16 36 10 0 eDoubleTime_InCD
+
+
+84 17 63 10 0 eDoubleTime_OnRun
+
+
+74 19 51 10 0 eDoubleTime_OnClose
+
+
+34 16 14 10 0 eClient_CantDrag
+
+
+27 19 4 10 0 eCommon_Time_Minute
+
+
+59 27 28 10 0 eGuild_Notice_Forbid_Change
+
+
+91 18 69 10 0 eGuild_CanNot_Open
+
+
+39 27 8 10 0 eClient_FunShowDisbandGuild
+
+
+44 20 20 10 0 eClient_Delete_Rider
+
+
+89 25 60 10 0 ID_TEXT_Skill_Requirement
+
+
+80 24 52 10 0 eMsgBox_RepairSingleItem
+
+
+43 21 18 10 0 eUI_Produce_LackMoney
+
+
+44 22 18 10 0 eUI_Produce_LackVigour
+
+
+28 20 4 10 0 eUI_MoneyInput_Fetch
+
+
+28 20 4 10 0 eUI_MoneyInput_Store
+
+
+65 24 37 10 0 learn_skill_level_need_0
+
+
+67 24 39 10 0 learn_skill_level_need_1
+
+
+46 19 23 10 0 eClient_CantSaySelf
+
+
+59 25 30 10 0 eClient_CantAddFriendSelf
+
+
+59 28 27 10 0 eClinet_Team_Change_TeamName
+
+
+71 25 42 10 0 eClientTeamHeader_AddTeam
+
+
+37 21 12 10 0 eClient_Show_TeamName
+
+
+47 29 14 10 0 eUIExam_EncouragementTimeleft
+
+
+88 24 60 10 0 eUIExam_Answeroutofftime
+
+
+92 20 68 10 0 eUIExam_Answerintime
+
+
+37 25 8 10 0 eUIExam_EncouragementTime
+
+
+38 26 8 10 0 eUIExam_AnswerAccomplished
+
+
+58 14 40 10 0 eUIExam_Giveup
+
+
+49 23 22 10 0 eUIExam_RightGivePoints
+
+
+25 13 8 10 0 eUIExam_Wrong
+
+
+44 21 19 10 0 eUIExam_QuestionIndex
+
+
+46 18 24 10 0 eUIExam_WrongLimit
+
+
+31 15 12 10 0 eUIExam_LeftNum
+
+
+44 30 10 10 0 eUIMagicWeapon_UpgradeTimeLeft
+
+
+28 20 4 10 0 eUIMagicWeapon_Equip
+
+
+29 21 4 10 0 eUIMagicWeapon_Unload
+
+
+39 27 8 10 0 eUIMagicWeapon_StartUpgrade
+
+
+38 26 8 10 0 eUIMagicWeapon_StopUpgrade
+
+
+55 33 18 10 0 eUIMagicWeapon_YouhaveNoUpgradeMW
+
+
+51 23 24 10 0 eUIMagicWeapon_CurLevel
+
+
+44 18 22 10 0 eUIRanklist_NoRank
+
+
+68 25 39 10 0 eUIStorage_ExpandNeedGold
+
+
+24 16 4 10 0 eClient_Warnning
+
+
+55 29 22 10 0 eUIStorage_ExpandError_NoGold
+
+
+41 17 20 10 0 eUIStorage_MaxNum
+
+
+21 13 4 10 0 eClient_Error
+
+
+60 32 24 10 0 eUIStorage_NotEnoughMoneyToFetch
+
+
+60 32 24 10 0 eUIStorage_NotEnoughMoneyToStore
+
+
+52 24 24 10 0 eClientTeamFollow_Cannel
+
+
+32 19 9 10 0 eTaskUI_MonsterNeed
+
+
+36 28 4 10 0 eClient_GrowthType_Precocity
+
+
+34 26 4 10 0 eClient_GrowthType_Balance
+
+
+37 29 4 10 0 eClient_GrowthType_LateMature
+
+
+55 23 28 10 0 eClientMessage_1v1_Chat
+
+
+77 26 47 10 0 eClientMessage_TeamRequest
+
+
+38 18 16 10 0 eGuild_Change_Rank
+
+
+41 20 17 10 0 eGuild_Change_Tasker
+
+
+34 8 22 10 0 noSocket
+
+
+35 11 20 10 0 canNotInlay
+
+
+85 19 62 10 0 eAskIsDisbandMaster
+
+
+94 29 61 10 0 eClient_ExpelStudentNeedMoney
+
+
+52 23 25 10 0 eWorldChatNeedSomething
+
+
+54 24 26 10 0 eNationChatNeedSomething
+
+
+40 28 8 10 0 eMsgTaskAckNpc_TypeTask_List
+
+
+43 37 2 10 0 eMsgTaskAckNpc_TypeTask_List_No_Level
+
+
+51 29 18 10 0 eTask_UpdateState_TaskCanDone
+
+
+28 16 8 10 0 eTask_NeedTraget
+
+
+34 18 12 10 0 eTask_CurrentGroup
+
+
+58 28 26 10 0 eGuild_ChangeMaster_MakeSure
+
+
+34 18 12 10 0 eGuild_DisableChat
+
+
+65 23 38 10 0 eGuild_DisableChat_Self
+
+
+40 18 18 10 0 eClient_ComboBonus
+
+
+34 12 18 10 0 eGuild_Apply
+
+
+55 24 27 10 0 eFormat_Guild_MemberList
+
+
+36 23 9 10 0 eFormat_Guild_GuildList
+
+
+44 30 10 10 0 eFormat_Guild_GuildList_Detail
+
+
+69 23 42 10 0 eGuild_DisableChat_Open
+
+
+40 14 22 10 0 eClient_GetPet
+
+
+40 16 20 10 0 eClient_GetRider
+
+
+50 21 25 10 0 eBargainLevelNotAllow
+
+
+26 14 8 10 0 eBargainFailed
+
+
+34 20 10 10 0 eBargainItemNotExist
+
+
+29 17 8 10 0 eBargainLackMoney
+
+
+41 19 18 10 0 eBargainMapNotAllow
+
+
+65 27 34 10 0 eGoldSaleData_ExamineString
+
+
+44 28 12 10 0 eGoldSale_ConSignSell_Sucess
+
+
+32 20 8 10 0 eGoldConsignLackGold
+
+
+33 21 8 10 0 eGoldConsignLackMoney
+
+
+34 18 12 10 0 eGoldConsignFailed
+
+
+35 19 12 10 0 eGoldConsignSucceed
+
+
+40 18 18 10 0 eGoldConsignSystem
+
+
+56 34 18 10 0 eUIMagicWeapon_YouhaveNoEquippedMW
+
+
+29 15 10 10 0 eClient_BeEquip
+
+
+46 18 24 10 0 eClient_LearnSkill
+
+
+62 32 26 10 0 Error_DeviationTeacher_NoTeacher
+
+
+36 20 12 10 0 eClient_EnchaseState
+
+
+41 22 15 10 0 eClient_PerfectEnchase
+
+
+66 28 34 10 0 eClient_AutoTurnOn_NotEnergy
+
+
+36 18 14 10 0 eNpcShopCanNotSell
+
+
+70 36 30 10 0 eError_DeviationTeacher_IsNotTeacher
+
+
+41 27 10 10 0 eErrorUserSkillTargetIsMark
+
+
+78 16 58 10 0 eClient_Safe_Bag
+
+
+82 20 58 10 0 eClient_Safe_Storage
+
+
+83 17 62 10 0 eClient_Safe_Shop
+
+
+87 17 66 10 0 eClient_Safe_Mail
+
+
+48 23 21 10 0 eClient_Mail_NewReceive
+
+
+45 21 20 10 0 eIntelligenceNoEnough
+
+
+43 21 18 10 0 eClient_Mail_SendSelf
+
+
+35 25 6 10 0 eFriendUIsShowInfo_Friend
+
+
+32 23 5 10 0 eFriendUIsShowInfo_Temp
+
+
+33 24 5 10 0 eFriendUIsShowInfo_Enemy
+
+
+37 28 5 10 0 eFriendUIsShowInfo_Blacklist
+
+
+62 14 44 10 0 eTellIntoPkMap
+
+
+104 18 82 10 0 eClient_MoneyLimit
+
+
+42 24 14 10 0 eExchange_ItemNotExhange
+
+
+65 28 33 10 0 eTipTeamHaveSomeBodyIntoTeam
+
+
+34 18 12 10 0 ePlayerCountIsFull
+
+
+65 20 41 10 0 eGetRoleInfo_Waiting
+
+
+41 19 18 10 0 eText_PartitionLine
+
+
+36 18 14 10 0 eText_YouGetCurExp
+
+
+31 16 11 10 0 eText_YouGetItem
+
+
+29 17 8 10 0 eEquipType_Unknow
+
+
+23 15 4 10 0 eEquipType_Hair
+
+
+21 15 2 10 0 eEquipType_Face
+
+
+32 20 8 10 0 eEquipType_lHandItem
+
+
+32 20 8 10 0 eEquipType_rHandItem
+
+
+25 17 4 10 0 eEquipType_Weapon
+
+
+25 17 4 10 0 eEquipType_Shield
+
+
+25 17 4 10 0 eEquipType_Helmet
+
+
+27 19 4 10 0 eEquipType_HeadWear
+
+
+25 17 4 10 0 eEquipType_Armour
+
+
+27 19 4 10 0 eEquipType_Shoulder
+
+
+24 16 4 10 0 eEquipType_Glove
+
+
+23 15 4 10 0 eEquipType_Sash
+
+
+27 19 4 10 0 eEquipType_Trousers
+
+
+23 15 4 10 0 eEquipType_Shoe
+
+
+23 15 4 10 0 eEquipType_Ring
+
+
+23 15 4 10 0 eEquipType_Neck
+
+
+29 17 8 10 0 eEquipType_Amulet
+
+
+23 15 4 10 0 eEquipType_Back
+
+
+22 14 4 10 0 eEquipType_Art
+
+
+24 16 4 10 0 eEquipType_Dress
+
+
+29 17 8 10 0 eEquipType_Common
+
+
+28 12 12 10 0 eNowCannotDo
+
+
+22 12 6 10 0 eText_AllPro
+
+
+26 14 8 10 0 eEquip_Durable
+
+
+55 23 28 10 0 eText_CreateCheckNameOK
+
+
+45 23 18 10 0 eText_CreateCheckNameNO
+
+
+55 25 26 10 0 eText_TeamFail_AssignMode
+
+
+51 29 18 10 0 eText_Server_TeamTargetInTeam
+
+
+58 34 20 10 0 eText_Server_TeamTargetResquesting
+
+
+68 34 30 10 0 eText_Server_TeamRequestOnlyHeader
+
+
+46 28 14 10 0 eText_Server_TeamJoinSuccess
+
+
+36 24 8 10 0 eText_Server_TeamDisband
+
+
+41 23 14 10 0 eText_Server_TeamLeaved
+
+
+46 27 15 10 0 eText_TeamFail_TargetCancel
+
+
+46 25 17 10 0 eText_UpgradeTeam_Succeed
+
+
+47 23 20 10 0 eText_UpgradeTeam_Faild
+
+
+32 14 14 10 0 eText_BannedPK
+
+
+33 17 12 10 0 eText_YouHaveLeft
+
+
+59 31 24 10 0 eText_DaysToClearItemProtectPwd
+
+
+57 31 22 10 0 eText_CanNotPushItemIntoStorage
+
+
+40 22 14 10 0 eText_BankTradeSucceed
+
+
+49 23 22 10 0 eText_BankTradeBankFull
+
+
+49 29 16 10 0 eText_BankTradePlayerNotMoney
+
+
+47 27 16 10 0 eText_BankTradeBankNotMoney
+
+
+47 25 18 10 0 eText_BankTradeUpgradeMax
+
+
+33 21 8 10 0 eText_BankTradeFalied
+
+
+48 26 18 10 0 eText_ItemCannotBeenLocked
+
+
+30 18 8 10 0 eText_StrByLevelUp
+
+
+30 18 8 10 0 eText_AgiByLevelUp
+
+
+30 18 8 10 0 eText_ConByLevelUp
+
+
+30 18 8 10 0 eText_AppByLevelUp
+
+
+30 18 8 10 0 eText_MagByLevelUp
+
+
+31 19 8 10 0 eText_LuckByLevelUp
+
+
+45 21 20 10 0 eText_ItemMaxStoreNum
+
+
+46 24 18 10 0 eText_ThisItemCanNotDrop
+
+
+44 24 16 10 0 eText_TargetNotInTheView
+
+
+47 25 18 10 0 eText_ItemCanNotBeenMoved
+
+
+51 19 28 10 0 eText_DeathWaitTime
+
+
+42 20 18 10 0 eText_PwdResetSuceed
+
+
+48 20 24 10 0 eText_PlsSetPwdFirst
+
+
+44 13 27 10 0 eText_VerInfo
+
+
+48 18 26 10 0 eText_ItemUseLevel
+
+
+22 14 4 10 0 eText_Superadd
+
+
+19 13 2 10 0 eUI_EquipStep
+
+
+14 8 2 10 0 eUI_Holy
+
+
+29 15 10 10 0 eUI_HolyHitOdds
+
+
+27 17 6 10 0 eUI_HolyHitDamage
+
+
+32 16 12 10 0 eUI_LuckyHitOdds
+
+
+30 20 6 10 0 eUI_MinPhysicsAttack
+
+
+30 20 6 10 0 eUI_MaxPhysicsAttack
+
+
+30 18 8 10 0 eUI_MinMagicAttack
+
+
+30 18 8 10 0 eUI_MaxMagicAttack
+
+
+38 16 18 10 0 eUI_AnimalMaster
+
+
+39 17 18 10 0 eUI_FoliageMaster
+
+
+37 15 18 10 0 eUI_HumanMaster
+
+
+41 19 18 10 0 eUI_MachineryMaster
+
+
+38 16 18 10 0 eUI_UndeadMaster
+
+
+37 15 18 10 0 eUI_DemonMaster
+
+
+27 17 6 10 0 eText_IT_MATERIAL
+
+
+26 16 6 10 0 eText_IT_RESTORE
+
+
+20 12 4 10 0 eText_IT_GEM
+
+
+25 13 8 10 0 eText_IT_TASK
+
+
+22 14 4 10 0 eSystemName_HP
+
+
+22 14 4 10 0 eSystemName_MP
+
+
+24 18 2 10 0 eSystemName_Second
+
+
+42 18 20 10 0 eText_InputItemPwd
+
+
+41 23 14 10 0 eText_InputItemPwdAgain
+
+
+46 24 18 10 0 eText_InputPwdNotTheSame
+
+
+44 16 24 10 0 eText_Disconnect
+
+
+48 22 22 10 0 eText_NowTryConnecting
+
+
+51 15 32 10 0 eText_Connected
+
+
+39 13 22 10 0 eText_GetGate
+
+
+53 19 30 10 0 eText_ConnectToGate
+
+
+38 20 14 10 0 eText_SendRightCheck
+
+
+56 20 32 10 0 eText_WaitingRequest
+
+
+31 17 10 10 0 eText_IsIntensify
+
+
+48 18 26 10 0 eText_ItemPwdError
+
+
+36 16 16 10 0 eText_IsSellItem
+
+
+46 22 20 10 0 eText_InputSellItemCnt
+
+
+56 15 37 10 0 eText_ItemNoBuy
+
+
+57 21 32 10 0 eText_MoneyNotEnoungh
+
+
+41 13 24 10 0 eText_PwdNull
+
+
+42 24 14 10 0 eText_ItemHaveBeenLocked
+
+
+63 25 34 10 0 eText_TwoHandEqiupError_0
+
+
+71 25 42 10 0 eText_TwoHandEqiupError_1
+
+
+65 25 36 10 0 eText_TwoHandEqiupError_2
+
+
+47 19 24 10 0 eText_IfAskClearPwd
+
+
+74 26 44 10 0 eText_Succ_Of_App_ClearPwd
+
+
+55 27 24 10 0 eText_YouHaveAlreadyApplied
+
+
+53 17 32 10 0 eText_MendNoMoney
+
+
+23 13 6 10 0 eUI_NextLevel
+
+
+34 12 18 10 0 eText_InTeam
+
+
+40 18 18 10 0 eText_TargetInTeam
+
+
+39 19 16 10 0 eText_FindNotPlayer
+
+
+30 14 12 10 0 eText_TeamFull
+
+
+28 14 10 10 0 eText_TeamFail
+
+
+34 16 14 10 0 eText_TeamScuscc
+
+
+47 17 26 10 0 eText_AddTeam_Ask
+
+
+47 17 26 10 0 eText_Ask_AddTeam
+
+
+38 22 12 10 0 eExchange_Error_3_fail
+
+
+41 17 20 10 0 eExchange_UnKnown
+
+
+30 16 10 10 0 eExchange_sucess
+
+
+30 16 10 10 0 eExchange_fail_0
+
+
+32 16 12 10 0 eUI_Req_AddGuild
+
+
+39 17 18 10 0 eUI_Req_LvUpBuild
+
+
+35 17 14 10 0 eUI_Call_AddGuild
+
+
+27 15 8 10 0 eUI_GuildCallOn
+
+
+24 14 6 10 0 eUI_MpNoEnough
+
+
+43 21 18 10 0 eUI_SendExchange_fail
+
+
+17 9 4 10 0 eUI_YouTo
+
+
+34 16 14 10 0 eUI_SendExchange
+
+
+39 17 18 10 0 eUI_SendTeam_fail
+
+
+30 12 14 10 0 eUI_SendTeam
+
+
+47 21 22 10 0 eUI_SendShopSeek_fail
+
+
+38 16 18 10 0 eUI_SendShopSeek
+
+
+37 17 16 10 0 eUI_Money_Error_0
+
+
+38 18 16 10 0 eUI_InputSaveMoney
+
+
+36 18 14 10 0 eUI_BackSave_error
+
+
+38 14 20 10 0 eUI_Take_Money
+
+
+58 22 32 10 0 eUI_Bank_LevelUp_error
+
+
+15 7 4 10 0 eUI_ask
+
+
+41 23 14 10 0 eUI_Bank_LevelUp_Text_0
+
+
+28 12 12 10 0 eUI_OpenExam
+
+
+45 23 18 10 0 eUI_Bank_LevelUp_Text_1
+
+
+18 12 2 10 0 eText_Second
+
+
+42 16 22 10 0 eText_Sell_Price
+
+
+34 16 14 10 0 eText_ChangPrice
+
+
+63 23 36 10 0 eText_PrivateShop_Error
+
+
+49 19 26 10 0 eText_EnterShopName
+
+
+48 24 20 10 0 eSystem_Repetition_Input
+
+
+39 19 16 10 0 eCreate_Nameillegal
+
+
+47 20 23 10 0 eCreate_NameTooshort
+
+
+145 17 124 1 0 eCreate_NameError
+
+
+36 16 16 10 0 eCreate_Birthday
+
+
+29 15 10 10 0 eLogin_Logining
+
+
+25 13 8 10 0 eText_ConFail
+
+
+18 10 4 10 0 eText_Fail
+
+
+42 18 20 10 0 eText_SelectServer
+
+
+20 12 4 10 0 eText_Prompt
+
+
+38 18 16 10 0 eText_EnterUsePass
+
+
+51 17 30 10 0 eText_ShopRefeash
+
+
+21 13 4 10 0 eText_Price_0
+
+
+29 15 10 10 0 eText_Input_Cnt
+
+
+28 16 8 10 0 eText_CompSucess
+
+
+26 14 8 10 0 eText_CompFail
+
+
+36 22 10 10 0 eText_Material_Error_0
+
+
+46 22 20 10 0 eText_Material_error_1
+
+
+15 9 2 10 0 eText_And
+
+
+24 12 8 10 0 eExchangeing
+
+
+39 19 16 10 0 eText_Input_MoveCnt
+
+
+38 20 14 10 0 eText_Ask_insert_Gem
+
+
+42 16 22 10 0 eText_Ask_BuyCnt
+
+
+25 13 8 10 0 eText_UseItem
+
+
+27 15 8 10 0 eText_NextLevel
+
+
+38 14 20 10 0 eText_Ask_Task
+
+
+33 13 16 10 0 eText_Confirm
+
+
+30 14 12 10 0 eText_NeedItem
+
+
+22 14 4 10 0 eText_complete
+
+
+26 18 4 10 0 eText_EquipStrNeed
+
+
+26 18 4 10 0 eText_EquipConNeed
+
+
+26 18 4 10 0 eText_EquipAgiNeed
+
+
+26 18 4 10 0 eText_EquipIntNeed
+
+
+26 18 4 10 0 eText_EquipEneNeed
+
+
+24 16 4 10 0 eText_stCharmReq
+
+
+26 16 6 10 0 eText_HPNoEnough
+
+
+26 16 6 10 0 eText_MPNoEnough
+
+
+39 21 14 10 0 eText_Motion_CantSing
+
+
+43 21 18 10 0 eText_Jump_CantCharge
+
+
+51 23 24 10 0 eText_UseSkill_NeedWeap
+
+
+49 25 20 10 0 eText_PassiveSkill_NotUse
+
+
+47 17 26 10 0 eText_NeedSkill_0
+
+
+47 17 26 10 0 eText_NeedSkill_1
+
+
+47 17 26 10 0 eText_NeedSkill_2
+
+
+47 17 26 10 0 eText_NeedSkill_3
+
+
+43 19 20 10 0 eText_Input_SaveCnt
+
+
+32 16 12 10 0 eText_StudySkill
+
+
+29 15 10 10 0 eText_OverCount
+
+
+60 28 28 10 0 eText_NoEnoughItemToUseSkill
+
+
+49 29 16 10 0 eText_CannotUsePassivitySkill
+
+
+59 31 24 10 0 eText_CannotUseSkillInCurStatus
+
+
+43 23 16 10 0 eText_SkillIsInColdDown
+
+
+33 17 12 10 0 eText_ItemNoPlace
+
+
+28 12 12 10 0 eText_AttAdd
+
+
+56 36 16 10 0 eText_GetItemFromOtherPlaceCostMoney
+
+
+55 37 14 10 0 eText_MakeSureToGetItemFromOtherPlace
+
+
+19 11 4 10 0 eText_Enemy
+
+
+39 21 14 10 0 eText_SelectConleMode
+
+
+70 20 46 10 0 eUI_NotMemoyToRepair
+
+
+139 26 109 1 0 eUI_RemoteStorageNeedMoney
+
+
+40 18 18 10 0 eUI_StorageNeedPsw
+
+
+72 22 46 10 0 eTellClient_OnlineTime
+
+
+84 18 62 10 0 eTellClient_GetExp
+
+
+91 27 60 10 0 eTellClient_ClearOnlineTime
+
+
+87 29 54 10 0 eTellClient_OnlineTimeAndHour
+
+
+86 36 46 10 0 eSystemInfo_Overdue_InLockIntensicfy
+
+
+34 22 8 10 0 eClient_AddInfo_2slk_1
+
+
+42 22 16 10 0 eClient_AddInfo_2slk_2
+
+
+42 22 16 10 0 eClient_AddInfo_2slk_3
+
+
+49 22 23 10 0 eClient_AddInfo_2slk_5
+
+
+50 22 24 10 0 eClient_AddInfo_2slk_6
+
+
+42 22 16 10 0 eClient_AddInfo_2slk_7
+
+
+50 22 24 10 0 eClient_AddInfo_2slk_8
+
+
+44 22 18 10 0 eClient_AddInfo_2slk_9
+
+
+43 23 16 10 0 eClient_AddInfo_2slk_14
+
+
+31 23 4 10 0 eClient_AddInfo_2slk_23
+
+
+31 23 4 10 0 eClient_AddInfo_2slk_24
+
+
+45 23 18 10 0 eClient_AddInfo_2slk_25
+
+
+49 23 22 10 0 eClient_AddInfo_2slk_26
+
+
+43 23 16 10 0 eClient_AddInfo_2slk_27
+
+
+35 23 8 10 0 eClient_AddInfo_2slk_28
+
+
+45 23 18 10 0 eClient_AddInfo_2slk_29
+
+
+45 23 18 10 0 eClient_AddInfo_2slk_30
+
+
+41 23 14 10 0 eClient_AddInfo_2slk_31
+
+
+45 23 18 10 0 eClient_AddInfo_2slk_32
+
+
+55 23 28 10 0 eClient_AddInfo_2slk_33
+
+
+51 23 24 10 0 eClient_AddInfo_2slk_34
+
+
+55 23 28 10 0 eClient_AddInfo_2slk_35
+
+
+53 23 26 10 0 eClient_AddInfo_2slk_36
+
+
+49 23 22 10 0 eClient_AddInfo_2slk_37
+
+
+49 23 22 10 0 eClient_AddInfo_2slk_38
+
+
+49 23 22 10 0 eClient_AddInfo_2slk_39
+
+
+49 23 22 10 0 eClient_AddInfo_2slk_40
+
+
+53 23 26 10 0 eClient_AddInfo_2slk_41
+
+
+53 23 26 10 0 eClient_AddInfo_2slk_42
+
+
+47 23 20 10 0 eClient_AddInfo_2slk_43
+
+
+35 23 8 10 0 eClient_AddInfo_2slk_45
+
+
+69 23 42 10 0 eClient_AddInfo_2slk_48
+
+
+65 23 38 10 0 eClient_AddInfo_2slk_49
+
+
+35 23 8 10 0 eClient_AddInfo_2slk_50
+
+
+57 23 30 10 0 eClient_AddInfo_2slk_51
+
+
+47 23 20 10 0 eClient_AddInfo_2slk_52
+
+
+45 23 18 10 0 eClient_AddInfo_2slk_53
+
+
+45 23 18 10 0 eClient_AddInfo_2slk_54
+
+
+45 23 18 10 0 eClient_AddInfo_2slk_55
+
+
+41 23 14 10 0 eClient_AddInfo_2slk_56
+
+
+45 23 18 10 0 eClient_AddInfo_2slk_57
+
+
+45 23 18 10 0 eClient_AddInfo_2slk_58
+
+
+41 23 14 10 0 eClient_AddInfo_2slk_59
+
+
+43 23 16 10 0 eClient_AddInfo_2slk_60
+
+
+53 23 26 10 0 eClient_AddInfo_2slk_61
+
+
+39 23 12 10 0 eClient_AddInfo_2slk_62
+
+
+44 23 17 10 0 eClient_AddInfo_2slk_84
+
+
+65 23 38 10 0 eClient_AddInfo_2slk_85
+
+
+49 23 22 10 0 eClient_AddInfo_2slk_86
+
+
+51 23 24 10 0 eClient_AddInfo_2slk_87
+
+
+51 23 24 10 0 eClient_AddInfo_2slk_98
+
+
+40 24 12 10 0 eClient_AddInfo_2slk_110
+
+
+62 24 34 10 0 eClient_AddInfo_2slk_111
+
+
+56 24 28 10 0 eClient_AddInfo_2slk_112
+
+
+52 24 24 10 0 eClient_AddInfo_2slk_114
+
+
+50 24 22 10 0 eClient_AddInfo_2slk_115
+
+
+42 24 14 10 0 eClient_AddInfo_2slk_116
+
+
+44 24 16 10 0 eClient_AddInfo_2slk_122
+
+
+47 24 19 10 0 eClient_AddInfo_2slk_123
+
+
+37 24 9 10 0 eClient_AddInfo_2slk_125
+
+
+37 24 9 10 0 eClient_AddInfo_2slk_126
+
+
+49 24 21 10 0 eClient_AddInfo_2slk_127
+
+
+37 24 9 10 0 eClient_AddInfo_2slk_128
+
+
+67 24 39 10 0 eClient_AddInfo_2slk_129
+
+
+47 24 19 10 0 eClient_AddInfo_2slk_130
+
+
+41 24 13 10 0 eClient_AddInfo_2slk_131
+
+
+31 24 3 10 0 eClient_AddInfo_2slk_132
+
+
+30 24 2 10 0 eClient_AddInfo_2slk_133
+
+
+39 24 11 10 0 eClient_AddInfo_2slk_137
+
+
+39 24 11 10 0 eClient_AddInfo_2slk_138
+
+
+48 24 20 10 0 eClient_AddInfo_2slk_139
+
+
+52 24 24 10 0 eClient_AddInfo_2slk_143
+
+
+54 26 24 10 0 eClient_AddInfo_2slk_143.1
+
+
+58 26 28 10 0 eClient_AddInfo_2slk_143.2
+
+
+54 26 24 10 0 eClient_AddInfo_2slk_143.3
+
+
+40 24 12 10 0 eClient_AddInfo_2slk_144
+
+
+46 24 18 10 0 eClient_AddInfo_2slk_145
+
+
+43 24 15 10 0 eClient_AddInfo_2slk_146
+
+
+43 24 15 10 0 eClient_AddInfo_2slk_147
+
+
+43 24 15 10 0 eClient_AddInfo_2slk_148
+
+
+43 24 15 10 0 eClient_AddInfo_2slk_149
+
+
+46 24 18 10 0 eClient_AddInfo_2slk_150
+
+
+36 24 8 10 0 eClient_AddInfo_2slk_151
+
+
+29 11 14 10 0 eIsExitGame
+
+
+42 16 22 10 0 e_isChangePlayer
+
+
+107 29 74 10 0 eTextPlayer_InterchangeReqQue
+
+
+41 29 8 10 0 eTextPlayer_InterchangeReqMsg
+
+
+40 28 8 10 0 eTextPlayer_InterchangeBegin
+
+
+40 19 17 10 0 eTextPlayer_WinOver
+
+
+43 20 19 10 0 eTextPlayer_Underdog
+
+
+34 22 8 10 0 eAttrType_MagicDefence
+
+
+37 25 8 10 0 eAttrType_ResistanceMagic
+
+
+41 29 8 10 0 eAttrType_MagicDefencePercent
+
+
+39 27 8 10 0 eAttrType_ResistancePhysics
+
+
+39 27 8 10 0 eAttrType_ResistanceSilence
+
+
+38 26 8 10 0 eAttrType_ResistanceFreeze
+
+
+37 25 8 10 0 eAttrType_ResistanceSleep
+
+
+37 25 8 10 0 eAttrType_ResistanceDizzy
+
+
+67 25 38 10 0 eUI_ShopCenterSliverError
+
+
+14 8 2 10 0 eSex_Man
+
+
+16 10 2 10 0 eSex_FeMan
+
+
+21 15 2 10 0 eShopUI_Storage
+
+
+25 14 7 10 0 eShopUI_Price2
+
+
+26 17 5 10 0 eShopUI_VIPPrice2
+
+
+24 13 7 10 0 eShopUI_Price
+
+
+27 16 7 10 0 eShopUI_VIPPrice
+
+
+79 23 52 10 0 eCostSilverToRePairItem
+
+
+55 23 28 10 0 eUI_ShopCenterSliverCnt
+
+
+31 19 8 10 0 eClient_help_person
+
+
+57 21 32 10 0 eTipText_base_Overdue
+
+
+49 23 22 10 0 eText_Chat_NotSeekEquip
+
+
+40 24 12 10 0 eText_Client_Trade_Faild
+
+
+65 29 32 10 0 eText_Client_Trade_Faild_Ride
+
+
+65 33 28 10 0 eText_Client_Trade_Faild_Distance
+
+
+71 20 47 10 0 ui_check_tec_levelup
+
+
+81 28 49 10 0 eClientMessage_FriendRequest
+
+
+50 20 26 10 0 eTextGuild_Ban_Error
+
+
+65 20 41 10 0 eTextGuild_Ban_Check
+
+
+46 22 20 10 0 eTextGuild_Leave_Check
+
+
+60 28 28 10 0 eTextGuild_Leave_MasterError
+
+
+50 24 22 10 0 eTextGuild_Disband_Error
+
+
+52 24 24 10 0 eTextGuild_Disband_Check
+
+
+67 29 34 10 0 eTextGuild_Disband_EmptyError
+
+
+59 25 30 10 0 eTextGuild_SetLevel_Error
+
+
+68 25 39 10 0 eTextGuild_SetLevel_Check
+
+
+53 23 26 10 0 eTextGuild_Invite_Error
+
+
+60 34 22 10 0 eTextGuild_Create_Error_Name_Check
+
+
+61 35 22 10 0 eTextGuild_Create_Error_Name_Length
+
+
+53 33 16 10 0 eTextGuild_Create_Error_Name_None
+
+
+46 10 32 10 0 ui_exp_tip
+
+
+61 20 37 10 0 ePrivateShop_String0
+
+
+52 34 14 10 0 eTextPlayer_OpenPrivateShopNotMove
+
+
+95 20 71 10 0 eAskClosePrivateShop
+
+
+50 19 27 10 0 eFriendUI_DelFriend
+
+
+35 17 14 10 0 ui_cant_intensify
+
+
+67 26 37 10 0 eClinet_Blacklist_Add_Text
+
+
+65 26 35 10 0 eClient_ExpandBag_NotMoney
+
+
+19 17 0 10 0 eUI_OpenGetTSRool
+
+
+52 21 27 10 0 eMsg_PleaseInputMoney
+
+
+52 26 22 10 0 eClient_PetTransmuteClueOn
+
+
+86 26 56 10 0 ErrorLoginServerPlayerFull
+
+
+60 30 26 10 0 ErrorLoginServerAccountEnvelop
+
+
+118 16 98 10 0 ErrorLoginWallow
+
+
+22 20 0 10 0 eText_ReasonAddItem0
+
+
+22 20 0 10 0 eText_ReasonAddItem1
+
+
+35 20 11 10 0 eText_ReasonAddItem2
+
+
+35 20 11 10 0 eText_ReasonAddItem3
+
+
+39 20 15 10 0 eText_ReasonAddItem4
+
+
+43 20 19 10 0 eText_ReasonAddItem5
+
+
+39 20 15 10 0 eText_ReasonAddItem6
+
+
+39 20 15 10 0 eText_ReasonAddItem7
+
+
+39 20 15 10 0 eText_ReasonAddItem8
+
+
+45 20 21 10 0 eText_ReasonAddItem9
+
+
+36 21 11 10 0 eText_ReasonAddItem10
+
+
+23 21 0 10 0 eText_ReasonAddItem11
+
+
+40 21 15 10 0 eText_ReasonAddItem12
+
+
+23 21 0 10 0 eText_ReasonAddItem13
+
+
+23 21 0 10 0 eText_ReasonAddItem14
+
+
+23 21 0 10 0 eText_ReasonAddItem15
+
+
+46 21 21 10 0 eText_ReasonAddItem16
+
+
+23 21 0 10 0 eText_ReasonAddItem17
+
+
+23 21 0 10 0 eText_ReasonAddItem18
+
+
+23 21 0 10 0 eText_ReasonAddItem19
+
+
+51 21 26 10 0 eText_ReasonAddItem20
+
+
+23 21 0 10 0 eText_ReasonAddItem21
+
+
+23 21 0 10 0 eText_ReasonAddItem22
+
+
+46 21 21 10 0 eText_ReasonAddItem23
+
+
+42 21 17 10 0 eText_ReasonAddItem24
+
+
+23 21 0 10 0 eText_ReasonAddItem25
+
+
+23 21 0 10 0 eText_ReasonAddItem26
+
+
+38 21 13 10 0 eText_ReasonAddItem27
+
+
+34 21 9 10 0 eText_ReasonAddItem33
+
+
+22 20 0 10 0 eText_ReasonSubItem0
+
+
+22 20 0 10 0 eText_ReasonSubItem1
+
+
+35 20 11 10 0 eText_ReasonSubItem2
+
+
+22 20 0 10 0 eText_ReasonSubItem3
+
+
+22 20 0 10 0 eText_ReasonSubItem4
+
+
+43 20 19 10 0 eText_ReasonSubItem5
+
+
+22 20 0 10 0 eText_ReasonSubItem6
+
+
+22 20 0 10 0 eText_ReasonSubItem7
+
+
+35 20 11 10 0 eText_ReasonSubItem8
+
+
+22 20 0 10 0 eText_ReasonSubItem9
+
+
+23 21 0 10 0 eText_ReasonSubItem10
+
+
+23 21 0 10 0 eText_ReasonSubItem11
+
+
+40 21 15 10 0 eText_ReasonSubItem12
+
+
+23 21 0 10 0 eText_ReasonSubItem13
+
+
+23 21 0 10 0 eText_ReasonSubItem14
+
+
+23 21 0 10 0 eText_ReasonSubItem15
+
+
+46 21 21 10 0 eText_ReasonSubItem16
+
+
+23 21 0 10 0 eText_ReasonSubItem17
+
+
+23 21 0 10 0 eText_ReasonSubItem18
+
+
+23 21 0 10 0 eText_ReasonSubItem19
+
+
+23 21 0 10 0 eText_ReasonSubItem20
+
+
+23 21 0 10 0 eText_ReasonSubItem21
+
+
+23 21 0 10 0 eText_ReasonSubItem22
+
+
+46 21 21 10 0 eText_ReasonSubItem23
+
+
+23 21 0 10 0 eText_ReasonSubItem24
+
+
+23 21 0 10 0 eText_ReasonSubItem25
+
+
+23 21 0 10 0 eText_ReasonSubItem26
+
+
+23 21 0 10 0 eText_ReasonSubItem27
+
+
+38 21 13 10 0 eText_ReasonSubItem28
+
+
+38 21 13 10 0 eText_ReasonSubItem29
+
+
+41 21 16 10 0 eText_ReasonSubItem33
+
+
+28 19 5 10 0 eText_ReasonGetItem
+
+
+201 19 177 1 1 eClient_NewerInGame
+
+
+33 17 12 10 0 eLogin_ErrorCode0
+
+
+45 17 24 10 0 eLogin_ErrorCode1
+
+
+45 17 24 10 0 eLogin_ErrorCode2
+
+
+43 17 22 10 0 eLogin_ErrorCode3
+
+
+37 17 16 10 0 eLogin_ErrorCode8
+
+
+32 18 10 10 0 eLogin_ErrorCode10
+
+
+48 18 26 10 0 eLogin_ErrorCode25
+
+
+62 18 40 10 0 eLogin_ErrorCode26
+
+
+54 18 32 10 0 eLogin_ErrorCode27
+
+
+48 18 26 10 0 eLogin_ErrorCode28
+
+
+52 18 30 10 0 eLogin_ErrorCode29
+
+
+45 18 23 10 0 eLogin_ErrorCode30
+
+
+53 19 30 10 0 eLogin_ErrorCode130
+
+
+77 19 54 10 0 eLogin_ErrorCode131
+
+
+85 19 62 10 0 eLogin_ErrorCode132
+
+
+83 19 60 10 0 eLogin_ErrorCode133
+
+
+243 19 219 2 2 eLogin_ErrorCode134
+
+
+119 19 96 10 0 eLogin_ErrorCode135
+
+
+135 19 112 1 0 eLogin_ErrorCode136
+
+
+40 24 12 10 0 eUI_Mail_SendResult_True
+
+
+41 25 12 10 0 eUI_Mail_SendResult_False
+
+
+28 26 0 10 0 eRelive_PerfectionShowInfo
+
+
+47 25 18 10 0 eClient_ErrorPetSkillBook
+
+
+50 26 20 10 0 eUI_ExchagneUI_ConfirmInfo
+
+
+35 17 14 10 0 eUI_UseItem_YesNo
+
+
+76 20 52 10 0 eClient_ExitTimeInfo
+
+
+43 25 14 10 0 eLogin_StartConnectFailed
+
+
+46 22 20 10 0 eUI_Relive_NeedGlodCnt
+
+
+27 18 5 10 0 eServerAndLineName
+
+
+61 9 48 10 0 eGameName
+
+
+17 12 1 10 0 eEditionName
+
+
+57 24 29 10 0 eGold_SaleUI_Unit_price0
+
+
+55 24 27 10 0 eGold_SaleUI_Unit_price1
+
+
+94 20 70 10 0 eUI_RideIntensifyAsk
+
+
+37 15 18 10 0 eProduceNoSkill
+
+
+50 20 26 10 0 eProduceSkillLackLvl
+
+
+43 17 22 10 0 eUI_RideIntensify
+
+
+28 16 8 10 0 eClientBorthArea
+
+
+28 20 4 10 0 eClientBorthAreaRand
+
+
+41 17 20 10 0 eUI_UseItem_Note0
+
+
+45 17 24 10 0 eUI_UseItem_Note1
+
+
+43 25 14 10 0 eUI_PrivateShop_DragError
+
+
+55 35 16 10 0 eUI_PlayerPrivateShop_BargainFailed
+
+
+54 20 30 10 0 ui_minimap_line_info
+
+
+137 27 233 2 1 eText_SysMail_GoldSystemBuy
+
+
+138 28 233 2 1 eText_SysMail_GoldSystemSell
+
+
+142 31 234 2 1 eText_SysMail_GoldSystemBuyExit
+
+
+146 32 237 2 1 eText_SysMail_GoldSystemSellExit
+
+
+68 22 42 10 0 eUI_PrivateShop_Error0
+
+
+43 17 22 10 0 thisEquipHasNoGem
+
+
+102 23 75 10 0 eUI_PrivateShop_BuyItem
+
+
+90 22 64 10 0 eUI_PrivateShop_BuyPet
+
+
+63 23 36 10 0 eGoldConsignInvalidPara
+
+
+58 22 32 10 0 eGoldSaleData_StringEx
+
+
+70 29 37 10 0 eGoldSaleData_ExamineStringEx
+
+
+94 32 58 10 0 eUI_PrivateShop_BuyExclusiveItem
+
+
+58 24 30 10 0 eExchange_PriaveShopFull
+
+
+58 22 32 10 0 ePrivateShop_DistError
+
+
+31 19 8 10 0 eAttrType_SocketNum
+
+
+56 30 22 10 0 eText_PrivateShop_IsNullNotUse
+
+
+56 28 24 10 0 ePrivateShop_TargetCloseShop
+
+
+99 18 77 10 0 ui_check_tec_Learn
+
+
+104 19 81 10 0 ui_check_tec_Forget
+
+
+86 19 63 10 0 ui_check_tec_cancel
+
+
+19 9 6 10 0 eText_Exp
+
+
+59 24 31 10 0 eFriendUIOneSideRelation
+
+
+42 22 16 10 0 ui_tec_role_level_need
+
+
+41 21 16 10 0 ui_tec_tec_level_need
+
+
+41 16 21 10 0 eFriendUIOutLine
+
+
+34 24 6 10 0 eClient_FriendUI_Husband
+
+
+31 21 6 10 0 eClient_FriendUI_Wife
+
+
+34 24 6 10 0 eClient_FriendUI_Brother
+
+
+85 24 57 10 0 eClient_Battle_helper_on
+
+
+51 25 22 10 0 eClient_Battle_helper_off
+
+
+49 27 18 10 0 eNetWorkClose_MSG_LOGIN_REQ
+
+
+52 30 18 10 0 eNetWorkClose_Game_Login_30sec
+
+
+58 28 26 10 0 eNetWorkClose_SelPlayer_Back
+
+
+65 29 32 10 0 eNetWorkClose_SelServer_Close
+
+
+45 27 14 10 0 eNetWorkClose_AfterExitwait
+
+
+60 21 35 10 0 ERR_INVALID_ACCOUNT	2
+
+
+61 22 35 10 0 ERR_INVALID_PASSWORD	3
+
+
+39 19 16 10 0 ERR_COMMUNICATION	8
+
+
+46 18 24 10 0 ERR_MULTILOGIN		10
+
+
+43 19 20 10 0 ERR_LOGOUT_FAIL		12
+
+
+47 19 24 10 0 ERR_ACCOUNTEMPTY	23
+
+
+61 15 42 10 0 ERR_IP_LOCK		26
+
+
+47 15 28 10 0 ERR_ID_LOCK		27
+
+
+52 20 28 10 0 ERR_MATRIXFAILURE	28
+
+
+51 15 32 10 0 ERR_KICKOUT		32
+
+
+39 19 16 10 0 ERR_PHONE_LOCK		130
+
+
+60 20 36 10 0 ERR_NOT_ACTIVED		131
+
+
+76 24 48 10 0 ERR_ZONGHENG_ACCOUNT	132
+
+
+89 23 62 10 0 ERR_STOPPED_ACCOUNT	133
+
+
+48 26 18 10 0 eUIBagMoveToStorage_IsFull
+
+
+48 26 18 10 0 eUIStorageMoveToBag_IsFull
+
+
+50 12 34 10 0 eDealBagLock
+
+
+47 15 28 10 0 eDealProtecting
+
+
+38 17 17 10 0 eTask_NeedMapArea
+
+
+81 26 51 10 0 ui_box_tec_role_need_error
+
+
+68 28 36 10 0 ui_check_equip_will_be_bound
+
+
+45 29 12 10 0 ui_tec_skill_levelup_complete
+
+
+30 10 16 10 0 PetAddHole
+
+
+37 13 20 10 0 PetModifyHole
+
+
+30 18 8 10 0 ui_npc_gem_compose
+
+
+81 23 54 10 0 ui_tec_skill_spare_time
+
+
+29 18 7 10 0 eCompose_SkillNeed
+
+
+33 22 7 10 0 eUI_ShopCenterPointCnt
+
+
+37 26 7 10 0 eUI_ShopCentereCPT_GiveCnt
+
+
+42 16 22 10 0 eNpcShop_BagFull
+
+
+29 17 8 10 0 eMsgResBuyResult0
+
+
+29 17 8 10 0 eMsgResBuyResult1
+
+
+41 17 20 10 0 eMsgResBuyResult2
+
+
+41 17 20 10 0 eMsgResBuyResult3
+
+
+39 17 18 10 0 eMsgResBuyResult4
+
+
+47 17 26 10 0 eMsgResBuyResult5
+
+
+49 17 28 10 0 eMsgResBuyResult6
+
+
+41 17 20 10 0 eMsgResBuyResult7
+
+
+41 17 20 10 0 eMsgResBuyResult8
+
+
+41 17 20 10 0 eMsgResBuyResult9
+
+
+42 18 20 10 0 eMsgResBuyResult10
+
+
+42 18 20 10 0 eMsgResBuyResult11
+
+
+46 18 24 10 0 eMsgResBuyResult12
+
+
+54 18 32 10 0 eMsgResBuyResult13
+
+
+44 18 22 10 0 eMsgResBuyResult14
+
+
+34 18 12 10 0 eMsgResBuyResult15
+
+
+42 24 14 10 0 eClient_CharAttr_GoldAdd
+
+
+42 24 14 10 0 eClient_CharAttr_GoldSub
+
+
+150 32 114 1 0 eNetWorkClose_CheckVersionFailed
+
+
+33 15 14 10 0 ePlayerFullTire
+
+
+33 21 8 10 0 eClient_En_AttackItem
+
+
+26 14 8 10 0 eClient_En_Pet
+
+
+31 19 8 10 0 eClient_En_HeadGear
+
+
+28 16 8 10 0 eClient_En_ExBag
+
+
+38 26 8 10 0 eClient_Newer_En_CountDown
+
+
+42 30 8 10 0 eClient_Newer_En_CountDownLast
+
+
+46 20 22 10 0 eClient_LockShortCut
+
+
+47 29 14 10 0 eGraphicCodeCheck_Answer_Time
+
+
+80 22 54 10 0 eGoldSale_confirmNote0
+
+
+80 22 54 10 0 eGoldSale_confirmNote1
+
+
+30 18 8 10 0 ui_npc_equip_bless
+
+
+37 21 12 10 0 ui_npc_equip_activate
+
+
+63 25 34 10 0 eText_HasChangeLineInPass
+
+
+51 14 33 10 0 eShop_SellItem
+
+
+63 25 34 10 0 eClient_ExitWait10Seconds
+
+
+45 13 28 10 0 eEr_Skill_119
+
+
+52 20 28 10 0 ui_tec_off_get_point
+
+
+30 12 14 10 0 eIsResetGame
+
+
+91 23 64 10 0 UsbKeyRec_DrawOutUsbKey
+
+
+55 15 36 10 0 eProduceBagFull
+
+
+80 18 58 10 0 group_info_captain
+
+
+59 17 38 10 0 group_info_member
+
+
+30 16 10 10 0 group_info_flash
+
+
+32 18 10 10 0 group_info_general
+
+
+110 12 94 10 0 team_captain
+
+
+75 11 60 10 0 team_member
+
+
+44 20 20 10 0 eClient_PetCantMerge
+
+
+43 21 18 10 0 eClient_PetCantReborn
+
+
+96 25 67 10 0 eClient_AskChangePetSkill
+
+
+34 12 18 10 0 eClient_TuDi
+
+
+39 27 8 10 0 eUI_SelectPlayer_DeleteRole
+
+
+35 23 8 10 0 eUI_SelectPlayer_Resume
+
+
+55 33 18 10 0 eUI_SelectPlayer_DeleteRole_YesNo
+
+
+52 27 21 10 0 eUI_SelectPlayer_AlreadyDel
+
+
+37 19 14 10 0 eComposeUI_CalcRate
+
+
+51 19 28 10 0 eGoldSale_FindError
+
+
+81 19 58 10 0 eDeletePlayerSuccss
+
+
+38 21 13 10 0 eResumePlayer_Success
+
+
+35 18 13 10 0 eResumePlayer_Fail
+
+
+109 23 82 10 0 eClient_Error_NotConnet
+
+
+95 27 64 10 0 eClient_Error_NotConnetNoGS
+
+
+125 29 92 10 0 eClient_Error_NotConnetServer
+
+
+47 26 17 10 0 eClientErrorConnetFail_ALL
+
+
+112 29 79 10 0 eClientErrorConnetFail_Normal
+
+
+31 23 4 10 0 eDoubling_EXP_Show_Text
+
+
+73 22 47 10 0 eDoubling_EXP_Show_Tip
+
+
+36 20 12 10 0 eClient_MainTaskMark
+
+
+16 14 0 10 0 eMainstory_210
+
+
+16 14 0 10 0 eMainstory_211
+
+
+16 14 0 10 0 eMainstory_212
+
+
+16 14 0 10 0 eMainstory_213
+
+
+16 14 0 10 0 eMainstory_214
+
+
+16 14 0 10 0 eMainstory_215
+
+
+16 14 0 10 0 eMainstory_216
+
+
+16 14 0 10 0 eMainstory_217
+
+
+16 14 0 10 0 eMainstory_218
+
+
+16 14 0 10 0 eMainstory_219
+
+
+16 14 0 10 0 eMainstory_220
+
+
+16 14 0 10 0 eMainstory_221
+
+
+16 14 0 10 0 eMainstory_222
+
+
+16 14 0 10 0 eMainstory_223
+
+
+16 14 0 10 0 eMainstory_224
+
+
+16 14 0 10 0 eMainstory_225
+
+
+16 14 0 10 0 eMainstory_226
+
+
+16 14 0 10 0 eMainstory_227
+
+
+16 14 0 10 0 eMainstory_228
+
+
+16 14 0 10 0 eMainstory_229
+
+
+16 14 0 10 0 eMainstory_230
+
+
+16 14 0 10 0 eMainstory_231
+
+
+16 14 0 10 0 eMainstory_232
+
+
+16 14 0 10 0 eMainstory_233
+
+
+16 14 0 10 0 eMainstory_234
+
+
+16 14 0 10 0 eMainstory_235
+
+
+16 14 0 10 0 eMainstory_236
+
+
+16 14 0 10 0 eMainstory_237
+
+
+16 14 0 10 0 eMainstory_238
+
+
+16 14 0 10 0 eMainstory_239
+
+
+16 14 0 10 0 eMainstory_240
+
+
+16 14 0 10 0 eMainstory_241
+
+
+16 14 0 10 0 eMainstory_242
+
+
+16 14 0 10 0 eMainstory_243
+
+
+16 14 0 10 0 eMainstory_244
+
+
+72 36 32 10 0 eDeletePlayerFail_eYouAreGuildMaster
+
+
+31 23 4 10 0 eShopCenter_HotFlagText
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText0
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText1
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText2
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText3
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText4
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText5
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText6
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText7
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText8
+
+
+33 25 4 10 0 eShopCenter_AgioFlagText9
+
+
+34 26 4 10 0 eShopCenter_AgioFlagText10
+
+
+31 23 4 10 0 eShopCenter_NewFlagText
+
+
+61 13 44 10 0 eClientMaxNum
+
+
+30 22 4 10 0 eClient_Identify_Flash
+
+
+40 32 4 10 0 eClient_Identify_MagnifyingGlass
+
+
+64 20 40 10 0 eClient_Movement_Cue
+
+
+23 15 4 10 0 eUI_SeverState0
+
+
+23 15 4 10 0 eUI_SeverState1
+
+
+23 15 4 10 0 eUI_SeverState2
+
+
+23 15 4 10 0 eUI_SeverState3
+
+
+94 23 67 10 0 ui_validate_code_notice
+
+
+64 21 39 10 0 ui_validate_code_fail
+
+
+35 27 4 10 0 eClient_Treasure_More_Flash
+
+
+135 21 110 1 0 eClient_KillLimitHalf
+
+
+147 21 122 1 0 eClient_KillLimitFull
+
+
+41 20 17 10 0 eUI_Fans_CardResMsg0
+
+
+50 20 26 10 0 eUI_Fans_CardResMsg1
+
+
+56 20 32 10 0 eUI_Fans_CardResMsg2
+
+
+34 20 10 10 0 eUI_Fans_CardResMsg3
+
+
+63 29 30 10 0 eEffect_set_NeedRestartClient
+
+
+73 26 43 10 0 eClient_GodlSale_MaxCntErr
+
+
+24 16 4 10 0 week_gem_disable
+
+
+20 12 4 10 0 week_gem_act
+
+
+109 40 65 10 0 ui_inlay_check_the_equip_will_be_bounded
+
+
+129 26 226 2 1 eUI_MiniMapWeekLivenessTip
+
+
+32 17 11 10 0 eShopTypeString_0
+
+
+29 17 8 10 0 eShopTypeString_1
+
+
+29 17 8 10 0 eShopTypeString_2
+
+
+29 17 8 10 0 eShopTypeString_3
+
+
+32 17 11 10 0 eShopTypeString_4
+
+
+31 17 10 10 0 eShopTypeString_5
+
+
+31 17 10 10 0 eShopTypeString_6
+
+
+33 17 12 10 0 eShopTypeString_7
+
+
+34 17 13 10 0 eShopTypeString_8
+
+
+34 17 13 10 0 eShopTypeString_9
+
+
+33 18 11 10 0 eShopTypeString_10
+
+
+34 18 12 10 0 eShopTypeString_11
+
+
+34 18 12 10 0 eShopTypeString_12
+
+
+34 18 12 10 0 eShopTypeString_13
+
+
+35 18 13 10 0 eShopTypeString_14
+
+
+33 18 11 10 0 eShopTypeString_15
+
+
+34 18 12 10 0 eShopTypeString_16
+
+
+31 18 9 10 0 eShopTypeString_17
+
+
+35 18 13 10 0 eShopTypeString_18
+
+
+33 18 11 10 0 eShopTypeString_19
+
+
+34 18 12 10 0 eShopTypeString_20
+
+
+34 18 12 10 0 eShopTypeString_21
+
+
+34 18 12 10 0 eShopTypeString_22
+
+
+35 18 13 10 0 eShopTypeString_23
+
+
+36 18 14 10 0 eShopTypeString_24
+
+
+36 18 14 10 0 eShopTypeString_25
+
+
+70 26 40 10 0 ePrivateShop_BuyItemRecord
+
+
+137 25 108 1 0 ePrivateShop_BuyPetRecord
+
+
+57 24 29 10 0 eGuildLogic_ReqJoinUnion
+
+
+61 26 31 10 0 eGuildLogic_ReqInviteUnion
+
+
+52 24 24 10 0 eGuildLogic_ErrorNoMoney
+
+
+53 24 25 10 0 eGuildLogic_ErrorNoLevel
+
+
+42 23 15 10 0 eGuildLogic_ErrorNoItem
+
+
+39 27 8 10 0 eGuildLogic_ShowLastOnline1
+
+
+37 27 6 10 0 eGuildLogic_ShowLastOnline2
+
+
+37 27 6 10 0 eGuildLogic_ShowLastOnline3
+
+
+37 27 6 10 0 eGuildLogic_ShowLastOnline4
+
+
+37 27 6 10 0 eGuildLogic_ShowLastOnline5
+
+
+37 27 6 10 0 eGuildLogic_ShowLastOnline6
+
+
+34 24 6 10 0 eGuildLogic_AddUnionName
+
+
+37 23 10 10 0 eTextGuild_Leave_Member
+
+
+30 28 0 10 0 eClient_ReliveUI_SysDeKiller
+
+
+58 21 33 10 0 eTextGuild_No_LeaveUp
+
+
+98 25 69 10 0 eGuild_Chat_Member_Online
+
+
+96 25 67 10 0 eGuild_Chat_Leader_Online
+
+
+99 26 69 10 0 eGuild_Chat_Member_Outline
+
+
+97 26 67 10 0 eGuild_Chat_Leader_Outline
+
+
+63 22 37 10 0 eGuild_Everyday_Expend
+
+
+36 24 8 10 0 ui_npc_creat_guild_union
+
+
+168 18 145 2 2 eShopCenter_ADInfo
+
+
+71 32 35 10 0 eUI_PrivateShop_PleaseInputMoney
+
+
+52 34 14 10 0 eClient_MoveingOpenPlayerShopError
+
+
+50 28 18 10 0 eClient_UI_NpcShopLackMedals
+
+
+34 20 10 10 0 eClient_ExplorerShop
+
+
+46 19 23 10 0 eUI_Shop_MedalsCost
+
+
+52 35 13 10 0 eGuild_Member_Show_Last_OutlineTime
+
+
+49 21 24 10 0 eClient_OpenPrivateOp
+
+
+35 15 16 10 0 eText_IsDelChar
+
+
+60 26 30 10 0 eClient_LevelupError_Skill
+
+
+65 25 36 10 0 eClient_LevelupError_Item
+
+
+40 16 20 10 0 eGuild_Get_Offer
+
+
+54 20 30 10 0 eUIRanklist_YourRank
+
+
+46 20 22 10 0 eUI_Shop_MedalsCost 
+
+
+42 20 18 10 0 ui_check_tec_speedup
+
+
+48 22 22 10 0 eTextMedals_Ask_BuyCnt
+
+
+63 21 38 10 0 eNotHaveEnemyAcq_Item
+
+
+53 10 39 10 0 ui_pathway
+
+
+32 14 14 10 0 Skill_ErrorDis
+
+
+59 27 28 10 0 eClient_TimeBagCanNotRemove
+
+
+56 24 28 10 0 eClient_DoNotHaveTimeBag
+
+
+37 21 12 10 0 eClient_TimeBagIsFull
+
+
+55 23 28 10 0 eClient_RequestJoinTeam
+
+
+90 20 66 10 0 eText_speek_too_fast
+
+
+222 29 188 1 1 eClient_HighUpgradeEquip_Need
+
+
+189 28 156 1 1 eClient_HighUpgradeEquip_Tip
+
+
+152 28 120 1 0 eClient_LowUpgradeEquip_Need
+
+
+189 27 157 1 1 eClient_LowUpgradeEquip_Tip
+
+
+143 26 113 1 0 eClient_StrengthEquip_Need
+
+
+83 25 54 10 0 eClient_StrengthEquip_Tip
+
+
+106 22 80 10 0 eClient_WashEquip_Need
+
+
+32 22 6 10 0 eProfessionIdx_Shotter
+
+
+37 23 10 10 0 eClient_InIntonateState
+
+
+25 17 4 10 0 eClient_EquipWash
+
+
+44 26 14 10 0 eClient_EquipWashLessMoney
+
+
+39 25 10 10 0 eClient_Low_StrengthStone
+
+
+40 26 10 10 0 eClient_High_StrengthStone
+
+
+40 26 10 10 0 eClient_Holi_StrengthStone
+
+
+38 24 10 10 0 eClient_Strength_Succeed
+
+
+37 23 10 10 0 eClient_Strength_Failed
+
+
+41 27 10 10 0 eClient_Low_Upgrade_Succeed
+
+
+40 26 10 10 0 eClient_Low_Upgrade_Failed
+
+
+46 28 14 10 0 eClient_High_Upgrade_Succeed
+
+
+45 27 14 10 0 eClient_High_upgrade_Failed
+
+
+35 21 10 10 0 eClient_SkillInCDTime
+
+
+48 30 14 10 0 eSkillError_SelectPointIsValid
+
+
+33 21 8 10 0 eEquipType_AttackPart
+
+
+34 22 8 10 0 eEquipType_DefencePart
+
+
+31 19 8 10 0 eEquipType_BodyPart
+
+
+30 18 8 10 0 eEquipType_HitPart
+
+
+32 20 8 10 0 eEquipType_DodgePart
+
+
+24 16 4 10 0 ServerLineName_0
+
+
+26 16 6 10 0 ServerLineName_1
+
+
+26 16 6 10 0 ServerLineName_2
+
+
+26 16 6 10 0 ServerLineName_3
+
+
+26 16 6 10 0 ServerLineName_4
+
+
+24 16 4 10 0 ServerLineName_5
+
+
+26 16 6 10 0 ServerLineName_6
+
+
+85 25 56 10 0 eClient_EquipStrength_Tip
+
+
+124 27 93 10 0 eClient_EquipLowUpgrade_Tip
+
+
+129 28 97 1 0 eClient_EquipHighUpgrade_Tip
+
+
+35 23 8 10 0 eClient_EffectSetName_1
+
+
+35 23 8 10 0 eClient_EffectSetName_2
+
+
+35 23 8 10 0 eClient_EffectSetName_3
+
+
+35 23 8 10 0 eClient_EffectSetName_4
+
+
+37 23 10 10 0 eClient_EffectSetName_5
+
+
+37 21 12 10 0 eClient_EffectSetName
+
+
+28 14 10 10 0 eClient_ItemCD
+
+
+176 25 146 3 3 eProfessionIdx_CattleKing
+
+
+235 26 204 3 3 eProfessionIdx_ProtectLing
+
+
+195 27 163 2 2 eProfessionIdx_RockColossus
+
+
+132 31 224 4 3 eProfessionIdx_AnamnesisCoherer
+
+
+199 21 173 1 1 eProfessionIdx_Monkey
+
+
+206 25 176 4 4 eProfessionIdx_bianyimogu
+
+
+186 29 152 4 4 eProfessionIdx_huaxingzhanshi
+
+
+171 25 141 4 4 eProfessionIdx_meihouwang
+
+
+194 27 162 2 2 eProfessionIdx_jifengzhiren
+
+
+129 29 223 4 3 eProfessionIdx_manchuiyongshi
+
+
+237 28 204 3 3 eProfessionIdx_yingxiongwang
+
+
+236 25 206 2 2 eProfessionIdx_emolieshou
+
+
+139 26 236 3 2 eProfessionIdx_jixiegongdi
+
+
+137 28 232 2 1 eProfessionIdx_hanbingnvjisi
+
+
+196 27 164 3 3 eProfessionIdx_leitingzhinu
+
+
+230 20 205 3 3 eProfessionIdx_liluo
+
+
+175 22 148 4 4 eProfessionIdx_qiandai
+
+
+158 21 132 4 4 eProfessionIdx_kalasi
+
+
+147 19 251 4 3 eProfessionIdx_ainu
+
+
+230 21 204 3 3 eProfessionIdx_bolisi
+
+
+139 19 243 4 3 eProfessionIdx_muli
+
+
+204 22 177 3 3 eProfessionIdx_haokaya
+
+
+224 22 197 3 3 eProfessionIdx_duolixi
+
+
+174 20 149 4 4 eProfessionIdx_lufei
+
+
+162 24 133 3 3 eProfessionIdx_haenlaite
+
+
+185 22 158 2 2 eProfessionIdx_aoteman
+
+
+202 22 175 3 3 eProfessionIdx_wusuopu
+
+
+169 22 142 4 4 eProfessionIdx_woailuo
+
+
+139 20 242 4 3 eProfessionIdx_saber
+
+
+210 23 182 2 2 eProfessionIdx_xialuote
+
+
+191 23 163 3 3 eProfessionIdx_yadianna
+
+
+135 23 235 6 5 eProfessionIdx_shilaike
+
+
+195 21 169 4 4 eProfessionIdx_qiaoba
+
+
+156 22 129 4 4 eProfessionIdx_yingyan
+
+
+183 19 159 2 2 eProfessionIdx_kuqi
+
+
+185 19 161 2 2 eProfessionIdx_lvbu
+
+
+228 23 200 2 2 eProfessionIdx_diaochan
+
+
+129 23 229 2 1 eProfessionIdx_zhangfei
+
+
+222 25 192 2 2 eProfessionIdx_zhugeliang
+
+
+185 21 159 1 1 eProfessionIdx_guanyu
+
+
+232 23 204 4 4 eProfessionIdx_dashewan
+
+
+187 22 160 3 3 eProfessionIdx_hamcock
+
+
+229 21 203 2 2 eProfessionIdx_zuozhu
+
+
+154 22 255 4 3 eProfessionIdx_mingren
+
+
+202 22 175 3 3 eProfessionIdx_baihuzi
+
+
+154 21 128 2 2 eProfessionIdx_kakaxi
+
+
+241 22 214 1 1 eProfessionIdx_fashiwa
+
+
+208 19 184 2 2 eProfessionIdx_nazi
+
+
+186 20 161 3 3 eProfessionIdx_asuna
+
+
+242 23 214 1 1 eProfessionIdx_shushiwa
+
+
+241 22 214 1 1 eProfessionIdx_qishiwa
+
+
+240 21 214 1 1 eProfessionIdx_hunter
+
+
+177 18 154 3 3 eProfessionIdx_xue
+
+
+150 21 252 3 2 eProfessionIdx_luojie
+
+
+151 21 126 1 0 eProfessionIdx_sishen
+
+
+183 21 157 3 3 eProfessionIdx_fuwang
+
+
+49 21 24 10 0 eProfessionIdx_zombie
+
+
+205 27 173 3 3 eProfessionIdx_tongkunvwang
+
+
+170 29 136 3 3 eProfessionIdx_yueliangnvjisi
+
+
+200 22 173 2 2 eProfessionIdx_suolong
+
+
+225 26 194 1 1 eProfessionIdx_diyulingzhu
+
+
+191 28 158 3 3 eProfessionIdx_heiyansheshou
+
+
+224 22 197 3 3 eProfessionIdx_difashi
+
+
+251 22 224 2 2 eProfessionIdx_tongren
+
+
+172 26 141 2 2 eProfessionIdx_yubanmeiqin
+
+
+150 20 253 3 2 eProfessionIdx_inori
+
+
+153 20 128 2 2 eProfessionIdx_shana
+
+
+154 19 130 2 2 eProfessionIdx_aisi
+
+
+158 23 130 3 3 eProfessionIdx_lingmeng
+
+
+236 26 205 3 3 eProfessionIdx_jinshanshan
+
+
+225 21 199 2 2 eProfessionIdx_chuyin
+
+
+137 25 235 6 5 eProfessionIdx_safeiluosi
+
+
+211 20 186 2 2 eProfessionIdx_gelei
+
+
+249 21 223 2 2 eProfessionIdx_mikasa
+
+
+201 18 178 2 2 eProfessionIdx_hei
+
+
+248 29 214 2 2 eProfessionIdx_QueenOfVanpire
+
+
+145 19 249 6 5 eProfessionIdx_kami
+
+
+131 22 232 2 1 eProfessionIdx_jianxin
+
+
+234 25 204 2 2 eProfessionIdx_lixiaolang
+
+
+178 24 149 5 5 eProfessionIdx_sunwukong
+
+
+195 21 169 2 2 eProfessionIdx_sessho
+
+
+137 22 238 5 4 eProfessionIdx_freedom
+
+
+145 23 245 2 1 eProfessionIdx_kuangsan
+
+
+208 23 180 6 6 eProfessionIdx_lvziqiao
+
+
+212 27 180 6 6 eProfessionIdx_zengxiaoxian
+
+
+210 25 180 6 6 eProfessionIdx_chenmeijia
+
+
+154 25 252 9 8 eProfessionIdx_buzhihuowu
+
+
+227 19 203 7 7 eProfessionIdx_16ye
+
+
+241 19 217 4 4 eProfessionIdx_yeye
+
+
+178 18 155 4 4 eProfessionIdx_gin
+
+
+241 21 215 4 4 eProfessionIdx_icarus
+
+
+235 20 210 4 4 eProfessionIdx_konan
+
+
+180 20 155 4 4 eProfessionIdx_rikka
+
+
+176 20 151 8 8 eProfessionIdx_ryuko
+
+
+136 21 238 5 4 eProfessionIdx_homura
+
+
+245 23 217 7 7 eProfessionIdx_lihuazou
+
+
+219 19 195 3 3 eProfessionIdx_yami
+
+
+160 18 137 5 5 eProfessionIdx_nep
+
+
+171 21 145 5 5 eProfessionIdx_madoka
+
+
+250 20 225 2 2 eProfessionIdx_tohka
+
+
+150 22 251 5 4 eProfessionIdx_nyaruko
+
+
+147 22 248 3 2 eProfessionIdx_oumashu
+
+
+219 27 187 2 2 eProfessionIdx_baijingheizi
+
+
+140 19 244 3 2 eProfessionIdx_momo
+
+
+184 18 161 1 1 eProfessionIdx_wrs
+
+
+194 21 168 9 9 eProfessionIdx_archer
+
+
+220 23 192 2 2 eProfessionIdx_kuroneko
+
+
+180 21 154 1 1 eProfessionIdx_yukari
+
+
+197 25 167 4 4 eProfessionIdx_liangyishi
+
+
+167 19 143 5 5 eProfessionIdx_jojo
+
+
+229 24 200 1 1 eProfessionIdx_zekamashi
+
+
+140 21 242 2 1 eProfessionIdx_killua
+
+
+217 20 192 4 4 eProfessionIdx_kyoko
+
+
+218 21 192 4 4 eProfessionIdx_sayaka
+
+
+186 18 163 1 1 eProfessionIdx_rin
+
+
+108 20 84 10 0 eProfessionIdx_iriya
+
+
+36 23 9 10 0 eProfessionIdx_jinmuyan
+
+
+192 20 167 2 2 eProfessionIdx_qinli
+
+
+119 21 94 10 0 eProfessionIdx_shinai
+
+
+153 19 129 3 3 eProfessionIdx_nilu
+
+
+247 21 221 4 4 eProfessionIdx_zhezhi
+
+
+202 22 175 1 1 eProfessionIdx_siminai
+
+
+145 27 241 3 2 eProfessionIdx_gaotingnaiye
+
+
+140 23 240 3 2 eProfessionIdx_heixueji
+
+
+137 22 238 2 1 eProfessionIdx_yaomeng
+
+
+175 20 150 3 3 eProfessionIdx_feite
+
+
+219 22 192 4 4 eProfessionIdx_bamamei
+
+
+217 19 193 5 5 eProfessionIdx_kezi
+
+
+169 22 142 3 3 eProfessionIdx_nuowalu
+
+
+155 21 129 3 3 eProfessionIdx_yaliya
+
+
+204 33 166 2 2 eProfessionIdx_zhandoubaolongshou
+
+
+178 20 153 2 2 eProfessionIdx_dasha
+
+
+223 28 190 2 2 eProfessionIdx_youxiaomeijiu
+
+
+33 19 10 10 0 eProfessionIdx_dita
+
+
+148 29 242 3 2 eProfessionIdx_yifangtongxing
+
+
+211 28 178 1 1 eProfessionIdx_mulaihongliqi
+
+
+41 27 10 10 0 eProfessionIdx_lishanweilai
+
+
+34 20 10 10 0 eProfessionIdx_yisha
+
+
+75 23 48 10 0 eClient_IsEquipInlayGem
+
+
+37 25 8 10 0 eClient_InlayGemSuccessed
+
+
+51 21 26 10 0 eClient_NoneIntroduce
+
+
+36 24 8 10 0 eNation_Athens_ShortName
+
+
+38 24 10 10 0 eNation_Sparta_ShortName
+
+
+39 25 10 10 0 eNation_Collyns_ShortName
+
+
+39 25 10 10 0 eNation_Mycenae_ShortName
+
+
+35 23 8 10 0 eNation_Thebe_ShortName
+
+
+36 22 10 10 0 eNation_Troy_ShortName
+
+
+37 23 10 10 0 eNation_Minos_ShortName
+
+
+39 25 10 10 0 eNation_Neutral_ShortName
+
+
+31 23 4 10 0 eNation_Athens_FullName
+
+
+33 23 6 10 0 eNation_Sparta_FullName
+
+
+34 24 6 10 0 eNation_Collyns_FullName
+
+
+34 24 6 10 0 eNation_Mycenae_FullName
+
+
+30 22 4 10 0 eNation_Thebe_FullName
+
+
+31 21 6 10 0 eNation_Troy_FullName
+
+
+32 22 6 10 0 eNation_Minos_FullName
+
+
+34 24 6 10 0 eNation_Neutral_FullName
+
+
+36 24 8 10 0 eClient_NpcFuncNationWar
+
+
+41 29 8 10 0 eClient_NpcFuncNationOfficial
+
+
+41 29 8 10 0 eClient_NpcFuncNationResource
+
+
+57 29 24 10 0 eClient_AppointNationOfficial
+
+
+39 23 12 10 0 eClient_FireOutOfficial
+
+
+27 19 4 10 0 eOfficial_King_Name
+
+
+32 24 4 10 0 eOfficial_Secretary_Name
+
+
+29 21 4 10 0 eOfficial_Captor_Name
+
+
+29 21 4 10 0 eClient_Resource_Wood
+
+
+30 22 4 10 0 eClient_Resource_Stone
+
+
+29 21 4 10 0 eClient_Resource_Iron
+
+
+32 24 4 10 0 eClient_Resource_Crystal
+
+
+37 17 16 10 0 NotHaveFlowerItem
+
+
+43 25 14 10 0 eGuild_Build_LvUp_Success
+
+
+39 23 12 10 0 eClient_GuildDomain_Bid
+
+
+46 30 12 10 0 eClient_GuildDomain_Gold_Empty
+
+
+46 30 12 10 0 eClient_GuildDomain_Gold_Error
+
+
+53 25 24 10 0 eClient_GuildDomain_Error
+
+
+54 32 18 10 0 eClient_GuildDomain_Not_Selected
+
+
+51 29 18 10 0 eClient_GuildDomain_Not_Match
+
+
+46 23 19 10 0 eClient_2V2_Relive_Text
+
+
+35 23 8 10 0 eClient_2V2_Relive_Time
+
+
+86 23 59 10 0 eClient_2v2_Cancel_Text
+
+
+30 22 4 10 0 eClient_2v2_Report_Win
+
+
+31 23 4 10 0 eClient_2v2_Report_Lost
+
+
+34 26 4 10 0 eClient_2v2_Report_Dogfall
+
+
+33 25 4 10 0 eClient_2v2_Report_Escape
+
+
+30 22 4 10 0 eClient_2v2_PerfectWin
+
+
+28 20 4 10 0 eClient_2v2_GreatWin
+
+
+29 21 4 10 0 eClient_2v2_LittleWin
+
+
+28 20 4 10 0 eClient_2v2_MicroWin
+
+
+72 26 42 10 0 eClient_Tutorial_TrackTask
+
+
+55 24 27 10 0 eClient_Tutorial_TaskEnd
+
+
+45 25 16 10 0 eClient_Tutorial_ClickNpc
+
+
+46 21 21 10 0 eClient_GetFirstEquip
+
+
+51 27 20 10 0 eClient_Tutorial_FirstEquip
+
+
+64 30 30 10 0 eClient_Tutorial_FirstEquipPos
+
+
+116 24 88 10 0 eClient_EquipActive_Need
+
+
+116 24 88 10 0 eClient_EquipRandom_Need
+
+
+31 19 8 10 0 eClient_EquipActive
+
+
+31 19 8 10 0 eClient_EquipRandom
+
+
+37 25 8 10 0 eClient_OnLineMemberCount
+
+
+34 22 8 10 0 eClient_MaxMemberCount
+
+
+49 28 17 10 0 eClient_GuildCancelIdiograph
+
+
+40 19 17 10 0 eClient_GuildJoinIn
+
+
+48 28 16 10 0 eClient_GuildInviteIdiograph
+
+
+27 19 4 10 0 eClient_GuildDonate
+
+
+67 21 42 10 0 eClient_Guildproperty
+
+
+61 23 34 10 0 eClient_Guildcontribute
+
+
+67 22 41 10 0 eClient_Tutorial_Skill
+
+
+50 24 22 10 0 eClient_Tutorial_UseItem
+
+
+49 23 22 10 0 eClient_AthCancelForbid
+
+
+44 24 16 10 0 eClient_AthCancelSuccess
+
+
+68 22 42 10 0 eClient_CollectTaskReq
+
+
+64 25 35 10 0 eClient_Guildconstruction
+
+
+45 30 11 10 10 eClient_Tutorial_FirstEquipBag
+
+
+58 25 29 10 0 eClient_Tutorial_TaskEnd2
+
+
+71 27 40 10 0 eClient_Tutorial_AcceptTask
+
+
+40 27 9 10 10 eClient_Tutorial_FirstTrans
+
+
+57 28 25 10 0 eClient_Tutorial_SelectTrans
+
+
+54 22 28 10 0 eClient_TaskHelp_Quest
+
+
+47 19 24 10 0 eClient_TaskHelp_HP
+
+
+49 23 22 10 0 eClient_TaskHelp_Growth
+
+
+57 25 28 10 0 eClient_TaskHelp_DropItem
+
+
+28 20 4 10 0 eClient_Effect_Set_0
+
+
+26 20 2 10 0 eClient_Effect_Set_1
+
+
+26 20 2 10 0 eClient_Effect_Set_2
+
+
+26 20 2 10 0 eClient_Effect_Set_3
+
+
+28 20 4 10 0 eClient_Effect_Set_4
+
+
+58 32 22 10 0 eClient_Guildconstruction_summit
+
+
+73 31 38 10 0 eClient_Guildconstruction_lucky
+
+
+86 38 44 10 0 eClient_Guildconstruction_contribution
+
+
+43 23 16 10 0 eClient_ExchangeLockTip
+
+
+38 26 8 10 0 eClient_FriendListColumn_0
+
+
+34 26 4 10 0 eClient_FriendListColumn_1
+
+
+34 26 4 10 0 eClient_FriendListColumn_2
+
+
+34 26 4 10 0 eClient_FriendListColumn_3
+
+
+34 26 4 10 0 eClient_MemberListColumn_0
+
+
+34 26 4 10 0 eClient_MemberListColumn_1
+
+
+34 26 4 10 0 eClient_MemberListColumn_2
+
+
+36 26 6 10 0 eClient_MemberListColumn_3
+
+
+34 26 4 10 0 eClient_MemberListColumn_4
+
+
+33 25 4 10 0 eClient_GuildListColumn_0
+
+
+33 25 4 10 0 eClient_GuildListColumn_1
+
+
+33 25 4 10 0 eClient_GuildListColumn_2
+
+
+52 28 20 10 0 eClient_Build_Cannot_LevelUp
+
+
+28 12 12 10 0 eClient_Jump
+
+
+22 12 6 10 0 eClient_Mail
+
+
+46 34 8 10 0 eClient_NationResourceListColumn_0
+
+
+44 34 6 10 0 eClient_NationResourceListColumn_1
+
+
+59 31 24 10 0 eClient_CountryForbidSpeakInput
+
+
+56 28 24 10 0 eClient_CountryImprisonInput
+
+
+43 17 22 10 0 e_isChangeAccount
+
+
+88 19 65 10 0 eUI_JumpGateContent
+
+
+42 18 20 10 0 eClient_ReqSubTask
+
+
+64 22 38 10 0 eClient_ProtectTaskReq
+
+
+66 23 39 10 0 eClient_EquipPunch_Need
+
+
+36 18 14 10 0 eClient_EquipPunch
+
+
+49 27 18 10 0 eClinet_AskJoinDomainBattle
+
+
+38 26 8 10 0 eClient_SubTaskMemberList0
+
+
+34 26 4 10 0 eClient_SubTaskMemberList1
+
+
+46 38 4 10 0 eClient_SubTaskMemberList_StateOffline
+
+
+45 37 4 10 0 eClient_SubTaskMemberList_StateToofar
+
+
+45 37 4 10 0 eClient_SubTaskMemberList_StateNormal
+
+
+49 25 20 10 0 eClient_EquipElement_Fire
+
+
+50 26 20 10 0 eClient_EquipElement_Light
+
+
+48 24 20 10 0 eClient_EquipElement_Ice
+
+
+49 29 16 10 0 eClient_KingSelectMonsterLine
+
+
+73 30 39 10 0 eClient_Tutorial_ClickTransNpc
+
+
+68 21 43 10 0 eClient_JumpHeroIntro
+
+
+34 22 8 10 0 eClient_JumpHeroActive
+
+
+35 25 6 10 0 eClient_JumpHeroDisActive
+
+
+42 26 12 10 0 eClient_LearnSkill_Success
+
+
+48 28 16 10 0 eUI_DuplicateNewbieTransform
+
+
+54 26 24 10 0 eUI_DuplicateNewbieUseItem
+
+
+50 24 22 10 0 eUI_DuplicateNewbieLeave
+
+
+44 24 16 10 0 eUI_DuplicateNewbieEquip
+
+
+57 23 30 10 0 eClient_MailDelete_Item
+
+
+62 16 42 10 0 eClient_LineFull
+
+
+23 13 6 10 0 ui_energy_tip
+
+
+23 13 6 10 0 ui_dander_tip
+
+
+19 9 6 10 0 ui_mp_tip
+
+
+23 15 4 10 0 ui_TelePort_tip
+
+
+32 11 17 10 0 ui_shop_tip
+
+
+39 15 20 10 0 eUseItemSuccess
+
+
+40 24 12 10 0 eClient_KeySet_CancleKey
+
+
+43 25 14 10 0 eClient_KeySet_InvalidKey
+
+
+44 28 12 10 0 eClient_PleaseSetShortCutKey
+
+
+73 25 44 10 0 eClient_EquipUp_NoUpEquip
+
+
+74 24 46 10 0 eClinet_GemInlay_NoEquip
+
+
+58 36 18 10 0 eClinet_Leave_BattleGround_CountDown
+
+
+81 33 44 10 0 eClinet_Leave_BattleGround_Punish
+
+
+75 33 38 10 0 eClinet_Leave_PVE_NoReturn_Notice
+
+
+44 30 10 10 0 eClinet_Eternal_AthleticsScene
+
+
+39 27 8 10 0 eClinet_Eternal_BattleScene
+
+
+37 25 8 10 0 eClinet_Eternal_RankScene
+
+
+41 27 10 10 0 eClinet_Reason_Abnormalquit
+
+
+40 28 8 10 0 eClinet_Reason_Negativematch
+
+
+42 26 12 10 0 eClinet_Punish_SurplusTime
+
+
+38 30 4 10 0 eClinet_ShopCenterTypeInfo_New
+
+
+63 33 26 10 0 eClinet_ShopCenterTypeInfo_Supply
+
+
+54 30 20 10 0 eClinet_ShopCenterTypeInfo_Gem
+
+
+84 31 49 10 0 eClinet_ShopCenterTypeInfo_Item
+
+
+77 34 39 10 0 eClinet_ShopCenterTypeInfo_Exploit
+
+
+69 31 34 10 0 eClinet_ShopCenterTypeInfo_Hero
+
+
+62 22 36 10 0 eClient_ItemExpiryDate
+
+
+49 26 19 10 0 eClient_ItemPassExpiryDate
+
+
+65 25 36 10 0 eClient_AlchemyExpiryDate
+
+
+52 29 19 10 0 eClient_AlchemyPassExpiryDate
+
+
+65 24 37 10 0 eClient_NotYetStudySkill
+
+
+29 19 6 10 0 eClient_UseTimeItem
+
+
+28 18 6 10 0 eClient_TryOutItem
+
+
+43 26 13 10 0 eClient_SurplusUpgradeTime
+
+
+29 18 7 10 0 eClient_EquipLevel
+
+
+34 22 8 10 0 eClient_EquipNoUpgrade
+
+
+47 30 13 10 0 eClient_UpgradeAddShieldReward
+
+
+42 25 13 10 0 eClient_EquipRandomReward
+
+
+47 27 16 10 0 eClient_RewardAttrExcellent
+
+
+42 22 16 10 0 eClient_RewardAttrFine
+
+
+43 21 18 10 0 eClient_RewardAttrTop
+
+
+47 23 20 10 0 eClinet_NeedSummonLevel
+
+
+55 21 30 10 0 eClient_BeSuitableFor
+
+
+27 18 5 10 0 eClient_EquipGhost
+
+
+41 27 10 10 0 eClient_EquipGhostGrowthMax
+
+
+40 25 11 10 0 eClient_EquipGhostValue00
+
+
+40 25 11 10 0 eClient_EquipGhostValue01
+
+
+40 25 11 10 0 eClient_EquipGhostValue10
+
+
+40 25 11 10 0 eClient_EquipGhostValue11
+
+
+37 25 8 10 0 eClient_EquipGhostValue20
+
+
+40 25 11 10 0 eClient_EquipGhostValue21
+
+
+45 25 16 10 0 eClient_EquipGhostValue30
+
+
+40 25 11 10 0 eClient_EquipGhostValue31
+
+
+41 25 12 10 0 eClient_EquipGhostValue40
+
+
+39 25 10 10 0 eClient_EquipGhostValue41
+
+
+41 25 12 10 0 eClient_EquipGhostValue42
+
+
+40 25 11 10 0 eClient_EquipGhostValue43
+
+
+30 17 9 10 0 eClient_Attribute
+
+
+41 28 9 10 0 eClient_InitiativeSkillColon
+
+
+40 27 9 10 0 eClient_PassivitySkillColon
+
+
+37 22 11 10 0 eClient_CanUseTimeZero
+
+
+34 18 12 10 0 eClient_CanUseTime
+
+
+32 20 8 10 0 eClient_CanNotGrowUp
+
+
+69 31 34 10 0 eClient_CanNotInlayIdenticalGem
+
+
+78 30 44 10 0 eClient_CanNotInlay2CombineGem
+
+
+35 24 7 10 0 eClient_ChatChannelWhole
+
+
+34 23 7 10 0 eClient_ChatChannelTeam
+
+
+36 25 7 10 0 eClient_ChatChannelSecret
+
+
+36 25 7 10 0 eClient_ChatChannelFriend
+
+
+34 23 7 10 0 eClient_ChatChannelHall
+
+
+32 21 7 10 0 eClient_ChatChannelOB
+
+
+50 24 22 10 0 eClient_ReceiveFriendAsk
+
+
+80 32 44 10 0 eClient_MeanWhileChatYetToplimit
+
+
+42 26 12 10 0 eClient_YetBigKillVeryKill
+
+
+41 25 12 10 0 eClient_SweepAllBeforeOne
+
+
+45 29 12 10 0 eClient_NobodyCaresToAskAbout
+
+
+39 23 12 10 0 eClient_YetDictateMatch
+
+
+37 21 12 10 0 eClient_YetGodGeneral
+
+
+37 21 12 10 0 eClient_YetSurpassGod
+
+
+50 28 18 10 0 eClient_JustFinishDoubleKill
+
+
+49 27 18 10 0 eClient_JustFinishThreeKill
+
+
+54 28 22 10 0 eClient_JustFinishInsaneKill
+
+
+34 20 10 10 0 eClient_YetCruelWalk
+
+
+31 21 6 10 0 eClient_KillDieFinish
+
+
+35 21 10 10 0 eClient_InvalidTarget
+
+
+80 21 55 10 0 eClient_SkillOutRange
+
+
+36 22 10 10 0 eClient_AcquireExploit
+
+
+41 21 16 10 0 eClinet_ClickAoToGoTo
+
+
+64 36 24 10 0 eClient_RightHandUseItemActivateHero
+
+
+62 36 22 10 0 eClient_LeftHandOpenHeroSetBlockBook
+
+
+47 27 16 10 0 eClient_RightHandChangeHero
+
+
+72 40 28 10 0 eClient_LeftHandUseSkillAttackLockTarget
+
+
+73 41 28 10 0 eClient_LeftHandUseSkillAttackDestineArea
+
+
+85 28 53 10 0 eClient_WelcomeToSportsDrill
+
+
+88 33 51 10 0 eClient_WelcomeToBattlefieldDrill
+
+
+80 29 47 10 0 eClient_WelcomeToNewHandDrill
+
+
+77 30 43 10 0 eClient_FinishBattlefieldDrill
+
+
+79 26 49 10 0 eClient_FinishNewHandDrill
+
+
+101 34 63 10 0 eClient_OpenBagUseBattlefieldEquip
+
+
+220 30 185 1 1 eClient_BagRightHandUseGiftBag
+
+
+129 39 86 1 0 eClient_WelcomeToNewHandDrillStartDrill
+
+
+118 34 80 10 0 eClient_HeroSelectUINeedSelectHero
+
+
+127 33 90 10 0 eClient_SelectHeroHaveTimeAstrict
+
+
+105 29 72 10 0 eClient_HeroListCurHeroSelect
+
+
+91 26 61 10 0 eClient_TeamMateSelectHero
+
+
+83 20 59 10 0 eClient_MeSelectHero
+
+
+115 35 76 10 0 eClient_MeAndTeamMateDiscussTactics
+
+
+129 31 94 1 0 eClient_SelectTwoSkillClickIcon
+
+
+113 27 82 10 0 eClient_GeniusClickAndAlter
+
+
+154 34 116 1 0 eClient_ClickStartGameAffirmSelect
+
+
+158 36 118 1 0 eClient_SummonLevelSecondUnlockSkill
+
+
+82 34 44 10 0 eClient_ClickSkillIconLookDescribe
+
+
+146 35 107 1 0 eClient_SummonLevelThreeDowerExpert
+
+
+77 31 42 10 0 eClient_CurDowerPageFreeTwoPage
+
+
+106 38 64 10 0 eClient_ClickAddMarkButtonAddDowerPage
+
+
+162 37 121 1 0 eClient_UseLeftOrRightHandAddOrReduce
+
+
+125 37 84 10 0 eClient_UseClickAddOrReduceDowerPoint
+
+
+98 36 58 10 0 eClient_AddThreePointUnlockDowerLine
+
+
+79 37 38 10 0 eClient_SelectOneDowerPointAllotPoint
+
+
+86 36 46 10 0 eClient_LeftDescribeHaveAttributeAdd
+
+
+93 27 62 10 0 eClient_ClickSaveButtonSave
+
+
+98 28 66 10 0 eClient_ClickCloseButtonQuit
+
+
+90 32 54 10 0 eClient_MayProcessEquipIntensify
+
+
+155 34 117 1 0 eClient_WelcomeToBagUIIntroduceBag
+
+
+74 32 38 10 0 eClient_ThisFixedBagHaveAllEquip
+
+
+124 25 95 10 0 eClient_ThisPeriodTimeBag
+
+
+100 25 71 10 0 eClient_ClickEquipUpqrade
+
+
+176 31 140 1 1 eClient_NeedProcessUpqradeEquip
+
+
+93 22 67 10 0 eClient_ShowNeedGemNum
+
+
+94 29 61 10 0 eClient_ShowNeedUpTargetLevel
+
+
+158 33 121 1 0 eClient_ClickSkillUpOrAttributeUp
+
+
+86 35 47 10 0 eClient_FinishNeHandGuideGetGiftBag
+
+
+71 39 28 10 0 eClient_InCourseOfEnterIntoNewHandDrill
+
+
+88 27 57 10 0 eClient_ClickAddMarkUpSkill
+
+
+84 28 52 10 0 eClient_ClickStartGameButton
+
+
+102 37 61 10 0 eClient_ClickTeachingButtonStartTeach
+
+
+85 29 52 10 0 eClient_ClickYongHengMathMode
+
+
+40 24 12 10 0 eClient_LeftKeyClickItem
+
+
+105 39 62 10 0 eClient_LeftKeyClickBuyButtonProcessBuy
+
+
+26 13 9 10 0 eClient_Quest
+
+
+80 32 44 10 0 eClient_PleaseLaterOnLoginThanks
+
+
+55 34 17 10 0 eClient_EnterToPreventWallowSystem
+
+
+32 17 11 10 0 eClient_LoginFail
+
+
+60 36 20 10 0 eClient_Quest1DestroyEnemyOuterTower
+
+
+61 37 20 10 0 eClient_Quest2DestroyEnemyCentreTower
+
+
+65 39 22 10 0 eClient_Quest3DestroyEnemyHighLandTower
+
+
+54 30 20 10 0 eClient_Quest4DestroyEnemyCamp
+
+
+61 35 22 10 0 eClient_Quest5DestroyEnemyBaseTower
+
+
+54 30 20 10 0 eClient_Quest6DestroyEnemyBase
+
+
+55 32 19 10 0 eClient_JumpCaptainYetExceedGod3
+
+
+55 32 19 10 0 eClient_JumpCaptainYetExceedGod1
+
+
+64 36 24 10 0 eClient_DoubleClickChangeDesignation
+
+
+36 20 12 10 0 eClient_CurrentTitle
+
+
+98 23 71 10 0 eClient_ClickViewDetail
+
+
+39 21 14 10 0 eClient_NoChangeTitle
+
+
+58 30 24 10 0 eClient_NotYetReachAchievement
+
+
+47 25 18 10 0 eClient_ChangeDesignation
+
+
+26 16 6 10 0 eClient_PointNum
+
+
+76 39 33 10 0 eClient_SelectDesignationNotYetNoSelect
+
+
+38 20 14 10 0 eClient_YouYetLineUp
+
+
+43 27 12 10 0 eClient_InCourseOfGainDatas
+
+
+35 18 13 10 0 eClient_PlanOnWait
+
+
+60 32 24 10 0 eClient_AchieveHighestEquipLevel
+
+
+45 27 14 10 0 eClient_ItemCanNotIntensify
+
+
+44 24 16 10 0 eClient_EquipUpStillNeed
+
+
+36 24 8 10 0 eClient_BattleFieldMedal
+
+
+33 19 10 10 0 eClient_SportsMedal
+
+
+33 19 10 10 0 eClient_EquipUpSign
+
+
+35 21 10 10 0 eClient_SumNeedExpend
+
+
+31 21 6 10 0 eClient_EquipUpGoldOr
+
+
+27 19 4 10 0 eClient_PointVolume
+
+
+58 21 33 10 0 eClient_NotEnoughGold
+
+
+73 22 47 10 0 eClient_NotEnoughMoney
+
+
+68 29 35 10 0 eClient_NotEnoughMoneyAndGold
+
+
+32 17 11 10 0 eClient_SkillName
+
+
+33 18 11 10 0 eClient_SkillLevel
+
+
+33 19 10 10 0 eClient_SkillCDTime
+
+
+43 27 12 10 0 eClient_EquipUpgradeSucceed
+
+
+32 20 8 10 0 eClient_eErrorUnknow
+
+
+41 27 10 10 0 eClient_eErrorEquipNotFound
+
+
+46 30 12 10 0 eClient_eErrorEquipCannotRaise
+
+
+45 25 16 10 0 eClient_eErrorTargetLevel
+
+
+45 27 14 10 0 eClient_eErrorSkillNotFound
+
+
+44 28 12 10 0 eClient_eErrorNotEnoughMoney
+
+
+43 27 12 10 0 eClient_eErrorNotEnoughGold
+
+
+46 30 12 10 0 eClient_eErrorNotEnoughExploit
+
+
+55 25 26 10 0 eClient_eErrorEquipTryout
+
+
+39 23 12 10 0 eClient_eErrorEquipRand
+
+
+50 16 30 10 0 eClient_ComeFrom
+
+
+50 20 26 10 0 eClient_ComeFromInfo
+
+
+55 25 26 10 0 eClient_ClickEquipIconBuy
+
+
+25 17 4 10 0 eClient_HeroLevel
+
+
+28 18 6 10 0 eClient_MagicValue
+
+
+44 26 14 10 0 eClient_PrepareSurplusTime
+
+
+34 20 10 10 0 eClient_PrepareStart
+
+
+28 19 5 10 0 eClient_FriendColon
+
+
+49 27 18 10 0 eClient_AskForInviteAddTeam
+
+
+55 32 19 10 0 eClient_PrepareSurplusTimeSecond
+
+
+41 26 11 10 0 eClient_PrepareStartSecond
+
+
+25 15 6 10 0 eUI_violentRate
+
+
+30 18 8 10 0 eUI_AttackDistance
+
+
+24 14 6 10 0 eUI_AttackType
+
+
+27 17 6 10 0 eUI_MagicArtsType
+
+
+26 14 8 10 0 eUI_ExtraMoney
+
+
+24 14 6 10 0 eUI_GrowUpType
+
+
+25 15 6 10 0 eUI_ControlType
+
+
+22 12 6 10 0 eUI_AureType
+
+
+43 19 20 10 0 eClinet_whenLoveGod
+
+
+30 14 12 10 0 eClinet_seteye
+
+
+29 17 8 10 0 eClinet_herophoto
+
+
+32 18 10 10 0 eClinet_cameratome
+
+
+36 18 14 10 0 eClinet_medicinal3
+
+
+36 18 14 10 0 eClinet_medicinal2
+
+
+36 18 14 10 0 eClinet_medicinal1
+
+
+27 15 8 10 0 eClinet_choseme
+
+
+30 18 8 10 0 eClinet_lockcamera
+
+
+31 19 8 10 0 eClinet_retreatsign
+
+
+31 19 8 10 0 eClinet_warningsign
+
+
+33 21 8 10 0 eClinet_helpinterface
+
+
+20 12 4 10 0 eClinet_shop
+
+
+26 18 4 10 0 eClinet_centershop
+
+
+30 20 6 10 0 eClinet_sorcingborad
+
+
+31 17 10 10 0 eClinet_openbagui
+
+
+38 22 12 10 0 eClinet_heropropertyui
+
+
+20 12 4 10 0 eClinet_stop
+
+
+22 14 4 10 0 eClinet_attack
+
+
+52 31 17 10 0 eClinet_itemfastusevoluntarily1
+
+
+52 31 17 10 0 eClinet_itemfastusevoluntarily2
+
+
+52 31 17 10 0 eClinet_itemfastusevoluntarily3
+
+
+52 31 17 10 0 eClinet_itemfastusevoluntarily4
+
+
+52 31 17 10 0 eClinet_itemfastusevoluntarily5
+
+
+52 31 17 10 0 eClinet_itemfastusevoluntarily6
+
+
+33 20 9 10 0 eClinet_itemfastuse1
+
+
+33 20 9 10 0 eClinet_itemfastuse2
+
+
+33 20 9 10 0 eClinet_itemfastuse3
+
+
+33 20 9 10 0 eClinet_itemfastuse4
+
+
+33 20 9 10 0 eClinet_itemfastuse5
+
+
+33 20 9 10 0 eClinet_itemfastuse6
+
+
+55 32 19 10 0 eClinet_callskillusevoluntarily1
+
+
+55 32 19 10 0 eClinet_callskillusevoluntarily2
+
+
+40 21 15 10 0 eClinet_callskilluse1
+
+
+40 21 15 10 0 eClinet_callskilluse2
+
+
+20 12 4 10 0 eClinet_back
+
+
+60 31 25 10 0 eClinet_fastusevoluntarilytome1
+
+
+60 31 25 10 0 eClinet_fastusevoluntarilytome2
+
+
+60 31 25 10 0 eClinet_fastusevoluntarilytome3
+
+
+60 31 25 10 0 eClinet_fastusevoluntarilytome4
+
+
+60 31 25 10 0 eClinet_fastusevoluntarilytome5
+
+
+63 34 25 10 0 eClinet_fastusevoluntarilytoother1
+
+
+63 34 25 10 0 eClinet_fastusevoluntarilytoother2
+
+
+63 34 25 10 0 eClinet_fastusevoluntarilytoother3
+
+
+63 34 25 10 0 eClinet_fastusevoluntarilytoother4
+
+
+63 34 25 10 0 eClinet_fastusevoluntarilytoother5
+
+
+30 17 9 10 0 eClinet_addskill1
+
+
+30 17 9 10 0 eClinet_addskill2
+
+
+30 17 9 10 0 eClinet_addskill3
+
+
+30 17 9 10 0 eClinet_addskill4
+
+
+30 17 9 10 0 eClinet_addskill5
+
+
+33 18 11 10 0 eClinet_skillfast1
+
+
+33 18 11 10 0 eClinet_skillfast2
+
+
+33 18 11 10 0 eClinet_skillfast3
+
+
+33 18 11 10 0 eClinet_skillfast4
+
+
+33 18 11 10 0 eClinet_skillfast5
+
+
+49 21 24 10 0 eClinet_QPrivateChat1
+
+
+49 21 24 10 0 eClinet_QPrivateChat2
+
+
+238 25 208 5 5 eClinet_fastkeyuseexplain
+
+
+22 12 6 10 0 eClinet_gold
+
+
+23 13 6 10 0 eClinet_money
+
+
+25 15 6 10 0 eClinet_exploit
+
+
+37 19 14 10 0 eClinet_GoldOrMoney
+
+
+38 22 12 10 0 eClinet_notenoughmoney
+
+
+36 24 8 10 0 eClinet_notenoughexploit
+
+
+37 21 12 10 0 eClinet_notenoughgold
+
+
+50 25 21 10 0 eClinet_bagisfullclearbag
+
+
+24 14 6 10 0 eClinet_goldor
+
+
+27 15 8 10 0 eClinet_buyhero
+
+
+26 14 8 10 0 eClinet_ishave
+
+
+27 19 4 10 0 eClinet_commonequip
+
+
+25 17 4 10 0 eClinet_heroequip
+
+
+26 18 4 10 0 eClinet_skillequip
+
+
+26 18 4 10 0 eClinet_ghostequip
+
+
+33 25 4 10 0 eClinet_attributemedicine
+
+
+31 23 4 10 0 eClinet_recovermedicine
+
+
+20 12 4 10 0 eClinet_gift
+
+
+20 12 4 10 0 eClinet_card
+
+
+26 18 4 10 0 eClinet_upgradegem
+
+
+29 21 4 10 0 eClinet_strengthengem
+
+
+19 11 4 10 0 eClinet_gem
+
+
+21 13 4 10 0 eClinet_equip
+
+
+19 11 4 10 0 eClinet_buy
+
+
+26 14 8 10 0 eClinet_orGold
+
+
+45 25 16 10 0 eClinet_determinegetequip
+
+
+44 24 16 10 0 eClinet_determinegethero
+
+
+29 17 8 10 0 eClinet_OrExploit
+
+
+34 21 9 10 0 eClinet_NoRottenValue
+
+
+33 18 11 10 0 eClinet_singleline
+
+
+32 17 11 10 0 eClinet_creatteam
+
+
+57 28 25 10 0 eClinet_youInitiateSurrender
+
+
+22 14 4 10 0 eClinet_prompt
+
+
+29 17 8 10 0 eClinet_quitorder
+
+
+28 16 8 10 0 eClinet_chengeId
+
+
+26 14 8 10 0 eClinet_Lowest
+
+
+21 11 6 10 0 eClinet_Low
+
+
+29 17 8 10 0 eClinet_Secondary
+
+
+22 12 6 10 0 eClinet_High
+
+
+27 15 8 10 0 eClinet_Highest
+
+
+27 19 4 10 0 eClinet_PercentdDay
+
+
+25 17 4 10 0 eClinet_choosesuc
+
+
+37 21 12 10 0 eClinet_unrealusesucc
+
+
+35 21 10 10 0 eClinet_nothaveunreal
+
+
+32 12 16 10 0 eClinet_date
+
+
+24 14 6 10 0 eClinet_source
+
+
+26 16 6 10 0 eClinet_describe
+
+
+23 13 6 10 0 eClinet_level
+
+
+44 20 20 10 0 eClinet_deleteunreal
+
+
+80 24 52 10 0 eClinet_onlyuseOneunreal
+
+
+33 17 12 10 0 eClinet_useunreal
+
+
+34 18 12 10 0 eClinet_stopunreal
+
+
+22 12 6 10 0 eClinet_room
+
+
+45 19 22 10 0 eClinet_Iscreatroom
+
+
+32 18 10 10 0 eClinet_chosemodle
+
+
+30 16 10 10 0 eClinet_chosemap
+
+
+41 23 14 10 0 eClinet_roomnameisempty
+
+
+28 20 4 10 0 eClinet_playerisfull
+
+
+25 17 4 10 0 eClinet_enterinto
+
+
+49 23 22 10 0 eClinet_notenoughplayer
+
+
+28 16 8 10 0 eClinet_singline
+
+
+36 20 12 10 0 eClinet_openroomlist
+
+
+56 28 24 10 0 eClinet_playerlevelnotenough
+
+
+54 33 17 10 0 eClient_ThisOrderStilettoNeedCost
+
+
+89 33 52 10 0 eClinet_curstilettoisusemoneygold
+
+
+37 19 14 10 0 eClinet_chosepayway
+
+
+63 29 30 10 0 eClinet_notenoughmoneyusegold
+
+
+63 29 30 10 0 eClinet_notenoughgoldusemoney
+
+
+71 29 38 10 0 eClinet_notenoughgoldandmoney
+
+
+49 26 19 10 0 eClinet_LevelGemGiveUpNeed
+
+
+27 15 8 10 0 eClient_MoneyOr
+
+
+24 16 4 10 0 eClient_GameGold
+
+
+44 20 20 10 0 eClinet_notenoughgem
+
+
+42 16 22 10 0 eClinet_fuselose
+
+
+55 32 19 10 0 eClient_LevelGemCompoundNeedCost
+
+
+49 26 19 10 0 eClient_LevelGemInNeedCost
+
+
+38 20 14 10 0 eClinet_chosefuseway
+
+
+48 26 18 10 0 eClinet_pushGemlevelnotfit
+
+
+48 22 22 10 0 eClinet_pushGemCombine
+
+
+48 22 22 10 0 eClinet_needtwotypegem
+
+
+35 18 13 10 0 eClinet_gemattrdec
+
+
+98 25 69 10 0 eClinet_gemfusecondition4
+
+
+83 25 54 10 0 eClinet_gemfusecondition3
+
+
+83 25 54 10 0 eClinet_gemfusecondition2
+
+
+91 25 62 10 0 eClinet_gemfusecondition1
+
+
+42 22 16 10 0 eClinet_Notequiprepair
+
+
+50 26 20 10 0 eClinet_repairEquipConsume
+
+
+38 20 14 10 0 eClinet_cannotrepair
+
+
+48 20 24 10 0 eClinet_noneedrepair
+
+
+58 31 23 10 0 eClinet_storehousePasswordError
+
+
+68 35 29 10 0 eClinet_NotenoughgoldOpenstorehouse
+
+
+54 30 20 10 0 eClinet_itemdontUseInthisScene
+
+
+57 35 18 10 0 eClinet_TimebagtoExceedTheTimeLimit
+
+
+22 14 4 10 0 eClient_Notice
+
+
+37 21 12 10 0 eClinet_TimebagIsfull
+
+
+29 17 8 10 0 eClinet_bagisfull
+
+
+31 19 8 10 0 eClinet_activatebag
+
+
+57 26 27 10 0 eClinet_validIspassOnlyget
+
+
+30 18 8 10 0 eClinet_addbagtime
+
+
+32 18 10 10 0 eClinet_TimeisPass
+
+
+55 19 32 10 0 eClinet_TimehaveDay
+
+
+49 25 20 10 0 eClient_TimeHaveExceedDay
+
+
+46 24 18 10 0 eClinet_determinedestroy
+
+
+29 15 10 10 0 eClient_gotovip
+
+
+51 29 18 10 0 eClinet_Teamisfulldontrequest
+
+
+65 26 35 10 0 eClinet_servernameplayerid
+
+
+36 19 13 10 0 eClent_SportsSumNum
+
+
+31 17 10 10 0 eClient_WinSumNum
+
+
+30 20 6 10 0 eClient_WinRateColon
+
+
+30 16 10 10 0 eClient_SumCount
+
+
+60 29 27 10 0 eClient_PointOutGameAdultOpen
+
+
+26 18 4 10 0 eClinet_thecapital
+
+
+25 17 4 10 0 eClinet_lowercase
+
+
+36 19 13 10 0 eClinet_Choseserver
+
+
+30 18 8 10 0 eClinet_beginlogin
+
+
+41 21 16 10 0 eClinet_choseborncity
+
+
+29 15 10 10 0 eClinet_ShowAll
+
+
+34 19 11 10 0 eClinet_ShowBaseNPC
+
+
+40 23 13 10 0 eClinet_ShowFunctionNPC
+
+
+40 22 14 10 0 eClinet_ShowAreaConvey
+
+
+41 23 14 10 0 eClinet_ShowAreaMonster
+
+
+50 27 19 10 0 eClinet_PointOutJustRetreat
+
+
+50 27 19 10 0 eClinet_PointOUtLetYouAloof
+
+
+57 31 22 10 0 eClinet_PointOUtLetYouFromAloof
+
+
+63 31 28 10 0 eClinet_PointOutEmitSigalPlease
+
+
+57 31 22 10 0 eClinet_PointOutInPleaseSupport
+
+
+41 20 17 10 0 eClinet_PointOutSign
+
+
+57 27 26 10 0 eClinet_PointOutPleaseLeave
+
+
+62 26 32 10 0 eClinet_PointOutPleaseCome
+
+
+61 22 35 10 0 eClinet_ClickOrCtrlAdd
+
+
+62 23 35 10 0 eClinet_ClickStutySkill
+
+
+23 15 4 10 0 eClinet_Success
+
+
+29 15 10 10 0 eClient_MapInfo
+
+
+30 15 11 10 0 eClient_MapName
+
+
+30 15 11 10 0 eClient_MapMode
+
+
+28 17 7 10 0 eClient_WhoseTeam
+
+
+22 14 4 10 0 eClient_Accept
+
+
+22 14 4 10 0 eClient_Refuse
+
+
+43 18 21 10 0 eClient_GamePlayer
+
+
+54 21 29 10 0 eClient_EnterIntoRoom
+
+
+50 17 29 10 0 eClient_LeaveRoom
+
+
+40 21 15 10 0 eClient_YouByKickTeam
+
+
+38 21 13 10 0 eClient_TeamByDismiss
+
+
+28 16 8 10 0 eClient_LevelInt
+
+
+38 15 19 10 0 eClient_WinRate
+
+
+20 12 4 10 0 eClient_Wait
+
+
+30 18 8 10 0 eClient_GeniusPage
+
+
+33 19 10 10 0 eClient_YouNeedCost
+
+
+58 34 20 10 0 eClient_PointActivateNewGeniusPage
+
+
+83 36 43 10 0 eClient_RightButtonClickGiveUpGenius
+
+
+84 37 43 10 0 eClient_LeftButtonClickActivateGenius
+
+
+102 47 51 10 0 eClient_NeedMoreExpetPerfectPutIntoUnlockGenius
+
+
+43 28 11 10 0 eClient_ComeFromExpetPerfect
+
+
+37 22 11 10 0 eClient_ComeFromGenius
+
+
+34 20 10 10 0 eClient_CurrentLevel
+
+
+31 17 10 10 0 eClient_NextLevel
+
+
+33 20 9 10 0 eClient_LifeValueAdd
+
+
+34 21 9 10 0 eClient_MagicValueAdd
+
+
+37 22 11 10 0 eClient_AttackSpeedAdd
+
+
+41 26 11 10 0 eClient_CharAttr_MoveSpeed
+
+
+35 22 9 10 0 eClient_CharAttr_Dodge
+
+
+41 26 11 10 0 eClient_CharAttr_HPRecover
+
+
+29 21 4 10 0 eClient_PerFiveSecond
+
+
+41 26 11 10 0 eClient_CharAttr_MPRecover
+
+
+44 29 11 10 0 eClient_CharAttr_CriticalOdds
+
+
+48 33 11 10 0 eClient_CharAttr_PhysicsAttackMax
+
+
+42 27 11 10 0 eClient_CharAttr_PhysicsDef
+
+
+45 30 11 10 0 eClient_CharAttr_ArmorPuncture
+
+
+43 28 11 10 0 eClient_CharAttr_MagicAttack
+
+
+40 25 11 10 0 eClient_CharAttr_MagicDef
+
+
+50 35 11 10 0 eClient_CharAttr_MagicArmorPuncture
+
+
+38 27 7 10 0 eClient_CharAttr_SuperArmor
+
+
+40 25 11 10 0 eClient_CharAttr_HPAbsorb
+
+
+40 25 11 10 0 eClient_CharAttr_MPAbsorb
+
+
+64 31 29 10 0 eClient_CharAttr_KillBonusMoney
+
+
+59 30 25 10 0 eClient_CharAttr_KillRestoreHP
+
+
+59 30 25 10 0 eClient_CharAttr_KillRestoreMP
+
+
+65 42 19 10 0 eClient_CharAttr_PhysicsAttack_LevelGrowth
+
+
+61 38 19 10 0 eClient_CharAttr_PhysicDef_LevelGrowth
+
+
+63 40 19 10 0 eClient_CharAttr_MagicAttack_LevelGrowth
+
+
+55 34 17 10 0 eClient_CharAttr_HPMax_LevelGrowth
+
+
+55 34 17 10 0 eClient_CharAttr_MPMax_LevelGrowth
+
+
+65 42 19 10 0 eClient_CharAttr_ColdDownMinus_LevelGrowth
+
+
+60 37 19 10 0 eClient_CharAttr_MagicDef_LevelGrowth
+
+
+46 31 11 10 0 eClient_CharAttr_DamageIncrease
+
+
+47 32 11 10 0 eClient_CharAttr_DamageReduction
+
+
+45 30 11 10 0 eClient_CharAttr_ColdDownMinus
+
+
+59 36 19 10 0 eClient_CharAttr_BonusMoney10Seconds
+
+
+46 31 11 10 0 eClient_CharAttr_InitBonusMoney
+
+
+29 18 7 10 0 eClient_UnKnownAdd
+
+
+31 16 11 10 0 eClient_OneLevel
+
+
+35 21 10 10 0 eClient_EighteenLevel
+
+
+50 28 18 10 0 eClient_ExpertEquipTryOutBag
+
+
+157 31 122 1 0 eClient_ExpertEquipRansFormInfo
+
+
+41 27 10 10 0 eClient_ExpertHeroTryOutBag
+
+
+38 20 14 10 0 eClient_300HeroGuest
+
+
+29 21 4 10 0 eClient_FontBlackBody
+
+
+29 19 6 10 0 eClient_HeaveSucess
+
+
+29 19 6 10 0 eClient_HeaveReport
+
+
+24 16 4 10 0 eClient_QuitTeam
+
+
+54 28 22 10 0 eClient_SkillNotUseFreeEquip
+
+
+24 16 4 10 0 eClient_ShopGold
+
+
+25 17 4 10 0 eClient_ShopMoney
+
+
+27 19 4 10 0 eClient_Shopexploit
+
+
+25 17 4 10 0 eClient_shop_Hero
+
+
+24 16 4 10 0 eClient_shop_Gem
+
+
+28 20 4 10 0 eClient_shop_restore
+
+
+26 18 4 10 0 eClient_shop_equip
+
+
+26 16 6 10 0 eClinet_Viptotal
+
+
+52 26 22 10 0 eClinet_SelectBagInterface
+
+
+25 12 9 10 0 eClient_Rose
+
+
+50 26 20 10 0 eClient_AcquireTimeBagTime
+
+
+40 26 10 10 0 eClient_PleaseSelectTarget
+
+
+40 22 14 10 0 eClient_YouYetHaveHero
+
+
+22 14 4 10 0 eClient_dPoint
+
+
+58 34 20 10 0 eClient_EquipNoMeetRepeatCondition
+
+
+69 35 30 10 0 eClient_RepeatAttrNeedExpendDiamond
+
+
+54 34 16 10 0 eClient_CongratulationsYouHaveHero
+
+
+26 18 4 10 0 eClient_StandAlone
+
+
+26 15 7 10 0 eClent_AddMoney
+
+
+25 14 7 10 0 eClient_AddExp
+
+
+74 38 32 10 0 eClient_SevenPlayerLevelGreaterThanTen
+
+
+65 27 34 10 0 eClient_NoFiveSixPlayerTeam
+
+
+54 27 23 10 0 eClient_OnlySevenPlayerTeam
+
+
+52 25 23 10 0 eClient_OnlyTwoPlayerTeam
+
+
+54 28 22 10 0 eClient_MaxSupportGroupEnter
+
+
+49 28 17 10 0 eClient_WhetherAcceptDieTask
+
+
+89 36 49 10 0 eClient_EquipInlayGemTogetherDestroy
+
+
+40 20 16 10 0 eClient_CanGainMoney
+
+
+83 41 38 10 0 eClient_TimeItemAndTryOutEquipNoGainMoney
+
+
+90 40 46 10 0 eClient_EquipOtherHeroEquipNotHaveEffect
+
+
+81 34 43 10 0 eClient_EquipWearZeroNotHaveEffect
+
+
+62 34 24 10 0 eClient_PleaseImportTenGoToInteger
+
+
+24 16 4 10 0 eClient_HeroSkin
+
+
+61 35 22 10 0 eClient_NoIsCurHeroSpecialAttrEquip
+
+
+45 27 14 10 0 eClient_PerfectEternalTrump
+
+
+32 20 8 10 0 eClient_EternalTrump
+
+
+70 38 28 10 0 eClient_EquipFullSetAcquireExtraEccect
+
+
+54 28 22 10 0 eClient_EquipSetSkillOnlyOne
+
+
+46 24 18 10 0 eClient_TryOutEquipNoUse
+
+
+40 26 10 10 0 eClient_PropertyYetAddLock
+
+
+40 26 10 10 0 eClient_PropertyNotAddLock
+
+
+64 40 20 10 0 eClient_PointActivateNewGeniusPageByGold
+
+
+70 31 35 10 0 eClient_LockPasswordCancelTimeH
+
+
+67 31 32 10 0 eClient_LockPasswordCancelTimeL
+
+
+59 28 27 10 0 eClient_LockPasswordCancelOK
+
+
+77 24 49 10 0 eClient_ErrorPasswordNum
+
+
+70 25 41 10 0 eClient_ErrorPasswordLock
+
+
+52 22 26 10 0 eClient_TransformCheck
+
+
+44 21 19 10 0 eClient_TransformCost
+
+
+59 29 26 10 0 eClient_TransformErrorForDead
+
+
+30 20 6 10 0 eClient_Eye_ComeFrom
+
+
+25 17 4 10 0 eClient_MagicArts
+
+
+30 22 4 10 0 eClient_TeamDifficulty
+
+
+23 15 4 10 0 eClient_Operate
+
+
+27 17 6 10 0 eClient_Passivity
+
+
+53 27 22 10 0 eClient_ItemNotInShopCenter
+
+
+53 27 22 10 0 eClient_HeroNotInShopCenter
+
+
+209 33 171 3 3 eClient_Error_UserNamePassWordZQB
+
+
+37 23 10 10 0 eClient_ReduceMyFriends
+
+
+34 20 10 10 0 eClient_AddMyFriends
+
+
+50 30 16 10 0 eClient_DoubleClickAddNewGroup
+
+
+47 30 13 10 0 eClient_ConfirmNeedUpgradeWhat
+
+
+49 29 16 10 0 eClient_YouAlreadyUpHighestLV
+
+
+70 39 27 10 0 eClient_ConfirmNeedUpWhatNeedContribute
+
+
+51 26 21 10 0 eClient_OpenBagChangeEquip
+
+
+33 19 10 10 0 eClient_LevelReward
+
+
+43 24 15 10 0 eClient_MakeSureApplyAdd
+
+
+30 18 8 10 0 eClient_TradeUnion
+
+
+29 21 4 10 0 eClient_AddTradeUnion
+
+
+48 28 16 10 0 eClient_esidualPointNotShare
+
+
+47 27 16 10 0 eClient_ThisAwakenNeedSpend
+
+
+36 12 20 10 0 eClient_Time
+
+
+62 32 26 10 0 eClient_IfNotChoseHeroRandomHero
+
+
+36 24 8 10 0 eClient_thisWeekFreeHero
+
+
+63 33 26 10 0 eClient_recommendEquipIsHaveChose
+
+
+61 27 30 10 0 eClient_setuprecommendEquip
+
+
+41 22 15 10 0 eClient_SureQuitObMode
+
+
+31 19 8 10 0 eClient_neutralCamp
+
+
+28 16 8 10 0 eClient_BlueCamp
+
+
+27 15 8 10 0 eClient_RedCamp
+
+
+18 10 4 10 0 eClient_Or
+
+
+55 31 20 10 0 eClient_SpendGoldActivategenius
+
+
+59 33 22 10 0 eClient_NotHaveEnoughMoneyAndGold
+
+
+72 40 28 10 0 eClient_PassWordIsNullCanCloseSafetyLock
+
+
+57 27 26 10 0 eClient_NotSelfEquipDontUse
+
+
+50 25 21 10 0 eClient_EquipDamageNotUse
+
+
+40 22 14 10 0 eClient_swimStatNotUse
+
+
+44 25 15 10 0 eClient_GemLevelpassEight
+
+
+45 26 15 10 0 eClient_GemLevelpassTooLow
+
+
+25 14 7 10 0 eClient_leave1
+
+
+26 14 8 10 0 eClient_leave2
+
+
+42 22 16 10 0 eClient_NotEnoughPoint
+
+
+23 15 4 10 0 eClient_second1
+
+
+39 19 16 10 0 eClient_OnlySencond
+
+
+45 23 18 10 0 eClient_YouNotChoseHero
+
+
+50 28 18 10 0 eClient_QuickOperator_Danger
+
+
+46 28 14 10 0 eClient_QuickOperator_OnLoad
+
+
+46 30 12 10 0 eClient_QuickOperator_AssistMe
+
+
+55 31 20 10 0 eClient_QuickOperator_EnemyLost
+
+
+64 32 28 10 0 eClient_QuickOperator_Long10word
+
+
+38 26 8 10 0 eClient_BattleSignalSaveOK
+
+
+36 18 14 10 0 eClient_HeroTryOut
+
+
+42 22 16 10 0 eClient_HeroTryOutTime
+
+
+51 25 22 10 0 eClient_HeroTryOutDayTime
+
+
+53 25 24 10 0 eClient_HeroTryOutLastMin
+
+
+50 21 25 10 0 eClient_HeroTryOutEnd
+
+
+59 25 30 10 0 eClient_HeroReliveDayTime
+
+
+61 25 32 10 0 eClient_HeroReliveLastMin
+
+
+58 21 33 10 0 eClient_HeroReliveEnd
+
+
+30 18 8 10 0 eClient_HeroDefine
+
+
+42 20 18 10 0 eClient_ForgeNotFull
+
+
+27 17 6 10 0 eClient_TaskAward
+
+
+29 17 8 10 0 eClient_TaskFinsh
+
+
+32 18 10 10 0 eClient_TaskNormal
+
+
+33 16 13 10 0 eClient_TaskNext
+
+
+34 20 10 10 0 eClient_TaskACTIVITY
+
+
+32 20 8 10 0 eClient_TaskFinshNot
+
+
+26 14 8 10 0 eClient_SignIn
+
+
+54 20 30 10 0 eClient_DropItemTime
+
+
+28 16 8 10 0 eClient_HighHand
+
+
+84 15 65 10 0 eClient_SkipNew
+
+
+64 28 32 10 0 eClient_MoneyNotEnoughRandom
+
+
+35 21 10 10 0 eClient_Gamble_Random
+
+
+32 18 10 10 0 eClient_Gamble_Get
+
+
+27 19 4 10 0 eClient_Gamble_Get1
+
+
+45 27 14 10 0 eClient_PleaseGamble_Random
+
+
+62 25 33 10 0 eClient_NextGamble_Random
+
+
+37 19 14 10 0 eClient_MailNoTimes
+
+
+44 21 19 10 0 eClient_MailSaveTimes
+
+
+61 27 30 10 0 eClient_Random_SpendAllGold
+
+
+83 24 55 10 0 eClient_Random_SpendGold
+
+
+26 14 8 10 0 eClient_lotSel
+
+
+41 23 14 10 0 eClient_eErrorEquipType
+
+
+41 23 14 10 0 eClient_eErrorEquipSoul
+
+
+51 30 17 10 0 eClient_EquipSoulNeedSpendGold
+
+
+64 39 21 10 0 eClient_EquipSoulNeedSpendGoldNotEnough
+
+
+48 20 24 10 0 eClient_NotEquipSoul
+
+
+47 25 18 10 0 eClient_eErrorEquipUpCard
+
+
+32 14 14 10 0 eClient_Small1
+
+
+32 14 14 10 0 eClient_Small2
+
+
+32 14 14 10 0 eClient_Small3
+
+
+47 20 23 10 0 eClient_choseOneCard
+
+
+51 21 26 10 0 eClient_NotEnoughCard
+
+
+42 21 17 10 0 eClient_BonusTypeBase
+
+
+37 25 8 10 0 eClient_BonusTypeFirstWin
+
+
+40 24 12 10 0 eClient_BonusTypeDoubleC
+
+
+40 24 12 10 0 eClient_BonusTypeDoubleT
+
+
+35 23 8 10 0 eClient_BonusTypeNewbie
+
+
+33 21 8 10 0 eClient_BonusTypeTask
+
+
+26 18 4 10 0 eClient_BonusTotal
+
+
+58 25 29 10 0 eClient_EquipSoulIsZheMax
+
+
+50 29 17 10 0 eClient_WaitFriendTeamBanHero
+
+
+53 31 18 10 0 eClient_WaitFriendTeamChoseHero
+
+
+48 27 17 10 0 eClient_WaitEnmyTeamBanHero
+
+
+51 29 18 10 0 eClient_WaitEnmyTeamChoseHero
+
+
+27 15 8 10 0 eClient_BanHero
+
+
+29 17 8 10 0 eClient_BeginGame
+
+
+57 28 25 10 0 eClient_giveupthisTimechance
+
+
+36 18 14 10 0 eClient_RankWaitIn
+
+
+80 20 56 10 0 eClient_HaveHeroCard
+
+
+27 17 6 10 0 eClient_BonusAttr
+
+
+24 16 4 10 0 eClient_FullAttr
+
+
+30 18 8 10 0 eClient_NewYearDay
+
+
+42 30 8 10 0 eClient_InternationalLabourDay
+
+
+35 23 8 10 0 eClient_TombsweepingDay
+
+
+38 26 8 10 0 eClient_dragonboatfestival
+
+
+33 21 8 10 0 eClient_Mid-autumnDay
+
+
+30 18 8 10 0 eClient_NationaDay
+
+
+34 20 10 10 0 eClient_ChinaNewYear
+
+
+18 10 4 10 0 eClient_Ok
+
+
+30 18 8 10 0 eClient_Useyuanbao
+
+
+34 14 16 10 0 eClient_ReName
+
+
+65 19 42 10 0 eClient_NameTooLong
+
+
+43 17 22 10 0 eClient_NameExist
+
+
+37 23 10 10 0 eClient_NameInvalidName
+
+
+33 21 8 10 0 eClient_NameSystemErr
+
+
+39 19 16 10 0 eClient_NameTimeOut
+
+
+32 20 8 10 0 eClient_NameTooShort
+
+
+37 21 12 10 0 eClient_ReNameSucceed
+
+
+136 16 243 2 1 eClient_VIPInfo0
+
+
+145 16 252 3 2 eClient_VIPInfo1
+
+
+141 16 248 3 2 eClient_VIPInfo2
+
+
+138 16 245 3 2 eClient_VIPInfo3
+
+
+136 16 243 3 2 eClient_VIPInfo4
+
+
+235 16 214 1 1 eClient_VIPInfo5
+
+
+38 16 18 10 0 eClient_VIPInfo6
+
+
+36 20 12 10 0 eClient_VIPFunction1
+
+
+36 20 12 10 0 eClient_VIPFunction2
+
+
+27 15 8 10 0 eClient_Invalid
+
+
+29 17 8 10 0 eClient_EquipSet0
+
+
+30 17 9 10 0 eClient_EquipSet1
+
+
+30 17 9 10 0 eClient_EquipSet2
+
+
+49 23 22 10 0 eClient_EquipSetInvalid
+
+
+69 15 50 10 0 eClient_TryHero
+
+
+110 30 76 10 0 eClient_NotHaveHeroContinueBuy
+
+
+39 23 12 10 0 eUI_UniqueAttrSameEquip
+
+
+33 17 12 10 0 eClient_hideTitle
+
+
+134 15 115 1 0 eClient_ReqDuel
+
+
+44 23 17 10 0 eClient_RequestDuelItem
+
+
+34 22 8 10 0 eClient_ServerName1002
+
+
+34 22 8 10 0 eClient_ServerName1003
+
+
+35 23 8 10 0 eClient_ServerName10611
+
+
+35 23 8 10 0 eClient_ServerName11111
+
+
+35 23 8 10 0 eClient_ServerName12291
+
+
+35 23 8 10 0 eClient_ServerName12292
+
+
+35 23 8 10 0 eClient_ServerName12293
+
+
+35 23 8 10 0 eClient_ServerName12294
+
+
+35 23 8 10 0 eClient_ServerName12431
+
+
+35 23 8 10 0 eClient_ServerName12394
+
+
+35 23 8 10 0 eClient_ServerName12432
+
+
+35 23 8 10 0 eClient_ServerName12591
+
+
+35 23 8 10 0 eClient_ServerName20000
+
+
+35 23 8 10 0 eClient_ServerName20001
+
+
+35 23 8 10 0 eClient_ServerName20002
+
+
+35 23 8 10 0 eClient_ServerName20003
+
+
+35 23 8 10 0 eClient_ServerName20004
+
+
+35 23 8 10 0 eClient_ServerName20005
+
+
+35 23 8 10 0 eClient_ServerName20006
+
+
+31 23 4 10 0 eClient_ServerName20007
+
+
+35 23 8 10 0 eClient_ServerName20008
+
+
+35 23 8 10 0 eClient_ServerName20009
+
+
+35 23 8 10 0 eClient_ServerName20010
+
+
+35 23 8 10 0 eClient_ServerName20011
+
+
+35 23 8 10 0 eClient_ServerName20012
+
+
+35 23 8 10 0 eClient_ServerName20013
+
+
+35 23 8 10 0 eClient_ServerName20014
+
+
+35 23 8 10 0 eClient_ServerName20015
+
+
+35 23 8 10 0 eClient_ServerName20016
+
+
+32 22 6 10 0 eClient_ServerName5000
+
+
+184 19 160 1 1 eClient_FirstOper41
+
+
+185 20 160 1 1 eClient_OpenSmartBuy
+
+
+135 21 110 1 0 eClient_CloseSmartBuy
+
+
+35 24 7 10 0 eClient_ChatChannelGuild
+
+
+44 18 22 10 0 eClient_FirstPay10
+
+
+50 24 22 10 0 eClient_FirstPay10_Award
+
+
+44 18 22 10 0 eClient_FirstPay50
+
+
+51 24 23 10 0 eClient_FirstPay50_Award
+
+
+46 19 23 10 0 eClient_FirstPay100
+
+
+62 25 33 10 0 eClient_FirstPay100_Award
+
+
+46 19 23 10 0 eClient_FirstPay300
+
+
+53 25 24 10 0 eClient_FirstPay300_Award
+
+
+46 19 23 10 0 eClient_FirstPay500
+
+
+53 25 24 10 0 eClient_FirstPay500_Award
+
+
+48 20 24 10 0 eClient_FirstPay1000
+
+
+86 26 56 10 0 eClient_FirstPay1000_Award
+
+
+48 20 24 10 0 eClient_FirstPay2000
+
+
+126 26 96 10 0 eClient_FirstPay2000_Award
+
+
+48 20 24 10 0 eClient_FirstPay3000
+
+
+130 26 100 1 0 eClient_FirstPay3000_Award
+
+
+48 20 24 10 0 eClient_FirstPay5000
+
+
+135 26 105 1 0 eClient_FirstPay5000_Award
+
+
+38 26 8 10 0 eClient_MemberListColumn_5
+
+
+36 18 14 10 0 eClient_SkinNoHero
+
+
+38 20 14 10 0 eClient_SkinFreeHero
+
+
+28 18 6 10 0 eClient_GuildApply
+
+
+56 26 26 10 0 eClient_GuildCreatTeamName
+
+
+36 18 14 10 0 eClient_NotUseWord
+
+
+44 22 18 10 0 eClient_ChoseOnePlayer
+
+
+37 21 12 10 0 eClient_SetTeamLeader
+
+
+43 23 16 10 0 eClient_DonttransferOwn
+
+
+48 24 20 10 0 eClient_transferIsLeader
+
+
+49 29 16 10 0 eClient_confirmtransferLeader
+
+
+51 27 20 10 0 eClient_ChosetransferPlayer
+
+
+48 24 20 10 0 eClient_confirmApplyTeam
+
+
+38 20 14 10 0 eClient_YouCreatTeam
+
+
+58 31 23 10 0 eClient_SureInVitePlayerAddTeam
+
+
+41 23 14 10 0 eClient_SuredismissTeam
+
+
+56 31 21 10 0 eClient_GuildApplyInViteAddTeam
+
+
+53 23 26 10 0 eClient_GuildBeforequit
+
+
+57 21 32 10 0 eClient_GuildHaveTeam
+
+
+80 34 42 10 0 eClient_GuildDontdismissTeamLeader
+
+
+41 27 10 10 0 eClinet_notenoughguildmoney
+
+
+30 18 8 10 0 eClinet_guildmoney
+
+
+52 24 24 10 0 eClinet_nottAlchemyequip
+
+
+61 27 30 10 0 eClinet_notAttrAlchemyequip
+
+
+31 18 9 10 0 eClient_AlchemyGet
+
+
+33 19 10 10 0 eClient_AlchemyLost
+
+
+48 27 17 10 0 eClient_AlchemySoulEQuipNot
+
+
+33 19 10 10 0 eClient_AlchemySucc
+
+
+44 27 13 10 0 eClient_AlchemynotFindEquip
+
+
+48 30 14 10 0 eClient_AlchemyequipNotAlchemy
+
+
+56 34 18 10 0 eClient_AlchemyeTestquipNotAlchemy
+
+
+51 29 18 10 0 eClient_AlchemyeDontFindStone
+
+
+69 35 30 10 0 eClient_AlchemyeLowerAttrThanBefore
+
+
+55 23 28 10 0 eClient_AlchemyeMaxAttr
+
+
+49 31 14 10 0 eClient_AlchemyerestoreAttrSucc
+
+
+56 27 25 10 0 eClient_AlchemyeIsCoverAttr
+
+
+89 44 41 10 0 eClient_AlchemyeLowerAttrThanBeforeIsAlchemy
+
+
+39 27 8 10 0 eClient_UI_CrossServerMatch
+
+
+25 16 5 10 0 eClient_UI_Match
+
+
+25 16 5 10 0 eClient_UI_Enter
+
+
+30 16 10 10 0 eClient_GetMoney
+
+
+30 16 10 10 0 eClient_UseMoney
+
+
+34 26 4 10 0 eClinet_battleevaluateitem
+
+
+27 19 4 10 0 eClient_exploititem
+
+
+32 22 6 10 0 eClinet_battleevaluate
+
+
+25 17 4 10 0 eClient_UI_Single
+
+
+27 19 4 10 0 eClient_UI_DeadMode
+
+
+52 34 14 10 0 eClient_CharAttr_BattleEvaluateSub
+
+
+52 34 14 10 0 eClient_CharAttr_BattleEvaluateAdd
+
+
+47 25 18 10 0 eClient_CombineGem_Level0
+
+
+47 25 18 10 0 eClient_CombineGem_Level1
+
+
+47 25 18 10 0 eClient_CombineGem_Level2
+
+
+47 25 18 10 0 eClient_CombineGem_Level3
+
+
+82 22 56 10 0 eClient_CombineGem_Tip
+
+
