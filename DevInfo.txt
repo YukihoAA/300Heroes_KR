@@ -2,7 +2,7 @@
 
 1. 300영웅 patch2파일 생성 및 적용기 v 0.23 (300英雄补丁生成与安装V0.23) - http://yukiho5048.tistory.com/69
 
-2. 300영웅 Data.jmp 추출기 v1.15.4 - http://tieba.baidu.com/p/3594185855 (반드시 Locale Emulator를 사용할것)
+2. 300영웅 Data.jmp 추출기 v1.15.4 - http://tieba.baidu.com/p/3594185855
 
 3. 300영웅 Data.jmp 추출기 v1.00.0 - http://cafe.naver.com/300heroze/15912
 
