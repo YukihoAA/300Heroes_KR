@@ -68,7 +68,7 @@ local pNewClassButton_YHJJ = nil	-- ½ÅÀÔ¼ö·Ã°´Å¥
 local pNewClassButton_YHZC = nil
 local pSoloSoloButton_YHJJ = nil	-- Solo
 local pSoloSoloButton_YHZC = nil
-local pTeamButton_YHJJ = nil		-- ÀüÅõ°á°ú
+local pTeamButton_YHJJ = nil		-- ÆÄÆ¼±¸¼º
 local pTeamButton_YHZC = nil
 local pTeamButton_YZDEL = nil
 local pSingleButton_YHJJ = nil		-- ½Ì±Û¸ÅÄ¡
@@ -217,7 +217,7 @@ function InitMainGame_Fight(wnd)
 	pSoloSoloButton_YHJJ = flag_YHJJ:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png",637,666, 179, 56)
 	pSoloSoloButton_YHJJ:AddFont("SOLO ´ëÀü", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pTeamButton_YHJJ = flag_YHJJ:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png",830,666, 179, 56)
-	pTeamButton_YHJJ:AddFont("ÀüÅõ°á°ú", 15, 8, 0, 0, 179, 56, 0xffffff)
+	pTeamButton_YHJJ:AddFont("ÆÄÆ¼±¸¼º", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pSingleButton_YHJJ = flag_YHJJ:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png",1023,666, 179, 56)
 	pSingleButton_YHJJ:AddFont("½Ì±Û¸ÅÄ¡", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pNewClassButton_YHJJ.script[XE_LBUP] = function()
@@ -262,9 +262,9 @@ function InitMainGame_Fight(wnd)
 	pSoloSoloButton_YHZC = flag_YHZC:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png", 637, 666,  179, 56)
 	pSoloSoloButton_YHZC:AddFont("SOLO ´ëÀü", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pTeamButton_YHZC = flag_YHZC:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png", 830, 666,  179, 56)	
-	pTeamButton_YHZC:AddFont("ÀüÅõ°á°ú", 15, 8, 0, 0, 179, 56, 0xffffff)
+	pTeamButton_YHZC:AddFont("ÆÄÆ¼±¸¼º", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pSingleButton_YHZC = flag_YHZC:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png", 1023, 666,  179, 56)
-	pSingleButton_YHZC:AddFont("½Ì±Û°ÔÀÓ", 15, 8, 0, 0, 179, 56, 0xffffff)
+	pSingleButton_YHZC:AddFont("½Ì±Û¸ÅÄ¡", 15, 8, 0, 0, 179, 56, 0xffffff)
 	
 	GongGao1 = flag_YHZC:AddImage(path_mode.."logozc_mode.png",365,425,793,215)
 	EquipDeploy = flag_YHZC:AddButton(path_mode.."zcan1_mode.png",path_mode.."zcan2_mode.png",path_mode.."zcan3_mode.png",930,515,256,64)
@@ -316,9 +316,9 @@ function InitMainGame_Fight(wnd)
 	-- ÓÂÕß¶·¶ñÁú
 	flag_YZDEL = CreateWindow(wnd.id, 0, 0, 1280, 800)
 	pTeamButton_YZDEL = flag_YZDEL:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png", 830, 666,  179, 56)
-	pTeamButton_YZDEL:AddFont("ÀüÅõ°á°ú", 15, 8, 0, 0, 179, 56, 0xffffff)
+	pTeamButton_YZDEL:AddFont("ÆÄÆ¼±¸¼º", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pSingleButton_YZDEL = flag_YZDEL:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png", 1023, 666,  179, 56)
-	pSingleButton_YZDEL:AddFont("½Ì±Û°ÔÀÓ", 15, 8, 0, 0, 179, 56, 0xffffff)
+	pSingleButton_YZDEL:AddFont("½Ì±Û¸ÅÄ¡", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pSingleButton_YZDEL.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		XGameStartOneHeroGame(EPLAYMODE_FUN_PVE0)
@@ -341,7 +341,7 @@ function InitMainGame_Fight(wnd)
 	-- ÌìÌÝÅÅÎ»
 	flag_TTPW = CreateWindow(wnd.id, 0, 0, 1280, 800)
 	pSingleButton_TTPW = flag_TTPW:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png", 1023, 666,  179, 56)
-	pSingleButton_TTPW:AddFont("½Ì±Û°ÔÀÓ", 15, 8, 0, 0, 179, 56, 0xffffff)
+	pSingleButton_TTPW:AddFont("½Ì±Û¸ÅÄ¡", 15, 8, 0, 0, 179, 56, 0xffffff)
 	-- pSingleButton_TTPW:AddFont("19:00 - 23:00 °³¹æ", 15, 0, 25, -20, 200, 15, 0xff0000)
 	pSingleButton_TTPW:AddFont("±ÙÀÏ°ø°³", 15, 8, 0, 20, 179, 15, 0xff0000)
 	pSingleButton_TTPW:SetEnabled(0)
@@ -356,7 +356,7 @@ function InitMainGame_Fight(wnd)
 	-- ¶þ´ÎÔªÉ±Õó
 	flag_ECYSZ = CreateWindow(wnd.id, 0, 0, 1280, 800) 
 	pSingleButton_ECYSZ = flag_ECYSZ:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png", 1023, 666,  179, 56)
-	pSingleButton_ECYSZ:AddFont("½Ì±Û°ÔÀÓ", 15, 8, 0, 0, 179, 56, 0xffffff)
+	pSingleButton_ECYSZ:AddFont("½Ì±Û¸ÅÄ¡", 15, 8, 0, 0, 179, 56, 0xffffff)
 	pSingleButton_ECYSZ:AddFont("18:00 - 22:00 °³¹æ", 15, 8, 0, 20, 179, 15, 0xff0000)
 	pSingleButton_ECYSZ.script[XE_LBUP] = function()
 		XGameStartOneHeroGame(EPLAYMODE_FUN_PVP0)

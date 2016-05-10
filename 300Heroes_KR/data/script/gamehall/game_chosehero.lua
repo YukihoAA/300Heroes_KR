@@ -262,7 +262,7 @@ function InitMainGame_ChoseHero(wnd)
 	btn_Oftenuse = HeroOftenUse_ui:AddTwoButton(path_hero.."herolist1_hero.png", path_hero.."herolist2_hero.png", path_hero.."herolist1_hero.png",615,417,128,32)
 	Font_Oftenuse = btn_Oftenuse:AddFont(BTN_oftenUseFont[1],12,0,18,6,100,15,0xbeb5ee)
 	btn_heroLove = HeroOftenUse_ui:AddImage(path_start.."sortbk_start.png",513,417,128,32)
-	btn_heroLove:AddFont("磊林荤侩",12,0,22,6,100,15,0xbeb5ee)
+	btn_heroLove:AddFont("快急鉴困",12,0,22,6,100,15,0xbeb5ee)
 
 	--显示全部下拉背景框
 	showAll_BK = HeroBelong_ui:AddImage(path_hero.."listBK1_hero.png",400,447,128,256)
