@@ -147,7 +147,7 @@ function Init_EquipRedemption(wnd)
 	m_BuyShopIcon.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		-- 第二个参数是无效的
-		XShopClickBuyItem( 1, 0, 10)
+		XShopClickBuyItem(0, 10)
 	end
 	
 	local CloseUI = BackGround:AddButton( path_shop .. "close1_rec.png", path_shop .. "close2_rec.png", path_shop .. "close3_rec.png", 365, 10, 35, 35)

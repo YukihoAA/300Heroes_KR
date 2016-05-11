@@ -97,9 +97,9 @@ function InitMain_ShopBuy(wnd)
 	Equip_BuyByMoney.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		if m_bBuyType == 0 then
-			XClickMoneyBtnAtBuyItemUi(1)
+			XClickMoneyBtnAtBuyItemUi()
 		else
-			XClickMoneyBtnAtBuyHeroUi(1)
+			XClickMoneyBtnAtBuyHeroUi()
 		end
 	end
 	
@@ -109,9 +109,9 @@ function InitMain_ShopBuy(wnd)
 	Equip_BuyByGold.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		if m_bBuyType == 0 then
-			XClickGoldBtnAtBuyItemUi(1)
+			XClickGoldBtnAtBuyItemUi()
 		else
-			XClickGoldBtnAtBuyHeroUi(1)
+			XClickGoldBtnAtBuyHeroUi()
 		end
 	end
 	
@@ -121,9 +121,9 @@ function InitMain_ShopBuy(wnd)
 	Equip_BuyByExploit.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		if m_bBuyType == 0 then
-			XClickExploitBtnAtBuyItemUi(1)
+			XClickExploitBtnAtBuyItemUi()
 		else
-			XClickExploitBtnAtBuyHeroUi(1)
+			XClickExploitBtnAtBuyHeroUi()
 		end
 	end
 	
@@ -133,7 +133,7 @@ function InitMain_ShopBuy(wnd)
 	Equip_BuyByHonour.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		if m_bBuyType == 0 then
-			XClickHonourBtnAtBuyItemUi(1)
+			XClickHonourBtnAtBuyItemUi()
 		else
 			XClickHonourBtnAtBuyHeroUi(1)
 		end
@@ -145,9 +145,9 @@ function InitMain_ShopBuy(wnd)
 	Equip_BuyByVip.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		if m_bBuyType == 0 then
-			XClickVipBtnAtBuyItemUi(1)
+			XClickVipBtnAtBuyItemUi()
 		else
-			XClickVipBtnAtBuyHeroUi(1)
+			XClickVipBtnAtBuyHeroUi()
 		end
 	end
 		
@@ -173,7 +173,7 @@ function InitMain_ShopBuy(wnd)
 	end
 	buy_D.script[XE_ONUNHOVER] = function()
 		if isDownAdd then
-			XClickShopItemBuyAddCount(1)
+			XClickShopItemBuyAddCount()
 			XClickAlwaysUpAddButton(1)
 		end
 		isDownAdd = false
@@ -181,7 +181,7 @@ function InitMain_ShopBuy(wnd)
 	buy_D.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		-- XClickAlwaysDownAddButton(0)
-		XClickShopItemBuyAddCount(1)
+		XClickShopItemBuyAddCount()
 		XClickAlwaysUpAddButton(1)
 		buy_P:SetEnabled(1)
 		isDownAdd = false
@@ -194,14 +194,14 @@ function InitMain_ShopBuy(wnd)
 	end
 	buy_P.script[XE_ONUNHOVER] = function()
 		if isDownReduce then
-			XClickShopItemBuyPusCount(1)
+			XClickShopItemBuyPusCount()
 			XClickAlwaysUpReduceButton(1)
 		end
 		isDownReduce = false
 	end
 	buy_P.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XClickShopItemBuyPusCount(1)
+		XClickShopItemBuyPusCount()
 		XClickAlwaysUpReduceButton(1)
 		buy_D:SetEnabled(1)
 		isDownReduce = false
@@ -217,7 +217,7 @@ function InitMain_ShopBuy(wnd)
 	Equip_Max:AddFont("MAX", 18, 0, 15, 5, 50, 20, 0xffffff)
 	Equip_Max.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XClickShopItemBuyMaxCount(1)
+		XClickShopItemBuyMaxCount()
 		buy_P:SetEnabled(1)
 		buy_D:SetEnabled(0)
 	end

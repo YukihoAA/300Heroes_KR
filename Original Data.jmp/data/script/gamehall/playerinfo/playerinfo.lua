@@ -68,7 +68,7 @@ function InitMain_PlayerInfo(wnd)
 		btn_ListBK:SetPosition(245,53)
 		
 		SetGameHeroInfoIsVisible(0)
-		XIsOpenTatle(1)
+		XIsOpenTatle()
 		--SetGameHeroTalentIsVisible(1)
 		SetGameHeroSkillIsVisible(0)
 		SetGameHeroAchievementIsVisible(0)
@@ -169,7 +169,7 @@ function SetPlayerInfoIsVisible(flag)
 	if g_PlayerInfo_ui ~= nil then
 		if flag == 1 then
 			g_PlayerInfo_ui:SetVisible(1)
-			XShopUiIsClick(1, 0)
+			XShopUiIsClick(0)
 			XGamePlayerInfoIsOpen()
 			
 			SetGameHeroTalentIsVisible(0)

@@ -99,7 +99,7 @@ function InitMainShop_Sec_EquipStr(wnd)
 	local FindButton = EquipStrSearchInputEdit:AddButton(path_setup.."buy1_setup.png",path_setup.."buy2_setup.png",path_setup.."buy3_setup.png", 235, -3, 83, 35)
 	FindButton:SetVisible(0)
 	FindButton.script[XE_LBUP] = function()
-		XEnterFindInput(1, EquipStrSearchInput.id, 1)
+		XEnterFindInput(EquipStrSearchInput.id, 1)
 		ResetSecStoneStrScrollList()
 	end
 	
@@ -213,7 +213,7 @@ function InitMainShop_Sec_EquipStr(wnd)
 		Gold_L:SetVisible(0)
 		
 		--ResetSecStoneStrScrollList()
-		XShopSrotHeroCheckMoney(1, Money_index)
+		XShopSrotHeroCheckMoney(Money_index)
 	end
 	
 	----钻石价格排序
@@ -253,7 +253,7 @@ function InitMainShop_Sec_EquipStr(wnd)
 		Money_L:SetVisible(0)
 		
 		--ResetSecStoneStrScrollList()
-		XShopSrotHeroCheckGold(1, Gold_index)
+		XShopSrotHeroCheckGold(Gold_index)
 	end
 	
 	-- 滚动条
@@ -338,7 +338,7 @@ function InitMainShop_Sec_EquipStr(wnd)
 			XClickPlaySound(5)
 			--SetShopItemBuyNameInfo(EquipInfo.strName[i])
 			XShopBuyItemIndexForLua(i+Many*4-1)
-			XShopClickBuyItem(1, EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
+			XShopClickBuyItem(EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
 		end
 		
 		g_item_name[i] = g_item_ui[i]:AddFont("英雄"..i, 15, 8, -7, -18, 200, 20, 0x83d1e7)
@@ -369,7 +369,7 @@ function IsFocusOn_EquipStrSearch()
 end
 
 function onSec_EquipStrSearch_Enter()
-	XEnterFindInput(1, EquipStrSearchInput.id, 0)
+	XEnterFindInput(EquipStrSearchInput.id, 0)
 	ResetSecStoneStrScrollList()
 end
 
@@ -378,7 +378,7 @@ function SetShop_Sec_EquipStrIsVisible(flag)
 		if flag == 1 and g_shop_Sec_EquipStr_ui:IsVisible() == false then
 			g_shop_Sec_EquipStr_ui:SetVisible(1)
 			XSetShopSecEquipStrUiVisible(1)
-			XClickShopSecStoneUi(1, 1)		-- 1表示强化界面
+			XClickShopSecStoneUi(1)		-- 1表示强化界面
 		elseif flag == 0 and g_shop_Sec_EquipStr_ui:IsVisible() == true then
 			g_shop_Sec_EquipStr_ui:SetVisible(0)
 			XSetShopSecEquipStrUiVisible(0)

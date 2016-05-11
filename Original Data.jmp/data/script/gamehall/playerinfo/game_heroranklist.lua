@@ -333,7 +333,6 @@ end
 
 -- ËÑË÷µã»÷»Ø³µ
 function ONFINDINPUT_Enter()
-	-- XEnterFindInput(1, FindInput.id, 0)
 	IsFinded = false
 	FindInput_TargetName = FindInput:GetEdit()
 	if #RankList_InfoFontList_Name_temp ~= 0 then

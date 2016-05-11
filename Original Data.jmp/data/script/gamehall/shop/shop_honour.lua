@@ -92,7 +92,7 @@ function InitMainShop_Honour(wnd)
 	local FindButton = HonourSearchInputEdit:AddButton(path_setup.."buy1_setup.png",path_setup.."buy2_setup.png",path_setup.."buy3_setup.png", 235, -3, 83, 35)
 	FindButton:SetVisible(0)
 	FindButton.script[XE_LBUP] = function()
-		XEnterFindInput(1, HonourSearchInput.id, 1)
+		XEnterFindInput(HonourSearchInput.id, 1)
 		ResetSecHonourScrollList()
 	end
 	
@@ -163,7 +163,7 @@ function InitMainShop_Honour(wnd)
 			honour_H:SetVisible(0)
 			honour_L:SetVisible(0)
 		end
-		XShopSrotHeroCheckGold(1, honour_index)
+		XShopSrotHeroCheckGold(honour_index)
 		-- »Ö¸´×êÊ¯ÅÅÐòÎªÄ¬ÈÏ
 		contri_index = 0
 		contri_N:SetVisible(1)
@@ -200,7 +200,7 @@ function InitMainShop_Honour(wnd)
 			contri_H:SetVisible(0)
 			contri_L:SetVisible(0)
 		end
-		XShopSrotHeroCheckMoney(1, contri_index)
+		XShopSrotHeroCheckMoney(contri_index)
 		-- »Ö¸´½ð±ÒÅÅÐòÎªÄ¬ÈÏ
 		honour_index = 0
 		honour_N:SetVisible(1)
@@ -292,7 +292,7 @@ function InitMainShop_Honour(wnd)
 			XClickPlaySound(5)
 			--SetShopItemBuyNameInfo(EquipInfo.strName[i])
 			XShopBuyItemIndexForLua(i+Many*4-1)
-			XShopClickBuyItem(1, EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
+			XShopClickBuyItem(EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
 		end
 		
 		g_item_name[i] = g_item_ui[i]:AddFont("Ó¢ÐÛ"..i, 15, 8, -7, -18, 200, 15, 0x83d1e7)
@@ -323,7 +323,7 @@ function IsFocusOn_HonourSearch()
 end
 
 function onSec_HonourSearch_Enter()
-	XEnterFindInput(1, HonourSearchInput.id, 0)
+	XEnterFindInput(HonourSearchInput.id, 0)
 	ResetSecHonourScrollList()
 end
 
@@ -332,7 +332,7 @@ function SetShop_HonourIsVisible(flag)
 		if flag == 1 and g_shop_honour_ui:IsVisible() == false then
 			g_shop_honour_ui:SetVisible(1)
 			XSetShopSecHonourUiVisible(1)
-			XClickShopSecHonourUi(1, 0)
+			XClickShopSecHonourUi(0)
 		elseif flag == 0 and g_shop_honour_ui:IsVisible() == true then
 			g_shop_honour_ui:SetVisible(0)
 			XSetShopSecHonourUiVisible(0)

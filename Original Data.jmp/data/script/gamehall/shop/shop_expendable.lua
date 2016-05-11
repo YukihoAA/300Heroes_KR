@@ -101,7 +101,7 @@ function InitMainShop_Expendable(wnd)
 	local FindButton = ExpendSearchInputEdit:AddButton(path_setup.."buy1_setup.png",path_setup.."buy2_setup.png",path_setup.."buy3_setup.png", 235, -3, 83, 35)
 	FindButton:SetVisible(0)
 	FindButton.script[XE_LBUP] = function()
-		XEnterFindInput(1, ExpendSearchInput.id, 1)
+		XEnterFindInput(ExpendSearchInput.id, 1)
 		ResetSecExpendableScrollList()
 	end
 	
@@ -242,7 +242,7 @@ function InitMainShop_Expendable(wnd)
 		Gold_L:SetVisible(0)
 		
 		--ResetSecExpendableScrollList()
-		XShopSrotHeroCheckMoney(1, Money_index)
+		XShopSrotHeroCheckMoney(Money_index)
 	end
 	
 	----钻石价格排序
@@ -282,7 +282,7 @@ function InitMainShop_Expendable(wnd)
 		Money_L:SetVisible(0)
 		
 		--ResetSecExpendableScrollList()
-		XShopSrotHeroCheckGold(1, Gold_index)
+		XShopSrotHeroCheckGold(Gold_index)
 	end
 	
 	-- 滚动条
@@ -366,7 +366,7 @@ function InitMainShop_Expendable(wnd)
 		g_item_buy[i].script[XE_LBUP] = function()
 			XClickPlaySound(5)
 			XShopBuyItemIndexForLua(i+Many*4-1)
-			XShopClickBuyItem(1, EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
+			XShopClickBuyItem(EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
 			-- log("\nId = "..EquipInfo.Id[i])
 			-- log("itemId = "..EquipInfo.ItemId[i])
 		end
@@ -402,7 +402,7 @@ function IsFocusOn_ExpendSearch()
 end
 
 function onSec_ExpendSearch_Enter()
-	XEnterFindInput(1, ExpendSearchInput.id, 0)
+	XEnterFindInput(ExpendSearchInput.id, 0)
 	ResetSecExpendableScrollList()
 end
 
@@ -415,7 +415,7 @@ function SetShop_ExpendableIsVisible(flag)
 			check_CShave:SetVisible(1)
 			check_Cardhave:SetVisible(1)
 			XSetShopSecExpendableUiVisible(1)
-			XClickShopSecExpendableUi(1, 0)
+			XClickShopSecExpendableUi(0)
 		elseif flag == 0 and g_shop_expendable_ui:IsVisible() == true then
 			g_shop_expendable_ui:SetVisible(0)
 			XSetShopSecExpendableUiVisible(0)

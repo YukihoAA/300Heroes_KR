@@ -50,12 +50,12 @@ function InitMain_InputBox(wnd)
 	m_pShopBuy.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 	
-		XShopClickBuyItem(1, 206, 7)
+		XShopClickBuyItem(206, 7)
 	end
 	Solo_ui.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 	
-		XShopClickBuyItem(1, 206, 7)
+		XShopClickBuyItem(206, 7)
 	end
 		
 	n_inputbox_ui:ToggleBehaviour(XE_ONUPDATE, 1)	-- ÃÌº”œ˚œ¢	

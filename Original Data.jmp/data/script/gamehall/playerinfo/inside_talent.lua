@@ -23,7 +23,7 @@ function SetTalent_InsideIsVisible(flag)
 		if flag == 1 and g_talent_inside_ui:IsVisible() == false then
 			g_talent_inside_ui:SetVisible(1)
 			SetGameStartIsVisible(0)
-			XIsOpenTatle(1)
+			XIsOpenTatle()
 
 			SetFourpartUIVisiable(0)
 		elseif flag == 0 and g_talent_inside_ui:IsVisible() == true then

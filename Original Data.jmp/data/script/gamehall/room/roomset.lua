@@ -17,7 +17,7 @@ local btn_map = nil
 local Font_map = nil
 local map_BK = nil
 local BTN_mapBK = {}
-local BTN_mapFont = {"永恒竞技场","永恒战场","天梯排位赛"}
+local BTN_mapFont = {"永恒竞技场","永恒战场","天梯排位赛","单路出兵"}
 local index_map = 0
 
 --输入密码
@@ -25,7 +25,7 @@ local index_check = 0
 local check_password, passwordBK = nil
 local btn_cancel = nil
 local btn_create = nil
-local MapId = {254,252,256}
+local MapId = {254,252,256,250}
 local Mode = {1,2,3,4,5}
 
 function InitRoomSet_ui(wnd,bisopen)
@@ -75,7 +75,7 @@ function InitMain_RoomSet(wnd)
 	map_BK = wnd:AddImage(path_mode.."roomsetbk_mode.png",135,172,212,151)
 	map_BK:SetVisible(0)
 	
-	for dis = 1,3 do
+	for dis = 1, #BTN_mapFont do
 		BTN_mapBK[dis] = wnd:AddImage(path_mode.."roomsethover_mode.png",135,137+dis*36,212,36)
 		map_BK:AddFont(BTN_mapFont[dis],15,0,10,dis*36-27,128,32,0xbeb5ee)
 		BTN_mapBK[dis]:SetTransparent(0)

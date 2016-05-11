@@ -252,7 +252,7 @@ function InitMainShop_Sec_HeroSkin(wnd)
 	local FindButton = EquipHeroSkinSearchInputEdit:AddButton(path_setup.."buy1_setup.png",path_setup.."buy2_setup.png",path_setup.."buy3_setup.png", 235, -3, 83, 35)
 	FindButton:SetVisible(0)
 	FindButton.script[XE_LBUP] = function()
-		XEnterFindInput(1, EquipHeroSkinSearchInput.id, 1)
+		XEnterFindInput(EquipHeroSkinSearchInput.id, 1)
 		ResetScrollList_SecHeroSkin()
 	end
 	
@@ -288,7 +288,7 @@ function InitMainShop_Sec_HeroSkin(wnd)
 			Gold_L:SetVisible(0)
 		end
 		
-		XShopSrotHeroCheckGold(1, Gold_index)
+		XShopSrotHeroCheckGold(Gold_index)
 		-- ResetScrollList_SecHeroSkin()
 	end
 	
@@ -321,7 +321,7 @@ function InitMainShop_Sec_HeroSkin(wnd)
 		
 		ResetScrollList_SecHeroSkin()
 		
-		XShopIsHaveHeroCheck(1, index_have-1)
+		XShopIsHaveHeroCheck(index_have-1)
 		-- onSearchEnter()
 	end
 	
@@ -346,7 +346,7 @@ function InitMainShop_Sec_HeroSkin(wnd)
 			-- log("\nItemId = "..EquipInfo.IsCanBuy[i])
 			if EquipInfo.IsHaveHero[i+Many*4]==1 and EquipInfo.IsCanBuy[i+Many*4]=="1" then
 			XShopBuyItemIndexForLua(i+Many*4-1)
-			XShopClickBuyItem(1, EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
+			XShopClickBuyItem(EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
 			elseif EquipInfo.IsHaveHero[i+Many*4]==0 and EquipInfo.IsCanBuy[i+Many*4]=="1" then
 			XShopBuyItemIndexForLua(i+Many*4-1)
 			XShopClickBuyItem_Skin(EquipInfo.ItemId[i+Many*4])
@@ -399,7 +399,7 @@ function IsFocusOn_EquipSearchHeroSkin()
 end
 
 function onHeroSkinSearch_Enter()
-	XEnterFindInput(1, EquipHeroSkinSearchInput.id, 0)
+	XEnterFindInput(EquipHeroSkinSearchInput.id, 0)
 	ResetScrollList_SecHeroSkin()
 end
 

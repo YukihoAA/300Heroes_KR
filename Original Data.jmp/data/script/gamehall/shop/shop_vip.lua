@@ -91,7 +91,7 @@ function InitMainShop_Vip(wnd)
 	local FindButton = VIPSearchInputEdit:AddButton(path_setup.."buy1_setup.png",path_setup.."buy2_setup.png",path_setup.."buy3_setup.png", 235, -3, 83, 35)
 	FindButton:SetVisible(0)
 	FindButton.script[XE_LBUP] = function()
-		XEnterFindInput(1, VIPSearchInput.id, 1)
+		XEnterFindInput(VIPSearchInput.id, 1)
 		ResetSecVipScrollList()
 	end
 	-- гЂал
@@ -161,7 +161,7 @@ function InitMainShop_Vip(wnd)
 			VIP_H:SetVisible(0)
 			VIP_L:SetVisible(0)
 		end
-		XShopSrotHeroCheckMoney(1, VIP_index)
+		XShopSrotHeroCheckMoney(VIP_index)
 	end
 	
 	
@@ -276,7 +276,7 @@ function InitMainShop_Vip(wnd)
 			XClickPlaySound(5)
 			-- SetShopItemBuyNameInfo(EquipInfo.strName[i])
 			XShopBuyItemIndexForLua(i+Many*4-1)
-			XShopClickBuyItem(1, EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
+			XShopClickBuyItem(EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
 		end
 		
 		g_item_name[i] = g_item_ui[i]:AddFont("гЂал"..i, 15, 8, -7, -18, 200, 20, 0x83d1e7)
@@ -307,7 +307,7 @@ function IsFocusOn_VIPSearch()
 end
 
 function onSec_VIPSearch_Enter()
-	XEnterFindInput(1, VIPSearchInput.id, 0)
+	XEnterFindInput(VIPSearchInput.id, 0)
 	ResetSecVipScrollList()
 end
 
@@ -316,7 +316,7 @@ function SetShop_VipIsVisible(flag)
 		if flag == 1 and g_shop_vip_ui:IsVisible() == false then
 			g_shop_vip_ui:SetVisible(1)
 			XSetShopSecVipUiVisible(1)
-			XClickShopSecVipUi(1, 0)
+			XClickShopSecVipUi(0)
 		elseif flag == 0 and g_shop_vip_ui:IsVisible() == true then
 			g_shop_vip_ui:SetVisible(0)
 			XSetShopSecVipUiVisible(0)

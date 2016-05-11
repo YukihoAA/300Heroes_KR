@@ -102,7 +102,7 @@ function InitMainShop_Recommend(wnd)
 			if EquipInfo.mIsHaveHero[i+6]==1 and EquipInfo.mIsCanBuy[i+6]=="1" then
 				-- log("\naaaaaaa")
 				XShopBuyItemIndexForLua(i+5)
-				XShopClickBuyItem(1, EquipInfo.mId[i+6], EquipInfo.mItemId[i+6])
+				XShopClickBuyItem(EquipInfo.mId[i+6], EquipInfo.mItemId[i+6])
 			elseif EquipInfo.mIsHaveHero[i+6]==0 and EquipInfo.mIsCanBuy[i+6]=="1" then
 				-- log("\nbbbbbbb")
 				XShopBuyItemIndexForLua(i+5)
@@ -144,7 +144,7 @@ function InitMainShop_Recommend(wnd)
 		wndA_buy[i].script[XE_LBUP] = function()
 			XClickPlaySound(5)
 			--SetShopItemBuyNameInfo(EquipInfo.mstrName[i])
-			XShopClickBuyItem(1, EquipInfo.mId[i], EquipInfo.mItemId[i])
+			XShopClickBuyItem(EquipInfo.mId[i], EquipInfo.mItemId[i])
 			--SetShopBuyIsVisible(1)
 		end
 			
@@ -178,7 +178,7 @@ function InitMainShop_Recommend(wnd)
 		wndB_buy[i].script[XE_LBUP] = function()
 			XClickPlaySound(5)
 			--SetShopItemBuyNameInfo(EquipInfo.mstrName[i+2])
-			XShopClickBuyItem(1, EquipInfo.mId[i+2], EquipInfo.mItemId[i+2])
+			XShopClickBuyItem(EquipInfo.mId[i+2], EquipInfo.mItemId[i+2])
 			--SetShopBuyIsVisible(1)
 		end
 			
@@ -212,7 +212,7 @@ function InitMainShop_Recommend(wnd)
 		wndC_buy[i].script[XE_LBUP] = function()
 			XClickPlaySound(5)
 			--SetShopItemBuyNameInfo(EquipInfo.mstrName[i+4])
-			XShopClickBuyItem(1, EquipInfo.mId[i+4], EquipInfo.mItemId[i+4])
+			XShopClickBuyItem(EquipInfo.mId[i+4], EquipInfo.mItemId[i+4])
 			--SetShopBuyIsVisible(1)
 		end
 			
@@ -231,7 +231,7 @@ function SetShop_RecommendIsVisible(flag)
 		if flag == 1 and g_shop_recommend_ui:IsVisible() == false then
 			g_shop_recommend_ui:SetVisible(1)
 			click_bk:SetPosition(47+ppx,125+ppy)
-			XShopUiIsClick(1, 1)
+			XShopUiIsClick(1)
 		elseif flag == 0 and g_shop_recommend_ui:IsVisible() == true then
 			g_shop_recommend_ui:SetVisible(0)
 		end

@@ -87,7 +87,7 @@ function InitMainGame_HeroTalent(wnd)
 	btn_AP:AddFont("法术(AP)", 15, 8, 0, 0, 128, 42, 0xbeb5ee)
 	btn_AP.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XIsClickTalentApTuiJian(1)
+		XIsClickTalentApTuiJian()
 		btn_AD:SetButtonFrame(0)
 		btn_TANK:SetButtonFrame(0)
 		Font_PageFlag[numPage]:SetFontText("*"..numPage, 0x83d1e7)
@@ -98,7 +98,7 @@ function InitMainGame_HeroTalent(wnd)
 	btn_AD:AddFont("攻击(AD)", 15, 8, 0, 0, 128, 42, 0xbeb5ee)
 	btn_AD.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XIsClickTalentAdTuiJian(1)
+		XIsClickTalentAdTuiJian()
 		btn_AP:SetButtonFrame(0)
 		btn_TANK:SetButtonFrame(0)
 		Font_PageFlag[numPage]:SetFontText("*"..numPage, 0x83d1e7)
@@ -119,7 +119,7 @@ function InitMainGame_HeroTalent(wnd)
 	btn_pageD = wnd:AddButton(path_shop.."D_rec.png", path_shop.."D1_rec.png", path_shop.."D2_rec.png",1150,130+posy,30,30)
 	btn_pageD.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XClickAddTalentPage(1)
+		XClickAddTalentPage()
 		-- index_pageD = index_pageD + 1
 		-- for index,value in pairs(Font_page) do
 			-- Font_page[index]:SetPosition(PosX_page[index]-33*index_pageD,114)
@@ -151,7 +151,7 @@ function InitMainGame_HeroTalent(wnd)
 			-- log("\nnumPage = ".. numPage)
 			-- log("\nTalentPageIndexlong = ".. #TalentPageIndex)
 			-- log("\nTalentPageIndex = ".. TalentPageIndex[numPage])
-			XIsClickTalentPage(1, TalentPageIndex[numPage])		-- C代码中索引是从0开始处理的
+			XIsClickTalentPage(TalentPageIndex[numPage])		-- C代码中索引是从0开始处理的
 		end	
 		Font_PageFlag[i] = Font_page[i]:AddFont(i, 15, 0, 21, 22, 100, 15, 0x83d1e7)
 		PageFlagBool[i] = 0
@@ -172,14 +172,14 @@ function InitMainGame_HeroTalent(wnd)
 			XClickPlaySound(5)
 			Font_PageFlag[numPage]:SetFontText("*"..numPage, 0x83d1e7)
 			PageFlagBool[numPage] = 1
-			XTalentPointAdd(1, 1)	-- 1代表当前是AP专精
+			XTalentPointAdd(1)	-- 1代表当前是AP专精
 	end
 	btnP_AP = wnd:AddButton(path_shop.."P_rec.png",path_shop.."P1_rec.png",path_shop.."P2_rec.png",302,198+posy,30,30)
 	btnP_AP.script[XE_LBUP] = function()
 			XClickPlaySound(5)
 			Font_PageFlag[numPage]:SetFontText("*"..numPage, 0x83d1e7)
 			PageFlagBool[numPage] = 1
-			XTalentPointPus(1, 1)
+			XTalentPointPus(1)
 	end
 	Font_AP = wnd:AddFont(NUM_AP.."/15", 15, 0, 192, 203+posy, 100, 15, 0x7787c3)
 	local AP_tiphide = {}
@@ -239,7 +239,7 @@ function InitMainGame_HeroTalent(wnd)
 			else
 
 			end
-			XClickTalentIcon(1, 1, row, i + 15)
+			XClickTalentIcon(1, row, i + 15)
 			AP_hideIStouch = true
 		end
 	end
@@ -255,14 +255,14 @@ function InitMainGame_HeroTalent(wnd)
 			XClickPlaySound(5)
 			Font_PageFlag[numPage]:SetFontText("*"..numPage, 0x83d1e7)
 			PageFlagBool[numPage] = 1
-			XTalentPointAdd(1, 0)	-- 0代表当前是AD专精
+			XTalentPointAdd(0)	-- 0代表当前是AD专精
 	end
 	btnP_AD = wnd:AddButton(path_shop.."P_rec.png",path_shop.."P1_rec.png",path_shop.."P2_rec.png",585,198+posy,30,30)
 	btnP_AD.script[XE_LBUP] = function()
 			XClickPlaySound(5)
 			Font_PageFlag[numPage]:SetFontText("*"..numPage, 0x83d1e7)
 			PageFlagBool[numPage] = 1
-			XTalentPointPus(1, 0)
+			XTalentPointPus(0)
 	end
 	Font_AD = wnd:AddFont(NUM_AD.."/15", 15, 0, 475, 203+posy, 100, 15, 0x7787c3)
 	for i=1,15 do
@@ -322,7 +322,7 @@ function InitMainGame_HeroTalent(wnd)
 			else
 				
 			end
-			XClickTalentIcon(1, 0, row, i)
+			XClickTalentIcon(0, row, i)
 		end
 	end
 	--for i=1,NUM_AD do
@@ -338,14 +338,14 @@ function InitMainGame_HeroTalent(wnd)
 			XClickPlaySound(5)
 			Font_PageFlag[numPage]:SetFontText("*"..numPage, 0x83d1e7)
 			PageFlagBool[numPage] = 1
-			XTalentPointAdd(1, 2)	-- 2代表当前是TANK专精
+			XTalentPointAdd(2)	-- 2代表当前是TANK专精
 	end
 	btnP_TANK = wnd:AddButton(path_shop.."P_rec.png",path_shop.."P1_rec.png",path_shop.."P2_rec.png",868,198+posy,30,30)
 	btnP_TANK.script[XE_LBUP] = function()
 			XClickPlaySound(5)
 			Font_PageFlag[numPage]:SetFontText("*"..numPage, 0x83d1e7)
 			PageFlagBool[numPage] = 1
-			XTalentPointPus(1, 2)
+			XTalentPointPus(2)
 	end
 	Font_TANK = wnd:AddFont(NUM_TANK.."/15", 15, 0, 758, 203+posy, 100, 15, 0x7787c3)
 	for i=1,15 do
@@ -405,7 +405,7 @@ function InitMainGame_HeroTalent(wnd)
 			else
 				
 			end
-			XClickTalentIcon(1, 2, row, i + 30)
+			XClickTalentIcon(2, row, i + 30)
 		end
 	end
 	--for i=1,NUM_TANK do
@@ -435,7 +435,7 @@ function InitMainGame_HeroTalent(wnd)
 		Font_PageFlag[numPage]:SetFontText(""..numPage, 0x83d1e7)
 		PageFlagBool[numPage] = 0
 		btnDown_pageFont:SetFontText(""..numPage, 0x83d1e7)
-		XIsClickTalentPageSave(1, TalentNameInput:GetEdit(), numPage - 1)
+		XIsClickTalentPageSave(TalentNameInput:GetEdit(), numPage - 1)
 	end
 	btn_recover.script[XE_LBUP] = function()
 		XClickPlaySound(5)
@@ -449,11 +449,11 @@ function InitMainGame_HeroTalent(wnd)
 		Font_PageFlag[numPage]:SetFontText("*"..numPage, 0x83d1e7)
 		PageFlagBool[numPage] = 1
 		btnDown_pageFont:SetFontText("*"..numPage, 0x83d1e7)
-		XIsClickTalentPageClear(1, numPage - 1)
+		XIsClickTalentPageClear(numPage - 1)
 	end
 	btn_delete.script[XE_LBUP] = function()
 		XClickPlaySound(5)
-		XIsClickTalentPageDel(1, numPage - 1)
+		XIsClickTalentPageDel(numPage - 1)
 	end
 	
 	wnd:AddFont("剩余点数", 15, 0, 985, 350+posy, 100, 20, 0x7787c3)
@@ -496,7 +496,7 @@ function SetGameHeroTalentIsVisible(flag)
 		elseif flag == 0 and g_game_heroTalent_ui:IsVisible() == true then
 			-- log("\nm_SelTalentPage = "..m_SelTalentPage)
 			ColseTalentSelTalent(m_SelTalentPage)
-			XIsCloseTatle(1)
+			XIsCloseTatle()
 			g_game_heroTalent_ui:SetVisible(0)
 			btn_AP:SetButtonFrame(0)
 			btn_AD:SetButtonFrame(0)

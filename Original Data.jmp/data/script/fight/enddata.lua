@@ -658,16 +658,20 @@ function SetData_GameResult(result)
 	if result ==1 then
 		Effect_win:SetVisible(1)
 		XPlayEffectByName(Effect_win.id,Effect_win_step[1],0)
+		--n_endData_ui:SetVisible(1)	
+		--n_endData_ui:SetPosition(20000, 20000)
 		n_endData_ui:SetTimer(0,2000,0,1).Timer = function(timer)
-			--Effect_win:SetVisible(0)
-			n_endData_ui:SetVisible(1)				
+			--n_endData_ui:SetPosition((windowswidth-1024)/2, (windowsheight-640)/2)
+			n_endData_ui:SetVisible(1)
 		end
 	else
 		Effect_lose:SetVisible(1)
 		XPlayEffectByName(Effect_lose.id,Effect_win_step[1],0)
+		--n_endData_ui:SetVisible(1)	
+		--n_endData_ui:SetPosition(20000, 20000)
 		n_endData_ui:SetTimer(0,2000,0,1).Timer = function(timer)
-			--Effect_lose:SetVisible(0)
-			n_endData_ui:SetVisible(1)				
+			--n_endData_ui:SetPosition((windowswidth-1024)/2, (windowsheight-640)/2)
+			n_endData_ui:SetVisible(1)			
 		end
 	end
 

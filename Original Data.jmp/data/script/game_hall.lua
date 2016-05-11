@@ -36,7 +36,7 @@ function InitMainGame_hall(wnd)
 	btn_gotoshop.script[XE_LBUP] = function()
 		XClickPlaySound(5)
 		
-		XShopUiIsClick(1, 1)
+		XShopUiIsClick(1)
 		-----跳到商城英雄界面
 		Set_JumpToShopHero()
 	end

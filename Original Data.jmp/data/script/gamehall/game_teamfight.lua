@@ -473,8 +473,7 @@ function StartGameSuccess()
 	--关闭当前界面
 	g_GameTeamFight_ui:SetVisible(0)
 	ClearGameTeamChat()
-	--退回大厅界面
-	SetGameHallIsVisible(1)
+
 	g_game_fight_ui:SetVisible(0)
 	img_SOLObk:SetVisible(0)
 end

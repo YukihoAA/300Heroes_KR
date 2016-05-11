@@ -726,7 +726,7 @@ function SetGameHeroAllIsVisible(flag)
 	if g_game_heroAll_ui ~= nil then
 		if flag == 1 and g_game_heroAll_ui:IsVisible() == false then
 			g_game_heroAll_ui:SetVisible(1)
-			XShopUiIsClick(1, 1)
+			XShopUiIsClick(1)
 			btn_HeroSkin:SetCheckButtonClicked(0)
 			SetFourpartUIVisiable(4)
 		elseif flag == 0 and g_game_heroAll_ui:IsVisible() == true then

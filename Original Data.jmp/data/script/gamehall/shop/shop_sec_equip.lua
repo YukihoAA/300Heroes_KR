@@ -118,7 +118,7 @@ function InitMainShop_Sec_Equip(wnd)
 	local FindButton = EquipSearchInputEdit:AddButton(path_setup.."buy1_setup.png",path_setup.."buy2_setup.png",path_setup.."buy3_setup.png", 235, -3, 83, 35)
 	FindButton:SetVisible(0)
 	FindButton.script[XE_LBUP] = function()
-		XEnterFindInput(1, EquipSearchInput.id, 1)
+		XEnterFindInput(EquipSearchInput.id, 1)
 		ResetSecEquipScrollList()
 	end
 	
@@ -180,7 +180,7 @@ function InitMainShop_Sec_Equip(wnd)
 		Gold_L:SetVisible(0)
 		
 		--ResetSecEquipScrollList()
-		XShopSrotHeroCheckMoney(1, Money_index)
+		XShopSrotHeroCheckMoney(Money_index)
 	end
 	
 	-- 钻石价格排序
@@ -220,7 +220,7 @@ function InitMainShop_Sec_Equip(wnd)
 		Money_L:SetVisible(0)
 		
 		--ResetSecEquipScrollList()
-		XShopSrotHeroCheckGold(1, Gold_index)
+		XShopSrotHeroCheckGold(Gold_index)
 	end
 	
 	-- 滚动条
@@ -421,7 +421,7 @@ function InitMainShop_Sec_Equip(wnd)
 		g_item_free[i] = g_item_ui[i]:AddButton(path_setup.."buy1_setup.png", path_setup.."buy2_setup.png",path_setup.."buy3_setup.png",15,145,83,35)
 		g_item_free[i].script[XE_LBUP] = function()
 			XClickPlaySound(5)
-			XClickFreeBtnAtBuyItemUi(1, EquipInfo.Id[i+Many*4], EquipInfo.IsCanFree[i+Many*4])
+			XClickFreeBtnAtBuyItemUi(EquipInfo.Id[i+Many*4], EquipInfo.IsCanFree[i+Many*4])
 		end
 		
 		g_item_freeUnEnable[i] = g_item_ui[i]:AddImage(path_setup.."buy0_setup.png", 15, 145, 83, 35)
@@ -431,7 +431,7 @@ function InitMainShop_Sec_Equip(wnd)
 			XClickPlaySound(5)
 			--SetShopItemBuyNameInfo(EquipInfo.strName[i])
 			XShopBuyItemIndexForLua(i+Many*4-1)
-			XShopClickBuyItem(1, EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
+			XShopClickBuyItem(EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
 		end
 		
 		g_item_name[i] = g_item_ui[i]:AddFont("装备升级超级礼包", 15, 8, -7, -18, 200, 20, 0x83d1e7)
@@ -493,7 +493,7 @@ function IsFocusOn_SecEquipSearch()
 end
 
 function onSec_EquipSearch_Enter()
-	XEnterFindInput(1, EquipSearchInput.id, 0)
+	XEnterFindInput(EquipSearchInput.id, 0)
 	ResetSecEquipScrollList()
 end
 
@@ -502,7 +502,7 @@ function SetShop_Sec_EquipIsVisible(flag)
 		if flag == 1 and g_shop_Sec_Equip_ui:IsVisible() == false then
 			g_shop_Sec_Equip_ui:SetVisible(1)
 			XSetShopSecEquipUiVisible(1)
-			XClickShopSecEquipUi(1)
+			XClickShopSecEquipUi()
 		elseif flag == 0 and g_shop_Sec_Equip_ui:IsVisible() == true then
 			g_shop_Sec_Equip_ui:SetVisible(0)
 			XSetShopSecEquipUiVisible(0)

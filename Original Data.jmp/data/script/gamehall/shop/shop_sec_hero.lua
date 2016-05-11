@@ -110,7 +110,7 @@ function InitMainShop_Sec_Hero(wnd)
 	local FindButton = EquipHeroSearchInputEdit:AddButton(path_setup.."buy1_setup.png",path_setup.."buy2_setup.png",path_setup.."buy3_setup.png", 235, -3, 83, 35)
 	FindButton:SetVisible(0)
 	FindButton.script[XE_LBUP] = function()
-		XEnterFindInput(1, EquipHeroSearchInput.id, 1)
+		XEnterFindInput(EquipHeroSearchInput.id, 1)
 		ResetScrollList()
 	end
 	
@@ -150,7 +150,7 @@ function InitMainShop_Sec_Hero(wnd)
 		
 		ResetScrollList()
 		
-		XShopIsHaveHeroCheck(1, index_have-1)
+		XShopIsHaveHeroCheck(index_have-1)
 	end
 	
 	----金币价格排序
@@ -183,7 +183,7 @@ function InitMainShop_Sec_Hero(wnd)
 			Money_H:SetVisible(0)
 			Money_L:SetVisible(0)
 		end
-		XShopSrotHeroCheckMoney(1, Money_index)
+		XShopSrotHeroCheckMoney(Money_index)
 		------恢复钻石排序为默认
 		Gold_index = 0
 		Gold_N:SetVisible(1)
@@ -223,7 +223,7 @@ function InitMainShop_Sec_Hero(wnd)
 			Gold_H:SetVisible(0)
 			Gold_L:SetVisible(0)
 		end
-		XShopSrotHeroCheckGold(1, Gold_index)
+		XShopSrotHeroCheckGold(Gold_index)
 		------恢复金币排序为默认
 		Money_index = 0
 		Money_N:SetVisible(1)
@@ -428,7 +428,7 @@ function InitMainShop_Sec_Hero(wnd)
 		g_item_buy[i].script[XE_LBUP] = function()
 			XClickPlaySound(5)
 			XShopBuyItemIndexForLua(i+Many*4-1)
-			XShopClickBuyItem(1, EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
+			XShopClickBuyItem(EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
 		end
 		
 		g_item_name[i] = g_item_ui[i]:AddFont("英雄"..i, 15, 8, -7, -18, 200, 14, 0x83d1e7)
@@ -485,7 +485,7 @@ function IsFocusOn_EquipSearchHero()
 end
 
 function onHeroSearch_Enter()
-	XEnterFindInput(1, EquipHeroSearchInput.id, 0)
+	XEnterFindInput(EquipHeroSearchInput.id, 0)
 	ResetScrollList()
 end
 -- 清空商品信息表
@@ -707,7 +707,7 @@ function SetShop_Sec_HeroIsVisible(flag)
 		if flag == 1 and g_shop_Sec_hero_ui:IsVisible() == false then
 			g_shop_Sec_hero_ui:SetVisible(1)
 			XSetShopSecHeroUiIsVisible(1)
-			XShopSecHeroClick(1)	-- 传消息给C,英雄子界面已经被打开
+			XShopSecHeroClick()	-- 传消息给C,英雄子界面已经被打开
 		elseif flag == 0 and g_shop_Sec_hero_ui:IsVisible() == true then
 			ReSetContrnlState_hero()
 			g_shop_Sec_hero_ui:SetVisible(0)

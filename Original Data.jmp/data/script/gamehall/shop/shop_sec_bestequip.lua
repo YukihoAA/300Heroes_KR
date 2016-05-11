@@ -222,7 +222,7 @@ function InitMainShop_Sec_BestEquip(wnd)
 	local FindButton = BestEquipSearchInputEdit:AddButton(path_setup.."buy1_setup.png",path_setup.."buy2_setup.png",path_setup.."buy3_setup.png", 235, -3, 83, 35)
 	FindButton:SetVisible(0)
 	FindButton.script[XE_LBUP] = function()
-		XEnterFindInput(1, BestEquipSearchInput.id, 1)
+		XEnterFindInput(BestEquipSearchInput.id, 1)
 		ResetSecBestEquipScrollList()
 	end
 	
@@ -259,7 +259,7 @@ function InitMainShop_Sec_BestEquip(wnd)
 		end
 		
 		-- ResetSecBestEquipScrollList()
-		XShopSrotHeroCheckGold(1, Gold_index)
+		XShopSrotHeroCheckGold(Gold_index)
 	end
 	
 	-- 未拥有神器
@@ -307,7 +307,7 @@ function InitMainShop_Sec_BestEquip(wnd)
 			XClickPlaySound(5)
 			--SetShopItemBuyNameInfo(EquipInfo.strName[i])
 			XShopBuyItemIndexForLua(i+Many*4-1)
-			XShopClickBuyItem(1, EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
+			XShopClickBuyItem(EquipInfo.Id[i+Many*4], EquipInfo.ItemId[i+Many*4])
 		end
 		
 		g_item_name[i] = g_item_ui[i]:AddFont("装备升级超级礼包", 15, 8, -7, -18, 200, 20, 0x83d1e7)
@@ -353,7 +353,7 @@ function onBestEquipSearch_Enter()
 		return
 	end
 
-	XEnterFindInput(1, BestEquipSearchInput.id, 0)
+	XEnterFindInput(BestEquipSearchInput.id, 0)
 	ResetSecBestEquipScrollList()
 end
 
@@ -362,7 +362,7 @@ function SetShop_Sec_BestEquipIsVisible(flag)
 		if flag == 1 and g_shop_Sec_BestEquip_ui:IsVisible() == false then
 			g_shop_Sec_BestEquip_ui:SetVisible(1)
 			XSetShopSecBestEquipUiVisible(1)
-			XClickShopSecBestEquipUi(1)
+			XClickShopSecBestEquipUi()
 		elseif flag == 0 and g_shop_Sec_BestEquip_ui:IsVisible() == true then
 			g_shop_Sec_BestEquip_ui:SetVisible(0)
 			XSetShopSecBestEquipUiVisible(0)

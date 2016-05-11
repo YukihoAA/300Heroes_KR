@@ -500,7 +500,7 @@ function SetGameFightIsVisible(flag)
 		g_game_fight_ui:SetVisible(1)
 		SetFourpartUIVisiable(2)
 		
-		XShopUiIsClick(1, 1)
+		XShopUiIsClick(1)
 	elseif flag == 0 and g_game_fight_ui:IsVisible() == true then
 		g_game_fight_ui:SetVisible(0)
 	end
