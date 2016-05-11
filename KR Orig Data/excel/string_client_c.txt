@@ -1786,6 +1786,9 @@ Archer
 18 10 4 10 0 Name_yisha
 伊莎
 
+29 17 8 10 0 Name_zetiangangji
+沢田纲吉
+
 22 10 8 10 0 eUI_Steps0
 全部等级
 
@@ -6376,6 +6379,9 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 敬请期待！
 
 34 20 10 10 0 eProfessionIdx_yisha
+敬请期待！
+
+41 27 10 10 0 eProfessionIdx_zetiangangji
 敬请期待！
 
 75 23 48 10 0 eClient_IsEquipInlayGem

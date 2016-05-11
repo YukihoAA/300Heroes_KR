@@ -1284,6 +1284,8 @@ Name_dasha´óÉµ
 
 
 Name_yishaÒÁÉ¯
+
+Name_zetiangangji›gÌï¸Ù¼ª
 
 
 eUI_Steps0È«²¿µÈ¼¶
@@ -4569,6 +4571,9 @@ w
 ¾´ÇëÆÚ´ı£¡
 "
 eProfessionIdx_yisha
+¾´ÇëÆÚ´ı£¡
+)
+eProfessionIdx_zetiangangji
 ¾´ÇëÆÚ´ı£¡
 K
 eClient_IsEquipInlayGem0ÊÇ·ñÈ·¶¨½«{#ff00ff00=%s#}ÏâÇ¶µ½{#ff00ff00=%s#}ÉÏ
