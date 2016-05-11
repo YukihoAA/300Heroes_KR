@@ -61,7 +61,7 @@ local GongGao = nil					-- 公告
 local PL = nil						-- 体力值
 local PlaceTime_YHZC = nil			-- 限制时间
 local GongGao1 = nil				-- 公告
-local EquipDeploy = nil				-- 厘厚厘馒按钮
+local EquipDeploy = nil				-- 装备配置按钮
 
 -- 相关按钮~
 local pNewClassButton_YHJJ = nil	-- 脚涝荐访按钮
@@ -500,7 +500,7 @@ function SetGameFightIsVisible(flag)
 		g_game_fight_ui:SetVisible(1)
 		SetFourpartUIVisiable(2)
 		
-		XShopUiIsClick(1, 1)
+		XShopUiIsClick(1)
 	elseif flag == 0 and g_game_fight_ui:IsVisible() == true then
 		g_game_fight_ui:SetVisible(0)
 	end
