@@ -1,0 +1,6460 @@
+
+?
+eLogin_UserPassError'µÇÈëÊ§°Ü£º{#FFd8ea62=ÕÊºÅ»òÃÜÂë´íÎó£¡#}
+L
+eLogin_VersionError5µÇÈëÊ§°Ü£º{#FFd8ea62=¿Í»§¶Ë°æ±¾ºÍ·şÎñÆ÷°æ±¾²»Æ¥Åä£¡#}
+=
+eLogin_UserError)µÇÈëÊ§°Ü£º{#FFd8ea62=ÕÊºÅºÍÃÜÂë²»Æ¥Åä£¡#}
+A
+eLogin_PasswordError)µÇÈëÊ§°Ü£º{#FFd8ea62=ÕÊºÅºÍÃÜÂë²»Æ¥Åä£¡#}
+J
+eLogin_UseOnline6ÌØ±ğÌáÊ¾£º{#FFd8ea62=¸ÃÕËºÅÒÑÔÚ·şÎñÆ÷ÖĞ£¬ÇëÖØĞÂµÇÈë!#}
+B
+eLogin_UsePassError_1)µÇÈëÊ§°Ü£º{#FFd8ea62=ÕÊºÅºÍÃÜÂë²»Æ¥Åä£¡#}
+&
+eLogin_LastLoginÉÏ´ÎµÇÈë·şÎñÆ÷£º%s
+,
+eLogin_TimeOut·şÎñÆ÷ÎŞÏìÓ¦£¬ÇëÉÔºòÔÙÊÔ£¡
+,
+eLogin_AccountOnlineÕâ¸öÕÙ»½Ê¦ÒÑ¾­ÔÚÏß£¡
+'
+eLogin_WaitingSigniningÈ¡ÏûÁ¬½Ó(%d)
+.
+eLogin_WaitingUserDisConnectµã»÷¿ÉÈ¡ÏûÁ¬½Ó
+
+eText_Empty¿Õ
+"
+eLogin_CurServerµ±Ç°·şÎñÆ÷£º%s
+3
+eLogin_UnKnown!µÇÈëÊ§°Ü£º{#FFd8ea62=Î´Öª´íÎó£¡#}
+ 
+eLogin_CurLineµ±Ç°ÏßÂ·£º%dÏß
+
+eLogin_LineName %d Ïß
+
+eLogin_LineState_Idle¼«¼Ñ
+
+eLogin_LineState_NormalÁ¼ºÃ
+
+eLogin_LineState_Busy·±Ã¦
+
+eLogin_LineState_Full±¬Âú
+ 
+eLogin_LineState_UnknownÎ´Öª
+>
+eLogin_LineFull_Notify$µ±Ç°ÏßÂ·ÒÑÂú£¬ÇëÑ¡ÔñÆäËûÏßÂ·½øĞĞÓÎÏ·
+8
+eBulletinMsgError#{#FFFF0000=¶ÁÈ¡ÏµÍ³¹«¸æÎÄ¼ş´íÎó£¡#}
+;
+eCreate_PlayerNameSame!´´½¨Ê§°Ü£º{#FFd8ea62=½ÇÉ«ÖØÃû£¡#}
+8
+eCreate_SystemError!´´½¨Ê§°Ü£º{#FFd8ea62=ÏµÍ³´íÎó£¡#}
+4
+eCreate_TimeOut!´´½¨Ê§°Ü£º{#FFd8ea62=´´½¨³¬Ê±£¡#}
+8
+eCreate_InvalidName!´´½¨Ê§°Ü£º{#FFd8ea62=Ãû×Ö·Ç·¨£¡#}
+
+
+eSystemMsgÏµÍ³ÏûÏ¢
+
+eDeletePlayerFail
+É¾³ıÊ§°Ü£¡
+9
+eExchange_Ask({#FFFFD940=%s#} ÇëÇóÓëÄú½»Ò×£¬ÊÇ·ñ½ÓÊÜ£¿
+
+eExchange_OK
+È·¶¨½»Ò×£¿
+#
+eExchange_OtherExit¶Ô·½ÍË³ö½»Ò×
+!
+eExchange_Error_2¶Ô·½¾Ü¾ø½»Ò×
+#
+eExchange_Error_3¶Ô·½È¡Ïû½»Ò×£¡
+
+ePack_NotGridÄúµÄ±³°üÒÑÂú£¡
+
+eExchange_fail
+½»Ò×Ê§°Ü£¡
+
+eExchange_timeout
+½»Ò×³¬Ê±£¡
+#
+eExchange_ItemCntÒª·ÅÉÏÎïÆ·ÊıÁ¿
+6
+eExchange_NotMoney ÄúµÄ½ğÇ®²»×ã£¬²»ÄÜ½øĞĞ´ËÏî²Ù×÷£¡
+(
+eExchange_InputCntÇëÊäÈëÕıÈ·µÄÊıÁ¿£¡
+-
+eExchange_NotGridÃ»ÓĞ×ã¹»µÄ¿Õ¼ä°Ú·ÅÎïÆ·£¡
++
+eExchange_InputBuyCntÇëÊäÈëÂòÎïÆ·µÄÊıÁ¿
++
+ePack_InputTakeOutCntÇëÊäÈëÈ¡ÎïÆ·µÄÊıÁ¿
+`
+eLogin_DeletePlayerIÈ·¶¨ÒªÉ¾³ıËùÑ¡ÖĞµÄ½ÇÉ«£¿\n{#ffffee5e=½ÇÉ«7Ììºó±»É¾³ı£¬7ÌìÄÚ¿ÉËæÊ±»Ö¸´£¡#}
+.
+eExchange_InputSellCntÇëÊäÈëÂô³öÎïÆ·µÄÊıÁ¿
+
+eUI_InputBoxÊäÈë¿ò
+)
+eUI_InputThrowCntÇëÊäÈë¶ªÆúÎïÆ·µÄÊıÁ¿
+
+eUI_Exchange½»Ò×
+
+eUI_AddFriend¼ÓÎªºÃÓÑ
+
+eUI_Team×é¶Ó
+
+eUI_FellowMe¸úËæ
+
+eItem_UseFailÎïÆ·Ê¹ÓÃÊ§°Ü£¡
+
+eUnknown_failÊ§°Ü
+!
+eUI_EquipFail×°±¸»òĞ¶ÔØÊ§°Ü£¡
+
+	eUI_Price¼Û¸ñ
+
+eUI_ExitGameÍË³öÓÎÏ·
+
+eUI_InputNameÇëÊäÈëĞÕÃû£¡
+ 
+eUI_PlayerFull½ÇÉ«ÊıÁ¿ÒÑÂú£¡
+&
+eUI_BuyConfirmÊÇ·ñÈ·¶¨¹ºÂò¸ÃÎïÆ·£¿
+
+eUI_LevelUpÄúµÄµÈ¼¶ÌáÉıÁË£¡
+6
+eUI_ConfirmThrowItemÊÇ·ñÈ·¶¨Ïú»Ù {#FFd8ea62=%s£¿#}
+B
+eUI_ConfirmThrowTaskItem&ÊÇ·ñÈ·¶¨Ïú»ÙÈÎÎñµÀ¾ß {#FFd8ea62=%s£¿#}
+&
+eUI_NotMemoyµ±Ç°ÄúÎŞ·¨¹ºÂò´ËÎïÆ·£¡
++
+eUI_ShopNotItemÉÌµêÏÖÔÚÃ»ÓĞÕâÃ´¶àÎïÆ·£¡
+(
+eUI_SkillLevelupÄúµÄ¼¼ÄÜµÈ¼¶ÌáÉıÁË£¡
+
+eUI_ItemLvl_0ÆÕÍ¨
+
+eUI_ItemLvl_1»ù±¾
+
+eUI_ItemLvl_2¾«ÖÂ
+
+eUI_ItemLvl_3Ï¡ÓĞ
+
+eUI_ItemLvl_4ÉñÆ÷
+
+eUI_Unknown_0Î´Öª
+
+eUI_Unknown_1Î´Öª
+
+eProfession_Assassin½£Ê¿
+
+eProfession_WarriorÕ½Ê¿
+
+eProfession_KnightÊØ»¤Õß
+
+eProfession_Rabbi·¨Ê¦
+
+eProfession_PriestÍ¼ÌÚÊ¦
+
+eProfession_UnknownÎ´Öª
+
+eNeed_ProfessionÖ°ÒµĞèÇó
+
+eUI_AttStrength¹¥»÷Á¦
+
+eUI_MagicStrength·¨ÊõÇ¿¶È
+
+eUI_YesÊÇ
+
+eUI_NO·ñ
+
+	eUI_AddHP»Ö¸´HPÖµ
+
+	eUI_AddMP»Ö¸´MPÖµ
+
+
+eUI_AddExpÔö¼Ó¾­Ñé
+ 
+eUI_Add_Unknown¸½¼Ó×÷ÓÃ:Î´Öª
+
+eUI_AttSpeed¹¥»÷ËÙ¶È
+
+eUI_AttackSpeed¹¥»÷ËÙ¶È
+!
+eUI_stPlayAtt_Blaze
+»ğÔªËØ¹¥»÷
+!
+eUI_stPlayAtt_Frost
+±ùÔªËØ¹¥»÷
+#
+eUI_stPlayAtt_Thunder
+¹âÔªËØ¹¥»÷
+"
+eUI_stPlayAtt_Poison
+°µÔªËØ¹¥»÷
+
+eUI_ePlayAtt_Physics¹¥»÷Á¦
+
+eUI_ePlayAtt_Magic·¨ÊõÇ¿¶È
+
+eUI_Hurt_Physics¶îÍâÉËº¦
+
+eUI_Hurt_Magic·¨ÊõÇ¿¶È
+
+eUI_Hurt_Ice
+±ùÔªËØ¹¥»÷
+
+eUI_Hurt_Fire
+»ğÔªËØ¹¥»÷
+
+eUI_Hurt_Light
+¹âÔªËØ¹¥»÷
+
+eUI_Hurt_Dark
+°µÔªËØ¹¥»÷
+
+
+eUI_sExactÃüÖĞ
+
+eUI_CritialHit±©»÷¼¸ÂÊ
+
+eUI_CriticalDamage±©»÷ÉËº¦
+
+eUI_sAddLuckĞÒÔË
+
+eUI_sIntonateSpeedÒ÷³ªËÙ¶È
+
+eUI_stAtkSpeedAdd¹¥»÷ËÙ¶È
+#
+eUI_stPlayAtt_Blaze_0
+»ğÔªËØ¹¥»÷
+#
+eUI_stPlayAtt_Frost_0
+±ùÔªËØ¹¥»÷
+%
+eUI_stPlayAtt_Thunder_0
+¹âÔªËØ¹¥»÷
+
+eUI_ePlayHolyDefÉñÊ¥·ÀÓù
+
+eUI_sPhysicsDef»¤¼×
+
+eUI_ePlayFireDef
+»ğÔªËØ¿¹ĞÔ
+
+eUI_ePlayIceDef
+±ùÔªËØ¿¹ĞÔ
+
+eUI_ePlayLightDef
+¹âÔªËØ¿¹ĞÔ
+
+eUI_ePlayDarkDef
+°µÔªËØ¿¹ĞÔ
+
+
+eUI_nHpMaxÉúÃüÖµ
+
+eUI_shieldValue»¤¼×Öµ
+
+eUI_sHpMaxPerÉúÃüÉÏÏŞ
+
+
+eUI_sMpMax·¨Á¦Öµ
+
+eUI_sMpMaxPer·¨Á¦ÉÏÏŞ
+
+eUI_HpRestoreÉúÃü»Ø¸´
+
+eUI_MpRestore·¨Á¦»Ø¸´
+
+eUI_danderRestoreÅ­Æø»Ø¸´
+
+ui_energy_RestoreÄÜÁ¿»Ø¸´
+
+eUI_sHpRestoreÉúÃü»Ø¸´/5Ãë
+
+eUI_sMpRestore·¨Á¦»Ø¸´/5Ãë
+
+eUI_sReboundRateÎïÀí·´µ¯
+
+
+eUI_sDodgeÉÁ±Ü
+
+eUI_sAddLuck_0ĞÒÔË
+
+eUI_sComposeRateºÏ³É¼¸ÂÊ
+"
+eUI_fBaseMoveSpeed»ù´¡ÒÆ¶¯ËÙ¶È
+
+eUI_fMoveSpeedÒÆ¶¯ËÙ¶È
+
+eUI_ustPrepTimeÒ÷³ªÊ±¼ä
+$
+eUI_ustStatusHitRate×´Ì¬ÃüÖĞ¼¸ÂÊ
+
+eUI_ustCostHPÏûºÄHP
+
+eUI_ustCostMPÏûºÄMP
+*
+eUI_stDamageEffectDistanceÉËº¦ÓĞĞ§¾àÀë
+
+eUI_bHoldSkillÊÇ·ñÎ¬³Ö¼¼ÄÜ
+
+eUI_bNeedWeaponÊÇ·ñĞèÒªÎäÆ÷
+
+eUI_CoolDownMinusÀäÈ´Ëõ¼õ
+#
+eUI_dwSkillColddownTimeÀäÈ´Ê±¼ä
+"
+eUI_dwSubComboStatus
+¿ÉÇå³ı×´Ì¬
+
+eUI_ustHoldTime½©³ÖÊ±¼ä
+
+eUI_bHedgeNullÎŞÊÓ»Ø±Ü
+
+eUI_iDurationTime¹¥»÷ËÙ¶È
+%
+eUI_iBalanceDelayTimeÓ°Ïì¼ä¸ôÊ±¼ä
+*
+eUI_bAttckedNoStatusÊÜµ½¹¥»÷½â³ı¸Ã×´Ì¬
+$
+eUI_bAttckNoStatus¹¥»÷½â³ı¸Ã×´Ì¬
+
+eUI_BATTR_STRENGTHÁ¦Á¿¸ü¸Ä
+"
+eUI_BATTR_CONSTITUTIONÌåÖÊ¸ü¸Ä
+
+eUI_BATTR_AGILITYÃô½İ¸ü¸Ä
+"
+eUI_BATTR_INTELLIGENCE·¨Á¦¸ü¸Ä
+
+eUI_BATTR_SPIRIT¸ĞÖª¸ü¸Ä
+
+eUI_BATTR_LUCKÔËÆø¸ü¸Ä
+!
+eUI_fChanged_ExpMul
+¾­ÑéÖµ¸Ä±ä
+*
+eUI_ePlayAtt_PhysicsPer¹¥»÷¸Ä±ä °Ù·Ö±È
+,
+eUI_ePlayAtt_MagicPer·¨ÊõÇ¿¶È¸Ä±ä °Ù·Ö±È
+,
+eUI_ePlayAtt_IcePer±ùÔªËØ¹¥»÷¸Ä±ä °Ù·Ö±È
+-
+eUI_ePlayAtt_FirePer»ğÔªËØ¹¥»÷¸Ä±ä °Ù·Ö±È
+0
+eUI_ePlayAtt_ThunderPer¹âÔªËØ¹¥»÷¸Ä±ä °Ù·Ö±È
+/
+eUI_ePlayAtt_PoisonPer°µÔªËØ¹¥»÷¸Ä±ä °Ù·Ö±È
+
+eUI_SuperArmorÈÍĞÔ
+
+eUI_DamageIncreaseÉËº¦¼ÓÉî
+
+eUI_DamageReductionÉËº¦¼õÃâ
+
+eUI_ArmorPuncture»¤¼×´©Í¸
+"
+eUI_MagicArmorPuncture·¨Êõ´©Í¸
+$
+eUI_ArmorPuncturePercent»¤¼×´©Í¸
+)
+eUI_MagicArmorPuncturePercent·¨Êõ´©Í¸
+"
+eUI_ChangedPlayAtt_Physics¹¥»÷
+$
+eUI_ChangedPlayAtt_Magic·¨ÊõÇ¿¶È
+$
+eUI_ChangedPlayAtt_Ice
+±ùÔªËØ¹¥»÷
+%
+eUI_ChangedPlayAtt_Fire
+»ğÔªËØ¹¥»÷
+(
+eUI_ChangedPlayAtt_Thunder
+¹âÔªËØ¹¥»÷
+'
+eUI_ChangedPlayAtt_Poison
+°µÔªËØ¹¥»÷
+#
+eUI_stChangedPhysicsDef_Per·ÀÓù
+
+eUI_ChangededPhysicsDef·ÀÓù
+!
+eUI_ChangededMagicDef·¨Êõ¿¹ĞÔ
+'
+eUI_ChangedDefElement_Ice
+±ùÔªËØ¿¹ĞÔ
+(
+eUI_ChangedDefPlayDef_Fire
+»ğÔªËØ¿¹ĞÔ
++
+eUI_ChangedDefPlayDef_Thunder
+¹âÔªËØ¿¹ĞÔ
+*
+eUI_ChangedDefPlayDef_Poison
+°µÔªËØ¿¹ĞÔ
++
+eUI_stChangWeapon_AttributeÎäÆ÷ÊôĞÔ¸Ä±ä
+&
+eUI_stChangWeapon_OnlyÎäÆ÷×¨ÓĞÊôĞÔ
+0
+eUI_stChanged_FianHurtPer¸Ä±ä×îÖÕÉËº¦ °Ù·Ö±È
+&
+eUI_stChanged_FianHurt¸Ä±ä×îÖÕÉËº¦
+$
+eUI_stMagic_FreeHurt·¨Á¦µÖÏûÉËº¦
+.
+eUI_stMagic_FreeHurtPer·¨Á¦µÖÏûÉËº¦ °Ù·Ö±È
+!
+eUI_stChanged_HPMax
+ÉúÃü×î´óÖµ
++
+eUI_stChanged_HPMaxPerÉúÃü×î´óÖµ °Ù·Ö±È
+!
+eUI_stChanged_MPMax
+·¨Á¦×î´óÖµ
++
+eUI_stChanged_MPMaxPer·¨Á¦×î´óÖµ °Ù·Ö±È
+
+eUI_stResume_HPÉúÃü»Ö¸´
+
+eUI_stResume_MP·¨Á¦»Ö¸´
+
+eUI_stChanged_HP¸ü¸ÄÉúÃü
+
+eUI_stChanged_MP¸ü¸Ä·¨Á¦
+%
+eUI_stChanged_AttRect¸ü¸Ä¹¥»÷¾àÀë
+!
+eUI_stChanged_Hit¸ü¸ÄÃüÖĞÄÜÁ¦
+'
+eUI_stChanged_FrenzyPer¸ü¸Ä±©»÷¼¸ÂÊ
+&
+eUI_fChanged_FrenzyVal¸ü¸Ä±©»÷±¶Êı
+$
+eUI_stChanged_ReboundValÉËº¦·´µ¯
+ 
+eHurtImmunity_0ÉËº¦¿¹ĞÔ ÎïÀí
+ 
+eHurtImmunity_1ÉËº¦¿¹ĞÔ ·¨Á¦
+"
+eHurtImmunity_2ÉËº¦¿¹ĞÔ ±ùÔªËØ
+"
+eHurtImmunity_3ÉËº¦¿¹ĞÔ »ğÔªËØ
+"
+eHurtImmunity_4ÉËº¦¿¹ĞÔ ¹âÔªËØ
+"
+eHurtImmunity_5ÉËº¦¿¹ĞÔ °µÔªËØ
+
+eStatusFree×´Ì¬¿¹ĞÔ
+!
+eStatusFreePer×´Ì¬µÖ¿¹ °Ù·Ö±È
+
+
+eHedgeNullÎŞÊÓ»Ø±Ü
+
+eUI_HPAbsorbÉúÃüÍµÈ¡
+ 
+eUI_stAbsorbExtraHPValÎüÑªÖµ
+
+eUI_MPAbsorb·¨ÊõÎüÑª
+ 
+eUI_stAbsorbExtraMPValÎüÄ§Öµ
+!
+eUI_fMoveSpeedChangedÒÆ¶¯ËÙ¶È
+"
+eUI_stAttSpeedChanged	%¹¥»÷ËÙ¶È
+
+eUI_bIsMoveAttÒÆ¶¯¹¥»÷
+"
+eUI_stPrepSpeedChangedÒ÷³ªËÙ¶È
+
+eUI_bIsMove
+ÊÇ·ñÄÜÒÆ¶¯
+
+
+eUI_bIsAtt
+ÊÇ·ñÄÜ¹¥»÷
+#
+eUI_bIsUsingMagicÊÇ·ñÄÜÊ¹ÓÃ·¨Á¦
+#
+eUI_bIsUsingToolsÊÇ·ñÄÜÊ¹ÓÃµÀ¾ß
+
+eUI_bIsRandWalkËæ¼´ÂÒÅÜ
+ 
+eUI_Element_Ice_Hurt±ù¶³ÉËº¦
+!
+eUI_Element_Fire_Hurt»ğÑæÉËº¦
+&
+eUI_Element_Thunder_Hurt
+¹âÔªËØÉËº¦
+%
+eUI_Element_Poison_Hurt
+°µÔªËØÉËº¦
+#
+eUI_stChangedPhy_Hurt
+¹¥»÷Á¦Ôö¼Ó
+-
+eUI_stChangedPhy_HurtPer¹¥»÷Á¦Ôö¼Ó °Ù·Ö±È
+,
+eUI_Element_Ice_HurtPer±ùÔªËØÉËº¦ °Ù·Ö±È
+-
+eUI_Element_Fire_HurtPer»ğÔªËØÉËº¦ °Ù·Ö±È
+0
+eUI_Element_Thunder_HurtPer¹âÔªËØÉËº¦ °Ù·Ö±È
+/
+eUI_Element_Poison_HurtPer°µÔªËØÉËº¦ °Ù·Ö±È
+>
+eClient_AddTreasure_Full"¸Ã±¦²ØÊÕ¼¯ÒÑ´ïµ½ÉÏÏŞ£¬²»ÄÜ¼ÌĞøÌí¼Ó
+9
+eClient_Change_Relation_TeacherÊÇ·ñÍ¬Òâ %s µ±ÄúµÄÊ¦¸¸
+5
+eClient_Change_Relation_StudentÄúÊÇ·ñÒªÊÕ%sÎªÍ½µÜ
+7
+!eClient_Student_Appraise_2TeacherÇë¸øÓè%sÊ¦¸¸Ğ´ÆÀ¼Û
+1
+eClient_Select_Kill_StudentÑ¡ÔñÄúÒªÌŞ³ıµÄÍ½µÜ
+A
+#eClient_MsgRelation_S2C_ReqRemoveTSÊÇ·ñÍ¬Òâ%sºÍÆ½½â³ıÊ¦Í½¹ØÏµ
+,
+ eClient_Team_Create_Default_Name%sµÄ¶ÓÎé
+&
+eClient_Team_Show_Level_Job%d¼¶ %s
+G
+eClient_Team_Request_Follow_Me%%s ÑûÇëÄú¼ÓÈë¶ÓÎé¸úËæÄ£Ê½£¬ÊÇ·ñÍ¬Òâ£¿
+B
+eClient_Team_Invite_Join_Team!%s ÑûÇëÄú¼ÓÈë¶ÓÎé %s £¬ÊÇ·ñÍ¬Òâ£¿
+'
+eGuild_Invite_Join_ÑûÇëÄú¼ÓÈë%s¹«»á
+B
+eGuild_Invite_Summon*¼Ò×å[%s] %s ÒªÕÙ»½Äúµ½ËüµÄÉí±ß£¬ÊÇ·ñÍ¬Òâ£¿
+5
+eClient_Guild_Create_TextÇëÊäÈëĞÂ´´½¨µÄ¹«»áµÄÃû×Ö
+9
+eClient_Guild_Create_NoGold´´½¨ĞÂ¹«»áËùĞèÒªµÄ×êÊ¯²»×ã
+2
+eClient_Guild_Create_Info´´½¨ĞÂ¹«»áĞèÒª100×êÊ¯
+*
+eClient_Guild_NoticeÇëÊäÈëĞÂµÄ¹«»á¹«¸æ
+9
+eClient_Guild_Create_NoTextÃ»ÓĞÊäÈëÒª´´½¨µÄ¹«»áµÄÃû×Ö
+
+eClient_Guild_Day%dÌì
+"
+eClient_Guild_Less1DayÉÙÓÚÒ»Ìì
+7
+eClient_Guild_InputInviteNameÊäÈëÄúÒªÑûÇëÍæ¼ÒµÄÃû×Ö
+:
+eClient_Guild_InputChangeAboutÊäÈëÒª¸Ä±ä»áÔ±µÄÏàÓ¦±¸×¢
+U
+!eClient_Friend_Request_ADD_Friend0{#fff7dc7f=%s#}\n ÉêÇë½«ÄúÌí¼ÓÎªºÃÓÑ£¬ÇëÑ¡Ôñ²Ù×÷
+(
+eClient_Friend_Show_level_Job%d¼¶ %s
+(
+eClient_Friend_Show_Which_lineÏßÂ·%d
+B
+eClinet_Friend_Add_Text'{#fff7dc7f=ÇëÊäÈëÄúÏëÒª¼ÓÎªºÃÓÑµÄÃû×Ö#}
+)
+!eClient_MonsterType_NormalMonsterÆÕÍ¨
+,
+$eClient_MonsterType_ExcellentMonster¾«Ó¢
+'
+eClient_MonsterType_RareMonsterÏ¡ÓĞ
+)
+!eClient_MonsterType_LeaderMonsterÍ·Áì
+'
+eClient_MonsterType_BossMonsterBoss
+&
+eClient_MonsterType_GodMonsterÉñ»°
++
+#eClient_MonsterType_IllusionMonster¾µÏñ
+"
+eClient_MonsterType_Bullet×Óµ¯
+ 
+eClient_MonsterType_Herb²İÒ©
+ 
+eClient_MonsterType_Mine¿óÎï
+ 
+eClient_MonsterType_WoodÄ¾Í·
+$
+eClient_MonsterType_Treasure±¦Ïä
+$
+eClient_MonsterType_Building½¨Öş
+&
+eClient_MonsterType_Collection²É¼¯
+"
+eClient_MonsterRace_Animal¶¯Îï
+!
+eClient_MonsterRace_HumanÈËĞÎ
+!
+eClient_MonsterRace_PlantÖ²Îï
+"
+eClient_MonsterRace_Undead²»ËÀ
+"
+eClient_MonsterRace_Daemon¶ñÄ§
+#
+eClient_MonsterRace_Machine»ú¹Ø
+#
+eClient_MonsterRace_SpecialÌØÊâ
+0
+$eClient_Chat_Prepositive_Text_Normal¡¾¸½½ü¡¿
+0
+$eClient_Chat_Prepositive_Text_Family¡¾¼Ò×å¡¿
+/
+#eClient_Chat_Prepositive_Text_Guild¡¾¹«»á¡¿
+.
+"eClient_Chat_Prepositive_Text_Team¡¾¶ÓÎé¡¿
+1
+%eClient_Chat_Prepositive_Text_Private¡¾ÃÜÓï¡¿
+/
+#eClient_Chat_Prepositive_Text_World¡¾ÊÀ½ç¡¿
+0
+$eClient_Chat_Prepositive_Text_Friend¡¾ºÃÓÑ¡¿
+3
+$eClient_Chat_Prepositive_Text_Battle[image=505]
+0
+$eClient_Chat_Prepositive_Text_System¡¾ÏµÍ³¡¿
+1
+"eClient_Chat_Prepositive_Text_Bull[image=507]
+/
+#eClient_Chat_Prepositive_Text_Shout¡¾ºÅ½Ç¡¿
+5
+%eClient_Chat_Prepositive_Text_ShoutEx¡¾ÓÀºãºÅ½Ç¡¿
+0
+$eClient_Chat_Prepositive_Text_Region¡¾È«Ìå¡¿
+0
+$eClient_Chat_Prepositive_Text_Nation¡¾¹ú¼Ò¡¿
+/
+#eClient_Chat_Prepositive_Text_Lobby¡¾´óÌü¡¿
+
+eClient_Npc_CanAccept-¿É½Ó
+
+eClient_Npc_CanFinish-Íê³É
+
+eClinet_Npc_Undone-ÒÑ½ÓÊÜ
+%
+eClinet_Npc_Unsuccessful	-ÈÎÎñÊ§°Ü
+
+eClient_NpcTalk¶Ô»°
+
+eClient_NpcHelp°ïÖú
+
+eClient_NpcShopÉÌµê
+
+eClient_NpcTransmit´«ËÍ
+
+eClient_NpcLeaveÀë¿ª
+
+eClient_PetState_Defend·ÀÓù
+&
+eClient_PetState_CounterStrike·´»÷
+
+eClient_PetState_Attack¹¥»÷
+!
+eClient_PetQuality_NormalÆÕÍ¨
+.
+eClient_PetQuality_Better{#ff00ffff=Á¼ºÃ#}
+,
+eClient_PetQuality_Good{#ffffdb32=ÓÅĞã#}
+1
+eClient_PetQuality_Excellent{#ffff6c32=½Ü³ö#}
+/
+eClient_PetQuality_Perfect{#ffd632ff=¶¥¼¶#}
+!
+eClient_PetNature_NaughtyÌÔÆø
+!
+eClient_PetNature_EarnestÈÏÕæ
+
+eClient_PetNature_RushÂ³Ã§
+
+eClient_PetNature_BloodÈÈÑª
+
+eClient_PetNature_Timidµ¨Ğ¡
+
+eClient_PetNature_CalmÀä¾²
+'
+eClient_PetGrowthType_PrecocityÔçÊì
+%
+eClient_PetGrowthType_Balance¾ùºâ
+(
+ eClient_PetGrowthType_LateMatureÍíÊì
+#
+eClient_PetState_Fighting³öÕ½ÖĞ
+!
+eClient_NpcMergePet
+ÕÙ»½ÊŞÈÚºÏ
+(
+eClient_NpcGetMergePetÁìÈ¡ÈÚºÏÕÙ»½ÊŞ
+
+eClient_SpwanText×ªÉú
+.
+eClient_NeedSuperiorHelpÄúÊÇ·ñĞèÒª¸ßÊÖ°ïÖú
+u
+eClient_HelpNewPlayerMsgY%sÍæ¼ÒĞèÒªÄúµÄ°ïÖú£¬ÄúÊÇ·ñÔ¸Òâ°ïÖúËû/Ëı£¬Èç¹ûÄúÑ¡ÔñÔ¸Òâ£¬½«×Ô¶¯Ïò¶Ô·½·¢ËÍ¼ÓÎªºÃÓÑµÄĞÅÏ¢¡£
+3
+eClient_ReqSuperiorList²é¿´ÒÑµÇ¼ÇµÄ¸ßÊÖÍæ¼ÒÁĞ±í
+0
+eClient_ReqNewerList²é¿´ÒÑµÇ¼ÇµÄĞÂÈËÍæ¼ÒÁĞ±í
+9
+eClient_BeNewer&ÎÒÊÇĞÂÈË£¬ÎÒÒªµÇ¼ÇĞÅÏ¢£¨µÈ¼¶£¼60¿ÉÑ¡£©
+<
+eClient_BeSuperior&ÎÒÊÇ¸ßÊÖ£¬ÎÒÒªµÇ¼ÇĞÅÏ¢£¨µÈ¼¶¡İ60¿ÉÑ¡£©
+'
+eClient_ReqSuperiorHelpÇëÇó¸ßÊÖ°ïÖú
+$
+eClinet_ReqHelpNewerĞÂÈËÇëÇó°ïÖú
+
+eClient_Level1¼¶
+
+eClient_LevelµÈ¼¶£º
+
+eCLient_WearÄÍ¾Ã£º
+
+eClient_JobÖ°Òµ£º
+
+eClient_SexĞÔ±ğ£º
+
+eClient_UnBindingÎ´°ó¶¨
+
+eClient_BindingÒÑ°ó¶¨
+#
+eClient_RightHandWeaponÓÒÊÖÎäÆ÷
+"
+eClient_LeftHandWeapon×óÊÖÎäÆ÷
+
+eClient_Price
+ÉÌµêÊÕ¹º¼Û
+
+eClient_GrowRate
+Áé»êÆõºÏ¶È
+
+eClient_GrowLevelÁé»êµÈ¼¶
+
+eClient_GrowAttr³É³¤ÊôĞÔ
+
+eClient_BindingAttr°ó¶¨ÊôĞÔ
+
+eClient_UnBesetÎ´ÏâÇ¶
+
+eClient_EquipOne×°±¸Ò»
+
+eClinet_EquipTwo×°±¸¶ş
+
+eClient_EquipThree×°±¸Èı
+
+eClient_EquipFour×°±¸ËÄ
+
+eClient_EquipFive×°±¸Îå
+
+eClinet_AttrOneÊôĞÔÒ»
+
+eClient_AttrTwoÊôĞÔ¶ş
+
+eClient_ThreeÊôĞÔÈı
+
+eClient_FourÊôĞÔËÄ
+Z
+eClient_RemainderTimeA½ñÈÕ»¹¿ÉÔÚÏß%dĞ¡Ê±%d·ÖÖÓ(Èç¹ûÄúÒÑÂú18ÖÜËê,Çëµ½¹ÙÍøÈ¡Ïû·À³ÁÃÔÏŞÖÆ)
+
+eClient_WarriorÕ½Ê¿
+
+eClient_KnightÊØ»¤Õß
+
+eClient_Assassin½£Ê¿
+
+eClient_Mage·¨Ê¦
+
+eClient_PriestÍ¼ÌÚÊ¦
+
+eClient_RestoreItem»Ø¸´Ò©Æ·
+
+eClient_ComposeItemºÏ³É²ÄÁÏ
+#
+eClient_InitiativeSkillÖ÷¶¯¼¼ÄÜ
+
+eClient_TaskItemÈÎÎñÎïÆ·
++
+ eClient_ReliveUI_DeathPunishItem%s¡Á%d 
+V
+ eClient_ReliveUI_DeathPunishOthe2µôÂä½ğÇ® {#FFF7dc7f=%d#}£¬ËğÊ§¾­Ñé {#FFF7dc7f=%d#}
+>
+eClient_ReliveUI_Killer#ÄúÒÑ¾­ËÀÍö£¬±» {#FFFF3014=%s#} É±ËÀ
+9
+eClient_eNpcFunBecomeTS³ÉÎªÊ¦Í½¹ØÏµ£¨ĞèË«·½×é¶Ó½øĞĞ£©
+G
+eClient_eNpcFunFinishTS,Ê¦¸¸Ñ¡Ïî£º³öÊ¦£¨´øÁì¡İ60¼¶µÄÍ½µÜ£¬×é¶Ó½øĞĞ£©
+0
+eClient_eNpcFunFireStudentÊ¦¸¸Ñ¡Ïî£º¿ª³ıÍ½µÜ
+2
+eClient_eNpcFunBetrayTeacherÍ½µÜÑ¡Ïî£ºÅÑÀëÊ¦ÃÅ
+:
+eClient_eNpcFunUpdateTeacherÊ¦¸¸Ñ¡Ïî£ºÉı¼¶ÎÒµÄÊ¦¸¸³ÆºÅ
+A
+eClient_eNpcFunRemoveTS&Ë«·½ºÍÆ½½â³ıÊ¦Í½¹ØÏµ£¨ĞèË«·½×é¶Ó½øĞĞ£©
+
+eClient_ItemLevel
+ÎïÆ·µÈ¼¶£º
+
+eClient_RareÏ¡ÓĞ¶È£º
+
+eClient_UseLevel
+Ê¹ÓÃµÈ¼¶£º
+ 
+eClient_SkillLevel
+¼¼ÄÜµÈ¼¶£º
+
+eClient_MPConstMPÏûºÄ£º
+"
+eClient_ColdDownTime
+ÀäÈ´Ê±¼ä£º
+1
+eClient_OtherPetLock{#FFF7dc7f=ÕÙ»½ÊŞÒÑËø¶¨#}
+$
+eClient_NpcFunLearnSkill¼¼ÄÜÉı¼¶
+-
+!eClient_NpcFuncCountryForbidSpeak½ûÑÔÑ¡Ïî
++
+eClient_CountryForbidSpeakInput½ûÑÔ¹¦ÄÜ
+*
+eClient_NpcFuncCountryImprisonÇô½ûÑ¡Ïî
+(
+eClient_CountryImprisonInputÇô½û¹¦ÄÜ
+'
+eClient_PetPatchSkillÕÙ»½ÊŞ¼¼ÄÜÑ§Ï°
+!
+eClient_PetStrength
+ÕÙ»½ÊŞÇ¿»¯
+!
+eClient_PetInitBaby
+ÕÙ»½ÊŞÖØÉú
+!
+eClient_FunEquipBoostÇ¿»¯×°±¸
+$
+eClient_FunEquipFace¸ü¸ÄÁ³²¿Ä£ĞÍ
+(
+eClient_FunEquipFaceIcon¸ü¸ÄÍ·ÏñÍ¼Æ¬
+ 
+eClient_FunEquipHair¸ü¸Ä·¢ĞÍ
+-
+eClient_PleaseSetRebornItemÇë·ÅÈëÖØÉúµÀ¾ß
+P
+eClient_PleaseSetSexItem4Çë·ÅÈëĞÔ±ğÓ°ÏìµÀ¾ß£¬²»·ÅÈëÔò°´ÕÕÄ¬ÈÏĞÔ±ğ²úÉú¼¸ÂÊÖØÉú
+.
+eClient_PleaseInputPetNameÇëÊäÈëÕÙ»½ÊŞÃû³Æ
+
+eClient_PetMaleĞÛĞÔ
+
+eClient_PetFemale´ÆĞÔ
+"
+eClient_PetSexRateĞÔ±ğ²úÉú¼¸ÂÊ
+
+eClient_ExpendMoneyÏû·Ñ½ğÇ®
+!
+eClient_FunPetBuild
+ÕÙ»½ÊŞ·Ö½â
+1
+eGoldSaleData_String%8d½ğ/100½ğ±Ò %8d %8dĞ¡Ê±
+8
+eGoldSaleNote_String %d %dĞ¡Ê± %d %d½ğ/100½ğ±Ò %dĞ¡Ê±
+!
+eClient_MailSender1
+·¢¼şÈË£º%s
+
+eClient_MailSender2ÏµÍ³ÓÊ¼ş
+
+eClient_MailTitle1±êÌâ£º%s
+
+eClient_MailTitle2±êÌâ£ºÎŞ
+%
+eGold_SaleUI_Unit_price
+ĞèÒª %d ½ğ
+#
+eClient_PetGeneration
+%d´ú %s %s
+8
+ eClient_UsecrystalballMessageboxÊÇ·ñÒª¼ÇÂ¼µ±Ç°×ø±ê£¿
+"
+eClient_FunGoldConsign½ğ±Ò½»Ò×
+4
+&eClient_InputBox_PrivateShopChangeName
+ÊäÈëÉÌµêÃû
+*
+eClient_InputBox_ChangeNameDef%sµÄÌ¯Î»
+,
+eClinet_Friend1v1ChatTitleÓë %s ½»Ì¸ÖĞ¡­
+
+ePetNameLvl01ÊŞ
+
+ePetNameLvl12ÊŞ
+
+ePetNameLvl23ÊŞ
+
+ePetNameLvl34ÊŞ
+
+ePetNameLvl45ÊŞ
+
+ePetNameLvl56ÊŞ
+
+ePetNameLvl67ÊŞ
+
+ePetNameLvl78ÊŞ
+
+ePetNameLvl89ÊŞ
+
+ePetNameLvl910ÊŞ
+#
+ePetNameLvl0_ui{#ff00dc46=1ÊŞ#}
+#
+ePetNameLvl1_ui{#ff32aafa=2ÊŞ#}
+#
+ePetNameLvl2_ui{#ffdcff32=3ÊŞ#}
+#
+ePetNameLvl3_ui{#ffff32aa=4ÊŞ#}
+#
+ePetNameLvl4_ui{#ffff8080=5ÊŞ#}
+#
+ePetNameLvl5_ui{#ffff0032=6ÊŞ#}
+
+ShowPetLine3
+%sµÄÕÙ»½ÊŞ
+
+	Name_SoulÁé»ê×´Ì¬
+-
+Name_IlluminatiPrometheusÏÈ¾õÕßÆÕÂŞÃ×ĞŞË¹
+
+Name_MonthRabbitÔÂÒ°Ãâ
+!
+Name_AnamnesisCoherer¼ÇÒä½ğÊô
+
+Name_RomeMonarchÂŞÂí´óµÛ
+&
+Name_DestroyDragonTrojan
+ÃğÁúÄ§½£Ê¿
+
+Name_SuccubaeÄÈåÈÅ®Ñı
+
+Name_CattleKingÆ½Ìì´óÊ¥
+
+Name_ProtectLingÌÆÉ®
+ 
+Name_ExplorerLaura
+Ì½ÏÕ¼ÒÀÍÀ­
+
+Name_RockColossusÑÒÊ¯¾ŞÏñ
+"
+Name_DestroyDragonTrojan½©Ê¬Íõ
+"
+Name_DestroyDragonTrojanĞ¡½©Ê¬
+
+Name_MonkeyÆëÌìĞ¡Ê£
+
+Name_PrettyHunterÂù×åÁÔÊÖ
+
+Name_StyxPunterÚ¤ºÓ¶ÉÕß
+
+Name_StormLadyÀ×öªÖ®Å­
+
+Name_AraneidBegumÁúÖë¹«Ö÷
+
+Name_AnchorCaptain¾ŞÃª´¬³¤
+
+Name_bianyimogu±äÒìÄ§¹½
+
+Name_huaxingzhanshi»¯ĞÎÕ½Ê¿
+
+Name_jifengzhiren¼²·çÖ®ÈÌ
+
+Name_meihouwangÃÀºïÍõ
+
+Name_manchuiyongshiÂù´¸ÓÂÊ¿
+
+Name_yingxiongwangÉ³É®
+
+Name_emuolieshouÍöÁéÅ®Íõ
+
+Name_jixiegongdi
+À¬»ø»ÙÃğÕß
+
+Name_hanbingnvjisi¹ÅÄÈ
+
+Name_leitingzhinuÀ×öªÖ®Å­
+
+Name_kapaidashi¿¨ÅÆ´óÊ¦
+
+Name_mangsengÃ¤É®
+
+
+Name_liluo
+»ô±ÈÕì²é±ø
+
+Name_qiandaiÓ°ÎèÕß
+
+Name_kalasi±©·ç¿ñ¸«
+
+	Name_ainu²¶Óã´ïÈË
+
+Name_bolisiÖí°Ë½ä
+
+	Name_muliÊ³Ö®ÈÌÕß
+
+Name_haokayaÎíÓ°ÉäÊÖ
+
+Name_duolixiÄ§µ¼ÉÙÅ®
+
+Name_mingrenÇàÇğ¹úÖ÷
+
+
+Name_lufei²İÃ±Ğ¡×Ó
+
+Name_haenlaiteÉîÔ¨Ö®ÑÛ
+
+Name_aoteman°ÂÌØÂü
+
+Name_wusuopuÆ¥Åµ²Ü
+
+Name_woailuoÎÒÊÜÂŞ
+
+
+Name_saberSaber
+
+Name_xialuoteÏÄÂåÌØ
+
+Name_shilaike°ÍÒÀÀÏÒ¯
+
+Name_yadiannaÑÅµäÄÈ
+
+Name_qiaobaÇÇ°ïÖ÷
+
+Name_yingyanÉñÄ¿ºÚµ¶
+
+
+Name_croki¿âÆæ
+
+	Name_lvbuÂÀ²¼
+
+Name_diaochanõõ²õ
+
+Name_zhangfeiÕÅ·É
+
+Name_zhugeliangÖî¸ğÁÁ
+
+Name_guanyu¹ØÓğ
+
+Name_dashewanÉßÊå
+
+Name_hamcockÉßÑªÎè¼§
+
+	Name_aisi»ğÈ­¡¤S
+
+Name_zilaiye×ÔÀ´Ò²
+
+Name_zuozhu×ó¶şÉÙ
+
+Name_mingrenÇàÇğ¹úÖ÷
+
+Name_baihuziºú×Ó´¬³¤
+
+Name_kakaxi¿¨µîÏÂ
+
+Name_suolong×ôÂŞ
+
+Name_sishenËÀÉñ
+
+Name_xue»Ã´Ì¡¤L¡¤ÀòÀò
+
+Name_luojie½¢¶ÓÍ³Ë§
+
+	Name_xue2»Ã´Ì¡¤D¡¤Â¶Î÷
+
+Name_fuwang¸«Íõ
+
+Name_tongkunvwangÍ´¿àÅ®Íõ
+
+Name_difashiµĞ·¨Ê¦
+!
+Name_yueliangnvjisi
+ÔÂÖ®Å®¼ÀË¾
+
+Name_diyulingzhuËÀÍöÆïÊ¿
+
+Name_jinzhan½üÕ½
+
+Name_yuanchengÔ¶³Ì
+
+Name_fda·¨Ê¦ÍŞ
+
+Name_shushiwaÊõÊ¿ÍŞ
+
+Name_qishiwaÆïÊ¿ÍŞ
+
+	Name_naziÄÉ×È
+
+
+Name_asuna
+½á³ÇÃ÷ÈÕÄÎ
+
+Name_hunterÁÔÈËÍŞ
+
+Name_zombie½©Ê¬
+
+
+Name_rogueµÁÔôÍŞ
+
+Name_warriorÕ½Ê¿ÍŞ
+
+Name_suolong×ôÂŞ
+
+Name_clericÄÁÊ¦ÍŞ
+
+Name_heiyansheshouºÚÑÒÉäÊÖ
+
+Name_tongrenÍ©ÈË
+
+Name_yubanmeiqinÓùÛàÃÀÇÙ
+
+Name_lingmeng²©ÀöÁéÃÎ
+
+
+Name_inori˜GÆí
+
+
+Name_shanaÏÄÄÈ
+
+Name_jinshanshan
+¼ª¶ûÙ¤ÃÀÊ²
+
+Name_chuyin³õÒôÎ´À´
+
+Name_safeiluosiÈø·ÆÂŞË¹
+
+
+Name_gelei¸ñÀ×
+
+
+Name_sanliÈıóÒ
+
+Name_heiºÚ
+
+Name_sesshoÉ±ÉúÍè
+
+	Name_kami¹ğÄ¾¹ğÂí
+
+Name_QueenOfVanpire¼§Ë¿Ğãß¯
+
+Name_lixiaolangÀîĞ¡ÀÇ
+
+Name_jianxinç³´å½£ĞÄ
+
+Name_sunwukongËïÎò¿Õ
+
+Name_lvziqiaoÂÀ×ÓÇÇ
+
+Name_freedomÇ¿Ï®×ÔÓÉ
+
+Name_chenmeijia³ÂÃÀ¼Î
+
+Name_buzhihuowu²»Öª»ğÎè
+
+Name_kuangsanÊ±Æé¿ñÈı
+
+Name_zengxiaoxianÔøĞ¡ÏÍ
+
+	Name_16ye
+Ê®ÁùÒ¹†DÒ¹
+
+	Name_yeyeÒ¹Ò¹
+
+Name_ginÛàÌïÒøÊ±
+
+Name_littlewukongĞ¡Îò¿Õ
+
+Name_icarusÒÁ¿¨ÂåË¹
+
+
+Name_konan
+½­»§´¨¿ÂÄÏ
+
+
+Name_rikka
+Ğ¡ÄñÓÎÁù»¨
+
+
+Name_tohka
+Ò¹µ¶ÉñÊ®Ïã
+
+	Name_yami½ğÉ«Ö®°µ
+
+
+Name_ryukoÀpÁ÷×Ó
+
+Name_nepÄùÆÕ¶Ù
+
+Name_homuraÏşÃÀÑæ
+
+Name_oumashuÓ£Âú¼¯
+
+Name_madokaÂ¹Ä¿Ô²Ïã
+
+Name_nyarukoÄÎÑÇ×Ó
+
+Name_lihuazouÁ¢»ª×à
+
+	Name_momoÃÎÃÎ
+
+Name_wrs°×ÑÒÉäÊÖ
+
+Name_baijingheizi°×¾®ºÚ×Ó
+
+Name_archerArcher
+
+Name_kuronekoÎå¸üÁğÁ§
+
+Name_yukari°ËÔÆ×Ï
+
+Name_liangyishiÁ½ÒÇÊ½
+
+Name_zekamashiµº·ç
+
+	Name_jojo
+¿ÕÌõ³ĞÌ«ÀÉ
+
+Name_killuaÆæ ë
+
+
+Name_kyoko×ô²ÖĞÓ×Ó
+
+Name_sayaka
+ÃÀÊ÷É³Ò®¼Ó
+
+Name_jinmuyan½ğÄ¾ÑĞ
+
+Name_gaotingnaiye¸ßî®ÄÎÒ¶
+
+
+Name_qinliÎåºÓÇÙÀï
+
+Name_shinai³¯ÌïÊ«ÄË
+
+Name_rinÔ¶ÛàÁİ
+
+
+Name_iriyaÒÁÀòÑÅ
+
+
+Name_feite·ÆÌØ
+
+	Name_niluÄáÂ»
+
+Name_zhezhiÕÛÖ½
+
+Name_siminaiËÄôéÄË
+
+Name_heixuejiºÚÑ©¼§
+
+Name_yaomeng»êÆÇÑıÃÎ
+
+Name_bamamei°ÍÂéÃÀ
+
+	Name_kezi¿Ë×Ó
+
+Name_yaliyaÑÇÀïÑÇ
+
+Name_nuowaluÅµÍßÂ¶
+
+
+Name_dasha´óÉµ
+%
+Name_zhandoubaolongshou
+Õ½¶·±©ÁúÊŞ
+
+Name_yifangtongxingÒ»·½Í¨ĞĞ
+
+Name_youxiaomeijiuÓÕÏüÃÀ¾Å
+ 
+Name_mulaihongliqi
+ÄÁäşºìÀòÆÜ
+
+	Name_ditaµÙËş
+
+Name_lishanweilaiÀõÉ½Î´À´
+
+
+Name_yishaÒÁÉ¯
+
+Name_zetiangangji›gÌï¸Ù¼ª
+
+
+eUI_Steps0È«²¿µÈ¼¶
+
+
+eUI_Steps11 - 9¼¶
+
+
+eUI_Steps2	10 - 19¼¶
+
+
+eUI_Steps3	20 - 29¼¶
+
+
+eUI_Steps4	30 - 39¼¶
+
+
+eUI_Steps5	40 - 49¼¶
+
+
+eUI_Steps6	50 - 59¼¶
+
+
+eUI_Steps7	60 - 69¼¶
+
+
+eUI_Steps8	70 - 79¼¶
+
+
+eUI_Steps9	80 - 89¼¶
+
+eUI_Steps10
+90 - 100¼¶
+
+eUI_Steps1111½×
+
+eUI_Steps1212½×
+
+eUI_Steps1313½×
+
+eUI_Steps1414½×
+
+eUI_Steps1515½×
+
+eUI_Steps1616½×
+
+eUI_Steps1717½×
+
+eUI_Steps1818½×
+
+eUI_Steps1919½×
+
+eUI_Steps2020½×
+
+eUI_Quality0È«²¿Æ·ÖÊ
+
+eUI_Quality11Æ·
+
+eUI_Quality22Æ·
+
+eUI_Quality33Æ·
+
+eUI_Quality44Æ·
+
+eUI_Quality55Æ·
+
+eUI_Quality66Æ·
+
+eUI_Quality77Æ·
+
+eUI_Quality88Æ·
+
+eUI_Quality99Æ·
+
+eUI_Quality1010Æ·
+"
+eClient_FunGuildCreate´´½¨¹«»á
+(
+eClient_FunShowGuildListÏÔÊ¾¹«»áÁĞ±í
+/
+eGoldSale_ConSignbuy_FailedÎ¯ÍĞ½ğ±Ò½»Ò×Ê§°Ü
+0
+eGoldSale_ConSignSell_FailedÎ¯ÍĞ½ğ±Ò½»Ò×Ê§°Ü
+
+eClient_help_new
+
+eClient_help_quest
+
+eClient_help_remove
+
+eClient_help_skill
+
+eClient_help_pack
+
+eClient_help_equip
+
+eClient_help_buy
+
+eClient_help_depot
+
+eClient_help_action
+
+eClient_help_team
+
+eClient_help_carry
+
+eClient_help_death
+
+eClient_help_business
+
+eClient_help_title
+
+eClient_help_credit
+
+eClient_help_stall
+
+eClient_help_nineteen
+
+eClient_help_thirty
+
+eClient_help_mystery
+
+eClient_help_sit
+
+eClient_help_pet
+
+eClient_help_anew
+
+eClient_sup_high
+
+eClient_sup_low
+
+eClient_sup_cancelhigh
+
+eClient_sup_cancellow
+
+eSangreaLevelµÈ¼¶
+
+eSangrealExp¾­ÑéÖµ
+
+eSangrealTypeÀàĞÍ
+
+eNormalSangreal
+
+eGoldSangreal
+
+eSangrealAddons»ñµÃ¾­ÑéÔö¼Ó
+
+strSangrealCapÈİÁ¿
+6
+eClient_SafeTimeLast{#ffffde00=°²È«Ê±¼äÊ£Óà#}\n %s
+%
+eClient_SafePwdÇëÊäÈë°²È«±£»¤ÃÜÂë
+3
+eClient_SafeChangePwd_EmptyÊäÈë°²È«ÃÜÂë²»ÄÜÎª¿Õ
+5
+eClient_SafeChangePwd_ErrorÁ½´Î°²È«ÃÜÂëÊäÈë²»Ò»ÖÂ
+.
+eClient_Text_HourMinSec%d Ğ¡Ê± %d ·Ö %d Ãë
+"
+eClient_Text_MinSec%d ·Ö %d Ãë
+
+eClient_Text_Sec%d Ãë
+;
+eExchange_RequestBestartDeal{#fff7dc7f=%s#}ÇëÇóÓëÄú½»Ò×
+-
+eExchange_ACKSTARTDEAL%s ¾Ü¾øÄúµÄ½»Ò×ÇëÇó
+$
+eTask_Cancel_Faild¸ÃÈÎÎñÎŞ·¨·ÅÆú
+.
+eClient_AskRemovePetÊÇ·ñÈ·¶¨·ÅÉú¸ÃÕÙ»½ÊŞ£¿
+1
+eClient_PrivateShop_InputNameÇëÊäÈëÄúµÄÌ¯Î»Ãû
+"
+eClient_getcreÄú»ñµÃ %d ÉùÍûÖµ
+$
+eClient_getgesÄú»ñµÃÒ»¸öĞÂµÄ³ÆºÅ
+7
+eClinet_Guild_Bid_Input_MoneyÇëÊäÈëÄú±¨ÃûËùĞèµÄ½ğ¶î
+L
+eClinet_Chat_Hyber_More_Two-ÄúÒ»´ÎÁÄÌìÕ³ÌùµÄÎïÆ·ÒÑ¾­³¬¹ı2¸ö£¬²»ÄÜÔÙÕ³ÌùÁË
+-
+eClient_UI_AckAgreeReliveÊÇ·ñ½ÓÊÜ¸´»î£¿¡«
+
+eClient_UI_BuyFaild¹ºÂòÊ§°Ü
++
+eClient_UI_ItemNullÎïÆ·²»´æÔÚ£¬²»ÄÜ¹ºÂò
+J
+eClient_UI_ItemNotSell0¸ÃÎïÆ·ÔİÊ±Î´¿ª·Å¹ºÂò£¬¾ßÌå¿ª·ÅÊ±¼äÇë¹Ø×¢¹ÙÍø¹«¸æ
+
+
+eTaskType0Ö÷Ïß
+
+
+eTaskType1»î¶¯
+
+
+eTaskType2Ö§Ïß
+
+
+eTaskType3Éç»á
+
+
+eTaskType4ÓÎÀú
+
+
+eTaskType5ÈË¼Ê
+
+
+eTaskType6Éñ¸ñ
+
+
+eTaskType7Ì½ÏÕ
+
+
+eTaskType8°ïÖú
+
+
+eTaskType9·¨Æ÷
+
+eTaskType10Ã¿ÈÕ
+
+eTaskType11»¤ËÍ
+,
+eTaskUI_List_Complete¡¾%s¡¿Lv.%d %s-Íê³É
+
+eTaskUI_List¡¾%s¡¿Lv.%d %s
+/
+eTaskUI_List_Complete_No_Level¡¾%s¡¿%s-Íê³É
+!
+eTaskUI_List_No_Level¡¾%s¡¿%s
+-
+eClietn_PetClewÕÙ»½ÊŞ³öÕ½ÖĞ²»ÄÜ×öÈÎºÎ²Ù×÷
+
+eClient_DayÌì
+
+eClient_HourĞ¡Ê±
+
+eClient_Minute·Ö
+
+eClient_SecondÃë
+4
+eClient_MailDelete_MakesureÈ·¶¨ÒªÉ¾³ıÕâÒ»·âĞÅ¼ş?
+4
+eClient_MailDelete_Forbid²»ÄÜÉ¾³ı´øÓĞ¸½¼şµÄÓÊ¼ş!
+'
+eClient_MailMoneyShowÓµÓĞ½ğÇ®  %d½ğ
+)
+eClient_MailAddressNullÊÕ¼şÈË²»ÄÜÎª¿Õ
+1
+eClient_MailTitleTooLen·¢ËÍÊ§°Ü£ºĞÅ¼ş±êÌâÌ«³¤
+0
+eClient_MailTextTooLen·¢ËÍÊ§°Ü£ºĞÅ¼şÄÚÈİÌ«³¤
+2
+eClient_MailMoneyError·¢ËÍÊ§°Ü£º½ğÇ®ÌîĞ´²»ÕıÈ·
+5
+eClient_MailEncelopNote·¢ËÍÓÊ¼ş¹¦ÄÜ½«ÔÚ½üÆÚ¿ª·Å¡£
+)
+eClient_MailAddressLongÊÕ¼şÈËÃû×ÖÌ«³¤
+
+eClient_Gold½ğ±Ò
+
+eClient_Money½ğÇ®
+ 
+eTaskUI_ShowTimeÊ£Óà %d ·ÖÖÓ
+&
+eTaskUI_ShowTimeFailedÈÎÎñÊ±¼ä½áÊø
+#
+eTaskUI_ShowTime2  Ê£Óà %d ·ÖÖÓ
+)
+eTaskUI_ShowTimeFailed2  ÈÎÎñÊ±¼ä½áÊø
+
+ePet_SHOWNAME_DropPet¿É²¶×½
+
+eUI_OpenStorage´ò¿ª²Ö¿â
+!
+ePet_SHOWNAME_DropPet2¿É²¶×½2
+!
+eGoldSaleUI_BuyButton¹ºÂò½ğ±Ò
+"
+eGoldSaleUI_SellButton³öÊÛ½ğ±Ò
+%
+TaskAcceptResult0½ÓÊÜÈÎÎñ[%s]³É¹¦
+7
+TaskAcceptResult1"ÈÎÎñÊıÁ¿ÒÑ´ïÉÏÏŞ£¬ÎŞ·¨ÔÙ½ÓÈÎÎñ[%s]
+%
+TaskAcceptResult2½ÓÈ¡ÈÎÎñ[%s]Ê§°Ü
+/
+TaskAcceptResult3ĞèÒªÍê³ÉÇ°ÌáÈÎÎñ²Å¿É½Ó[%s]
+3
+TaskAcceptResult4²»ÔÚÈÎÎñÊ±¼ä¶ÎÄÚ£¬ÎŞ·¨½ÓÈ¡[%s]
+5
+TaskAcceptResult5 ²»Âú×ãÈÎÎñµÈ¼¶ÒªÇó£¬ÎŞ·¨½ÓÈ¡[%s]
+3
+TaskAcceptResult6È±ÉÙÈÎÎñÎïÆ·£¬ÎŞ·¨½ÓÈ¡ÈÎÎñ[%s]
+/
+TaskAcceptResult7È±ÉÙ½ğÇ®£¬ÎŞ·¨½ÓÈ¡ÈÎÎñ[%s]
+-
+TaskAcceptResult8ÉùÍûÖµ²»Âú×ã[%s]ÈÎÎñÒªÇó
++
+TaskAcceptResult9PKÖµ²»Âú×ã[%s]ÈÎÎñÒªÇó
+.
+TaskAcceptResult10·Ç×å³¤£¬ÎŞ·¨½ÓÊÜÈÎÎñ[%s]
+.
+TaskAcceptResult11·Ç×å³¤£¬ÎŞ·¨½ÓÊÜÈÎÎñ[%s]
+:
+TaskAcceptResult12$¶ÓÎéÈËÊı²»Âú×ãÒªÇó£¬ÎŞ·¨½ÓÈ¡ÈÎÎñ[%s]
+:
+TaskAcceptResult13$¹«»áµÈ¼¶²»Âú×ãÒªÇó£¬ÎŞ·¨½ÓÈ¡ÈÎÎñ[%s]
+6
+TaskAcceptResult14 ¹«»á¹±Ï×¶È²»×ã£¬ÎŞ·¨½ÓÈ¡ÈÎÎñ[%s]
+.
+TaskAcceptResult15¼¼ÄÜ²»Âú×ãÈÎÎñ[%s]µÄÒªÇó
+.
+TaskAcceptResult16Ö°Òµ²»Âú×ãÈÎÎñ[%s]µÄÒªÇó
+2
+TaskAcceptResult17·Ç·òÆŞ¹ØÏµ£¬ÎŞ·¨½ÓÊÜÈÎÎñ[%s]
+2
+TaskAcceptResult18·Ç½á°İ¹ØÏµ£¬ÎŞ·¨½ÓÊÜÈÎÎñ[%s]
+2
+TaskAcceptResult19·ÇÊ¦Í½¹ØÏµ£¬ÎŞ·¨½ÓÊÜÈÎÎñ[%s]
+0
+TaskAcceptResult20²»ÊÇ¶Ó³¤£¬ÎŞ·¨½ÓÊÜÈÎÎñ[%s]
+0
+TaskAcceptResult21ĞÔ±ğ²»·û£¬ÎŞ·¨½ÓÊÜÈÎÎñ[%s]
+0
+TaskAcceptResult22±³°üÒÑÂú£¬ÎŞ·¨½ÓÊÜÈÎÎñ[%s]
+$
+TaskAcceptResult27ÓëÒÑ½ÓÈÎÎñ»¥³â
+4
+eUI_CollectionSkillNeedLvl¼¼ÄÜµÈ¼¶²»×ã£¬²»ÄÜ²É¼¯
+4
+eUI_BulletSkillNeedLvl¼¼ÄÜµÈ¼¶²»×ã£¬²»ÄÜÓ°Ïì×Óµ¯
+
+eClient_CrystalË®¾§
+
+eClient_GemÏâÇ¶±¦Ê¯
+
+eClient_Stone·ûÊ¯
+
+eClient_ReelItem¾íÖá
+
+eClient_OtherItemÆäËûÎïÆ·
+!
+eUI_PrestigeÄú»ñµÃ %s ÉùÍû %d
+
+eUI_TeacherÄú»ñµÃÊ¦µÂÖµ %d
+
+	eUI_HonorÄú»ñµÃÈÙÓşµã %d
+
+eUI_KillÄúµÄÉ±Â¾ÖµÔö¼Ó %d
+"
+eClient_MergePet¿ªÊ¼ÈÚºÏÕÙ»½ÊŞ
+
+eClient_Pool
+Ê£ÓàÈİÁ¿£º
+
+eUI_npc_Lv1ÆÀ¼Û£º¡ï
+
+eUI_npc_Lv2
+ÆÀ¼Û£º¡ï¡ï
+
+eUI_npc_Lv3ÆÀ¼Û£º¡ï¡ï¡ï
+
+eUI_npc_Lv4ÆÀ¼Û£º¡ï¡ï¡ï¡ï
+
+eUI_npc_Lv5ÆÀ¼Û£º¡ï¡ï¡ï¡ï¡ï
+
+eUI_area_Lv1ÊìÊÓÎŞ¶Ã
+
+eUI_area_Lv2²»ÎÂ²»»ğ
+
+eUI_area_Lv3Ğ¦ÑÕ¿î´ı
+
+eUI_area_Lv4ËàÈ»Æğ¾´
+
+eUI_area_Lv5¾´ÈôÌìÉñ
+T
+tip_pet_levelCÏÔÊ¾ÕÙ»½ÊŞµ±Ç°µÈ¼¶\n<#ffd1c39d=µ±ÕÙ»½ÊŞ³¬¹ıÈËÎï10¼¶Ê±½«ÎŞ·¨»ñµÃ¾­Ñé
+\
+tip_pet_growth_rateEÏÔÊ¾ÕÙ»½ÊŞ³É³¤ÂÊ\n<#ffd1c39d=³É³¤ÂÊÔ½¸ß£¬ÊôĞÔµãÓ°ÏìµÄ\nÕÙ»½ÊŞÄÜÁ¦Ô½´ó
+
+tip_pet_amount
+ÕÙ»½ÊıÊıÁ¿
+
+tip_pet_born_num
+ÕÙ»½ÊŞ´úÊı
+/
+tip_pet_nameÕÙ»½ÊŞÃû³Æ\n<#ffd1c39d=¿ÉÒÔ¸ÄÃû
+
+tip_pet_phyle
+ÕÙ»½ÊŞÖÖ×å
+H
+tip_pet_mettle6ÏÔÊ¾ÕÙ»½ÊŞĞÔ¸ñ\nÄ³Ğ©ĞÔ¸ñÊ©·ÅÏàÓ¦µÄÕÙ»½ÊŞ¼¼ÄÜµÄ»úÂÊ¸ü´ó
+#
+tip_pet_exp_totalµ±Ç°ÕÙ»½ÊŞ¾­Ñé
+,
+tip_pet_exp_nextÏÂÒ»¼¶ÕÙ»½ÊŞÉı¼¶ËùĞè¾­Ñé
+}
+tip_pet_summon_fidelitybÏÔÊ¾ÕÙ»½ÊŞÖÒ³Ï¶È\nÕÙ»½ÊŞËÀÍöºóÖÒ³Ï¶È»áÏÂ½µ\nµ±ÖÒ³Ï¶ÈµÍÓÚ60Ê±½«ÎŞ·¨ÕÙ»½\nÖ»ÓĞÊ¹ÓÃÏàÓ¦µÀ¾ß²Å¿ÉÒÔ»Ö¸´
+E
+tip_pet_summon_lv0ÈËÎïµÈ¼¶±ØĞë´óÓÚ\n¿ÉÕÙ»½µÈ¼¶£¬ÕÙ»½ÊŞ²ÅÄÜ±»\nÕÙ»½
+:
+tip_pet_constitution"ÏÔÊ¾ÕÙ»½ÊŞÌåÖÊ\nÌåÖÊÓ°ÏìÕÙ»½ÊŞµÄHP
+4
+tip_pet_spirit"ÏÔÊ¾ÕÙ»½ÊŞ¾«Éñ\n¾«ÉñÓ°ÏìÕÙ»½ÊŞµÄMP
+8
+tip_pet_strength$ÏÔÊ¾ÕÙ»½ÊŞÁ¦Á¿\nÁ¦Á¿Ó°ÏìÕÙ»½ÊŞµÄÎï¹¥
+=
+tip_pet_intelligencep$ÏÔÊ¾ÕÙ»½ÊŞÖÇÁ¦\nÖÇÁ¦Ó°ÏìÕÙ»½ÊŞµÄÄ§¹¥
+E
+tip_pet_agility2ÏÔÊ¾ÕÙ»½ÊŞÃô½İ\nÃô½İÓ°ÏìÕÙ»½ÊŞµÄÃüÖĞ£¬»Ø±ÜÓë±©»÷ÂÊ
+n
+tip_pet_free_base_attr_pointNÕÙ»½ÊŞÉı¼¶ºó»ñµÃµÄµãÊı\n¿ÉÒÔ×ÔÓÉ·ÖÅäµ½ÌåÖÊ¡¢¾«Éñ¡¢\nÁ¦Á¿¡¢ÖÇÁ¦¡¢Ãô½İÎåÏîÊôĞÔÉÏ
+1
+
+tip_pet_hp#ÏÔÊ¾ÕÙ»½ÊŞHP\nHPÎª0Ê±£¬ÕÙ»½ÊŞ½«ËÀÍö
+:
+
+tip_pet_mp,ÏÔÊ¾ÕÙ»½ÊŞMP\nÕÙ»½ÊŞÊ©·Å¼¼ÄÜÊ±¿ÉÄÜĞèÒªÏûºÄMP
+
+tip_pet_strÏÔÊ¾ÕÙ»½ÊŞÎï¹¥
+ 
+tip_pet_mp_atkÏÔÊ¾ÕÙ»½ÊŞÄ§¹¥
+
+tip_pet_hitÏÔÊ¾ÕÙ»½ÊŞÃüÖĞ
+
+tip_pet_dodgeÏÔÊ¾ÕÙ»½ÊŞ»Ø±Ü
+&
+tip_pet_double_attÏÔÊ¾ÕÙ»½ÊŞ±©»÷ÂÊ
+
+tip_pet_sex
+ÕÙ»½ÊŞĞÔ±ğ
+s
+tip_pet_quality`ÏÔÊ¾ÕÙ»½ÊŞÆ·ÖÊ\n´ÓµÍµ½¸ß·Ö±ğÎªÆÕÍ¨¡¢Á¼ºÃ¡¢ÓÅĞã¡¢½Ü³ö¡¢¼«Æ·\nÆ·ÖÊÔ½¸ß£¬Éı¼¶×Ô¶¯·ÖÅäµÄ\nÊôĞÔµãÔ½¶à
+R
+tip_pet_double_title:ÏÔÊ¾ÕÙ»½ÊŞ³ÆºÅ\nÕÙ»½ÊŞ³ÆºÅÓÉÕÙ»½ÊŞÆ·ÖÊÓëÕÙ»½ÊŞÇ¿»¯µÈ¼¶¾ö¶¨
+
+eClient_NoGemÎ´ÏâÇ¶
+$
+eTeam_Target_No_TeamÄ¿±êÃ»ÓĞ×é¶Ó
+
+eUI_Produce_FailedºÏ³ÉÊ§°Ü
+)
+eUI_Produce_AmountCntErrÉú²úÊı²»ÄÜÎª0
+1
+eUI_Relive_ReturnTime×Ô¶¯Ç°ÍùÄ¹µØ£¬Ê£Óà %d Ãë
+ 
+eTaskDoneResult0Íê³ÉÈÎÎñ[%s]
+.
+eTaskDoneResult1ÄúµÄ±³°üÒÑÂú£¬ÎŞ·¨Íê³É[%s]
+"
+eTaskDoneResult2²»ÄÜ·ÉµØÍ¼[%s]
+$
+eTaskDoneResult3ÈÎÎñ[%s]ÎŞ·¨Íê³É
+ 
+eTaskDoneResult4ÈÎÎñ[%s]Ê§°Ü
+&
+eGuild_RankChange_FailÖ°Îñ¸Ä±äÊ§°Ü
+(
+eGuild_Select_NULLÇëÊ×ÏÈÑ¡ÖĞÒ»Ãû»áÔ±
+
+eGuild_DoNotÄú²»ÄÜÕâÑù²Ù×÷
+&
+eNpcDlgUI_AcceptTask½ÓÊÕµ½ %s ÈÎÎñ
+"
+eNpcDlgUI_DoneTaskÍê³É %s ÈÎÎñ
+
+eEr_Skill_0
+
+eEr_Skill_1´ò¶Ï
+
+eEr_Skill_2
+!
+eEr_Skill_3²É¼¯Ê§°Ü£¬±³°üÒÑÂú
+
+eEr_Skill_4Ã»ÓĞ²É¼¯¹¤¾ß
+!
+eEr_Skill_5²É¼¯¹¤¾ßÄÍ¾Ã¶È²»×ã
+
+eEr_Skill_6Ä¿±êÒÑ¾­²»´æÔÚ
+
+eEr_Skill_7
+
+eEr_Skill_8²É¼¯¼¼ÄÜµÈ¼¶²»×ã
+
+eEr_Skill_9
+¼¼ÄÜ²»´æÔÚ
+ 
+eEr_Skill_10¸ÃµØÍ¼²»ÔÊĞíÆï³Ë
+#
+eEr_Skill_100MPÖµ²»×ã£¬²»ÄÜÊÍ·Å
+
+eEr_Skill_101HPÂú
+
+eEr_Skill_102
+¹«¹²ÀäÈ´ÖĞ
+
+eEr_Skill_103ÀäÈ´ÖĞ
+!
+eEr_Skill_104³ÁÄ¬²»ÄÜÊÍ·Å¼¼ÄÜ
+'
+eEr_Skill_105µ¥ÊÖ½£×´Ì¬²»ÄÜÊÍ·Å¼¼ÄÜ
+'
+eEr_Skill_106Ë«ÊÖ½£×´Ì¬²»ÄÜÊÍ·Å¼¼ÄÜ
+
+eEr_Skill_107¶Ü²»ÄÜÊÍ·Å¼¼ÄÜ
+#
+eEr_Skill_108µ¥ÊÖÕÈ²»ÄÜÊÍ·Å¼¼ÄÜ
+#
+eEr_Skill_109Ë«ÊÖÕÈ²»ÄÜÊÍ·Å¼¼ÄÜ
+%
+eEr_Skill_110Æï³Ë×´Ì¬²»ÄÜÊÍ·Å¼¼ÄÜ
+%
+eEr_Skill_111±äÉí×´Ì¬²»ÄÜÊÍ·Å¼¼ÄÜ
+%
+eEr_Skill_112ÔÎÑ£×´Ì¬²»ÄÜÊÍ·Å¼¼ÄÜ
+%
+eEr_Skill_113ÎŞµĞ×´Ì¬²»ÄÜÊÍ·Å¼¼ÄÜ
+%
+eEr_Skill_114°ÚÌ¯×´Ì¬²»ÄÜÊÍ·Å¼¼ÄÜ
+
+eEr_Skill_115Ã»ÓĞ²É¼¯µÀ¾ß
++
+eEr_Skill_116ÄúµÄ±³°üÒÑÂú£¬Çë¼ì²é±³°ü£¡
+%
+eEr_Skill_117¸Ã¼¼ÄÜĞèÒª×°±¸Ë«ÊÖÈĞ
+%
+eEr_Skill_118¸Ã¼¼ÄÜĞèÒª×°±¸µ¥ÊÖ½£
+)
+eEr_Skill_119¸Ã¼¼ÄÜĞèÒªÔÚ¾º¼¼³¡ÖĞÊ¹ÓÃ
+)
+eEr_Skill_120¸Ã¼¼ÄÜÎŞ·¨ÔÚ¾º¼¼³¡ÖĞÊ¹ÓÃ
+
+eEr_Skill_200
+Ä¿±êÊÇ×Ô¼º
+
+eEr_Skill_201Ä¿±ê³¬³ö¾àÀë
+
+eEr_Skill_202½Ç¶È
+!
+eEr_Skill_203ÕıÃæÏà¶Ô²»ÄÜÊÍ·Å
+%
+eEr_Skill_204ÎŞ·¨¹¥»÷×Ô¼ºµÄÕÙ»½ÊŞ
+
+eEr_Skill_205¶ÔÏóÎŞ·¨¹¥»÷
+
+eEr_Skill_206¶ÔÏóÊÇ¹«»á³ÉÔ±
+%
+eEr_Skill_207¶ÔÏóºÍ×Ô¼ºÍ¬Ò»¸ö¼Ò×å
+!
+eEr_Skill_208¶ÔÏóÊÇ×Ô¼ºµÄ°®ÈË
+
+eEr_Skill_209
+¶ÔÏóÊÇĞÖµÜ
+
+eEr_Skill_210¶ÔÏóÒÑ¾­ËÀÍö
+
+eEr_Skill_211¶ÔÏóÊÇ¸öÍæ¼Ò
+
+eEr_Skill_212	¶ÔÏóÊÇNPC
+
+eEr_Skill_213¶ÔÏóÊÇ²É¼¯×ÊÔ´
+
+eEr_Skill_214
+¶ÔÏóÊÇ²İÒ©
+
+eEr_Skill_215
+¶ÔÏóÊÇÄ¾²Ä
+
+eEr_Skill_216
+¶ÔÏóÊÇÅ©Ìï
+
+eEr_Skill_217¶ÔÏóÊÇÎÒµÄÖ÷ÈË
+%
+eEr_Skill_218¸Ã¼¼ÄÜ²»ÄÜ¶Ô¹ÖÎïÊÍ·Å
+%
+eEr_Skill_219²»ÄÜ¶ÔµĞÈËÊÍ·Å´Ë¼¼ÄÜ
+
+eEr_Skill_220¶ÔÏóÊÇÎŞµĞ×´Ì¬
+
+eEr_Skill_221²»ÄÜ¶Ô½¨ÖşÊ¹ÓÃ
+
+eEr_Skill_222ÄÜÁ¿²»×ã
+
+eEr_Skill_223Å­Æø²»×ã
+
+eEr_Skill_255Ã»ÓĞÄ¿±ê
+(
+eEr_Skill_Error_NotifyÎŞ·¨ÊÍ·Å¼¼ÄÜ£º
+6
+eEr_Skill_NoTarget Äú±ØĞëÑ¡ÔñÒ»¸öÄ¿±ê²ÅÄÜÊÍ·Å¼¼ÄÜ£¡
+/
+eClient_Following_NotMove¸úËæÄ£Ê½ÏÂ²»ÄÜÒÆ¶¯
+.
+eClient_Following_NotHit¸úËæÄ£Ê½ÏÂ²»ÄÜ¹¥»÷
+ 
+eSelect_NoCreateË«»÷´´½¨ÈËÎï
+"
+eClient_FriendUI_Teacher[Ê¦¸¸]
+#
+eClient_FriendUI_prentice[Í½µÜ]
+$
+eExchangeUI_InputMoney
+ÇëÊäÈë½ğÇ®
+/
+eMapSystem_NotPrivateShopÖ»ÄÜÔÚ¹ã³¡½øĞĞ°ÚÌ¯
+$
+eGuild_Self_Not_Leader
+Äú²»ÊÇ»á³¤
+1
+eBlacklist_Add_MakeSureÈ·¶¨Òª½«Æä¼ÓÈëºÚÃûµ¥£¿
++
+eClient_CopyName_OKÃû×ÖÒÑ¾­¸´ÖÆµ½Õ³Ìù°å
+)
+eGuild_Member_Add¡¾%s¡¿³ÉÎª¹«»áĞÂ³ÉÔ±
+P
+eError_Chat_Private_InpurtError-Ë½ÁÄÊäÈë²»ÕıÈ·£»ÕıÈ·¸ñÊ½ /p Íæ¼ÒÃû×Ö Ëµ»°ÄÚÈİ
+N
+#eError_Chat_Lobby_SummonerLevelNeed'ÔÚ´óÌüÆµµÀ·¢ÑÔĞèÒªÕÙ»½Ê¦µÈ¼¶´óÓÚµÈÓÚ5¼¶
+N
+#eError_Chat_Shout_SummonerLevelNeed'Ê¹ÓÃÊ¥ºÅ½Ç·¢ÑÔĞèÒªÕÙ»½Ê¦µÈ¼¶´óÓÚµÈÓÚ3¼¶
+;
+eError_Expect_IsNotTeacherÄúÄ¿Ç°»¹Ã»ÓĞÍ½µÜ ²»ÄÜ¿ª³ıÍ½µÜ
+F
+LevelNotEnoughChangePKMode(ÄúµÄµÈ¼¶»¹²»¹»11¼¶£¬ÎŞ·¨´ò¿ª¹¥»÷È«ÌåÄ£Ê½
+,
+eText_YouGetItem_CollectionÄú²Éµ½ÁË%d %s
+)
+eClient_FlyFlagPos×ø±êX£º%d ×ø±êY£º%d
+&
+eClinet_FlyFlagCountÊ£ÓàÊ¹ÓÃ´ÎÊı£º
+
+eClientNoGemÎ´ÏâÇ¶
+
+eClientGemFlare£¨·¢¹â£©
+E
+eUI_BagUI_ExpBag1Éı¼¶±³°üĞèÒªÏûºÄ {#ffffde00=%d#} ½ğ±Ò\nÊÇ·ñ¼ÌĞø£¿
+-
+eGuild_Me_ExpelÄú±»¹«»á¿ª³ıÁË£¬ÏÖÔÚÃ»¹«»á
+&
+eGuild_Other_Expel¡¾%s¡¿±»¹«»á¿ª³ı
+1
+eExchangeSystem_BindItemError°ó¶¨ÎïÆ·²»ÄÜ½»Ò×
+
+[level]¼¶
+
+eGuild_Tasker_Mask%s¡¾ÈÎ¡¿
+
+NotHaveLoudspeakerItem
+
+eNpcFunGuildDisband½âÉ¢¹«»á
+
+eUI_Hurt_MagicDef·¨Êõ¿¹ĞÔ
+
+eComposeFoundry0È«²¿
+
+eComposeFoundry1ÎäÆ÷
+
+eComposeFoundry2¶Ü
+
+eComposeFoundry3¼çëÎ
+
+eComposeFoundry4Í·¿ø
+
+eComposeFoundry5½äÖ¸
+
+eComposeFoundry6ÆäËû
+
+eComposeCloth0È«²¿
+
+eComposeCloth1ÒÂ·ş
+
+eComposeCloth2¿ã×Ó
+
+eComposeCloth3ÊÖÌ×
+
+eComposeCloth4Ğ¬×Ó
+
+eComposeCloth5Ñü´ø
+
+eComposeCloth6±³²¿
+
+eComposeCloth7ÆäËû
+
+eComposeTechnical0È«²¿
+
+eComposeTechnical1Ö¸»·
+
+eComposeTechnical2ÏîÁ´
+
+eComposeTechnical3»¤·û
+
+eComposeTechnical4Ñü´ø
+
+eComposeTechnical5ÆäËû
+
+eComposeAlchemy0È«²¿
+
+eComposeAlchemy1
+»Ø¸´ÀàÒ©Æ·
+
+eComposeAlchemy2
+¸¨ÖúÀàÒ©Æ·
+
+eComposeAlchemy3ÆäËû
+
+eComposeProficiency0È«²¿
+
+eComposeProficiency1±¦Ê¯
+
+eComposeProficiency2²ÄÁÏ
+
+eComposeProficiency3ÆäËû
+
+	[perfect]¼«Æ·µÄ
++
+eDoubleTime_OpenSuccessË«±¶Ê±¼ä¿ªÆô³É¹¦
+,
+eDoubleTime_CloseSuccessË«±¶Ê±¼ä¹Ø±Õ³É¹¦
+@
+eDoubleTime_NoAddonTime%{#ffff1f0e=Ä¿Ç°ÄúÃ»ÓĞ¿ÉÓÃµÄË«±¶Ê±¼ä#}
+/
+eDoubleTime_TimeOutË«±¶Ê±¼ä½áÊø\n×´Ì¬ÒÑ¹Ø±Õ
+8
+eDoubleTime_InCD$Ë«±¶Ê±¼ä¶³½áÖĞ\n%d·ÖÖÓºó²ÅÄÜÔÙ´Î²Ù×÷
+T
+eDoubleTime_OnRun?{#ff45fe32=Ë«±¶Ê±¼äÆôÓÃÖĞ\nÄ¬ÈÏ½«ÓÅÏÈÏûºÄ\nÏµÍ³ÔùËÍµÄË«±¶Ê±¼ä#}
+J
+eDoubleTime_OnClose3{#fff0dea0=Ë«±¶×´Ì¬Î´¼¤»î\nÇëµã»÷¡°¼¤»îË«±¶¡±°´Å¥#}
+"
+eClient_CantDrag²»ÄÜÍÏ×§µ½ÕâÀï
+
+eCommon_Time_Minute·ÖÖÓ
+;
+eGuild_Notice_Forbid_ChangeÄú²»ÊÇ»á³¤£¬ÎŞ·¨½øĞĞ´Ë²Ù×÷£¡
+[
+eGuild_CanNot_OpenEÄú»¹Ã»ÓĞ¼Ò×å£¬¿ÉÒÔÉêÇë¼ÓÈëÆäËü¼Ò×å£¬»òÕßµÈ¼¶³¬¹ı30¼¶Ê±´´½¨×Ô¼ºµÄ¼Ò×å!
+'
+eClient_FunShowDisbandGuild½âÉ¢¹«»á
+,
+eClient_Delete_RiderÊÇ·ñÈ·ÈÏ·ÅÉú¸Ã×øÆï£¿
+Y
+ID_TEXT_Skill_Requirement<¿Æ¼¼µã£º%s  ÈËÎïµÈ¼¶£º%s\n½ğÇ®£º%s{#FFA6A600=½ğ#}   ºÄÊ±£º%s
+P
+eMsgBox_RepairSingleItem4ÄúĞèÏûºÄ{#FFFFD940=%d #}¸ö×°±¸ĞŞÀí´¸\nÊÇ·ñĞèÒªĞŞÀí£¿
++
+eUI_Produce_LackMoney½ğÇ®²»×ã£¬²»ÄÜºÏ³É
+,
+eUI_Produce_LackVigour¾«Á¦²»×ã£¬²»ÄÜºÏ³É
+
+eUI_MoneyInput_FetchÈ¡Ç®
+
+eUI_MoneyInput_Store´æÇ®
+A
+learn_skill_level_need_0%{#FF008000=ĞèÇóµÈ¼¶  %d¼¶----¿ÉÉı¼¶#}
+C
+learn_skill_level_need_1'{#FFFF0000=ĞèÇóµÈ¼¶  %d¼¶----²»ÄÜÉı¼¶#}
+.
+eClient_CantSaySelfßÀ...ÄúÏëºÍ×Ô¼ºÁÄÌìÂğ£¿
+;
+eClient_CantAddFriendSelfÒ²ĞíÄú¸ÃÊÔÊÔ¼ÓĞ©³ıÄúÖ®ÍâµÄºÃÓÑ
+;
+eClinet_Team_Change_TeamName{#ffa7b59e=ÇëÊäÈë¶ÓÎéÃû³Æ#}
+G
+eClientTeamHeader_AddTeam*{#fff7dc7f=%s#} ÑûÇëÄú¼ÓÈë¶ÓÎé£¬ÊÇ·ñÍ¬Òâ£¿
+%
+eClient_Show_TeamName¶ÓÎéÃû³Æ£º%s
+/
+eUIExam_EncouragementTimeleft½±ÀøÊ±¼äÊ£Óà£º
+X
+eUIExam_Answeroutofftime<¹§Ï²ÄúÄúÒÑ¾­»Ø´ğÍêÁËËùÓĞµÄÊÔÌâ£¬ÏÂ´ÎÄú²»ÏëÌôÕ½ÏÂ½±ÀøÊ±¼äÂğ£¿
+\
+eUIExam_AnswerintimeD¹§Ï²ÄúÄúÔÚ½±ÀøÊ±¼äÄÚ»Ø´ğÍêÁËËùÓĞµÄÊÔÌâ£¬Äú½«»ñµÃÏµÍ³¸øÄúµÄ¶îÍâ½±Àø¡£
+%
+eUIExam_EncouragementTime½±ÀøÊ±¼ä
+&
+eUIExam_AnswerAccomplishedÍê³É´ğÌâ
+:
+eUIExam_Giveup(´Ë²Ù×÷½«ÊÓÎª·ÅÆú´Ë´Î´ğÌâ»ú»á£¬ÊÇ·ñ¼ÌĞø£¿
+1
+eUIExam_RightGivePoints»Ø´ğÕıÈ·£¬Äú»ñµÃÎÄ²ÉÖµ
+
+eUIExam_Wrong»Ø´ğ´íÎó
+,
+eUIExam_QuestionIndexµ±Ç°µÚ%uÌâ Ê£Óà%uÌâ
+.
+eUIExam_WrongLimitÔÊĞí´íÎó´ÎÊı%u´Î´ğ´í%u´Î
+
+eUIExam_LeftNumÊ£Óà´ÎÊı£º%u
+,
+eUIMagicWeapon_UpgradeTimeLeft
+Á¶»¯µ¹¼ÆÊ±
+
+eUIMagicWeapon_Equip×°±¸
+
+eUIMagicWeapon_UnloadĞ¶ÔØ
+'
+eUIMagicWeapon_StartUpgrade¿ªÊ¼Á¶»¯
+&
+eUIMagicWeapon_StopUpgradeÍ£Ö¹Á¶»¯
+7
+!eUIMagicWeapon_YouhaveNoUpgradeMWÄúÃ»ÓĞÁ¶»¯ÖĞµÄ·¨Æ÷
+3
+eUIMagicWeapon_CurLevelµ±Ç°µÈ¼¶ %u\n×î´óµÈ¼¶ %u
+,
+eUIRanklist_NoRankÄúµ±Ç°ÅÅÃû£ºÎ´½øÈëÅÅÃû
+D
+eUIStorage_ExpandNeedGold'Ôö¼Ó²Ö¿âÉÏÏŞĞèÒªÏûºÄ %d ½ğ±Ò,ÊÇ·ñ¼ÌĞø£¿
+
+eClient_Warnning¾¯¸æ
+7
+eUIStorage_ExpandError_NoGold½ğ±Ò²»×ã£¬ÎŞ·¨À©Õ¹²Ö¿â
+)
+eUIStorage_MaxNum²Ö¿âÒÑ¾­´ïµ½×î´óÊıÁ¿
+
+eClient_Error´íÎó
+<
+ eUIStorage_NotEnoughMoneyToFetchÃ»ÓĞ×ã¹»µÄ½ğÇ®¿ÉÒÔ´æÈë£¡
+<
+ eUIStorage_NotEnoughMoneyToStoreÃ»ÓĞ×ã¹»µÄ½ğÇ®¿ÉÒÔ´æÈë£¡
+4
+eClientTeamFollow_Cannel¾àÀëÄ¿±êÌ«Ô¶£¬¸úËæÊ§°Ü£¡
+ 
+eTaskUI_MonsterNeed	 %s %d/%d
+$
+eClient_GrowthType_PrecocityÔçÊì
+"
+eClient_GrowthType_Balance¾ùºâ
+%
+eClient_GrowthType_LateMatureÍíÊì
+7
+eClientMessage_1v1_Chat{#fff7dc7f=%s ¶ÔÄúËµ£º#}\n%s
+M
+eClientMessage_TeamRequest/ÄúÊÕµ½×é¶ÓÑûÇë\n{#fff7dc7f=Çëµã»÷×é¶Ó°´Å¥²é¿´#}
+&
+eGuild_Change_Rank%s Ö°Îñ¸ü¸ÄÎª %s
+)
+eGuild_Change_Tasker%s ¸ÄÎªÈÎÎñ·¢²¼ÈË
+"
+noSocket¸Ã×°±¸Ã»ÓĞ¿ÕÓàµÄÏâÇ¶¿×
+#
+canNotInlay¸Ã×°±¸²»ÄÜÏâÇ¶´Ë±¦Ê¯
+U
+eAskIsDisbandMaster>ÅÑÀëÊ¦ÃÅĞèÒªÄú{#ffffe400=»¨·Ñ½ğÇ®15000#}\nÄúÊÇ·ñÈ·¶¨ÅÑÀëÊ¦ÃÅ£¿
+^
+eClient_ExpelStudentNeedMoney=¿ª³ıÍ½µÜĞèÒªÄú{#ffffe400=»¨·Ñ½ğÇ®5000#}\nÄúÊÇ·ñÈ·¶¨¿ª³ıÍ½µÜ£¿
+4
+eWorldChatNeedSomethingÊÀ½çÆµµÀ·¢ÑÔĞèÒªÏûºÄ1½ğ±Ò
+6
+eNationChatNeedSomething¹ú¼ÒÆµµÀ·¢ÑÔĞèÒªÏûºÄ1%µÄMP
+(
+eMsgTaskAckNpc_TypeTask_List%sLv.%d 
++
+%eMsgTaskAckNpc_TypeTask_List_No_Level%s
+3
+eTask_UpdateState_TaskCanDoneÈÎÎñ %s ÄÜ¹»Íê³ÉÁË
+
+eTask_NeedTragetËùĞèÄ¿±ê
+"
+eTask_CurrentGroupµ±Ç°»·Êı£º%d
+:
+eGuild_ChangeMaster_MakeSureÈ·¶¨Òª×ªÈÃ»á³¤¸ø¡¾%s¡¿Âğ£¿
+"
+eGuild_DisableChat[%s]±»½ûÑÔ£¡
+A
+eGuild_DisableChat_Self&Äú±»½ûÑÔ£¬½â½ûÖ®Ç°²»ÄÜÔÚ¹«»áÆµµÀ·¢ÑÔ£¡
+(
+eClient_ComboBonusÁ¬Õ¶½±Àø %d%% ¾­Ñé
+"
+eGuild_Apply¡¾%s¡¿ÉêÇë¼ÓÈë¹«»á
+7
+eFormat_Guild_MemberList%-18s%-12s%-6d%-8s%-12s%-6d
+$
+eFormat_Guild_GuildList	%-22s%-4d
+,
+eFormat_Guild_GuildList_Detail
+%-10s%-18s
+E
+eGuild_DisableChat_Open*¹«»á½ûÑÔ½â³ı£¬ÄúÏÖÔÚ¿ÉÒÔÔÚ¹«»áÁÄÌìÆµµÀ·¢ÑÔ
+(
+eClient_GetPetÄúÓµÓĞÁËÒ»Ö»ĞÂµÄÕÙ»½ÊŞ
+(
+eClient_GetRiderÄú»ñµÃÁËÒ»Ö»ĞÂµÄ×øÆï
+2
+eBargainLevelNotAllowÄúµÄµÈ¼¶²»×ã6¼¶£¬²»ÄÜ°ÚÌ¯
+
+eBargainFailed²Ù×÷Ê§°Ü
+"
+eBargainItemNotExist
+µÀ¾ß²»´æÔÚ
+
+eBargainLackMoney½ğÇ®²»×ã
+)
+eBargainMapNotAllowµ±Ç°³¡¾°²»ÔÊĞí°ÚÌ¯
+A
+eGoldSaleData_ExamineString"%10s %8s %8d %8d½ğ/100½ğ±Ò %6dĞ¡Ê±
+,
+eGoldSale_ConSignSell_Sucess³öÊÛ½ğ±Ò³É¹¦
+ 
+eGoldConsignLackGold½ğ±Ò²»×ã
+!
+eGoldConsignLackMoney½ğÇ®²»×ã
+"
+eGoldConsignFailed½ğ±ÒÎ¯ÍĞÊ§°Ü
+#
+eGoldConsignSucceed½ğ±Ò½»Ò×³É¹¦
+(
+eGoldConsignSystem½ğ±Ò½»Ò×£¬ÏµÍ³Ô­Òò
+8
+"eUIMagicWeapon_YouhaveNoEquippedMWÄúÃ»ÓĞ×°±¸ÖĞµÄ·¨Æ÷
+
+eClient_BeEquip
+µ±Ç°ÒÑ×°±¸
+.
+eClient_LearnSkillÒÑÑ§»á %s µÄµÚ %d ¼¶¼¼ÄÜ
+>
+ Error_DeviationTeacher_NoTeacherÄú»¹Ã»ÓĞÊ¦¸¸£¬²»ÄÜÅÑÀëÊ¦ÃÅ
+$
+eClient_EnchaseStateµ±Ç°ÏâÇ¶×´Ì¬
+)
+eClient_PerfectEnchase£¨¼«Æ·ÏâÇ¶+%d£©
+B
+eClient_AutoTurnOn_NotEnergy"ÄúÃ»ÓĞ×ã¹»µÄ¾«Á¦Öµ£¬²»ÄÜÔÙ×Ô¶¯¹Ò»ú
+$
+eNpcShopCanNotSell´ËÎïÆ·²»ÄÜ³öÊÛ
+F
+$eError_DeviationTeacher_IsNotTeacherÄúÄ¿Ç°»¹Ã»ÓĞÊ¦¸¸£¬ÎŞ·¨ÅÑÀëÊ¦ÃÅ
+)
+eErrorUserSkillTargetIsMark
+Ä¿±êÓĞ×èµ²
+N
+eClient_Safe_Bag:±³°ü±£»¤¹¦ÄÜÒÑ½â¿ª£¬±¾´ÎµÇÈë²»±ØÔÙ´ÎÊäÈë±³°ü±£»¤µÄ°²È«ÃÜÂë
+R
+eClient_Safe_Storage:²Ö¿â±£»¤¹¦ÄÜÒÑ½â¿ª£¬±¾´ÎµÇÈë²»±ØÔÙ´ÎÊäÈë²Ö¿â±£»¤µÄ°²È«ÃÜÂë
+S
+eClient_Safe_Shop>ÉÌ³ÇÏû·Ñ¹¦ÄÜÒÑ½â¿ª£¬±¾´ÎµÇÈë²»±ØÔÙ´ÎÊäÈëÉÌ³ÇÏû·Ñ±£»¤µÄ°²È«ÃÜÂë
+W
+eClient_Safe_MailBÓÊ¼ş±£»¤ÓÊ¼ş±£»¤¹¦ÄÜÒÑ½â¿ª£¬±¾´ÎµÇÈë²»±ØÔÙ´ÎÊäÈëÓÊ¼ş±£»¤µÄ°²È«ÃÜÂë
+0
+eClient_Mail_NewReceiveÄúÓĞĞÂÓÊ¼ş,Çë×¢Òâ²éÊÕ
+-
+eIntelligenceNoEnough¾«Á¦Öµ²»×ã£¬²»ÄÜ¹Ò»ú
++
+eClient_Mail_SendSelfÎŞ·¨¸ø×Ô¼º·¢ËÍÓÊ¼ş
+#
+eFriendUIsShowInfo_Friend%d/100
+ 
+eFriendUIsShowInfo_Temp%d/30
+!
+eFriendUIsShowInfo_Enemy%d/30
+%
+eFriendUIsShowInfo_Blacklist%d/30
+>
+eTellIntoPkMap,ÄúÒÑ½øÈëÉ±Â¾ÇøÓò£¬PK²»¼ÇÂ¼É±Â¾Öµ£¬Çë×¢Òâ°²È«
+h
+eClient_MoneyLimitRÇë×¢Òâ£¬Äúµ±Ç°µÈ¼¶×î´óÄÜÓµÓĞ%d½ğ£¬µ±Ç°ÒÑ³¬¹ıÉÏÏŞ%d½ğ£¬³¬³ö²¿·Ö»áÔÚÏÂÏßºó±»ÏµÍ³»ØÊÕ
+*
+eExchange_ItemNotExhange´ËÎïÆ·²»ÄÜ½»Ò×
+A
+eTipTeamHaveSomeBodyIntoTeam!Íæ¼Ò {#fff7dc7f=%s#} ÉêÇë¼ÓÈë¶ÓÎé
+"
+ePlayerCountIsFull½ÇÉ«ÊıÁ¿ÒÑÂú
+A
+eGetRoleInfo_Waiting){#ffa7b59e=ÕıÔÚ»ñÈ¡ÈËÎïĞÅÏ¢£¬ÇëÉÔºò¡­¡­#}
+)
+eText_PartitionLine¡ª¡ª µ±Ç°×°±¸ ¡ª¡ª
+$
+eText_YouGetCurExpÄúµÃµ½ÁË %d %s
+
+eText_YouGetItemÄúµÃµ½ÁË %s
+
+eEquipType_UnknowÎ´ÖªÎïÆ·
+
+eEquipType_HairÍ··¢
+
+eEquipType_FaceÁ³
+ 
+eEquipType_lHandItem×óÊÖÎïÆ·
+ 
+eEquipType_rHandItemÓÒÊÖÎïÆ·
+
+eEquipType_WeaponÎäÆ÷
+
+eEquipType_Shield¶ÜÅÆ
+
+eEquipType_HelmetÍ·¿ø
+
+eEquipType_HeadWearÍ·ÊÎ
+
+eEquipType_Armour¿ø¼×
+
+eEquipType_Shoulder¼ç¼×
+
+eEquipType_GloveÊÖÌ×
+
+eEquipType_SashÑü´ø
+
+eEquipType_Trousers¿ã×Ó
+
+eEquipType_ShoeĞ¬×Ó
+
+eEquipType_Ring½äÖ¸
+
+eEquipType_NeckÏîÁ´
+
+eEquipType_Amulet·¨Á¦²¿Î»
+
+eEquipType_Back±³²¿
+
+eEquipType_ArtÊ±×°
+
+eEquipType_DressÌ××°
+
+eEquipType_CommonÍ¨ÓÃ²¿¼ş
+
+eNowCannotDoÔİÊ±²»ÄÜÊ¹ÓÃ
+
+eText_AllProÈ«Ö°Òµ
+
+eEquip_DurableÄÍ¾ÃµãÊı
+7
+eText_CreateCheckNameOK¹§Ï²£¬¸Ã½ÇÉ«Ãû¿ÉÒÔÕı³£Ê¹ÓÃ£¡
+-
+eText_CreateCheckNameNO´Ë½ÇÉ«ÃûÎŞ·¨´´½¨£¡
+7
+eText_TeamFail_AssignMode·ÖÅäÄ£Ê½ÒÑ¸ü¸Ä£¬×é¶ÓÊ§°Ü£¡
+3
+eText_Server_TeamTargetInTeam¶Ô·½ÒÑ¾­ÔÚ¶ÓÎéÖĞ¡­
+:
+"eText_Server_TeamTargetResquesting¸ÃÍæ¼ÒÕıÔÚ±»ÑûÇëÖĞ¡­
+D
+"eText_Server_TeamRequestOnlyHeaderÖ»ÓĞ¶Ó³¤²Å¿ÉÒÔÑûÇë±ğÈË¼ÓÈë¶ÓÎé
+.
+eText_Server_TeamJoinSuccess¼ÓÈë¶ÓÎé³É¹¦£¡
+$
+eText_Server_TeamDisband¶ÓÎé½âÉ¢
+)
+eText_Server_TeamLeavedÄúÀë¿ªÁË¶ÓÎé£¡
+.
+eText_TeamFail_TargetCancel¶Ô·½¾Ü¾øÑûÇë...
+.
+eText_UpgradeTeam_Succeed%s ±»ÌáÉıÎª¶Ó³¤£¡
+/
+eText_UpgradeTeam_FaildÌáÉı %s Îª¶Ó³¤Ê§°Ü£¡
+ 
+eText_BannedPK±¾·şÎñÆ÷½ûÖ¹PK
+!
+eText_YouHaveLeftÌáÊ¾£ºÄú»¹ÓĞ
+;
+eText_DaysToClearItemProtectPwdÌì£¬¼´¿ÉÇå³ıÎïÆ·±£»¤ÃÜÂë
+9
+eText_CanNotPushItemIntoStorage²»ÄÜ°Ñ¸ÃÎïÆ··ÅÈë²Ö¿â£¡
+(
+eText_BankTradeSucceedÒøĞĞ½»Ò×³É¹¦£¡
+1
+eText_BankTradeBankFullËù´æµÄÇ®³¬¹ıÇ®¹ñÉÏÏŞ£¡
+1
+eText_BankTradePlayerNotMoneyÍæ¼ÒÃ»ÓĞÕâÃ´¶àÇ®
+/
+eText_BankTradeBankNotMoney²Ö¿âÀïÃ»ÕâÃ´¶àÇ®
+/
+eText_BankTradeUpgradeMax²Ö¿âÒÑ¾­ÊÇ×î¸ß¼¶£¡
+!
+eText_BankTradeFaliedÎ´Öª´íÎó
+0
+eText_ItemCannotBeenLocked´ËÎïÆ·²»ÄÜ±»¼ÓËø£¡
+
+eText_StrByLevelUpÁ¦Á¿Ôö¼Ó
+
+eText_AgiByLevelUpÃô½İÔö¼Ó
+
+eText_ConByLevelUpÌåÖÊÔö¼Ó
+
+eText_AppByLevelUp¸ĞÖªÔö¼Ó
+
+eText_MagByLevelUp·¨Á¦Ôö¼Ó
+
+eText_LuckByLevelUpĞÒÔËÔö¼Ó
+-
+eText_ItemMaxStoreNumÎïÆ·×î´ó´æ´¢ÊıÄ¿Îª£º
+.
+eText_ThisItemCanNotDrop´ËÎïÆ·²»ÄÜ±»¶ªÆú£¡
+,
+eText_TargetNotInTheViewÓëÄ¿±êÖ®¼äÓĞ×èµ²
+/
+eText_ItemCanNotBeenMoved´ËÎïÆ·²»ÄÜ±»ÒÆ¶¯£¡
+3
+eText_DeathWaitTimeÄúÒÑ¾­ËÀÍö£¬¸´»îµ¹¼ÆÊ±»¹Ê£ÏÂ
+*
+eText_PwdResetSuceedÄúµÄÃÜÂëĞŞ¸Ä³É¹¦£¡
+0
+eText_PlsSetPwdFirstÇëÏÈÉèÖÃÎïÆ·µÄ¼ÓÃÜÃÜÂë£¡
+,
+eText_VerInfo{#9bffffff=[µ±Ç°°æ±¾£º%d]#}
+0
+eText_ItemUseLevelÄúµ±Ç°µÈ¼¶»¹ÎŞ·¨Ê¹ÓÃ´ËÎïÆ·
+
+eText_Superadd×·¼Ó
+
+eUI_EquipStep½×
+
+eUI_HolyÊ¥
+
+eUI_HolyHitOdds
+Ê¥Ò»»÷¼¸ÂÊ
+
+eUI_HolyHitDamageÊ¥¹¥»÷
+ 
+eUI_LuckyHitOddsĞÒÔËÒ»»÷¼¸ÂÊ
+
+eUI_MinPhysicsAttack¹¥»÷Á¦
+
+eUI_MaxPhysicsAttack¹¥»÷Á¦
+
+eUI_MinMagicAttack·¨ÊõÇ¿¶È
+
+eUI_MaxMagicAttack·¨ÊõÇ¿¶È
+&
+eUI_AnimalMaster¶Ô¶¯ÎïÏµµÄÉËº¦Ôö¼Ó
+'
+eUI_FoliageMaster¶ÔÖ²ÎïÏµµÄÉËº¦Ôö¼Ó
+%
+eUI_HumanMaster¶ÔÈËĞÎÏµµÄÉËº¦Ôö¼Ó
+)
+eUI_MachineryMaster¶Ô»úĞµÏµµÄÉËº¦Ôö¼Ó
+&
+eUI_UndeadMaster¶Ô²»ËÀÏµµÄÉËº¦Ôö¼Ó
+%
+eUI_DemonMaster¶Ô¶ñÄ§ÏµµÄÉËº¦Ôö¼Ó
+
+eText_IT_MATERIALÔ­²ÄÁÏ
+
+eText_IT_RESTOREÏûºÄÆ·
+
+eText_IT_GEM±¦Ê¯
+
+eText_IT_TASKÈÎÎñÎïÆ·
+
+eSystemName_HPÉúÃü
+
+eSystemName_MP·¨Á¦
+
+eSystemName_SecondÃë
+*
+eText_InputItemPwdÇëÊäÈëÎïÆ·µÄ¼ÓËøÃÜÂë
+)
+eText_InputItemPwdAgainÇëÔÙ´ÎÊäÈëÃÜÂë
+.
+eText_InputPwdNotTheSameÁ½´ÎµÄÊäÈë²»Ò»ÖÂ£¡
+,
+eText_DisconnectÄúÓë·şÎñÆ÷µÄÁ¬½ÓÒÑ¶Ï¿ª£¡
+0
+eText_NowTryConnectingÕıÔÚÓë·şÎñÆ÷½¨Á¢Á¬½Ó¡­
+3
+eText_Connected ÒÑÓë·şÎñÆ÷½¨Á¢Á¬½Ó£¬Õı×¼±¸ÑéÖ¤¡­
+'
+eText_GetGateÕıÔÚ»ñÈ¡¸ºÔØ½ÏµÍGate¡­
+5
+eText_ConnectToGate»ñÈ¡GateĞÅÏ¢³É¹¦£¬Õı×¼±¸Á¬½Ó¡­
+&
+eText_SendRightCheck·¢ËÍÑéÖ¤ÏûÏ¢¡­
+8
+eText_WaitingRequest ÇëÉÔºò£¬ÕıÔÚµÈ´ı·şÎñÆ÷·µ»ØĞÅÏ¢¡­
+
+eText_IsIntensify
+ÊÇ·ñÇ¿»¯£¿
+0
+eText_ItemPwdErrorÄúÊäÈëµÄÎïÆ·¼ÓÃÜÃÜÂë´íÎó£¡
+$
+eText_IsSellItemÊÇ·ñ³öÊÛ¸ÃÎïÆ·£¿
+.
+eText_InputSellItemCntÇëÊäÈë³öÊÛÎïÆ·µÄÊıÁ¿
+8
+eText_ItemNoBuy%  {#FFd8ea62=×¢Òâ£ºÉÌµê½«ÒÔµÍ¼ÛÊÕ¹º#}
+9
+eText_MoneyNotEnoungh ÄúµÄ½ğÇ®²»×ã£¬²»ÄÜ½øĞĞ´ËÏî²Ù×÷£¡
+)
+eText_PwdNullÎïÆ·µÄ¼ÓËøÃÜÂë²»ÄÜÎª¿Õ£¡
+*
+eText_ItemHaveBeenLocked¸ÃÎïÆ·ÒÑ¾­¼ÓËø
+?
+eText_TwoHandEqiupError_0"Äú×óÊÖÒÑÓĞÎïÆ·£¬²»ÄÜÔÙ×°±¸Ë«ÊÖÎäÆ÷
+G
+eText_TwoHandEqiupError_1*ÄúÒÑ¾­×°±¸ÁËÁ½°Ñµ¥ÊÖ½££¬²»ÄÜÔÙ×°±¸Ë«ÊÖÎäÆ÷
+A
+eText_TwoHandEqiupError_2$ÄúÒÑ¾­×°±¸ÁËË«ÊÖÎäÆ÷£¬²»ÄÜÔÙ×°±¸¶ÜÅÆ
+/
+eText_IfAskClearPwdÄúÊÇ·ñÉêÇëÃÜÂëÇå³ı¹¦ÄÜ£¿
+J
+eText_Succ_Of_App_ClearPwd,ÉêÇë³É¹¦£¬15ÈÕºóÏµÍ³½«×Ô¶¯Çå³ıÎïÆ·µÄ¼ÓÃÜÃÜÂë
+7
+eText_YouHaveAlreadyAppliedÄúÒÑ¾­ÉêÇë¹ıÃÜÂëÇå³ı¹¦ÄÜ
+5
+eText_MendNoMoney ÄúµÄ½ğÇ®²»×ã£¬²»ÄÜ½øĞĞ´ËÏî²Ù×÷£¡
+
+eUI_NextLevelÏÂÒ»¼¶
+"
+eText_InTeamÄúÒÑ¾­ÔÚÒ»¸ö¶ÓÎéÖĞ
+(
+eText_TargetInTeamÄ¿±êÒÑ¾­ÔÚ¶ÓÎéÖĞÁË
+'
+eText_FindNotPlayerÕÒ²»µ½ÄúÒª¼ÓµÄÈË
+
+eText_TeamFull¶ÓÎéÒÑ¾­ÂúÁË
+
+eText_TeamFail
+×é¶ÓÊ§°Ü£¡
+"
+eText_TeamScuscc³É¹¦¼ÓÈë¶ÓÎé£¡
+/
+eText_AddTeam_AskÒª¼ÓÈëÄúµÄ¶ÓÎé£¬ÄúÍ¬ÒâÂğ£¿
+/
+eText_Ask_AddTeamÑûÇëÄú¼ÓÈë¶ÓÎé£¬ÄúÍ¬ÒâÂğ£¿
+&
+eExchange_Error_3_fail¶Ô·½È¡Ïû½»Ò×
+)
+eExchange_UnKnown½»Ò×Ê§°Ü£¬Î´Öª´íÎó£¡
+
+eExchange_sucess
+½»Ò×³É¹¦£¡
+
+eExchange_fail_0
+½»Ò×Ê§°Ü£¡
+ 
+eUI_Req_AddGuildÇëÇó¼ÓÈë¹«»á
+'
+eUI_Req_LvUpBuildÈ·¶¨Éı¼¶¡¾%s¡¿Âğ£¿
+#
+eUI_Call_AddGuildÑûÇëÄú¼ÓÈë¹«»á
+
+eUI_GuildCallOn¹«»áÑûÇë
+
+eUI_MpNoEnoughMP²»×ã
++
+eUI_SendExchange_fail·¢ËÍ½»Ò×ÉêÇëÊ§°Ü£¡
+
+	eUI_YouToÄúÏò
+"
+eUI_SendExchange·¢ËÍ½»Ò×ÉêÇë¡­
+'
+eUI_SendTeam_fail·¢ËÍ×é¶ÓÉêÇëÊ§°Ü£¡
+
+eUI_SendTeam·¢ËÍ×é¶ÓÉêÇë¡­
+/
+eUI_SendShopSeek_failÇëÇó²é¿´¸öÈËÉÌµêÊ§°Ü£¡
+&
+eUI_SendShopSeek·¢ËÍ²é¿´¸öÈËÉÌµê¡­
+%
+eUI_Money_Error_0ÄúµÄÊäÈë²»ºÏÀí£¡
+&
+eUI_InputSaveMoneyÇëÊäÈë´æÇ®µÄÊıÁ¿
+$
+eUI_BackSave_errorÄúÒøĞĞ´¢±¸²»×ã
+&
+eUI_Take_MoneyÇëÊäÈëÄúÏëÈ¡Ç®µÄÊıÁ¿
+:
+eUI_Bank_LevelUp_error ÄúÉíÉÏµÄ½ğÇ®²»×ã£¬ÎŞ·¨Éı¼¶²Ö¿â£¡
+
+eUI_askÑ¯ÎÊ
+)
+eUI_Bank_LevelUp_Text_0ÄúÉı¼¶²Ö¿âĞèÒª
+
+eUI_OpenExam¿ªÊ¼ÖÇÁ¦ÎÊ´ğ
+-
+eUI_Bank_LevelUp_Text_1½ğ£¬È·¶¨Éı¼¶²Ö¿â£¿
+
+eText_SecondÃë
+*
+eText_Sell_PriceÇëÊäÈë¸ÃÎïÆ·Âô³öµÄ¼Û¸ñ
+"
+eText_ChangPrice¸Ä±ä¸ÃÎïÆ·¼Û¸ñ
+?
+eText_PrivateShop_Error$ÄúµÄ¸öÈËÉÌµêÖĞÃ»ÓĞÈÎºÎÎïÆ·£¬²»ÄÜ¿ªµê
+1
+eText_EnterShopNameÇëÎªÄúµÄ¸öÈËÉÌµêÈ¡¸öÃû×Ö£¡
+0
+eSystem_Repetition_InputÖØ¸´ÊäÈë±»½ûÑÔ£¬»¹Ê£
+'
+eCreate_NameillegalÍæ¼ÒÃû³ÆÓĞÆÁ±Î×Ö
+/
+eCreate_NameTooshortÍæ¼ÒÃû³Æ²»µÃÉÙÓÚ4×Ö·û£¡
+‘
+eCreate_NameError|ÄúÊäÈëµÄÃû×ÖÎŞ·¨´´½¨£¬ÇëÖØĞÂÊäÈë¡£\n{#ffffe400=1£ºÃû×Ö×Ö·û³¤¶È²»ÄÜ³¬¹ı14¸ö×Ö·û#}\n{#ffffe400=2£ºÊäÈëµÄÃû×ÖÄÚ²»ÄÜº¬ÓĞÆÁ±Î×Ö#}
+$
+eCreate_BirthdayÇëÑ¡Ôñ³öÉúÈÕÆÚ£¡
+
+eLogin_Logining
+ÕıÔÚµÇÈë¡­
+
+eText_ConFailÁ¬½ÓÊ§°Ü
+
+
+eText_FailÊ§°Ü
+*
+eText_SelectServerÇë×ó¼üµã»÷Ñ¡Ôñ·şÎñÆ÷
+
+eText_PromptÌáÊ¾
+&
+eText_EnterUsePassÇëÊäÈëÕÊºÅ»òÃÜÂë
+3
+eText_ShopRefeashÉÌµêÖĞµÄÎïÆ·ÔÚÄú¹ºÂòÊ±ÒÑÓĞ¸Ä±ä
+
+eText_Price_0¼Û¸ñ
+
+eText_Input_Cnt
+ÇëÊäÈëÊıÁ¿
+
+eText_CompSucessºÏ³É³É¹¦
+
+eText_CompFailºÏ³ÉÊ§°Ü
+$
+eText_Material_Error_0
+Ô­ÁÏ²»·ûºÏ
+.
+eText_Material_error_1±¦Ê¯µÈ¼¶ÒÑ¾­ÊÇ×î¸ß¼¶
+
+	eText_AndÓë
+
+eExchangeing½»Ò×ÖĞ¡­
+'
+eText_Input_MoveCntÇëÊäÈëÒÆ¶¯µÄÊıÁ¿
+&
+eText_Ask_insert_GemÊÇ·ñÏâÈë±¦Ê¯£¿
+*
+eText_Ask_BuyCntÇëÊäÈëÒª¹ºÂòµÄÎïÆ·ÊıÁ¿
+
+eText_UseItemÊ¹ÓÃÎïÆ·
+
+eText_NextLevelÏÂÒ»µÈ¼¶
+&
+eText_Ask_TaskÄúÊÇ·ñÒª·ÅÆú´ËÈÎÎñ£¿
+!
+eText_ConfirmÊÇ·ñ½øĞĞ´Ë²Ù×÷£¿
+
+eText_NeedItemĞèÒªÈÎÎñÎïÆ·
+
+eText_completeÍê³É
+
+eText_EquipStrNeedÁ¦Á¿
+
+eText_EquipConNeedÌåÖÊ
+
+eText_EquipAgiNeedÃô½İ
+
+eText_EquipIntNeedÖÇÁ¦
+
+eText_EquipEneNeed¾«Éñ
+
+eText_stCharmReqÔËÆø
+
+eText_HPNoEnoughHP²»×ã
+
+eText_MPNoEnoughMP²»×ã
+'
+eText_Motion_CantSingÔË¶¯ÖĞ²»ÄÜÒ÷³ª
++
+eText_Jump_CantChargeÌøÔ¾ÖĞ²»ÄÜ½øĞĞ³å·æ
+3
+eText_UseSkill_NeedWeapÃ»×°±¸Ê¹ÓÃ¼¼ÄÜĞèÒªµÄÎäÆ÷
+1
+eText_PassiveSkill_NotUse±»¶¯¼¼ÄÜ²»ÄÜÒÔ±»Ê¹ÓÃ
+/
+eText_NeedSkill_0Äú±ØĞèÏÈÑ§µÃÏàÓ¦µÄ²É¿ó¼¼ÄÜ
+/
+eText_NeedSkill_1Äú±ØĞèÏÈÑ§µÃÏàÓ¦µÄ²ÉÒ©¼¼ÄÜ
+/
+eText_NeedSkill_2Äú±ØĞèÏÈÑ§µÃÏàÓ¦µÄ·¥Ä¾¼¼ÄÜ
+/
+eText_NeedSkill_3Äú±ØĞèÏÈÑ§µÃÏàÓ¦µÄ¿ªÏä¼¼ÄÜ
++
+eText_Input_SaveCntÇëÊäÈë´æÈëÎïÆ·µÄÊıÁ¿
+ 
+eText_StudySkillÄúÑ§»áÁË¼¼ÄÜ
+
+eText_OverCount
+ÊıÁ¿³¬³ö£¡
+<
+eText_NoEnoughItemToUseSkillÃ»ÓĞĞ¯´øÏàÓ¦µÄµÀ¾ßÀ´Ê¹ÓÃ¼¼ÄÜ
+1
+eText_CannotUsePassivitySkill²»ÄÜÊ¹ÓÃ±»¶¯¼¼ÄÜ
+;
+eText_CannotUseSkillInCurStatus²»ÄÜÔÚµ±Ç°×´Ì¬ÏÂÊ¹ÓÃ¼¼ÄÜ
++
+eText_SkillIsInColdDown¼¼ÄÜÕıÔÚÀäÈ´ÖĞ¡­
+!
+eText_ItemNoPlaceÄúµÄ±³°üÒÑÂú
+
+eText_AttAdd¹¥»÷ËÙ¶È¼Ó³É
+8
+$eText_GetItemFromOtherPlaceCostMoneyÌáÈ¡´ËÎïÆ·ĞèÖ§¸¶
+7
+%eText_MakeSureToGetItemFromOtherPlace½ğ£¬ÊÇ·ñ¼ÌĞø£¿
+
+eText_EnemyµĞÈË
+'
+eText_SelectConleModeÇëÑ¡Ôñ²Ù×÷·½Ê½
+F
+eUI_NotMemoyToRepair.¶Ô²»Æğ£¬ÄúµÄ½ğ±Ò»ò½ğÇ®²»×ã\n²»ÄÜ½øĞĞ´ËÏî²Ù×÷£¡
+‹
+eUI_RemoteStorageNeedMoneym¿ªÆô¸Ã¹¦ÄÜĞèÒªÏûºÄ {#ffffde00=%d#} ½ğ±Ò,ÊÇ·ñ¼ÌĞø£¿\n{#ffffde00=¿ªÆôºó¿ÉÒÔÊ¹ÓÃ 10 Ğ¡Ê±£¨ÀëÏß²»Ó°ÏìÊ¹ÓÃÊ±¼ä£©#}
+(
+eUI_StorageNeedPswÇëÊäÈëÃÜÂë¿ªÆô²Ö¿â
+H
+eTellClient_OnlineTime.·À³ÁÃÔÏµÍ³ÌáÊ¾£ºÄúÒÑÔÚÏß %d ·ÖÖÓ£¬Çë×¢ÒâĞİÏ¢£¡
+T
+eTellClient_GetExp>·À³ÁÃÔÏµÍ³ÌáÊ¾£ºÄúÄ¿Ç°Ö»ÄÜ»ñµÃ %d%% µÄ¾­ÑéºÍ %d%% µÄ¼¼ÄÜ¾­Ñé£¡
+[
+eTellClient_ClearOnlineTime<·À³ÁÃÔÏµÍ³ÌáÊ¾£ºÀÛ»ıÊ±¼äÒÑÇåÁã£¬Ö®ºóÈıĞ¡Ê±ÄÚÄúµÄÊÕÒæÎªÕı³££¡
+W
+eTellClient_OnlineTimeAndHour6·À³ÁÃÔÏµÍ³ÌáÊ¾£ºÄúÒÑÔÚÏß %d Ğ¡Ê± %d ·ÖÖÓ£¬Çë×¢ÒâĞİÏ¢£¡
+V
+$eSystemInfo_Overdue_InLockIntensicfy.Î»ÓÚÄúÇ¿»¯Ëø¶¨±³°üÖĞµÄÎïÆ·ÒÑ¹ıÆÚ£¬ÏµÍ³×Ô¶¯É¾³ı
+"
+eClient_AddInfo_2slk_1ÎŞĞ§Ä¿±ê
+*
+eClient_AddInfo_2slk_2²»ÄÜ¹¥»÷¼Ò×å³ÉÔ±
+*
+eClient_AddInfo_2slk_3²»ÄÜ¹¥»÷¶ÓÎé³ÉÔ±
+1
+eClient_AddInfo_2slk_5Äú×î¶àÌí¼Ó2¸öÎïÆ·Á´½Ó£¡
+2
+eClient_AddInfo_2slk_6ÄúÒÑ¾­Ìí¼ÓÁË´ËÎïÆ·Á´½Ó£¡
+*
+eClient_AddInfo_2slk_7Äú²»ÄÜºÍ×Ô¼ºË½ÁÄ
+2
+eClient_AddInfo_2slk_8Äú²»ÄÜÆµ·±µÄ½øĞĞÄ£Ê½¸ü¸Ä
+,
+eClient_AddInfo_2slk_9ÄúÃ»ÓĞ¼ÓÈëÈÎºÎ¹«»á
++
+eClient_AddInfo_2slk_14²»ÄÜÉ¾³ı´ËÎïÆ·£¿
+
+eClient_AddInfo_2slk_23ÌáÊ¾
+
+eClient_AddInfo_2slk_24Ñ¯ÎÊ
+-
+eClient_AddInfo_2slk_25×øÆïÉÏ²»ÄÜ½øĞĞ½»Ò×
+1
+eClient_AddInfo_2slk_26ÇëÏÈÉèÖÃÎïÆ·µÄ¼ÓÃÜÃÜÂë
++
+eClient_AddInfo_2slk_27ÊÇ·ñÉ¾³ı´ËÎïÆ·£¿
+#
+eClient_AddInfo_2slk_28É¾³ıÎïÆ·
+-
+eClient_AddInfo_2slk_29´ËÎïÆ·²»ÄÜ±»½»Ò×£¡
+-
+eClient_AddInfo_2slk_30ÇëÏÈ¹Ø±Õ¸öÈËÉÌµê£¡
+)
+eClient_AddInfo_2slk_31´ËÎïÆ·²»ÄÜ½»Ò×
+-
+eClient_AddInfo_2slk_32Æï³Ë×´Ì¬ÏÂ²»ÄÜ¿ªµê
+7
+eClient_AddInfo_2slk_33ÓëÍæ¼Ò¾àÀë¹ıÔ¶£¬ÎŞ·¨²é¿´ÉÌÆ·
+3
+eClient_AddInfo_2slk_34¶Ô²»Æğ£¬´ËÎïÆ·²»ÄÜ½»Ò×£¡
+7
+eClient_AddInfo_2slk_35¶Ô²»Æğ£¬´ËÎïÆ·²»ÄÜÂô¸øÉÌµê£¡
+5
+eClient_AddInfo_2slk_36¶Ô²»Æğ,±¾µêÖ»»ØÊÕ»Ö¸´Ò©Æ·!
+1
+eClient_AddInfo_2slk_37¶Ô²»Æğ,±¾µêÖ»»ØÊÕÎäÆ÷!
+1
+eClient_AddInfo_2slk_38¶Ô²»Æğ,±¾µêÖ»»ØÊÕ·À¾ß!
+1
+eClient_AddInfo_2slk_39¶Ô²»Æğ,±¾µêÖ»»ØÊÕÔ­ÁÏ!
+1
+eClient_AddInfo_2slk_40¶Ô²»Æğ,±¾µêÖ»»ØÊÕ±¦Ê¯!
+5
+eClient_AddInfo_2slk_41¶Ô²»Æğ,±¾µêÖ»»ØÊÕºÏ³ÉÅä·½!
+5
+eClient_AddInfo_2slk_42¶Ô²»Æğ,±¾µê²»»ØÊÕ´ËÀàÎïÆ·!
+/
+eClient_AddInfo_2slk_43ÇëÏÈÉèÖÃ°²È«±£»¤ÃÜÂë
+#
+eClient_AddInfo_2slk_45ÈÎÎñ[%s]
+E
+eClient_AddInfo_2slk_48*ÎŞ·¨Ê©·Å¼¼ÄÜ£¬ÇëÕıÈ·»Ø´ğÑéÖ¤ÂëÍ¼Æ¬ÉÏµÄÎÄ×Ö
+A
+eClient_AddInfo_2slk_49&ÎŞ·¨ÒÆ¶¯£¬ÇëÕıÈ·»Ø´ğÑéÖ¤ÂëÍ¼Æ¬ÉÏµÄÎÄ×Ö
+#
+eClient_AddInfo_2slk_50ÑéÖ¤³É¹¦
+9
+eClient_AddInfo_2slk_51¼¸ÃëÖÓºó½«¸ü»»ÑéÖ¤Í¼Æ¬ÖØĞÂÑéÖ¤
+/
+eClient_AddInfo_2slk_52¿ªµêÖĞ²»ÄÜÊ¹ÓÃÎïÆ·£¡
+-
+eClient_AddInfo_2slk_53¹ıÆÚÎïÆ·²»ÄÜÊ¹ÓÃ£¡
+-
+eClient_AddInfo_2slk_54Æï³Ë×´Ì¬ÏÂ²»ÄÜ¿ªµê
+-
+eClient_AddInfo_2slk_55¿ªµê×´Ì¬ÖĞ²»ÄÜ¹¥»÷
+)
+eClient_AddInfo_2slk_56±¾µØÍ¼²»ÄÜÆï³Ë
+-
+eClient_AddInfo_2slk_57¿ªµê×´Ì¬ÖĞ²»ÄÜÆï³Ë
+-
+eClient_AddInfo_2slk_58ÒşÉí×´Ì¬ÏÂ²»ÄÜÆï³Ë
+)
+eClient_AddInfo_2slk_59Õ½¶·ÖĞ²»ÄÜÆï³Ë
++
+eClient_AddInfo_2slk_60Á½´ÎÆï³Ë¼ä¸ô¹ı¶Ì
+5
+eClient_AddInfo_2slk_61±³°üÒÑÂú£¬Ëù»ñÎïÆ·µôÂäµØÉÏ
+'
+eClient_AddInfo_2slk_62È¡Ïû[%s]ÈÎÎñ
+,
+eClient_AddInfo_2slk_84%s ¾Ü¾ø¼ÓÈë¹«»á  
+A
+eClient_AddInfo_2slk_85&ÕËºÅ±»ÖØĞÂµÇÈë£¬ÄúÓë·şÎñÆ÷µÄÁ¬½Ó½«¶Ï¿ª
+1
+eClient_AddInfo_2slk_86%s ¶ÔÄúÊ¹ÓÃÁËÎïÆ· %s  
+3
+eClient_AddInfo_2slk_87Ä¿±ê¾àÀëÌ«Ô¶£¬²»ÄÜ½»Ò×£¡
+3
+eClient_AddInfo_2slk_98ÒÑ¸øÍæ¼Ò %s Ôö¼Ó %d ¾­Ñé
+(
+eClient_AddInfo_2slk_110Ã»ÓĞÑ¡ÖĞÄ¿±ê
+>
+eClient_AddInfo_2slk_111"Äú²»ÊôÓÚÈÎºÎ¹«»á£¬²»ÄÜÑûÇë±ğÈË¼ÓÈë
+8
+eClient_AddInfo_2slk_112ÄúÑûÇëµÄÍæ¼Ò²»´æÔÚ»òÕß²»ÔÚÏß
+4
+eClient_AddInfo_2slk_114Ä¿±ê¾àÀëÌ«Ô¶£¬²»ÄÜ²é¿´£¡
+2
+eClient_AddInfo_2slk_115¾àÀëÌ«Ô¶£¬²»ÄÜÑûÇëÇĞ´è
+*
+eClient_AddInfo_2slk_116¶Ô·½ÕıÔÚÇĞ´èÖĞ
+,
+eClient_AddInfo_2slk_122%s¡¾Ê£Óà %d Ãë¡¿
+/
+eClient_AddInfo_2slk_123Äú½«±»´«ËÍµ½£¨%s£© 
+%
+eClient_AddInfo_2slk_125	ÈÎÎñ[%s] 
+%
+eClient_AddInfo_2slk_126	%s %d Ãë 
+1
+eClient_AddInfo_2slk_127%s ÔÚÇĞ´èÖĞÕ½Ê¤ÁË %s 
+%
+eClient_AddInfo_2slk_128	Î´ÖªÄ¿±ê 
+C
+eClient_AddInfo_2slk_129'ÄúÕıÔÚÀë¿ªÇĞ´èÇøÓò£¬%d ÃëºóÄú½«Êäµô±ÈÈü
+/
+eClient_AddInfo_2slk_130ÑéÖ¤Ê£ÓàÊ±¼ä %d Ãë 
+)
+eClient_AddInfo_2slk_131ÑéÖ¤Ê±¼äÒÑµ½ 
+
+eClient_AddInfo_2slk_132ÄĞ 
+
+eClient_AddInfo_2slk_133Å®
+'
+eClient_AddInfo_2slk_137%s ¼ÓÈë¶ÓÎé
+'
+eClient_AddInfo_2slk_138%s Àë¿ª¶ÓÎé
+0
+eClient_AddInfo_2slk_139%s ±» %s ¹¥»÷µôÑª %d
+4
+eClient_AddInfo_2slk_143»ñµÃ½ğÇ®£º%d½ğ %dÒø %dÍ­
+6
+eClient_AddInfo_2slk_143.1Ê§È¥½ğÇ®£º%d½ğ %dÒø %dÍ­
+:
+eClient_AddInfo_2slk_143.2´æÈë£º %d½ğ %dÒø %dÍ­ µ½²Ö¿â
+6
+eClient_AddInfo_2slk_143.3»ñµÃ½ğÇ®£º%d½ğ %dÒø %dÍ­
+(
+eClient_AddInfo_2slk_144»ñµÃ¾­Ñé£º%d
+.
+eClient_AddInfo_2slk_145»ñµÃ¼¼ÄÜÊìÁ·¶È£º%d
++
+eClient_AddInfo_2slk_146»ñµÃÎïÆ·£º%s\n 
++
+eClient_AddInfo_2slk_147%s¶ÔÄúËµ£º%s\n 
++
+eClient_AddInfo_2slk_148Äú¶Ô%sËµ£º%s\n 
++
+eClient_AddInfo_2slk_149²»´æÔÚ»ò²»ÔÚÏß 
+.
+eClient_AddInfo_2slk_150ÏûºÄ¼¼ÄÜÊìÁ·¶È£º%d
+$
+eClient_AddInfo_2slk_151Ã»Ê²Ã´ÊÂ
+
+eIsExitGameÊÇ·ñÍË³öÓÎÏ·£¿
+*
+e_isChangePlayerÊÇ·ñ·µ»Ø½ÇÉ«Ñ¡Ôñ½çÃæ£¿
+k
+eTextPlayer_InterchangeReqQueJ{#FFFFD940=%s#} ÏòÄú·¢ÆğÁËÌôÕ½\nÊÇ·ñÔ¸Òâ½ÓÊÜ£¿\n30ÃëºóÃ»ÓĞÑ¡ÔñÏµÍ³ÅĞ¶¨¾Ü¾ø
+)
+eTextPlayer_InterchangeReqMsgÌôÕ½ÑûÇë
+(
+eTextPlayer_InterchangeBeginÌôÕ½¿ªÊ¼
+(
+eTextPlayer_WinOver¹§Ï²£¬ÄúÕ½Ê¤ÁË %s
++
+eTextPlayer_UnderdogºÜÒÅº¶£¬Äú°Ü¸øÁË %s
+"
+eAttrType_MagicDefence·¨Êõ¿¹ĞÔ
+%
+eAttrType_ResistanceMagic·¨Á¦¿¹ĞÔ
+)
+eAttrType_MagicDefencePercent·¨Êõ¿¹ĞÔ
+'
+eAttrType_ResistancePhysicsÎïÀí¿¹ĞÔ
+'
+eAttrType_ResistanceSilence³ÁÄ¬¿¹ĞÔ
+&
+eAttrType_ResistanceFreeze±ù¶³¿¹ĞÔ
+%
+eAttrType_ResistanceSleep»èË¯¿¹ĞÔ
+%
+eAttrType_ResistanceDizzyÔÎÑ£¿¹ĞÔ
+C
+eUI_ShopCenterSliverError&¶Ô²»Æğ£¬ÄúµÄ½ğ±Ò²»×ã\nÎŞ·¨¹ºÂò´ËÉÌÆ·£¡
+
+eSex_ManÄĞ
+
+
+eSex_FeManÅ®
+
+eShopUI_Storage%d
+
+eShopUI_Price2%s ×êÊ¯
+
+eShopUI_VIPPrice2%d ½ğ
+
+eShopUI_Price%d ½ğ±Ò
+
+eShopUI_VIPPrice%d ½ğ±Ò
+O
+eCostSilverToRePairItem4ÄúĞèÏûºÄ{#FFFFD940=%d #}¸ö×°±¸ĞŞÀí´¸\nÊÇ·ñĞèÒªĞŞÀí£¿
+7
+eUI_ShopCenterSliverCntÄúĞèÏûºÄ{#FFFFD940=%d #}½ğ±Ò
+
+eClient_help_person°ïÖúÏµÍ³
+9
+eTipText_base_Overdue Ê¹ÓÃÆÚÏŞÖÁ %dÄê%dÔÂ%dÈÕ %dÊ±%d·Ö
+1
+eText_Chat_NotSeekEquipÄ¿±ê¾àÀë¹ıÔ¶£¬²»ÄÜ²é¿´
+(
+eText_Client_Trade_Faild½»Ò×±»ÖÕÖ¹£¡
+A
+eText_Client_Trade_Faild_Ride Æï³Ë×´Ì¬ÏÂ²»ÄÜ½»Ò×£¬½»Ò×±»ÖÕÖ¹£¡
+A
+!eText_Client_Trade_Faild_DistanceÓëÍæ¼Ò¾àÀë¹ıÔ¶£¬½»Ò×±»ÖÕÖ¹£¡
+G
+ui_check_tec_levelup/ÊÇ·ñÈ·ÈÏÉı¼¶%s?\n×¢Òâ£ºÉı¼¶¹ı³ÌÖĞ²»ÄÜÈ¡Ïû²Ù×÷£¡
+Q
+eClientMessage_FriendRequest1ÄúÊÕµ½¼ÓºÃÓÑÉêÇë\n{#fff7dc7f=Çëµã»÷ºÃÓÑ°´Å¥²é¿´#}
+2
+eTextGuild_Ban_ErrorÄúÃ»ÓĞÇıÖğ¹«»á³ÉÔ±µÄÈ¨ÏŞ£¡
+A
+eTextGuild_Ban_Check)ÄúÈ·¶¨Òª½« {#FFFFD940=%s#} ÇıÖğ³ö¹«»áÂğ£¿
+.
+eTextGuild_Leave_CheckÄúÈ·¶¨ÒªÀë¿ª¹«»áÂğ£¿
+<
+eTextGuild_Leave_MasterErrorÄúÊÇ»á³¤£¬²»ÄÜÖ±½ÓÍË³ö¹«»á£¡
+2
+eTextGuild_Disband_ErrorÄúÃ»ÓĞ½âÉ¢¹«»áµÄÈ¨ÏŞ£¡
+4
+eTextGuild_Disband_CheckÄúÈ·¶¨Òª½âÉ¢Õâ¸ö¹«»áÂğ£¿
+C
+eTextGuild_Disband_EmptyError"½âÉ¢¹«»áÖ®Ç°ÇëÏÈÇıÖğËùÓĞ¹«»á³ÉÔ±£¡
+;
+eTextGuild_SetLevel_ErrorÄúÃ»ÓĞ¸Ä±ä¹«»á³ÉÔ±Ö°Î»µÄÈ¨ÏŞ£¡
+D
+eTextGuild_SetLevel_Check'ÄúÈ·¶¨Òª¸Ä±ä {#FFFFD940=%s#} µÄÖ°Î»Âğ£¿
+5
+eTextGuild_Invite_ErrorÄúÃ»ÓĞÑûÇë¹«»á³ÉÔ±µÄÈ¨ÏŞ£¡
+<
+"eTextGuild_Create_Error_Name_Check¼Ò×åÃû³Æº¬ÓĞ·Ç·¨×Ö·û£¡
+=
+#eTextGuild_Create_Error_Name_Length¼Ò×åÃû³Æ³¤¶È³¬³öÏŞÖÆ£¡
+5
+!eTextGuild_Create_Error_Name_None¼Ò×åÃû³Æ²»ÄÜÎª¿Õ
+.
+
+ui_exp_tip ÓµÓĞ¾­Ñé£º%I64d\nÉı¼¶¾­Ñé£º%I64d
+=
+ePrivateShop_String0%ÊÇ·ñ²é¿´ {#FFFFD940=%s#} µÄ¸öÈËÉÌµê£¿
+4
+"eTextPlayer_OpenPrivateShopNotMove¿ªµêÖĞ²»ÄÜÒÆ¶¯
+_
+eAskClosePrivateShopGÊÇ·ñÈ·ÈÏ¹Ø±Õ¸ÃÌ¯Î»£¿\n{#FFFFD940=¹Ø±ÕÌ¯Î»ºóÔÚÏÂ´Î°ÚÌ¯Ê±ĞèÒªÖØĞÂÉèÖÃ¡£#}
+2
+eFriendUI_DelFriendÄúÊÇ·ñÈ·¶¨½«%s´ÓÁĞ±íÖĞÉ¾³ı?
+#
+ui_cant_intensify¸ÃµÀ¾ß²»ÄÜÇ¿»¯
+C
+eClinet_Blacklist_Add_Text%{#ffa7b59e=ÇëÊäÈëÏë¼ÓÈëºÚÃûµ¥µÄÃû×Ö#}
+A
+eClient_ExpandBag_NotMoney#ÄúµÄ½ğ±Ò²»×ã£¬À©³ä±³°üĞèÒª500½ğ±Ò£¡
+
+eUI_OpenGetTSRool
+4
+eMsg_PleaseInputMoney{#FFFFD940=ÇëÊäÈëÎïÆ·µ¥¼Û#}
+4
+eClient_PetTransmuteClueOnÈ·ÈÏÊÇ·ñ½«¸ÃÕÙ»½ÊŞ·Ö½â
+V
+ErrorLoginServerPlayerFull8·şÎñÆ÷ÈËÊıÒÑÂú!\nÇëÉÔºò³¢ÊÔµÇÂ½»òÑ¡Ôñ·Ç¸ß·åÊ±¶ÎµÇÂ½ÓÎÏ·.
+<
+ErrorLoginServerAccountEnvelopÕËºÅÒÑ±»·â£¬ÇëÓë¿Í·şÁªÏµ£¡
+v
+ErrorLoginWallowbÄúÊÇÎ´³ÉÄêÈË£¬ÒÑ±»ÄÉÈë·À³ÁÃÔÏµÍ³£¬±»½ûÖ¹½øÈëÓÎÏ·¡£Èç¹ûÄúÊÇ³ÉÄêÓÃ»§£¬Çëµ½ÓÃ»§ÖĞĞÄÍêÉÆÄúµÄÉí·İ×ÊÁÏ¡£
+
+eText_ReasonAddItem0
+
+eText_ReasonAddItem1
+#
+eText_ReasonAddItem2Ïú»Ù %s¡Á%d
+#
+eText_ReasonAddItem3»ñµÃ %s¡Á%d
+'
+eText_ReasonAddItem4¹§Ï²»ñµÃ %s¡Á%d
++
+eText_ReasonAddItem5ÎïÆ·¹ıÆÚÏú»Ù %s¡Á%d
+'
+eText_ReasonAddItem6²É¼¯»ñµÃ %s¡Á%d
+'
+eText_ReasonAddItem7Ê°È¡»ñµÃ %s¡Á%d
+'
+eText_ReasonAddItem8¹ºÂò»ñµÃ %s¡Á%d
+-
+eText_ReasonAddItem9Éú²ú³É¹¦£¬»ñµÃ %s¡Á%d
+$
+eText_ReasonAddItem10»ñµÃ %s¡Á%d
+
+eText_ReasonAddItem11
+(
+eText_ReasonAddItem12ÏµÍ³ÔùËÍ %s¡Á%d
+
+eText_ReasonAddItem13
+
+eText_ReasonAddItem14
+
+eText_ReasonAddItem15
+.
+eText_ReasonAddItem16½»Ò×³É¹¦£¬»ñµÃ %s¡Á%d
+
+eText_ReasonAddItem17
+
+eText_ReasonAddItem18
+
+eText_ReasonAddItem19
+3
+eText_ReasonAddItem20³É¹¦½«ÕÙ»½ÊŞ·Ö½â³É %s %d¸ö
+
+eText_ReasonAddItem21
+
+eText_ReasonAddItem22
+.
+eText_ReasonAddItem23ÊÕÈ¡ÓÊ¼ş£¬»ñµÃ %s¡Á%d
+*
+eText_ReasonAddItem24ÄúºÏ³É»ñµÃ %s¡Á%d
+
+eText_ReasonAddItem25
+
+eText_ReasonAddItem26
+&
+eText_ReasonAddItem27¹ºÂòÁË %s¡Á%d
+"
+eText_ReasonAddItem33	Êê»Ø³É¹¦!
+
+eText_ReasonSubItem0
+
+eText_ReasonSubItem1
+#
+eText_ReasonSubItem2Ïú»Ù %s¡Á%d
+
+eText_ReasonSubItem3
+
+eText_ReasonSubItem4
++
+eText_ReasonSubItem5ÎïÆ·¹ıÆÚÏú»Ù %s¡Á%d
+
+eText_ReasonSubItem6
+
+eText_ReasonSubItem7
+#
+eText_ReasonSubItem8Âô³ö %s¡Á%d
+
+eText_ReasonSubItem9
+
+eText_ReasonSubItem10
+
+eText_ReasonSubItem11
+(
+eText_ReasonSubItem12ÏµÍ³Ïú»Ù %s¡Á%d
+
+eText_ReasonSubItem13
+
+eText_ReasonSubItem14
+
+eText_ReasonSubItem15
+.
+eText_ReasonSubItem16½»Ò×³É¹¦£¬Ê§È¥ %s¡Á%d
+
+eText_ReasonSubItem17
+
+eText_ReasonSubItem18
+
+eText_ReasonSubItem19
+
+eText_ReasonSubItem20
+
+eText_ReasonSubItem21
+
+eText_ReasonSubItem22
+.
+eText_ReasonSubItem23ÓÊ¼ş¼Ä³ö£¬Ê§È¥ %s¡Á%d
+
+eText_ReasonSubItem24
+
+eText_ReasonSubItem25
+
+eText_ReasonSubItem26
+
+eText_ReasonSubItem27
+&
+eText_ReasonSubItem28¶ªÆúÁË %s¡Á%d
+&
+eText_ReasonSubItem29ÉÏ½ÉÁË %s¡Á%d
+)
+eText_ReasonSubItem33ÏûºÄÒ»ÕÅÊê»ØÈ¯£¡
+
+eText_ReasonGetItem%s %s
+É
+eClient_NewerInGame±»¶Ó­À´µ½ÕâÀï£¬´©Ô½¶øÀ´µÄÓ¢ĞÛÓÚ´Ë´¦µ®Éú£¡ÔÚÕâÀïÄã½«¾­ÀúÎ´ÔøÓöµ½¹ıµÄ¹ÊÊÂ£¬¸ü¿ÉÔÚ´Ë½¨¹¦Á¢ÒµÃûÑïËÄ·½£¬Ï£ÍûÄãÄÜ³É¾ÍÒ»·¬ÊôÓÚÄã×Ô¼ºµÄ´«Ææ£¡\n½ÇÉ«²é¿´¡¾C¡¿\n´ò¿ª±³°ü¡¾B¡¿\nÈÎÎñ½çÃæ¡¾L¡¿
+!
+eLogin_ErrorCode0ÓÎÏ·µÇÈë³É¹¦
+-
+eLogin_ErrorCode1ÄúµÄÕÊºÅ´íÎó£¬ÇëÖØĞÂÊäÈë
+-
+eLogin_ErrorCode2ÄúµÄÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë
++
+eLogin_ErrorCode3·şÎñÆ÷Î¬»¤ÖĞ£¬ÉÔºòÔÙÊÔ
+%
+eLogin_ErrorCode8Çë¼ì²éÍøÂç×´¿ö£¡
+ 
+eLogin_ErrorCode10
+ÕÊºÅÒÑÔÚÏß
+0
+eLogin_ErrorCode25ÕÊºÅ½ûÖ¹µÇÂ¼£¬ÇëÓë¿Í·şÁªÏµ
+>
+eLogin_ErrorCode26(ÄúµÄÍøÂçIPµØÖ·ÊÜÏŞÎŞ·¨µÇÈë£¬ÇëÓë¿Í·şÁªÏµ
+6
+eLogin_ErrorCode27 ÄúÃÜÂëÊäÈë´íÎó³¬¹ıÈı´Î£¬ÉÔºòÔÙÊÔ
+0
+eLogin_ErrorCode28ÃÜ±£¿¨ÊäÈë´íÎó£¬ÇëÖØĞÂÊäÈë
+4
+eLogin_ErrorCode29ÄúÃÜÂë¿¨ÑéÖ¤³¬¹ıÈı´Î£¬ÉÔºòÔÙÊÔ
+-
+eLogin_ErrorCode30ÄúÒÑ±»·À³ÁÃÔ,ÇëÉÔºóµÇÂ¼
+5
+eLogin_ErrorCode130µç»°ÃÜ±£ÎŞ·¨µÇÈë£¬ÇëÓë¿Í·şÁªÏµ
+M
+eLogin_ErrorCode1316ÄúµÄÌøÔ¾ÕÊºÅÎ´¼¤»î£¬²»ÄÜµÇÈëÓÎÏ·£¬Çëµ½¹Ù·½ÍøÕ¾¼¤»îÕËºÅ
+U
+eLogin_ErrorCode132>ÄúµÄÌøÔ¾Í¨ĞĞÖ¤ÕÊºÅ»¹Î´¼¤»î£¬²»ÄÜµÇÈëÓÎÏ·£¬Çëµ½¹Ù·½ÍøÕ¾¼¤»îÕËºÅ
+S
+eLogin_ErrorCode133<ÄúµÄÕÊºÅ³¤Ê±¼äÎ´µÇÈëÓÎÏ·£¬ÒÑ¾­½øÈë¶¬ÃßÄ£Ê½£¬ÇëÓë¿Í·şÁªÏµ½â³ı
+ó
+eLogin_ErrorCode134Û300Ó¢ĞÛ½«ÓÚ2014Äê10ÔÂ31ÈÕ½øĞĞÕÊºÅÉı¼¶£¬½ìÊ±Ô­ÖĞÇà±¦×¢²áµÄÕÊºÅ±ØĞë½øĞĞÕÊºÅÉı¼¶ºó²ÅÄÜµÇÂ½ÓÎÏ·¡£ÕÊºÅÉı¼¶½«¸ù¾İÖĞÇà±¦ÕÊºÅµÄ¡°ÕÊºÅ¡¢ÃÜÂë¡¢ÕÊºÅ×¢²áÉí·İÖ¤ºÅÂë¡±½øĞĞÉí·İÑéÖ¤£¬ÑéÖ¤Í¨¹ıºóÔ­ÕÊºÅ½«Éı¼¶ÎªÌøÔ¾ÕÊºÅ²¢¿ÉÖØĞÂÌîĞ´ÕÊºÅ×¢²áÉí·İÖ¤µÈÏà¹ØÕËºÅÈÏÖ¤ĞÅÏ¢¡£ÎªÁË±ÜÃâÍæ¼ÒÕÊºÅ±»¶ñÒâÉı¼¶£¬ÇëÈ·±£ÔÚÕÊºÅÉı¼¶¿ªÆôÇ°£¬ÄúµÄÕÊºÅÃÜÂëÒÔ¼°ÕÊºÅ×¢²áÉí·İÖ¤ºÅÂëÖ»ÓĞÄú±¾ÈËÖªÏş¡£
+w
+eLogin_ErrorCode135`×ğ¾´µÄ300Ó¢ĞÛÓÃ»§ÄúºÃ:ÄúµÄÕËºÅÊÇÔ­ÖĞÇà±¦ÓÎÏ·ÕËºÅ,ÄúĞèÒª°ÑÕËºÅÉı¼¶³ÉÌøÔ¾ÓÎÏ·ÕËºÅ²ÅÄÜµÇÂ½300Ó¢ĞÛ¡£
+‡
+eLogin_ErrorCode136p×ğ¾´µÄ300Ó¢ĞÛÓÃ»§ÄúºÃ:ÄúµÄÕËºÅÉêËßÒÑÍê³É,Çë¾¡¿ìµÇÂ½ÕËºÅÉı¼¶Ò³Ãæ½øĞĞÕËºÅÉı¼¶,Éı¼¶Íê³ÉºóÇëÓÃĞÂµÄÕËºÅÃÜÂëµÇÂ½ÓÎÏ·¡£
+(
+eUI_Mail_SendResult_TrueÓÊ¼ş·¢ËÍ³É¹¦
+)
+eUI_Mail_SendResult_FalseÓÊ¼ş·¢ËÍÊ§°Ü
+
+eRelive_PerfectionShowInfo
+/
+eClient_ErrorPetSkillBook´íÎóµÄÕÙ»½ÊŞ¼¼ÄÜÊé
+2
+eUI_ExchagneUI_ConfirmInfoµÈ´ı¶Ô·½È·ÈÏ£¬ÇëÉÔµÈ
+#
+eUI_UseItem_YesNoÊÇ·ñÊ¹ÓÃ´ËÎïÆ·
+L
+eClient_ExitTimeInfo4ÕıÔÚ±£´æÍæ¼ÒÊı¾İ£¬ÇëÉÔºò...\n{#FFFFD940=Ê£Óà %d Ãë#}
++
+eLogin_StartConnectFailed·şÎñÆ÷Á¬½ÓÊ§°Ü
+.
+eUI_Relive_NeedGlodCntÔ­µØ¸´»îĞèÒª %d GH±Ò
+
+eServerAndLineName (%s)
+=
+	eGameName0¡¶300Ó¢ĞÛ¡·4ÔÂ29ÈÕ18µã ¾³½ç±Ë·½£¨µçĞÅ£©ĞÂÇø¿ªÆô!
+
+eEditionName 
+9
+eGold_SaleUI_Unit_price0{#FFFFD940=ÄúĞèÒªÖ§¸¶ %d ½ğ#}
+7
+eGold_SaleUI_Unit_price1{#FFFFD940=Äú½«»ñµÃ %d ½ğ#}
+^
+eUI_RideIntensifyAskFÇ¿»¯ÏûºÄ£º{#FFFFD940=%d¸ö%s#}\n³É¹¦¼¸ÂÊ£º{#FFFFD940=%d%%#}\nÊÇ·ñ¼ÌĞø£¿
+%
+eProduceNoSkillÄúÃ»ÓĞÕâ¸öÉú²ú¼¼ÄÜ
+2
+eProduceSkillLackLvlÄúµÄ¼¼ÄÜµÈ¼¶²»×ã£¬²»ÄÜÉú²ú
++
+eUI_RideIntensifyÄúµÄ×øÆïÒÑ¾­²»ÄÜÇ¿»¯ÁË
+
+eClientBorthArea³öÉúµã%d
+
+eClientBorthAreaRandËæ»ú
+)
+eUI_UseItem_Note0Äú¿ÉÒÔµã»÷Ê¹ÓÃÎïÆ·ÁË
+-
+eUI_UseItem_Note1ÕıÔÚ×¼±¸Ê¹ÓÃÎïÆ·£¬ÇëµÈ´ı
++
+eUI_PrivateShop_DragError¿ªµêÖĞÎŞ·¨ÉèÖÃ
+7
+#eUI_PlayerPrivateShop_BargainFailed´ò¿ª¸öÈËµêÆÌÊ§°Ü
+6
+ui_minimap_line_infoµ±Ç°·şÎñÆ÷£º%s\nÍøÂç×´Ì¬£º%dms
+‰
+eText_SysMail_GoldSystemBuyé½ğ±Ò½»Ò×Î¯ÍĞ-¹ºÈë½ğ±Ò\nÄúµÄ¹Òµ¥ÓÚ{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}£¬ÒÔ{#ffffd666=%d½ğ/100½ğ±Ò(µ¥ºÅ£º%d£©#}µÄ¼Û¸ñ³É¹¦¹ºÈë{#ffffd666=%d¡Á100½ğ±Ò#}£¬¹²»¨·Ñ{#ffffd666=%d½ğ#}¡£\n\n{#ffffd666=¸½¼şÄÚÈİÎª±¾´Î½»Ò×Ëù»ñµÃµÄ½ğ±Ò£¬Çë×¢ÒâÊÕÈ¡¡£#}
+Š
+eText_SysMail_GoldSystemSellé½ğ±Ò½»Ò×Î¯ÍĞ-Âô³ö½ğ±Ò\nÄúµÄ¹Òµ¥ÓÚ{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}£¬ÒÔ{#ffffd666=%d½ğ/100½ğ±Ò(µ¥ºÅ£º%d£©#}µÄ¼Û¸ñ³É¹¦Âô³ö{#ffffd666=%d¡Á100½ğ±Ò#}£¬¹²»ñµÃ{#ffffd666=%d½ğ#}¡£\n\n{#ffffd666=¸½¼şÄÚÈİÎª±¾´Î½»Ò×Ëù»ñµÃµÄ½ğÇ®£¬Çë×¢ÒâÊÕÈ¡¡£#}
+
+eText_SysMail_GoldSystemBuyExitê½ğ±Ò½»Ò×Î¯ÍĞ-ÏµÍ³ÍËµ¥\nÄúµÄ¹Òµ¥ÒÑµ½ÆÚ£¬ÏµÍ³×Ô¶¯ÍË»Ø£¬²¢½«ÄúÊ£Óà½ğ¶îÒÔ¸½¼şĞÎÊ½·µ»¹¡£\n¹ıÆÚÊ±¼ä£º{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}\nµ¥ºÅ£º{#ffffd666=%d#}\nÊ£Óà½ğ¶î£º{#ffffd666=%d½ğ#}\n\n{#ffffd666=¸½¼şÄÚÈİÎª¹Òµ¥Ê£Óà½ğ¶î£¬Çë×¢ÒâÁìÈ¡¡£#}
+’
+ eText_SysMail_GoldSystemSellExití½ğ±Ò½»Ò×Î¯ÍĞ-ÏµÍ³ÍËµ¥\nÄúµÄ¹Òµ¥ÒÑµ½ÆÚ£¬ÏµÍ³×Ô¶¯ÍË»Ø£¬²¢½«ÄúÊ£Óà½ğ¶îÒÔ¸½¼şĞÎÊ½·µ»¹¡£\n¹ıÆÚÊ±¼ä£º{#ffffd666=%dÄê%dÔÂ%dÈÕ %d£º%d·Ö#}\nµ¥ºÅ£º{#ffffd666=%d#}\nÊ£Óà½ğ¶î£º{#ffffd666=%d ½ğ±Ò#}\n\n{#ffffd666=¸½¼şÄÚÈİÎª¹Òµ¥Ê£Óà½ğ¶î£¬Çë×¢ÒâÁìÈ¡¡£#}
+D
+eUI_PrivateShop_Error0*ÇëÏÈ¹Ø±ÕÄúµÄ¸öÈËÉÌµê£¬ÔÙµ÷ÕûĞèÒª³öÊÛµÄÎïÆ·
++
+thisEquipHasNoGem¸Ã×°±¸Ã»ÓĞ¿ÉÕªÈ¡µÄ±¦Ê¯
+f
+eUI_PrivateShop_BuyItemK½«ÒÔ{#FFFFD940=%d½ğ#}µÄ¼Û¸ñ¹ºÂò{#FFFFD940=%d#}¸ö{#FFFFD940=%s#}\nÊÇ·ñ¼ÌĞø£¿
+Z
+eUI_PrivateShop_BuyPet@½«ÒÔ{#FFFFD940=%d½ğ#}µÄ¼Û¸ñ¹ºÂòÕÙ»½ÊŞ{#FFFFD940=%s#}\nÊÇ·ñ¼ÌĞø£¿
+?
+eGoldConsignInvalidPara$½»Ò×Ê§°Ü£¬Äú¹ºÂòµÄ½ğ±ÒÊıÁ¿³¬³öÉÏÏŞ£¡
+:
+eGoldSaleData_StringEx %8d %18d½ğ/100½ğ±Ò %28d %12dĞ¡Ê±
+F
+eGoldSaleData_ExamineStringEx%%6d %10s %22d %18d½ğ/100½ğ±Ò %10dĞ¡Ê±
+^
+ eUI_PrivateShop_BuyExclusiveItem:½«ÒÔ{#FFFFD940=%d½ğ#}µÄ¼Û¸ñ¹ºÂò{#FFFFD940=%s#}\nÊÇ·ñ¼ÌĞø£¿
+:
+eExchange_PriaveShopFullÄúµÄµêÆÌÒÑÂú£¬²»ÄÜ·ÅÈë¸ü¶àÎïÆ·
+:
+ePrivateShop_DistError ÀëÅÔ±ßµêÆÌÌ«½ü£¬ÇëÄú»»¸öÎ»ÖÃ°ÚÌ¯
+
+eAttrType_SocketNumÏâÇ¶¿×Êı
+8
+eText_PrivateShop_IsNullNotUseµêÆÌÃ»ÓĞÉÌÆ·£¬ÎŞ·¨°ÚÌ¯
+8
+ePrivateShop_TargetCloseShop¶Ô·½¹Ø±ÕÁËµêÆÌ£¬ÎŞ·¨¹ºÂò
+c
+ui_check_tec_LearnM{#FFFFD940=Çë×¢Òâ£ºÍ¬Ê±Ö»ÄÜÑ§Ï°Ò»ÏîÉú²úÏµ´óÀà¡£#}\nÊÇ·ñÈ·¶¨Ñ§Ï°¸ÃÏµÉú²ú¼¼ÄÜ£¿
+h
+ui_check_tec_ForgetQ{#FFFFD940=Ñ¡ÔñÒÅÍüºó½«ÖØÖÃ¸ÃÏµ´óÀàÏÂËùÓĞ¼¼ÄÜµÄµÈ¼¶#}\nÊÇ·ñÈ·¶¨ÒÅÍü¸ÃÉú²úÏµ´óÀà£¿
+V
+ui_check_tec_cancel?ÊÇ·ñÈ·¶¨È¡Ïû¸ÃÉı¼¶ÏîÄ¿£¿\n{#FFFFD940=½«·µ»¹ÏûºÄµÄ¿Æ¼¼µãºÍ½ğÇ®#}
+
+	eText_Exp¾­ÑéÖµ
+;
+eFriendUIOneSideRelation{#ffffcc00=¶Ô·½ÔİÎ´¼ÓÄúÎªºÃÓÑ#}
+*
+ui_tec_role_level_needÈËÎïµÈ¼¶ĞèÇó%d¼¶
+)
+ui_tec_tec_level_needÑĞ·¢µÈ¼¶ĞèÇó%d¼¶
+)
+eFriendUIOutLine{#ffcbcbcb=ÀëÏß×´Ì¬#}
+"
+eClient_FriendUI_Husband[ÕÉ·ò]
+
+eClient_FriendUI_Wife[ÆŞ×Ó]
+"
+eClient_FriendUI_Brother[½á°İ]
+U
+eClient_Battle_helper_on9ÊÇ·ñ¿ªÆôÕ½¶·ÖúÊÖ¹¦ÄÜ£¿\n{#FFFFD940=´Ë¹¦ÄÜĞèÒªÏûºÄ¾«Á¦Öµ#}
+3
+eClient_Battle_helper_offÊÇ·ñ¹Ø±ÕÕ½¶·ÖúÊÖ¹¦ÄÜ£¿
+1
+eNetWorkClose_MSG_LOGIN_REQµÇÈëÊ§°Ü£¬ÇëÖØÊÔ£¡
+4
+eNetWorkClose_Game_Login_30secµÇÈë³¬Ê±£¬ÇëÖØÊÔ£¡
+:
+eNetWorkClose_SelPlayer_Back½ÇÉ«Ñ¡ÔñÊ§°Ü£¬ÇëÖØĞÂµÇÈë£¡
+A
+eNetWorkClose_SelServer_Close ÓÎÏ··şÎñÆ÷ÎŞ·¨Á¬½Ó£¬ÇëÖØĞÂµÇÈë£¡
+-
+eNetWorkClose_AfterExitwaitÕı³£ÍË³öÓÎÏ·£¡
+<
+ERR_INVALID_ACCOUNT	2#ÄúÊäÈëµÄÕËºÅ»òÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë!
+=
+ERR_INVALID_PASSWORD	3#ÄúÊäÈëµÄÕËºÅ»òÃÜÂë´íÎó£¬ÇëÖØĞÂÊäÈë!
+'
+ERR_COMMUNICATION	8Çë¼ì²éÍøÂç×´¿ö£¡
+.
+ERR_MULTILOGIN		10ÕÊºÅÒÑÔÚÏß£¬ÇëÖØĞÂµÇÈë£¡
++
+ERR_LOGOUT_FAIL		12µÇ³öÊ§°Ü£¨ÊÕ·ÑÓÎÏ·£©
+/
+ERR_ACCOUNTEMPTY	23ÕËºÅÓà¶î²»×ã£¨ÊÕ·ÑÓÎÏ·£©
+=
+ERR_IP_LOCK		26*ÄúµÄÍøÂçIPµØÖ·ÊÜÏŞÎŞ·¨µÇÈë£¬ÇëÓë¿Í·şÁªÏµ£¡
+/
+ERR_ID_LOCK		27ÕÊºÅ½ûÖ¹µÇÈë£¬ÇëÓë¿Í·şÁªÏµ£¡
+4
+ERR_MATRIXFAILURE	28ÃÜ±£¿¨ÑéÖ¤Ê§°Ü£¬ÇëÖØĞÂÊäÈë£¡
+3
+ERR_KICKOUT		32 Äú±»Ç¿ÖÆÀë¿ªÓÎÏ·£¬ÇëÓë¿Í·şÁªÏµ£¡
+'
+ERR_PHONE_LOCK		130µç»°ÃÜ±£Î´¼¤»î£¡
+<
+ERR_NOT_ACTIVED		131$ÄúµÄÕÊºÅÎ´¼¤»î£¬ÎŞ·¨µÇÈëÓÎÏ··şÎñÆ÷£¡
+L
+ERR_ZONGHENG_ACCOUNT	1320ÄúµÄ×İºáÖĞÎÄÍøÕÊºÅÎ´¾­¼¤»î£¬ÎŞ·¨µÇÈëÓÎÏ··şÎñÆ÷£¡
+Y
+ERR_STOPPED_ACCOUNT	133>ÄúµÄÕÊºÅ³¤Ê±¼äÎ´µÇÈëÓÎÏ·£¬ÒÑ¾­½øÈë¶¬ÃßÄ£Ê½£¬ÇëÓë¿Í·şÁªÏµ½â³ı£¡
+0
+eUIBagMoveToStorage_IsFull²Ö¿âÒÑÂú£¬ÎŞ·¨·ÅÈë
+0
+eUIStorageMoveToBag_IsFull±³°üÒÑÂú£¬ÎŞ·¨·ÅÈë
+2
+eDealBagLock"¶Ô·½¿ªÆôÁË°²È«Ëø±³°ü±£»¤£¬ÎŞ·¨½»Ò×
+/
+eDealProtecting¶Ô·½´¦ÓÚ°²È«Ê±¼äÄÚ£¬ÎŞ·¨½»Ò×
+&
+eTask_NeedMapAreaÌ½Ë÷Ö¸¶¨ÇøÓò %d/1
+Q
+ui_box_tec_role_need_error3µ±ÄúµÈ¼¶µ½´ï{#ffffcc00=35¼¶#}Ê±¿É¿ªÆô¿Æ¼¼ÑĞ¾¿¹¦ÄÜ¡£
+D
+ui_check_equip_will_be_bound$´ËÎïÆ·ÔÚ×°±¸ºó½«ÓëÄú°ó¶¨\nÊÇ·ñ¼ÌĞø£¿
+-
+ui_tec_skill_levelup_complete%s\nÑĞ¾¿Íê³É
+
+
+PetAddHoleÕÙ»½ÊŞ¼¼ÄÜÀ¸½â·â
+%
+PetModifyHole¸Ä±äÕÙ»½ÊŞ¼¼ÄÜÀ¸ÊôĞÔ
+
+ui_npc_gem_compose±¦Ê¯ºÏ³É
+Q
+ui_tec_skill_spare_time6{#ffffefae=%s µÈ¼¶(%d->%d)#}\n{#ffffb526=Ê£ÓàÊ±¼ä %s#}
+
+eCompose_SkillNeed%s %d¼¶
+!
+eUI_ShopCenterPointCnt%d »ı·Ö
+%
+eUI_ShopCentereCPT_GiveCnt%d Ôùµã
+*
+eNpcShop_BagFullÄúµÄ±³°üÒÑÂú£¬ÎŞ·¨»Ø¹º
+
+eMsgResBuyResult0¹ºÂò³É¹¦
+
+eMsgResBuyResult1¹ºÂòÊ§°Ü
+)
+eMsgResBuyResult2ÕÙ»½Ê¦£¬ÄúµÄ×êÊ¯²»¹»
+)
+eMsgResBuyResult3ÕÙ»½Ê¦£¬ÄúµÄ×êÊ¯²»¹»
+'
+eMsgResBuyResult4Äú¹ºÂòµÄÉÌÆ·²»´æÔÚ
+/
+eMsgResBuyResult5¶Ô²»Æğ£¬¸ÃÉÌÆ·ÔİÊ±²»ÄÜ³öÊÛ
+1
+eMsgResBuyResult6ÄúµÄ±³°üÒÑÂú£¬ÕÙ»½Ê¦±³²»¶¯ÁË
+)
+eMsgResBuyResult7ÕÙ»½Ê¦£¬ÄúµÄ»ı·Ö²»×ã
+)
+eMsgResBuyResult8ÕÙ»½Ê¦£¬ÄúµÄÔùµã²»×ã
+)
+eMsgResBuyResult9ÕÙ»½Ê¦£¬ÄúµÄ½ğ±Ò²»×ã
+*
+eMsgResBuyResult10ÕÙ»½Ê¦£¬ÄúµÄ½ğ±Ò²»×ã
+*
+eMsgResBuyResult11ÕÙ»½Ê¦£¬ÄúµÄ¹¦Ñ«²»×ã
+.
+eMsgResBuyResult12¶Ô²»Æğ£¬¸ÃÎïÆ·²»Ìá¹©ÊÔÓÃ
+6
+eMsgResBuyResult13 ÕÙ»½Ê¦µÄÊÔÓÃ×°±¸ÒÑ¾­´ïµ½×î´ó¸öÊı
+,
+eMsgResBuyResult14ÒÑÓµÓĞÁËÏàÍ¬µÄÊÔÓÃ×°±¸
+"
+eMsgResBuyResult15ÁìÈ¡ÊÔÓÃ³É¹¦
+*
+eClient_CharAttr_GoldAddÄú»ñµÃ %s ×êÊ¯
+*
+eClient_CharAttr_GoldSubÄúÏûºÄ %s ×êÊ¯
+–
+ eNetWorkClose_CheckVersionFailedrÓë·şÎñÆ÷°æ±¾²»Ò»ÖÂ\nÇë¸üĞÂ¿Í»§¶Ëµ½×îĞÂ°æ±¾£¬Èç¹û¸üĞÂÊ§°Ü¿ÉÒÔ³¢ÊÔĞŞ¸´¿Í»§¶Ë»òÏÂÔØ×îĞÂ¿Í»§¶Ë\n ¿Í·şµç»°:021-51312215
+!
+ePlayerFullTireÄúµÄÆ£ÀÍÖµÒÑÂú
+!
+eClient_En_AttackItem¾¡ÇëÆÚ´ı
+
+eClient_En_Pet¾¡ÇëÆÚ´ı
+
+eClient_En_HeadGear¾¡ÇëÆÚ´ı
+
+eClient_En_ExBag¾¡ÇëÆÚ´ı
+&
+eClient_Newer_En_CountDown¾¡ÇëÆÚ´ı
+*
+eClient_Newer_En_CountDownLast¾¡ÇëÆÚ´ı
+.
+eClient_LockShortCut¿ì½İÀ¸ÒÑËø¶¨£¬ÎŞ·¨ÍÏ¶¯
+/
+eGraphicCodeCheck_Answer_TimeÊ£ÓàÊ±¼ä£º%dÃë
+P
+eGoldSale_confirmNote06{#ff36db03=µ¥ºÅ:%d#}\n³öÊÛ¼Û:%d½ğ/100½ğ±Ò\n³öÊÛÊıÁ¿:%d
+P
+eGoldSale_confirmNote16{#ff36db03=µ¥ºÅ:%d#}\nÇó¹º¼Û:%d½ğ/100½ğ±Ò\nÇó¹ºÊıÁ¿:%d
+
+ui_npc_equip_bless×°±¸×£¸£
+%
+ui_npc_equip_activate×°±¸Áé»ê¼¤»î
+?
+eText_HasChangeLineInPass"ÕËºÅ»òÃÜÂëÖĞÓĞ»»ĞĞ·ûºÅ£¬ÇëÖØĞÂÊäÈë
+3
+eShop_SellItem!ÄúÈ·ÈÏÒª³öÊÛ {#ffffee5e=%s#} Âğ£¿
+?
+eClient_ExitWait10Seconds"ÇëÉÔºò...\n{#FFFFD940=Ê£Óà %d Ãë#}
+-
+eEr_Skill_119Ã»ÓĞ×°±¸¶Ü£¬ÎŞ·¨Ê¹ÓÃ¶ÜÏµ¼¼ÄÜ
+4
+ui_tec_off_get_pointÄúÀëÏß %s\nÀÛ¼Æ»ñµÃ¿Æ¼¼µã %d
+
+eIsResetGameÊÇ·ñÖØĞÂµÇÈë£¿
+[
+UsbKeyRec_DrawOutUsbKey@ÇëÄú°Îµô¡°GHukey¡±Ö®ºó·½¿É½øÈëÓÎÏ·£¬ÇëÄú±£¹ÜºÃ×Ô¼ºµÄ¡°GHukey¡±£¡
+7
+eProduceBagFull$ÄúµÄÆÕÍ¨»ò²ÄÁÏ±³°üÒÑÂú£¬ÎŞ·¨¼ÌĞøÉú²ú
+P
+group_info_captain:¸½½ü¶ÓÓÑÈËÊı %d ÈË\n¶ÓÎé¾­Ñé¼Ó³É +%d%%\n¶Ó³¤¾­Ñé¼Ó³É +%d%%
+;
+group_info_member&¸½½ü¶ÓÓÑÈËÊı %d ÈË\n¶ÓÎé¾­Ñé¼Ó³É +%d%%
+
+group_info_flash
+#509 +%d%%
+ 
+group_info_general
+#510 +%d%%
+n
+team_captain^¸½½ü¶ÓÓÑ£º{#ff1bec11=%dÈË#} ¶ÓÎé¾­Ñé¼Ó³É£º{#ff1bec11=+%d%%#}  ¶Ó³¤¾­Ñé¼Ó³É£º{#ff1bec11=+%d%%#}
+K
+team_member<¸½½ü¶ÓÓÑ£º{#ff1bec11=%dÈË#} ¶ÓÎé¾­Ñé¼Ó³É£º{#ff1bec11=+%d%%#}
+,
+eClient_PetCantMerge¶ş´úÕÙ»½ÊŞÎŞ·¨ÔÙÈÚºÏ
++
+eClient_PetCantReborn¶ş´úÕÙ»½ÊŞÎŞ·¨ÖØÉú
+`
+eClient_AskChangePetSkillCÊÇ·ñ¸Ä±äÕÙ»½ÊŞµÄ¼¼ÄÜ¸ñÊôĞÔ\n{#FFFFD940=¸Ã¼¼ÄÜ¸ñµÄÔ­ÓĞ¼¼ÄÜ½«»áÏûÊ§#}
+"
+eClient_TuDiÄãÒÑ¾­»ñµÃÍ½µÜ³ÆºÅ
+'
+eUI_SelectPlayer_DeleteRoleÉ¾³ı½ÇÉ«
+#
+eUI_SelectPlayer_Resume»Ö¸´½ÇÉ«
+7
+!eUI_SelectPlayer_DeleteRole_YesNoÈ·¶¨É¾³ı´Ë½ÇÉ«Âğ£¿
+4
+eUI_SelectPlayer_AlreadyDel{#ffffee5e=£¨%uÌì£©#}
+%
+eComposeUI_CalcRate²ú³öÂÊ %0.2f£¥
+3
+eGoldSale_FindErrorËÑË÷µÄµ¥ºÅ²»´æÔÚ£¬ÇëÖØĞÂËÑË÷
+Q
+eDeletePlayerSuccss:½ÇÉ«É¾³ı³É¹¦\n{#ffffee5e=ÌáÊ¾£ºÔÚ7ÌìÄÚÄú¿ÉÒÔËæÊ±»Ö¸´½ÇÉ«#}
+&
+eResumePlayer_Success»Ö¸´½ÇÉ«³É¹¦!
+#
+eResumePlayer_Fail»Ö¸´½ÇÉ«Ê§°Ü!
+m
+eClient_Error_NotConnetR¾¯±¨£¡ÕÙ»½Ê¦ÌÓÀëÓÀºãÖ®µØ£¬ÕıÔÚÖØĞÂÁ¬½Ó·şÎñÆ÷%s\n ¿Í·şµç»°:021-51312215\n(×´Ì¬£º%d)
+_
+eClient_Error_NotConnetNoGS@¾¯±¨£¡ÕÙ»½Ê¦ÌÓÀëÓÀºãÖ®µØ£¬ÇëÖØĞÂ³¢ÊÔµÇÂ½\n ¿Í·şµç»°:021-51312215
+}
+eClient_Error_NotConnetServer\·şÎñÆ÷Á¬²»ÉÏ£¬¿ÉÄÜÊÇÄãµÄÍøÂç²»¸øÁ¦»òÕßÓÎÏ·ÕıÔÚ½øĞĞÎ¬»¤£¡\n(×´Ì¬£º%d)\n ¿Í·şµç»°:021-51312215
+/
+eClientErrorConnetFail_ALL%s\n(×´Ì¬£º%d-%d)
+p
+eClientErrorConnetFail_NormalO·şÎñÆ÷Á¬²»ÉÏ£¬¿ÉÄÜÊÇÄãµÄÍøÂç²»¸øÁ¦»òÕßÓÎÏ·ÕıÔÚ½øĞĞÎ¬»¤£¡\n¿Í·şµç»°:021-51312215
+
+eDoubling_EXP_Show_Text#511
+I
+eDoubling_EXP_Show_Tip/<#ffffee5e=Ë«±¶¾­Ñé×´Ì¬¿ªÆôÖĞ\nÊ£ÓàÊ±¼ä %d ·ÖÖÓ
+$
+eClient_MainTaskMarkÖ÷Ïß»ı·Ö£º%d
+
+eMainstory_210
+
+eMainstory_211
+
+eMainstory_212
+
+eMainstory_213
+
+eMainstory_214
+
+eMainstory_215
+
+eMainstory_216
+
+eMainstory_217
+
+eMainstory_218
+
+eMainstory_219
+
+eMainstory_220
+
+eMainstory_221
+
+eMainstory_222
+
+eMainstory_223
+
+eMainstory_224
+
+eMainstory_225
+
+eMainstory_226
+
+eMainstory_227
+
+eMainstory_228
+
+eMainstory_229
+
+eMainstory_230
+
+eMainstory_231
+
+eMainstory_232
+
+eMainstory_233
+
+eMainstory_234
+
+eMainstory_235
+
+eMainstory_236
+
+eMainstory_237
+
+eMainstory_238
+
+eMainstory_239
+
+eMainstory_240
+
+eMainstory_241
+
+eMainstory_242
+
+eMainstory_243
+
+eMainstory_244
+H
+$eDeletePlayerFail_eYouAreGuildMaster ¼Ò×å×å³¤ÎŞ·¨É¾³ı½ÇÉ«£¬Çë×ª½»Ö°Îñ
+
+eShopCenter_HotFlagText#512
+!
+eShopCenter_AgioFlagText0#512
+!
+eShopCenter_AgioFlagText1#514
+!
+eShopCenter_AgioFlagText2#515
+!
+eShopCenter_AgioFlagText3#516
+!
+eShopCenter_AgioFlagText4#517
+!
+eShopCenter_AgioFlagText5#518
+!
+eShopCenter_AgioFlagText6#519
+!
+eShopCenter_AgioFlagText7#520
+!
+eShopCenter_AgioFlagText8#521
+!
+eShopCenter_AgioFlagText9#522
+"
+eShopCenter_AgioFlagText10#523
+
+eShopCenter_NewFlagText#513
+=
+eClientMaxNum,ºÜ±§Ç¸£¬Ã¿Ì¨»úÆ÷×î¶àÖ»ÄÜÍ¬Ê±ÔËĞĞÈı¸ö¿Í»§¶Ë¡£
+
+eClient_Identify_Flash#524
+(
+ eClient_Identify_MagnifyingGlass#525
+@
+eClient_Movement_Cue({#ff1bec11=ÒÔÏÂ»î¶¯¼´½«½øĞĞ£¨%u/%u£©£º#}
+
+eUI_SeverState0¼«¼Ñ
+
+eUI_SeverState1Á¼ºÃ
+
+eUI_SeverState2·±Ã¦
+
+eUI_SeverState3±¬Âú
+^
+ui_validate_code_noticeC{#FFd8ea62=ÌáÊ¾£º\nÑéÖ¤ÂëÓÉ×ÖÄ¸¹¹³É\nÈô¿´²»ÇåÇëµã»÷Ë¢ĞÂÑéÖ¤Âë°´Å¥#}
+@
+ui_validate_code_fail'{#FFd8ea62=ÑéÖ¤ÂëÊäÈë´íÎó\nÇëÖØĞÂÊäÈë#}
+#
+eClient_Treasure_More_Flash#526
+‡
+eClient_KillLimitHalfnÎÂÜ°ÌáÊ¾£º\nÄúÒÑ½øÈëÆ£ÀÍ×´Ì¬£¬É±¹ÖËù»ñÊÕÒæ½«\n¼õ°ëÄú¿ÉÒÔÍ¨¹ı²ÎÓë»î¶¯À´»ñµÃ¸üºÃ\nµÄÊÕÒæÒÔ¼°ÌåÑé¸ü¶àµÄÓÎÏ·ÀÖÈ¤£¡
+“
+eClient_KillLimitFullzÎÂÜ°ÌáÊ¾£º\nÄúÒÑ½øÈëÉî¶ÈÆ£ÀÍ×´Ì¬£¬É±¹Ö½«²»ÔÙ\n»ñµÃÈÎºÎÊÕÒæ£¬Äú¿ÉÒÔÍ¨¹ı²ÎÓë»î¶¯\nÀ´»ñµÃ¸üºÃµÄÊÕÒæÒÔ¼°ÌåÑé¸ü¶àµÄÓÎ\nÏ·ÀÖÈ¤£¡
+)
+eUI_Fans_CardResMsg0¹§Ï²Äã³É¹¦¼¤»îF¿¨
+2
+eUI_Fans_CardResMsg1ÄúÊäÈëµÄ¿¨ºÅÎŞĞ§»òÒÑ±»Ê¹ÓÃ
+8
+eUI_Fans_CardResMsg2 ÄúÒÑ¾­ÊÇFans¿¨ÓÃ»§£¬ÎŞĞèÔÙ´Î¼¤»î
+"
+eUI_Fans_CardResMsg3
+ÇëÉÔºòÔÙÊÔ
+?
+eEffect_set_NeedRestartClient²¿·ÖÉèÖÃĞèÒªÖØÆô¿Í»§¶ËºóÉúĞ§¡£
+I
+eClient_GodlSale_MaxCntErr+ÄúµÄ¹Òµ¥ÊıÒÑÂú 4 Ìõ£¬ÎŞ·¨¼ÌĞø½øĞĞ¹Òµ¥²Ù×÷¡£
+
+week_gem_disable#527
+
+week_gem_act#528
+m
+(ui_inlay_check_the_equip_will_be_boundedA{#FFd8ea62=Çë×¢Òâ£ºÏâÇ¶°ó¶¨×´Ì¬µÄ±¦Ê¯£¬×°±¸½«±»°ó¶¨#}\nÊÇ·ñ¼ÌĞø£¿
+
+eUI_MiniMapWeekLivenessTipâ<#ffffde00=ÖÜ»îÔ¾¶È½ø¶ÈÌõ\nÍæ¼ÒÂú 30 ¼¶ºó£¬Ã¿ÔÚÏß 1 ·ÖÖÓ½«»ñµÃ 1 µãÖÜ»îÔ¾¶È\nÖÜ»îÔ¾¶ÈÂú6000µãºó£¬¾Í¿ÉÒÔ´ÓÔùµã·¢·ÅÔ±À­Ã×æ§´¦\nÁìÈ¡ÏàÓ¦ÊıÁ¿µÄÔùµãÓÃÓÚÉÌ³ÇÏû·Ñ\n<#ff27e813=ÁìÈ¡ÔùµãµÄÊ±¼äÎª£ºµ±ÖÜÖÜÈÕ\n<#ff27e813=µ±Ç°ÖÜ»îÔ¾¶È£º%d/%d
+ 
+eShopTypeString_0ÍÆ¼öÀà 1 -1
+
+eShopTypeString_1ĞÂÆ· 1 0
+
+eShopTypeString_2ÈÈÂô 1 1
+
+eShopTypeString_3Àñ°ü 1 2
+ 
+eShopTypeString_4¹¦ÄÜÀà 2 -1
+
+eShopTypeString_5
+ÊµÓÃÆ· 2 0
+
+eShopTypeString_6
+ÌØÊâÆ· 2 1
+!
+eShopTypeString_7²¹¸øÀà 64 -1
+"
+eShopTypeString_8»Ø¸´Ò©Ë® 64 0
+"
+eShopTypeString_9ÔöÒæÒ©Ë® 64 1
+!
+eShopTypeString_10´òÔìÀà 4 -1
+"
+eShopTypeString_11Ç¿»¯¸¨²Ä 4 0
+"
+eShopTypeString_12ÏâÇ¶±¦Ê¯ 4 1
+"
+eShopTypeString_13ÕÙ»½ÊŞ 32 -1
+#
+eShopTypeString_14»ÃÊŞÇ¿»¯ 32 0
+!
+eShopTypeString_15¼¼ÄÜÊé 32 1
+"
+eShopTypeString_16×øÆïÀà 16 -1
+
+eShopTypeString_17	×øÆï 16 0
+#
+eShopTypeString_18×øÆïÇ¿»¯ 16 1
+!
+eShopTypeString_19×°ÊÎÀà 8 -1
+"
+eShopTypeString_20ÄĞ°æÊ±×° 8 0
+"
+eShopTypeString_21Å®°æÊ±×° 8 1
+"
+eShopTypeString_22¸öĞÔÊÎÆ· 8 2
+#
+eShopTypeString_23¶Ò»»Àà 128 -1
+$
+eShopTypeString_24Ôùµã¶Ò»» 128 1
+$
+eShopTypeString_25»ı·Ö¶Ò»» 128 0
+F
+ePrivateShop_BuyItemRecord([color=ffffe096]%02d:%02d %s ¹ºÂò %s¡Á%d
+‰
+ePrivateShop_BuyPetRecordl[color=ffffe096]%02d:%02d %s [color=fff7f764]ÒÔ [color=ffffd940]%d½ğ±Ò [color=ffffffff]µÄ¼Û¸ñ¹ºÂòÁËÕÙ»½ÊŞ %s
+9
+eGuildLogic_ReqJoinUnion%s¼Ò×å ÇëÇó¼ÓÈëÄúµÄ¼Ò×åÍ¬ÃË£¡
+=
+eGuildLogic_ReqInviteUnion%s¼Ò×å ÑûÇëÄú¼ÓÈëËûµÄ¼Ò×åÍ¬ÃË£¡
+4
+eGuildLogic_ErrorNoMoney½ğÇ®²»×ã£¬²»ÄÜÉı¼¶¹«»á£¡
+5
+eGuildLogic_ErrorNoLevel·±ÈÙ¶È²»×ã£¬²»ÄÜÉı¼¶¹«»á!
+*
+eGuildLogic_ErrorNoItemĞèÇóÎïÆ·%s²»×ã!
+'
+eGuildLogic_ShowLastOnline1°ëÄêÒÔÉÏ
+%
+eGuildLogic_ShowLastOnline2Ò»ÔÂÇ°
+%
+eGuildLogic_ShowLastOnline3Ò»ÖÜÇ°
+%
+eGuildLogic_ShowLastOnline4ÈıÌìÇ°
+%
+eGuildLogic_ShowLastOnline5¶şÌìÇ°
+%
+eGuildLogic_ShowLastOnline6Ò»ÌìÇ°
+"
+eGuildLogic_AddUnionName(ÃËÖ÷)
+%
+eTextGuild_Leave_Member
+%sÍË³ö¹«»á
+
+eClient_ReliveUI_SysDeKiller
+:
+eTextGuild_No_LeaveUp!ÒÑ¾­µ½´ï×î¸ßµÈ¼¶ ²»ÄÜÔÙÉı¼¶¹«»á¡£
+b
+eGuild_Chat_Member_OnlineE[color=ff00ccff]¹«»á [color=ffffffff]ÓÂÕß %s [color=ff00ccff]ÉÏÏßÁË£¡
+`
+eGuild_Chat_Leader_OnlineC[color=ff00ccff]¹«»á [color=ffff6c00]%s %s [color=ff00ccff]ÉÏÏßÁË£¡
+c
+eGuild_Chat_Member_OutlineE[color=ff00ccff]¹«»á [color=ffffffff]ÓÂÕß %s [color=ff00ccff]ÏÂÏßÁË£¡
+a
+eGuild_Chat_Leader_OutlineC[color=ff00ccff]¹«»á [color=ffff6c00]%s %s [color=ff00ccff]ÏÂÏßÁË£¡
+?
+eGuild_Everyday_Expend%Ã¿ %d ·ÖÖÓ£¬ÏûºÄ½ğÇ® %d, ÏûºÄ·±ÈÙ %d!
+$
+ui_npc_creat_guild_union´´½¨Í¬ÃË
+¨
+eShopCenter_ADInfo‘[fly]   [color=fff0c47d]×îĞÂÉÏ¼Ü¡¾Ê¥Ë®¡¿£º¿ÉÖØÖÃ½ÇÉ«µÄÇ±Á¦µã£¡  ĞÂ°æÊ±×°£¬¸øÄú¸ü¶àÔìĞÍÑ¡Ôñ£¡  ¡¾·û¡¿»ğ±¬ÏúÊÛÖĞ£¬Íæ¼Ò¿ÉÍ¨¹ıÔÚÓÎÏ·ÄÚ»òÔÓ»õµê¹ºÂò»ñµÃ¡¾¿¨Æ¬¡¿£¬ÓĞ¼¸ÂÊ³éÈ¡¡¾µ°¡¿¡¢ÕÙ»½ÊŞ¼¼ÄÜÊé-¡¾·ç±©¡¿µÈ·áºñ½±Àø£¡    ¡¾±¦Ïä¡¿³ÖĞøÈÈÏú£¬¿ªÆôºóÓĞ¼¸ÂÊ»ñµÃ¡¾Ô¦·çÕßµÄ¡¿-Âí×øÆï£¡ [/fly]
+G
+ eUI_PrivateShop_PleaseInputMoney#{#FFFFD940=ÇëÊäÈëÒª¸ü¸ÄµÄÎïÆ·µ¥¼Û#}
+4
+"eClient_MoveingOpenPlayerShopErrorÒÆ¶¯ÖĞ²»ÄÜ°ÚÌ¯
+2
+eClient_UI_NpcShopLackMedalsÄúµÄÌ½ÏÕÕß½ğ±Ò²»×ã
+"
+eClient_ExplorerShop
+Ì½ÏÕÕßÉÌµê
+.
+eUI_Shop_MedalsCost %d {#ffffd052=¹±Ï×¶È#}
+4
+#eGuild_Member_Show_Last_OutlineTime%dĞ¡Ê±:%d·ÖÖÓ
+1
+eClient_OpenPrivateOpÎïÆ·ÕıÔÚ°ÚÌ¯ÖĞ£¬²»ÄÜ²ğ·Ö
+#
+eText_IsDelChar¸Ã½ÇÉ«ÕıÔÚÉ¾³ıÖĞ
+<
+eClient_LevelupError_SkillÓÉÓÚ¼¼ÄÜ%sÎ´´ïµ½%d¼¶£¬ÎŞ·¨Éı¼¶
+A
+eClient_LevelupError_Item$ÓÉÓÚÉı¼¶ËùĞèÎïÆ·%sÉÙÓÚ%d¸ö£¬ÎŞ·¨Éı¼¶
+(
+eGuild_Get_OfferÄúµ±Ç°¹±Ï×¶È±ä¸üÎª%d
+6
+eUIRanklist_YourRankÄúµ±Ç°ÅÅÃû£º{#ffffd565=%d Ãû#}
+.
+eUI_Shop_MedalsCost %d {#ffffd565=¹±Ï×¶È#}
+*
+ui_check_tec_speedupÒª¼ÓËÙÉı¼¶¸Ã¿Æ¼¼Âğ
+0
+eTextMedals_Ask_BuyCntÇëÊäÈëÒª¹ºÂòµÄÎïÆ·ÊıÁ¿
+?
+eNotHaveEnemyAcq_Item&ÄãÃ»ÓĞµÀ¾ß[×·×ÙÖ®ÑÛ]£¬ÎŞ·¨²é¿´¶Ô·½Î»ÖÃ
+5
+
+ui_pathway'µã»÷×Ô¶¯Ñ°¾¶µ½£º\n<#ffffde00=%s (%d,%d)
+ 
+Skill_ErrorDisÒÑ³¬³öÊ©·¨¾àÀë
+;
+eClient_TimeBagCanNotRemoveÊ±Ğ§°ü¹üÖĞ´æÓĞµÀ¾ß£¬ÎŞ·¨Ğ¶ÔØ
+8
+eClient_DoNotHaveTimeBagÎŞ·¨×°ÔØ³ıÊ±Ğ§°ü¹üÒÔÍâµÄµÀ¾ß
+%
+eClient_TimeBagIsFullÊ±Ğ§°ü¹üÒÑÂú
+7
+eClient_RequestJoinTeam%sÉêÇë¼ÓÈëÄãµÄ¶ÓÎé£¬ÊÇ·ñÍ¬Òâ
+Z
+eText_speek_too_fastBÄúËµ»°µÄËÙ¶ÈÌ«¿ìÁË,ÇëºÈµãË®ĞİÏ¢Ò»»á¶ù,»¹ÓĞ%dµÄÊ±¼ä²ÅÄÜÔÚ¸ÃÆµµÀ·¢ÑÔ
+Ş
+eClient_HighUpgradeEquip_Need¼{#fff7f764=ÊÇ·ñÈ·¶¨Ê¹ÓÃ#}{#ff00ff00=%d#}{#fff7f764=¸ö#}{#ff00ff00=Éı½×Ê¯#}{#fff7f764=Óë#}{#ff00ff00=%d#}{#fff7f764=¸ö#}{#ff00ff00=±£ĞÇ·û#}\n{#fff7f764=½«×°±¸¸ß¼¶Éı½×ÖÁ#}{#ff00ff00=ÏÂÒ»½×#}
+½
+eClient_HighUpgradeEquip_Tipœ{#fff7f764=¸ß¼¶Éı½×ºó×°±¸#}{#ff00ff00=Ç¿»¯µÈ¼¶±£Áô#}\n{#fff7f764=×°±¸ÏâÇ¶µÄ±¦Ê¯Óë¿×Êı#}{#ff00ff00=½«»á±£Áô#}\n{#fff7f764=×°±¸ÊıÖµ#}{#ffff0000=ÖØĞÂËæ»ú»ñµÃ#}
+˜
+eClient_LowUpgradeEquip_Needx{#fff7f764=ÊÇ·ñÈ·¶¨Ê¹ÓÃ#}{#ff00ff00=%d#}{#fff7f764=¸ö#}{#ff00ff00=Éı½×Ê¯#}\n{#fff7f764=½«×°±¸Éı½×ÖÁ#}{#ff00ff00=ÏÂÒ»½×#}
+½
+eClient_LowUpgradeEquip_Tip{#fff7f764=Éı½×ºó×°±¸Ç¿»¯µÈ¼¶#}{#ffff0000=½«¹é0#}\n{#fff7f764=×°±¸ÏâÇ¶µÄ±¦Ê¯#}{#ffff0000=½«»áÏûÊ§#}\n{#fff7f764=×°±¸¿×ÊıÓë×°±¸ÊıÖµ#}{#ffff0000=ÖØĞÂËæ»ú»ñµÃ#}
+
+eClient_StrengthEquip_Needq{#fff7f764=ÊÇ·ñÈ·¶¨Ê¹ÓÃ#}{#ff00ff00=%d#}{#fff7f764=¸ö#}{#ff00ff00=%s#}\n{#fff7f764=½«×°±¸Ç¿»¯ÖÁ#}{#ff00ff00=+%d#}
+S
+eClient_StrengthEquip_Tip6{#fff7f764=Ô­×°±¸¿×ÊıÓëÏâÇ¶±¦Ê¯#}{#ff00ff00=½«»á±£Áô#}
+j
+eClient_WashEquip_NeedP{#fff7f764=ÊÇ·ñÊ¹ÓÃ#}{#ff00ff00=Ï´Ëè·û#}{#fff7f764=¶Ô×°±¸½øĞĞ#}{#ff00ff00=Ï´Ëè#}
+ 
+eProfessionIdx_Shotter»ğÇ¹ÊÖ
+%
+eClient_InIntonateState
+¼¼ÄÜÒ÷³ªÖĞ
+
+eClient_EquipWashÏ´Ëè
+,
+eClient_EquipWashLessMoneyÏ´Ëè½ğÇ®²»×ã£¡
+'
+eClient_Low_StrengthStone
+ÆÕÍ¨Ç¿»¯Ê¯
+(
+eClient_High_StrengthStone
+¾«ÖÂÇ¿»¯Ê¯
+(
+eClient_Holi_StrengthStone
+ÎŞÏ¾Ç¿»¯Ê¯
+&
+eClient_Strength_Succeed
+Ç¿»¯³É¹¦£¡
+%
+eClient_Strength_Failed
+Ç¿»¯Ê§°Ü£¡
+)
+eClient_Low_Upgrade_Succeed
+Éı½×³É¹¦£¡
+(
+eClient_Low_Upgrade_Failed
+Éı½×Ê§°Ü£¡
+.
+eClient_High_Upgrade_Succeed¸ß¼¶Éı½×³É¹¦£¡
+-
+eClient_High_upgrade_Failed¸ß¼¶Éı½×Ê§°Ü£¡
+#
+eClient_SkillInCDTime
+¼¼ÄÜÀäÈ´ÖĞ
+0
+eSkillError_SelectPointIsValidÄ¿±êµØµãÓĞ×èµ²
+!
+eEquipType_AttackPart¹¥»÷²¿Î»
+"
+eEquipType_DefencePart·ÀÓù²¿Î»
+
+eEquipType_BodyPartÉúÃü²¿Î»
+
+eEquipType_HitPartÃüÖĞ²¿Î»
+ 
+eEquipType_DodgePartÉÁ±Ü²¿Î»
+
+ServerLineName_0ÑÅµä
+
+ServerLineName_1Ë¹°Í´ï
+
+ServerLineName_2¿ÆÁÖË¹
+
+ServerLineName_3ÂõÎıÄá
+
+ServerLineName_4ÌØÂåÒÁ
+
+ServerLineName_5ß¯°İ
+
+ServerLineName_6Ã×ÅµË¹
+U
+eClient_EquipStrength_Tip8×°±¸Ç¿»¯¿ÉÒÔÌáÉı×°±¸ÊôĞÔ\nÇ¿»¯µÈ¼¶Ô½¸ß£¬ÌáÉıµÄĞ§¹ûÔ½Ã÷ÏÔ
+|
+eClient_EquipLowUpgrade_Tip]×°±¸Éı½×¿ÉÒÔ½«×°±¸µÈ¼¶ÌáÉıÖÁÏÂÒ»½×¶Î\n×°±¸Ã¿5¼¶ÎªÒ»¸ö½×¶Î\nÃ¿ÌáÉıÒ»½××°±¸ÊôĞÔ¶¼»áµÃµ½´ó·ùÌáÉı
+
+eClient_EquipHighUpgrade_Tipa×°±¸¸ß¼¶Éı½×¿ÉÒÔ½«×°±¸µÈ¼¶ÌáÉıÖÁÏÂÒ»½×¶Î\n×°±¸Ã¿5¼¶ÎªÒ»¸ö½×¶Î\nÃ¿ÌáÉıÒ»½××°±¸ÊôĞÔ¶¼»áµÃµ½´ó·ùÌáÉı
+#
+eClient_EffectSetName_1µÍ¶Ë»­ÖÊ
+#
+eClient_EffectSetName_2ÖĞ¶Ë»­ÖÊ
+#
+eClient_EffectSetName_3¸ß¶Ë»­ÖÊ
+#
+eClient_EffectSetName_4ÓÅÖÊ»­ÖÊ
+%
+eClient_EffectSetName_5
+×Ô¶¨Òå»­ÖÊ
+%
+eClient_EffectSetNameµ±Ç°Ô¤Éè£º%s
+
+eClient_ItemCD
+µÀ¾ßÀäÈ´ÖĞ
+°
+eProfessionIdx_CattleKing’    Å£Ä§Íõ±¾ÊÇÒ»Í·Ò°Å££¬³öÉúÔÚ´äÔÆÉ½ÖĞ¡£ÒòÎóÊ³ÏÉ²İ¶ø»ñµÃÁéĞÔ£¬ÓÖ¾­ÈıÇ§ÄêĞŞÁ¶³ÉÑı¡£Å¼È»µÄ»ú»áÓÃ×Ô´´µÄÆ½ÌìÊØºâĞÄ·¨¾ÈÁËÂ·¹ıµÄÒòĞŞÁ¶ÌìÄ§½âÌå´ó·¨¶ø×ß»ğÈëÄ§µÄÂŞÉ²Å®£¬Á½ÈËÒòÀûÒæºÍ»òĞí´æÔÚµÄ°®Çé½áÎªÁË·òÆŞ¡£Å£Ä§Íõ¹ã½áºÃÓÑ£¬Èı½çÖ®ÖĞµÄºÜ¶àÃûÈË¶¼ÊÇËûµÄ½á°İĞÖµÜ¡£Å£Ä§Íõ×îÖÕÔÚÓë»ªÌìµÀÈËµÄ¶··¨ÖĞÉñÃØËÀÍö£¬ËûÇ¿´ó¶ø·ßÅ­µÄÁé»ê¾Ü¾øÇ°ÍùµØ¸®£¬µØ¸®Ò²ÄÎºÎ²»ÁËËû¡£ÏÖÔÚµÄËûÊÇÒ»ÃûÓ¢Áé£¬ÀûÓÃËüµÄÁ¦Á¿»»È¡ÁéÆõÊ¦µÄÉíÌåµÄ²¿·ÖÖ§ÅäÈ¨¡£
+ë
+eProfessionIdx_ProtectLingÌ    ÊÀÈË´«Ëµ£¬Ò»É³Ò»ÊÀ½ç£¬ÊÇÒ»ÖÖË¼Ïë¡£µ«´óÀ×ÒôËÂµÄ´óµÂÃÇÖªµÀ£¬Ò»É³Ò»ÊÀ½ç£¬ËµµÄÊÇÒ»ÖÖ·¨ÃÅ£¬Ò²ÊÇÒ»ÖÖÊÂÊµ¡£
+    ÓÀºãÖ®µØµÄ´æÔÚ£¬¶Ô·ğ×æÀ´Ëµ²¢²»ÊÇÃØÃÜ£¬¸üÓĞ·½·¨¿ÉÒÔÍ¨¹ıÒ»ÖÖÉ³Àù´óĞ¡µÄËíµÀÍ¨ÍùÆäËûÊÀ½ç£¬ËûÃÇ³ÆÕâ¸öËíµÀÎª£º³æ¶´¡­¡­
+    ÔÚ·ğÃÅÑÛÖĞ¿´À´£¬ÓÀºãÖ®µØµÄÓ¢ĞÛÃÇËÀÈ¥ÓÖ»îÀ´µÄ¹ı³Ì¾ø¶ÔÊÇÊÀ½çÉÏ×îÍ´¿àµÄĞÌ·££¬ÄÇÃ´ÓÀºãÖ®µØºÁÎŞÒÉÎÊ¾ÍÊÇÕæÕıµÄµØÓü¡£
+    ÌÆÉ®Ê¦Í½ÔÚÍê³ÉÁËÈ¡¾­Ö®ºó£¬·ğÃÅÓÖ¸ø³öÁËĞÂµÄÈÎÎñ£ºÇ°ÍùÓÀºãÖ®µØ£¬ÆÕ¶ÈÖÚÉú£¡
+    ÇÒ¿´ÕâÊ¦Í½ËÄÈË£¬ÈçºÎ½ÁµÃÓÀºãÖ®µØÌì·­µØ¸²£¡
+Ã
+eProfessionIdx_RockColossus£ÑÒÊ¯¾ŞÏñÍú´ï¾İËµÊÇÉúÃüÖ®Ä¸²¹ÌìËùÓÃµÄÎåÉ«Ê¯ÔĞÓı³öµÄÉúÁé£¬¾Ş´óµÄÉíÇû¸øÓèÁË¾ŞÏñ¿Ö²ÀµÄÁ¦Á¿£¬ËûÄÜÈÓ³ö¾Ş´óµÄÊ¯Í·À´ÔÒÔÎµĞÈË£¬ÄÇ¼áÓ²Òì³£µÄÑÒÊ¯Æ¤·ô²»µ«±£»¤×Å×Ô¼º£¬»¹ÄÜ¸øÓè¶ÓÓÑÖ§³Ö£¬ÎåÉ«Ê¯µÄÉíÌå¸øÓèËûµÄÊÇÓë´óµØµÄ¹µÍ¨£¬¶øÉúÃüÖ®Ä¸Ëù´ÍÓèµÄ½û¶ÏÁ¦Á¿,´´ÔìÔÙÉúÔòÈÃÑÒÊ¯¾ŞÏñ³ÉÎªÁËÕ½³¡ÉÏÓÀÔ¶²»»áµ¹ÏÂµÄ¿Ö²ÀÉíÓ°¡£
+„
+eProfessionIdx_AnamnesisCohereràÆæÀ­±È¡¤ÒÁ¿ËË¹ÆÕÂŞµÂÊÇÒ»¸ö·Ç³£³ÕÃÔÓÚ×êÑĞ¶¯Á¦Ñ§¼¼ÊõµÄ²©Ê¿£¬Ëû»¨ÁË¶àÄêµÄÅ¬Á¦ÑĞÖÆ³öÒ»¸ö¾ßÓĞ³öÉ«×ÔÎÒĞŞ¸´ÄÜÁ¦µÄ»úÆ÷ÈËÖúÊÖ£¬À´°ïÖúËû½øĞĞÒ»Ğ©Î£ÏÕµÄÊµÑé£¬Ëû¸øÕâ¸ö»úÆ÷ÈËÈ¡Ãû±«Ä·¡¤ÒÁ¿ËË¹ÆÕÂŞµÂ£¡È»¶ø²»ĞÒµÄÊÂ·¢ÉúÁË£¬¶ñÄ§Í³ÁìµÃÖªÁËÕâ¸öÏûÏ¢Ö®ºó¾ö¶¨ÄÃÏÂ±«Ä·¾İÎª¼ºÓÃ¡£ÆæÀ­±ÈÊÇ¸ö°®ºÃºÍÆ½µÄÕıÒåÖ®Ê¿£¬Ò»Ö±Í´ºŞ¶ñÄ§Í³ÁìµÄÈëÇÖ¡£ÔÚ¶ñÄ§Í³ÁìÉÏÃÅÇ¿ÇÀÖ®Ê±£¬ÒòÎªÆæÀ­±ÈµÄÍçÇ¿·´¿¹²¢ÓÃ·¢Éä×°ÖÃ½«±«Ä·ËÍÏòÌì¿Õ£¬²ÅÈÃ±«Ä·µÃÒÔÌÓ³ö¶ñÄ§Í³ÁìµÄÄ§×¦¡£±«Ä·Ç×ÑÛÄ¿¶Ã×Ô¼ºµÄÖ÷ÈË±»¶ñÄ§Í³Áì²ĞÈÌÉ±º¦Ö®ºó£¬¾ö¶¨Óë¶ñÄ§Í³Áì¶Ô¿¹µ½µ×£¡
+Ç
+eProfessionIdx_Monkey­³öÉíÃÀºïÍõÊÀ¼ÒµÄĞ¡Ê£´ÓĞ¡¾Í±»µ±³É¼Ò×åĞÂÒ»´úµÄ¼Ì³ĞÈËÀ´ÅàÑø,¿ÉÊÇÒòÎªÍçÆ¤µÄĞÔ¸ñËûÔÚ16ËêÊ±´³ÏÂÁËÃÖÌì´ó»ö£¬±»ÆÈÀë¼Ò³ö×ß£¬´ø×Å¼Ò´«Ö®±¦½î¶·ÔÆ£¬½ğ¹¿°ôÒÔ¼°ÈıÃÇºÃ¡°¼¦¡±ÓÑÒ»Æğ´³µ´½­ºş¡£
+Î
+eProfessionIdx_bianyimogu°    ºÍÆäËûÀ´×ÔÒìÊÀ½çµÄÓ¢ĞÛÃÇ²»Í¬£¬±äÒìÄ§¹½¡¤ÌòÌòÊÇÓÀºãÖ®µØÍÁÉúÍÁ³¤µÄ¾ÓÃñ¡£
+    ÎªÁËÓ¦¸¶±±·½Íõ¹úµÄÈëÇÖ£¬´ó·¨Ê¦°¬Î¬ÅµÔÚÄÏ·½ÒõÓôÊªÈÈµÄ´ÔÁÖÖĞÊµÑéÒ»ÖÖÈ«ĞÂµÄ·¨Êõ£º½«³ÁË¯°ÙÄêµÄ¹ÅÄ¾»½ĞÑ£¬ÈÃËüÃÇ³ÉÎªÄÏ·½¾ü¶ÓµÄÊ¿±ø¡£
+    µ«ÊÇÊµÑéµÄ½á¹û³öÁËµãÎÊÌâ¡£ÈÃÒ»Ö»¶ã²ØÔÚÒõÓ°ÖĞµÄŞ¦¹½ÎüÊÕÁËÄ§Á¦¡£Ëü²»¶ÏÅòÕÍ£¬²»¿ÉÊÕÊ°£¬Ëü¾ÍÊÇÓÈÊ·Èğ¡£
+    ÌòÌòµÄµ½À´ºÜ¿ì³ÉÎªÄÏ·½µÄÔÖÄÑ¡£ÕâÖ»¾Ş´óµÄÄ§¹½²»ÊÇÖ²Îï¡¢¶¯Îï¡¢Õæ¾ú£¬ËüÊÇ¿ÉÅÂµÄÄ§·¨ÉúÎï£¬ËüÍÌÊÉ×ÅÒ»ÇĞ×èµ²ÔÚ×Ô¼ºÃæÇ°µÄ¶«Î÷£¬ÔÚ±³ºóÁôÏÂÒ»ÌõÄ¢¹½Ö®Â·¡£
+    ÎªÁËÊø¸¿ÕâÍ·¿ÉÅÂµÄÄ¢¹½¡£ÕÙ»½Ê¦ÃÇ°ÑÌòÌò´øµ½ÁËÓÀºãÖ®µØµÄ¾º¼¼³¡¡ª¡ªÏÖÔÚ£¬ÌòÌòÓĞ×ã¹»µÄÓ¢ĞÛ¿ÉÒÔÍÌÊÉÁË¡£
+º
+eProfessionIdx_huaxingzhanshi˜    ÓÀºãÖ®µØÄÏ·½£¬ÒõÓô´ÔÁÖÀï£¬Ò»Ö§»¯ĞÎÑı²¿ÂäÔø½¨Æğ¹ı¹ÖÒìµÄÎÄÃ÷¡£
+    ¾İËµ»¯ĞÎÑıÊÇÄÏ±±Õ½ÕùÖĞÊÜµ½Ä§·¨·øÉäµÄÊ·À³Ä·¡£ËûÃÇÄÜËæÒâ±ä»¯£¬»ìÈëÈËÈºÖĞÄ£·ÂÈËÀàµÄÎÄÃ÷¡£ÕâÈÃÈËÀà¾õµÃËûÃÇÊ®·ÖÎ£ÏÕ¡£
+    ÎªÁËÇå½ËÕâĞ©ÄÜ±ä»¯µÄÉúÎï¡£ÄÏ·½³Ç°îµÄÁìÖ÷ÃÇµÚÒ»´ÎÁªÊÖºÏ±ø£¬²ùÆ½ÁË´ÔÁÖÀïµÄ»¯ĞÎÑı²¿Âä¡£
+    µ«ÓĞÒ»ÆğÀıÍâ¡£Ò»Î»»¯ĞÎÑıÕ½Ê¿£¬¿ËÀ×Ë¹½ÄĞÒ´ÓÕâ³¡ÍÀÉ±ÖĞÌÓÍÑ¡£ÔÚÕâ³¡Õ½ÕùÖĞËû¸ĞÊÜµ½ÁË¿Ö¾å£¬Ñ§»áÁËÈËÀàµÄÔ÷ºŞ¡£ÕâÕæ·í´Ì£¬»¯ĞÎÑıÖ»ÏëÑ§Ï°ÈËÀàµÄÎÄÃ÷£¬È´×îÖÕÑ§µ½ÁËÈËÀàµÄ¶ñÒâ¡£
+    ÎªÁË¸´³ğ£¬¿ËÀ×Ë¹À´µ½ÁË´ó¾º¼¼³¡¡£ÔÚÕâÀï£¬Ëû½«ÒÀ¿¿×Ô¼ºÔÚ´ÔÁÖÖĞÑ§µ½µÄá÷ÁÔ¼¼ÇÉ£¬¶ÔÈËÀà´ó¿ªÉ±½ä¡£
+«
+eProfessionIdx_meihouwang    ÓÀºãÖ®µØµÄÕÙ»½Ê¦ÃÇÈÈÖÔÓÚÕÙ»½Òì½çµÄ´«ÆæÓ¢ĞÛ¡£
+    µ«ÕâĞ©Õ½¶·¾­Ñé·á¸»µÄÓ¢ĞÛºÜÈİÒ×°ÚÍÑÕÙ»½ÆõÔ¼£¬´óÄÖ¾º¼¼³¡¡£
+    ÓĞÒ»Î»ÄêÇáÕÙ»½Ê¦¾ÍÔøÏëÕÙ»½Ä³¸ö¹ÅÀÏµÄÓ¢ĞÛ¡ª¡ªÒ»Ö»¹ÅÀÏµÄÊ¯ºï£¬¾İËµËü»ÓÎè×ÅÒ»¸ù¾Ş´óµÄ°ô×Ó£¬²îµã´İ»ÙÁË×Ô¼ºËùÔÚÊÀ½çµÄÌìÌÃ¡£
+    È»¶øÕÙ»½ÒÇÊ½³öÁËµã´í¡£ÓÚÊÇÒ»ÃûÓµÓĞÉñºïÑªÂöµÄÉÙÅ®±»ÕÙ»½µ½ÁËÓÀºãÖ®µØ¡£
+    ËïĞ¡ÃÀ£¬Õâ¸öÉÙÅ®ÓµÓĞ²»Ñ·ÓÚÆäÊ¯ºï×æÏÈµÄÁ¦Á¿£¬ËıÒ»½µÊÀ¾Í¿ªÊ¼·è¿ñÆÆ»µÕÙ»½Ê¦µÄÊµÑéÊÒ¡£
+    ÆÈ²»µÃÒÑ£¬ÕÙ»½Ê¦ÃÇºÏÁ¦½«ËïĞ¡ÃÀ·ÅÖğµ½ÁËÄÏ·½µÄÉ­ÁÖÖĞ¡£ÄÇÀïµÄÉ­ÁÖ²ÅÄÜÈÃ¿ñ±©µÄÉÙÅ®Æ½¾²ÏÂÀ´¡£µ«Ò»µ©Õ½ÊÂĞèÒª£¬ÕÙ»½Ê¦ÒÀÈ»ĞèÒªËıµÄÁ¦Á¿¡£
+Â
+eProfessionIdx_jifengzhiren¢    µ±ÕıÃæÕ½³¡Ê§ÀûÊ±£¬ÈÌÕß½«´ÓºÚ°µÖĞÏÖÉí£¬³ÉÎªÅ¤×ªÊ¤¸ºµÄ¹Ø¼ü¡£
+    ¼²·çÖ®ÈÌÍûÔÂÊÇÄÏ·½³Ç°îËùÕÙ»½µÄ¹ÍÓ¶±øÖ®Ò»¡£¾İËµËıÉúÀ´¾Í¶®µÃÕÆ¿Ø·çµÄÁ¦Á¿¡ª¡ªÒò´ËËı²ÅÄÜË³Àû»ÓÎè¾Ş´óµÄ·ç³µÊÖÀï½£¡£
+    ÔÚÕ½³¡ÉÏ£¬¼²·çÖ®ÈÌµÄ¾ŞĞÍÊÖÀï½£ÍğÈç¿ÉÅÂµÄ·ç±©£¬Ï¯¾íËùÓĞµĞÈË¡£¶øÆæÃîµÄÈÌ·¨¸üÄÜÈÃ¾ü¶Ó×ãÏÂÉú·ç£¬Ö±µ·µĞÈËµÄÒªÈû¡£
+
+eProfessionIdx_manchuiyongshiß    Î¬¾©ÈË¿ËÂ³¸ñÉîĞÅ£¬µ±×Ô¼ºÓÂ¸ÒµØÕ½ËÀÉ³³¡ºó£¬Ëû½«ÔÚÅ®ÎäÉñµÄ½ÓÒıÏÂ£¬¿ç¹ı²ÊºçÇÅ£¬½øÈëÌìÌÃ¡£¿ËÂ³¸ñÉîĞÅÆ¾×Ô¼ºµÄÓÂÃÍÕ½¼¨£¬×ãÒÔµÃµ½°Â¶¡µÄ½Ó¼û¡£
+    µ«ÕâÒ»ÇĞÏ£ÍûÂä¿ÕÁË£¡ÒòÎªµ±ËûËÀºóÕö¿ªÑÛ¿´µ½µÄ²»ÊÇÃÀÀöµÄÅ®ÎäÉñ£¬¶øÊÇÒ»¸öÍá¹ÏÁÑÔæµÄÕÙ»½Õß¡£ËûÒ»Å­Ö®ÏÂ²ÙÆğ´¸×Ó£¬½«ÕÙ»½Ê¦ÔÒ·­ÔÚµØ¡£
+    ·Ñ¾¡¿ÚÉà£¬ÕÙ»½Ê¦ÃÇ²ÅÈÃ¿ËÂ³¸ñÃ÷°×Ëû²¢Ã»ÓĞËÀÍö¡£ÕâÎ»ÓÂÃÍµÄÎ¬¾©Õ½Ê¿Ö»ÊÇ±»ÕÙ»½Ê¦ÃÇ´øÈëÁËÓÀºãÖ®µØ£¬Ò»¸öÕ½ÕùµÄÌìÌÃ£¡
+    Ã»ÓĞÊ²Ã´ÄÜ±È¡°ÔÙ´ò¸öÈı°Ù»ØºÏ¡±ÈÃÎ¬¾©ÈË¸ü¸ßĞËµÄÁË£¡ÏÖÔÚ¿ËÂ³¸ñÔÙ¶È²ÙÆğ´¸×Ó£¬ÎªÕÙ»½Ê¦ÃÇ¶øÕ½¡£
+í
+eProfessionIdx_yingxiongwangÌ    ÊÀÈË´«Ëµ£¬Ò»É³Ò»ÊÀ½ç£¬ÊÇÒ»ÖÖË¼Ïë¡£µ«´óÀ×ÒôËÂµÄ´óµÂÃÇÖªµÀ£¬Ò»É³Ò»ÊÀ½ç£¬ËµµÄÊÇÒ»ÖÖ·¨ÃÅ£¬Ò²ÊÇÒ»ÖÖÊÂÊµ¡£
+    ÓÀºãÖ®µØµÄ´æÔÚ£¬¶Ô·ğ×æÀ´Ëµ²¢²»ÊÇÃØÃÜ£¬¸üÓĞ·½·¨¿ÉÒÔÍ¨¹ıÒ»ÖÖÉ³Àù´óĞ¡µÄËíµÀÍ¨ÍùÆäËûÊÀ½ç£¬ËûÃÇ³ÆÕâ¸öËíµÀÎª£º³æ¶´¡­¡­
+    ÔÚ·ğÃÅÑÛÖĞ¿´À´£¬ÓÀºãÖ®µØµÄÓ¢ĞÛÃÇËÀÈ¥ÓÖ»îÀ´µÄ¹ı³Ì¾ø¶ÔÊÇÊÀ½çÉÏ×îÍ´¿àµÄĞÌ·££¬ÄÇÃ´ÓÀºãÖ®µØºÁÎŞÒÉÎÊ¾ÍÊÇÕæÕıµÄµØÓü¡£
+    ÌÆÉ®Ê¦Í½ÔÚÍê³ÉÁËÈ¡¾­Ö®ºó£¬·ğÃÅÓÖ¸ø³öÁËĞÂµÄÈÎÎñ£ºÇ°ÍùÓÀºãÖ®µØ£¬ÆÕ¶ÈÖÚÉú£¡
+    ÇÒ¿´ÕâÊ¦Í½ËÄÈË£¬ÈçºÎ½ÁµÃÓÀºãÖ®µØÌì·­µØ¸²£¡
+ì
+eProfessionIdx_emolieshouÎ    ³ÉÎªÓÄ°µ³ÇµÄÅ®ÍõÖ®ºó£¬ÍöÁéÅ®Íõ³£³£»³ÄîÔÚÉ­ÁÖÖĞ´©ĞĞµÄÈÕ×Ó£¬È»¶øÏÖÔÚ¹ı¶à½Ó´¥ĞÂÏÊ¿ÕÆøºÍÑô¹âÖ»»áÈÃ×Ô¼ºµÄ¸¯ÀÃ¼Ó¾ç¡£
+    ÎªÁËÅÅÇ²Å®ÍõµÄ·³ÃÆ£¬·¨À­Äá¶ûÑĞÖÆ³öÒ»ÖÖÃÎ¾³Ò©¼Á£¬¿ÉÒÔÈÃÅ®ÍõÔÚË¯ÃÎÖĞÂÃĞĞ¡£
+    È»¶øÕâÖÖÒ©¼ÁĞ§¹ûÒòÎªÒ»´ÎÒâÍâµÄ¸ÉÈÅ¶ø²úÉúÁËÒâÍâµÄĞ§¹û¡ª¡ªÅ®ÍõµÄÁé»ê¿çÔ½ÁË¾§±Ú£¬½øÈëÁËÓÀºãÖ®µØ£¬ÔÚÄÇÀï£¬Å®Íõ¿ÉÒÔ¾¡ÇéµØ±¼ÅÜºÍÏíÊÜÉ±Â¾µÄ¿ì¸Ğ¡£
+‹
+eProfessionIdx_jixiegongdiì    »Øµ½µØÇòµÄ»ùÄáÒ»Ö±ÔÚÎªÖØ½¨µØÇò¶øÅ¬Á¦¹¤×÷×Å£¬Ö±µ½ËüÀÏ»¯µ½²»ÄÜÔÙÆô¶¯¡£
+    ±»ËÍ½ø²©Îï¹İµÄ»ùÄáÏíÊÜ×ÅºóÊÀÈËÀàµÄ°®´÷¡£È»¶ø»úÆ÷ÈËÃÇÒ²Ëæ×ÅÎÄÃ÷µÄÌáÉı¶øÓµÓĞÁË×Ô¼ºµÄÁ¢³¡£¬²¢·¢¶¯ÁË¶ÔÈËÀàµÄÕ½Õù£¬ÎªÁË´ò»÷ÈËÀàµÄĞÅĞÄ¡£
+    »úÆ÷ÈËÖ®Íõ½«»ùÄá¸ÄÔìÎªÁËÕ½¶·»úÆ÷ÈË²¢ÇÒÖØĞÂ¼¤»îÁËËü¡£¸´»îµÄ»ùÄáÎŞ·¨ÒÖÖÆ×Ô¼ºÉ±Â¾µÄ³å¶¯£¬ÎªÁË±ÜÃâÉËº¦ÈËÀà£¬Ëü¼¤»îÁË²»ÎÈ¶¨µÄºÚ¶´£¬±»Ê±¿ÕÂÒÁ÷¾íÈëÁËÓÀºãÖ®µØ¡£
+‰
+eProfessionIdx_hanbingnvjisiè    ÎªÁËÊ¹×Ô¼º±äµÃ¸üÇ¿£¬¹ÅÄÈ²»¶ÏÑ°ÕÒ¸üÇ¿µÄ¶ÔÊÖ¡£
+    È»¶øÔÙ¸ß³¬µÄ¼¼ÇÉºÍÇ¿º·µÄÈâÌåÒ²ÎŞ·¨±ÜÃâËÀÍöµÄÀ´ÁÙ¡£
+    ÎªÁË¼ÌĞøÕ½¶·£¬¹ÅÄÈÔÚĞé¿ÕÖĞ½ÓÊÜÁËÀ´×ÔÄ°ÉúÓîÖæµÄÆõÔ¼£¬À´µ½ÁËÓÀºãÖ®µØ¡£ÔÚÕâÀï£¬ËıÖÕÓÚ¿ÉÒÔÅ×È´Ò»ÇĞ¹ËÂÇ£¬½«Õ½¶·µÄ±¾ÄÜ·¢»Óµ½¼«ÖÂ¡£
+Ä
+eProfessionIdx_leitingzhinu¤    À×öªÖ®Å­ÃÀµÒÑÇÊÇµº¹ú×îÄêÓ×µÄ¹«Ö÷¡£¾İËµµ±ËıµÄÄ¸Ç×Éú²úÊ±£¬µº¹úÕıÔâÊÜ°ÙÄêÒ»ÓöµÄ·ç±©ËÁÅ°¡£¶øµ±¹«Ö÷°²È»³öÉúÊ±£¬ËıµÄÄ¸Ç×Ò²ÒÑ¾­ÄÑ²ú¶øÍö¡£
+    ÓÚÊÇÈËÃÇ·¢ÏÖÒ²ĞíËıÕıÊÇÀ×öª·ç±©µÄ»¯Éí¡£ËæÊ±ËæµØ£¬¹«Ö÷×ÜÊÇ³äÂúÁËÄÑÒÔÊÍ·ÅµÄÅ­Æø£¬Ã»ÓĞÄÄ¸öÅ®ÆÍ¸ÒÓÚ¿¿½üËı¡£Õâ²»½öÊÇÒòÎª·ßÅ­£¬¸üÊÇÒòÎªËıÖÜÉí»·ÈÆ×ÅÖÂÃüµÄÄ§·¨¡£
+    ×÷Îª×ğ¹óµÄ¹«Ö÷£¬ÃÀµÒÑÇµÄÁ³ÉÏÊ¼ÖÕ¹Ò×Å°ÁÂıºÍÀäÄ®µÄ±íÇé¡£Ëı²»Ğ¼ÓÚĞĞ×ß£¬ÒòÎª·ç»áÍĞÆğËıµÄË«½Å£¬²»ÈÃÎÛ»àµÄ´óµØÒÔ³¾ÍÁçèÈèËıµÄ´¿½à¡£
+æ
+eProfessionIdx_liluoÍ    ÄÏ·½³Ç°îºÍ±±·½µÛ¹úÖ®¼äµÄÕ½Õù£¬ÒıÆğÁËÆäËûÎïÖÖµÄ×¢Òâ¡£
+    Ò»Ö±ÒÔÀ´Éú»îÔÚÆ½¾²É½¹ÈÖĞµÄ»ô±ÈÌØÈË£¬¾¯¾õµØÊúÆğ¶ú¶ä£¬ÇãÌı´óµØµÄÕğ¶¯¡£ËûÃÇ±Ü¿ªË«·½ĞĞ¾üµÄÂ·Ïß£¬Ïò°²È«µÄµØ·½×ªÒÆ¡£
+    µ«ÊÇ£¬µ±Õ½»ğÈ¼ÉÕµ½ÎŞ´¦²»ÔÚÊ±£¬»ô±ÈÌØÈË¾ÍÔÙÒ²Ã»ÓĞÁËÍËÂ·¡£
+    ²¨¿¨ÊÇ»ô±ÈÌØ¿Æ¼¼Õì²ìĞ¡¶ÓµÄ¶Ó³¤£¬Õâ¸ö°«Ğ¡µÄÇ°Õì²é±øÈÏÎª£¬ÒªÈÃÍ¬°éÃÇ»ñµÃ°²ÎÈµÄ¾Ó×¡µØ£¬×îºÃµÄ°ì·¨Äª¹ıÓÚ°ïÖúÄ³Ò»·½ÈËÀàÓ®µÃÕ½Õù¡£ÓÚÊÇËûÇ°ÍùÈËÀàµÄ¾Ó×¡µØ£¬ÓëÒ»Î»ÕÙ»½Ê¦ÁìÖ÷´ï³ÉÆõÔ¼£¬Ëû½«ÎªÄÏ·½³Ç°îÁªÃË¶øÕ½£¬ÒÔËû¾Ş´óµÄÍËËõÅÚÊÕÊ°µĞÈË£¡
+¯
+eProfessionIdx_qiandai”    ÌÓÈÌ¶à°ë»î²»³¤¡£
+    ¡°Ó°ÎèÕß¡±Ç§´úºÍ¡°¼²·çÖ®ÈÌ¡±ÍûÔÂÍ¬ÊôÓÚÄÏ·½³Ç°î¹ÍÓ¶µÄÈÌÕß²¿¶Ó¡£ÍûÔÂÉÃ³¤ÒÔÈÌÊõ¸¨Öú¾ü¶Ó×÷Õ½£»¶øÇ§´úÔòÊÇ¶ÀÀ´¶ÀÍùµÄ´Ì¿Í£¬µ¶ÏÂÉÙÓĞ»î¿Ú¡£
+    È»¶øËæ×ÅÕ½Õù¼Ó¾ç£¬Ç§´úÑá¾ëÁË¿´×Å×Ô¼ºµÄÈÌÕßÍ¬°ûÃÇÒ»¸ö¸öÈ¥ËÍËÀ¡£ËûÃÇÊÇÒşÃØ²¿¶Ó£¬²»ÊÜÕı¹æ¾üµÄ×ğÖØ£¬Éí»³µÄÈÌÊõÓÖÈÃÈËÎ·¾å¡£×îÖÕÇ§´ú±³ÆúÁË´å×Ó£¬³ÉÁËÌÓÈÌ¡£
+ÈÌÕßµÄÉúÃü²»ÊôÓÚ×Ô¼º£¬ÊôÓÚ´å×ÓµÄÊ×Áì¡£ÓÚÊÇÒ»Ö½¸ñÉ±ÁîÏÂ´ï£¬ÈÌÕßÃÇÄ¦È­²ÁÕÆ£¬ËæÊ±×¼±¸É±ËÀÕâÎ»ÉùÃûÏÔºÕµÄÇ°±²¡£
+    È»¶øÆù½ñÎªÖ¹´ÓÎ´ÓĞÈË³É¹¦¹ı¡£ÈÎºÎ½Ó½üÇ§´úµÄµĞÈË£¬¶¼ËÀÔÚÁËËı÷ÈÓ°°ãµÄÉí·¨ÏÂ¡£ÁÙËÀÇ°£¬ËûÃÇÑÛÖĞµ¹Ó³×ÅÇ§´úÆáºÚµÄÓ°×Ó¡£
+
+eProfessionIdx_kalasi„    ·ç£¬½«Õ½ÕùÑªĞÈµÄÆøÏ¢´µÉÏÁË±±·½¸ßÔ­¡£
+    Õâ¹ÉÆøÎ¶ÈÃ¿¨À­Ë¹Ôê¶¯²»°²¡£¼¸¸öÔÂÇ°£¬ËûÊÔÍ¼ÌôÕ½²¿ÂäÇõ³¤µÄÎ»ÖÃ¡£×÷ÎªÉÏÈÎÇõ³¤µÄ¶ù×Ó£¬¿ñÕ½Ê¿ÑªÂöµÄ¼Ì³ĞÕß£¬¿¨À­Ë¹ÈÏÎª×Ô¼ºÀíÓ¦µÇÉÏÇõ³¤µÄ±¦×ù¡£
+    ËûÈ·Êµ»÷°ÜÁËÏÖÈÎµÄÇõ³¤£¬µ«Í¬Ê±Ò²°Ñ¶ÔÊÖ¸ø´óĞ¶°Ë¿é¡­¡­µ±¿¨À­Ë¹´ÓÕ½¶·µÄ¿ñÅ­ÖĞÇåĞÑ¹ıÀ´Ê±£¬²¿ÂäµÄÈËÃñÕı¶Ô×Å×Ô¼º¶ªÊ¯Í·¡£ÈËÃÇº¦ÅÂËû¡£
+    Òò´Ë¿¨À­Ë¹Ôâµ½ÁË·ÅÖğ£¬ÔÚ±±·½¸ßÔ­ÉÏÅÇ»²¡£ÏÖÔÚ·çÖĞµÄÕâ¹ÉÑªĞÈÎ¶ÓÖ»½ÆğÁËËûÌåÄÚÕ½¶·µÄ¿ñÈÈ¡£
+    ¼ÈÈ»²¿ÂäÃñ²»½ÓÊÜËû£¬Ëû¾ÍÒªÈ¥×îÊÊºÏ×Ô¼ºµÄµØ·½£ºÕ½³¡¡£¿¨À­Ë¹»áÖ¤Ã÷×Ô¼º£¬Ö¤Ã÷×Ô¼ºµÄË«¸«»áÊÇÊÀ½çÉÏ×îÀ÷º¦µÄÎäÆ÷¡£
+“
+eProfessionIdx_ainuû    ÑªË³×ÅºÓÁ÷Á÷½øº£Àï£¬ÕâÑªÎÛÈ¾ÁËÇå³ºµÄº£Ñó£¬ÈÃÓãÈº»ÅÂÒ¡£ÕâÈÃ°¬Å¬ºÍËûµÄÍ¬°ûÃÇÁ¬Ğø¼¸¸ö¼¾½ÚÊÕ³É²»¼Ñ¡£
+    º£ÃñÃÇ·ßÅ­µØÕÙ¿ª»áÒé£¬Ì½ÌÖÈËÀàÊÀ½çµÄ¶¯Ïò¡£ËûÃÇÒ»ÖÂĞûÅĞÈËÀàÓĞ×ï¡£ËûÃÇµÄÑªºÍ±øÆ÷çèÎÛÁËË®Ö®Ä¸¡£Îª´ËËûÃÇ½«ÏòË®Ö®Ä¸Æíµ»£¬ÕÙ»½Ò»³¡ÃğÊÀµÄº£Ğ¥¡£
+    °¬Å¬Õ¾³öÀ´·´¶ÔÕâ¸ö¾öÒé¡£ËûÔøÔÚÔÂÏÂÆ½¾²µÄº£ÃæÉÏ£¬ñöÌı¹ıÒ»¸öÉÙÅ®·ºÖÛÊ±µÄ¸èÉù¡£ËûÏàĞÅÈËÀàµÄÄÚĞÄ»¹ÓĞÃÀºÃµÄÒ»Ãæ¡£
+    Òé»áÓÚÊÇÏÂÁî°¬Å¬±ØĞëÀë¿ªº£Ñó£¬È¥½áÊøÈËÀàµÄÕ½Õù¡£°¬Å¬ÄÃÆğËûµÄÓã²æ£¬Àë¿ª²¨ÌÎÉîåäµÄº£Ñó£¬À´µ½ÁËÈËÀàÎÄÃ÷µÄÖĞĞÄ¡£ÔÚÕâÀï£¬Ëû½«ÒÔ×Ô¼ºµÄ·½Ê½½áÊøÈËÀàµÄÕù¶Ë¡£
+æ
+eProfessionIdx_bolisiÌ    ÊÀÈË´«Ëµ£¬Ò»É³Ò»ÊÀ½ç£¬ÊÇÒ»ÖÖË¼Ïë¡£µ«´óÀ×ÒôËÂµÄ´óµÂÃÇÖªµÀ£¬Ò»É³Ò»ÊÀ½ç£¬ËµµÄÊÇÒ»ÖÖ·¨ÃÅ£¬Ò²ÊÇÒ»ÖÖÊÂÊµ¡£
+    ÓÀºãÖ®µØµÄ´æÔÚ£¬¶Ô·ğ×æÀ´Ëµ²¢²»ÊÇÃØÃÜ£¬¸üÓĞ·½·¨¿ÉÒÔÍ¨¹ıÒ»ÖÖÉ³Àù´óĞ¡µÄËíµÀÍ¨ÍùÆäËûÊÀ½ç£¬ËûÃÇ³ÆÕâ¸öËíµÀÎª£º³æ¶´¡­¡­
+    ÔÚ·ğÃÅÑÛÖĞ¿´À´£¬ÓÀºãÖ®µØµÄÓ¢ĞÛÃÇËÀÈ¥ÓÖ»îÀ´µÄ¹ı³Ì¾ø¶ÔÊÇÊÀ½çÉÏ×îÍ´¿àµÄĞÌ·££¬ÄÇÃ´ÓÀºãÖ®µØºÁÎŞÒÉÎÊ¾ÍÊÇÕæÕıµÄµØÓü¡£
+    ÌÆÉ®Ê¦Í½ÔÚÍê³ÉÁËÈ¡¾­Ö®ºó£¬·ğÃÅÓÖ¸ø³öÁËĞÂµÄÈÎÎñ£ºÇ°ÍùÓÀºãÖ®µØ£¬ÆÕ¶ÈÖÚÉú£¡
+    ÇÒ¿´ÕâÊ¦Í½ËÄÈË£¬ÈçºÎ½ÁµÃÓÀºãÖ®µØÌì·­µØ¸²£¡
+‹
+eProfessionIdx_mulió    ±±·½µÛ¹ú²¿¶ÓµÄÏß±¨ÖĞ£¬¾­³£»áÌáµ½Ò»Ğ©ÉñÃØÊ§×ÙµÄ²¿¶Ó¡£ËÑË÷µÄ³âºòÃÇÕÒ²»µ½ÂíÆ¥¡¢ÎäÆ÷¡¢¾üÁ¸¡­¡­ËûÃÇÈ«¶¼±»³ÔµôÁË¡£
+    Ä²óÒ¾ÍÊÇËûÃÇÊ§×ÙµÄÔ­Òò¡£Õâ¸ö¿ÉÅÂµÄÈÌÕßÓµÓĞÓëÉú¾ãÀ´µÄ¼¢¶ö¸Ğ¡£Õâ²»ÊÇ¶ÔÊ³ÎïµÄ¿ÊÇó£¬¶øÊÇ¶Ô¡°ÍÌ¡±Õâ¸ö¶¯×÷µÄ¿ÊÍû¡£
+    Ä²óÒµÄ×ì·Â·ğÒ»¸öºÚ¶´£¬ÄÜÍÌÏÂÈÎºÎ¶«Î÷¡ª¡ªÎŞÂÛÊÇÂíÆ¥¡¢ÎäÆ÷¡¢¾üÁ¸¡­¡­»¹ÊÇÊ¿±ø±¾Éí¡£¾¡¹ÜËû´øÉÏÁËÆæ¹ÖµÄÃæ¾ßÑÚÊÎ×Ô¼ºµÄ×ì£¬µ«µ±Ëû¼¢¶öÄÑÄÍÊ±£¬Ã»ÓĞÈË¸Ò´ôÔÚËûµÄÉí±ß¡£
+    Ä²óÒÏë¹ıÒª¼õ·Ê¡£±Ï¾¹ÈÌÕßÒ²ÓĞ×Ô¼ºµÄÉú»î£¬²»¹ıÃ¿µ±¿´µ½³É¶ÑµÄµĞÈË£¬Ëû×ÜÊÇÈÌ²»×¡Ä¥ÑÀ¡£Ä²óÒ»¹ÊÇ¹Ü²»×¡×Ô¼ºµÄ×ì°¡¡£
+Ì
+eProfessionIdx_haokaya±    ÊÇ±©·çÓê½«ÊÓÁ¦ÊÜËğ£¬±»Ä¸Ç×ÒÅÆúµÄğ©¿¨æ«ËÍµ½ÁËÀ×Ó¥µÄ³²Ñ¨¡£
+    ËıÔÚ·çµÄ¿´»¤ÏÂ³É³¤£¬³ÉÁËÄÏ·½ÓêÁÖ´ó¼ÒÍ¥ÖĞÎ¨Ò»µÄÈËÀà³ÉÔ±¡£Ê÷Ä¾ÎªËıÖÆ×÷³¤¹­£¬ÃÍÇİÎªËı¹±Ï×Óğ¼ı£¬·ç½ÌËıÍä¹­¿ªÏÒ¡£
+    ÔÚ·çµÄ¶úÓïÖĞ£¬Ê§Ã÷µÄğ©¿¨æ«¸ĞÊÜµ½ÁËÊÀ½çµÄÂÖÀª¡£ËıÄÜÍ¸¹ı½ÅÏÂµÄÕğ¶¯£¬·çµÄÆøÏ¢£¬»ØÉùµÄ·´ÉäÖªµÀÁÔÎïÌÓÏòºÎ·½¡£Ëı³ÉÁËÓêÁÖÖĞ×î¸ßÃ÷µÄÁÔÈË¡£
+    µ±ÈËÀà¿ªÊ¼ÎªÁËÕ½Õù¿³·¥´ÔÁÖÊ±£¬ğ©¿¨æ«½ÓÊÜÁË·çµÄÌáÒé£¬ËıÓÃ×Ô¼º½»»»ÁËÒ»Ö½Ğ­Òé¡£Ğ­ÒéÉÏËı½«ÎªÄÏ·½³Ç°î¶øÕ½£¬ÒÔ»»È¡É­ÁÖµÄºÍÆ½¡£
+à
+eProfessionIdx_duolixiÅ    ¶àÂÜÎ÷ÓĞĞ©ÌØ±ğµÄÌì·Ö£¬¾ÍÏñÃ¨¶ùÒª³ÔÓãÒ»Ñù£¬ËıÏ²»¶¿´×Å»ğÑæÔÚÊÖÖĞÌøÔ¾È¼ÉÕµÄÑù×Ó¡£
+Îª´ËËıµÄ¸¸Ä¸½«ËıËÍµ½Å®Î×½ÌÄ¸ÄÇ¶ùÑ§Ï°¿ØÖÆ×Ô¼ºµÄÄ§·¨¡£µ«½ÌÄ¸Ê§°ÜÁË£¬ËıÃ»·¨ÈÃ¶àÂÜÎ÷ÊÍ·Å³ıÁË»ğÑæÖ®ÍâµÄÆäËû·¨Êõ¡£
+    ÔÚ·¿×ÓµÚÈı´Î±»ÉÕ³É·ÏĞæÒÔºó£¬Å®Î×½ÌÄ¸½«¶àÂÜÎ÷ÍÆ¼ö¸øÊ¥»ğ½ÌÅÉµÄÄÁÊ¦¡£ËûÃÇ½«ÉÙÅ®°ü×°³ÉÊ¥»ğÔÚÈË¼äµÄ»¯Éí£¬ÓÖ½«ËıËÍÍùÕ½³¡¡£
+    ¶àÂÜÎ÷±»Õ½ÕùÖĞ¸÷ÖÖ¿ÉÅÂµÄ³¡¾°ÏÅµ½ÁË¡£Õâ¸ü´Ì¼¤ÁËËıµÄ×İ»ğÌì¸³¡£ÏÖÔÚ±±·½¾ü¶ÓÓµÓĞÒ»¼şÇ¿´óµÄÎäÆ÷£¬ËûÃÇ¼Æ»®ÓÃÕâ¸ö¿ÉÅÂµÄÉÙÅ®°ÑÄÏ·½³Ç°îÉÕ³É»Ò½ı¡£
+®
+eProfessionIdx_lufei•    ÈËÃÇÒ»¶ÈÈÏÎª´óµØÊÇÆ½µÄ£¬¶øÎŞ¾¡µÄº£Ñó°üÎ§×ÅÊÀ½ç£¬ÏòÊÀ½ç±ßÔµµÄÉîÔ¨ÖĞÁ÷È¥¡£Èç¹ûÄãº½´¬µ½ÁËÊÀ½ç±ßÔµ£¬ÄÇÃ´µÈ´ıÄãµÄ¾ÍÊÇ´ÓÆÙ²¼ÉÏ£¬Á¬ÈË´ø´¬×¹ÈëÉîÔ¨µÄÃüÔË£¬ÓÀÎŞÖ¹¾¡µØÏÂ×¹¡£
+    ÕâÑùµÄ´«ËµÃ»ÄÜ×èÖ¹ÈËÃÇÌ½Ë÷´óº£¡£×ÜÓĞÈË»áÑïÆğ÷¼÷ÃÆì£¬¹Ä¶¯·ç·«£¬´ø×ÅÖ¾Í¬µÀºÏµÄÅóÓÑÒ»ÆğÌ½Ë÷ÉñÃØµÄº£Ñó¡£Õâ¸ö×¢¶¨Òª³ÉÎªº£ÔôÍõµÄÉÙÄê£¬¾ÍÊÇÆäÖĞÒ»ÈË¡£
+    ÑØ×ÅÎ°´óº½Â·Ã°ÏÕµÄÂÃÍ¾ÖĞ£¬²İÃ±Ğ¡×ÓµÄ´¬×îÖÕÔÚ±©·çÖĞÊ§È¥·½Ïò¡£ËüÆ®ÏòÁËÊÀ½ç±ßÔµ£¬²¢ºÜ¿ìË³×ÅÆÙ²¼×¹ÈëÉîÔ¨¡£
+    ÉîÔ¨Ö®ÏÂ¸üÓĞÆäËûÊÀ½ç£¬Ò²ĞíÉîÔ¨±¾Éí¾ÍÊÇÍ¨ÍùÆäËûÊÀ½çµÄº½µÀ¡ª¡ª²»¹ÜÔõÑù£¬ËûµÄµ½À´½«ÎªÕâÆ¬ÓÀºãÖ®µØ´øÈ¥ĞÂµÄ´«Ëµ¡£
+¢
+eProfessionIdx_haenlaite…    Ê¥»ğ½ÌÅÉ±»°¢Ææ²©¶û¼¤Å­ÁË£¬ĞûÑïºÚ°µÊÇ²»¿ÉÈÄË¡µÄ×ïĞĞ¡£Îª´Ë£¬ µ±ÉóÅĞÍ¥µÄÕÙ»½Ê¦ÃÇÆô¶¯ÁËÄÇµÀÉîåäµÄ´«ËÍÃÅÊ±£¬°¢Ææ²©¶ûµÂ´ø×ÅÃïĞ¦£¬Í·Ò²²»»ØÌ¤ÈëÁËÎŞ¾¡Ğé¿Õ¡£¾ÍÕâÑù£¬ÕâÎ»ÄêÇáµÄÌìÎÄÑ§¼Ò×¹ÈëÁËäÎÃğÒ»ÇĞµÄÉîÔ¨¡£
+    µ±°¢Ææ²©¶ûµÂÔÙ´ÎÇåĞÑ¹ıÀ´Ê±£¬ËıÖØĞÂ»Øµ½ÁËÓÀºãÖ®µØ¡£Ëı¸Ğ¾õ×Ô¼º·Â·ğ´©¹ıÁËÒ»¸öÕë¿×£¬ÓÖ»Øµ½ÁËÔ­µã¡£È»¶ø´Ë¿ÌµÄ°¢Ææ²©¶ûµÂÒÑ¾­²»ÔÙÊÇ¸öÉúÀÏ²¡ËÀµÄ·²ÈË£¬Ò»¸öÍ¨ÍùÉîÔ¨µÄÍ¨µÀ£¬ÄÜËæÒâÅ¤ÇúÊ±¿ÕµÄ½á¹¹¡£
+
+¹
+eProfessionIdx_aoteman    ÕâĞ©ºÃÕ½µÄ¾ŞÈË²¢²»ÊÇ³öÓÚÈËµÀÖ÷Òå¶øËÄ´¦ÏûÃğ¹ÖÊŞ£¬ËûÃÇ´¿´âÊÇÎªÁË·¢Ğ¹×Ô¼ºÖÖ×åÌìĞÔµÄ±©Á¦³É·Ö¶øÕ½£¬²»¹ıµ±ÓîÖæÖĞµÄ¹ÖÎïÒÑ¾­±»ÏûÃğµÃËùÊ£ÎŞ¼¸£¬Ä³Ğ©ÌìÉúµÄ±©Á¦¿ñÈËÖ»ºÃ·¢¶¯ÁËÄÚÕ½¡£
+    µ±Õâ¸öÖÖ×åµÄÀíĞÔÖ÷ÒåÕßÃÇ×îÖÕ»ñµÃÁËÊ¤Àû£¬½«¶ÔÊÖ·ÅÖğµ½ÁËÓÀºãÖ®µØ£¬ÏÖÔÚËûÃÇ½«»áÔÚÎŞÇîÎŞ¾¡µÄÕ½¶·ÖĞ±»·ÅÖğÖÁÓÀÔ¶¡£
+
+Ê
+eProfessionIdx_wusuopu¯    ¾àÀëÆ¥Åµ²Ü´ÓÔÂÇò»ØÀ´åâåË°×Ñ©¹«Ö÷ÒÑ¾­¹ıÈ¥Èı¸öĞÇÆÚÁË£¬ÕâĞ©ÈÕ×ÓÀï£¬Æ¥Åµ²Ü¾­ÀúÁËËûÈËÉú×î¿ìÀÖµÄÊ±¹â£¬µ«ºÃ¾°²»³¤£¬ÔÚĞÇÆÚ¶şµÄÏÂÎç£¬ÒòÎªÃ»ÓĞµçÊÓ¿ÉÒÔ¿´£¬ËûºÍ°×Ñ©¹«Ö÷ÎŞÁÄÖ®Óà£¬Ö»ºÃÓÖÕ¹¿ªÁËÒ»ÌË¿ìÀÖµÄÂÃĞĞ¡£
+    Æ¥Åµ²ÜÃ»ÓĞÏëµ½µÄ£¬Ö»ÒòÎªËûËµÁËÒ»¾ä£º¡°¡¶300Ó¢ĞÛ¡·ÊÇÒ»²¿Éè¶¨Ê®·ÖÑÏ½÷£¬×ö¹¤ÎŞ±È¾«ÃÀ£¬Íæ·¨µß¸²Ò»ÇĞ£¬ÊÇ20ÄêÀ´µ®ÉúµÄ×îºÃÍæµÄÓÎÏ·£¡¡±È»ºó¡­¡­È»ºóËû¾Í´©Ô½Ê±¿ÕÁË¡£
+    ÎªÁË»Øµ½ÈÃËûĞÒ¸£µÄ°×Ñ©¹«Ö÷Éí±ß£¬Æ¥Åµ²Ü²»µÃ²»¿ªÊ¼ÂôÃüµØÎªÁËÊ¤Àû¶øÕ½£¡
+©
+eProfessionIdx_woailuo    ¡°ÎÒÃÇĞèÒªÑ±·şÉ³Ä®¡£¡±±±·½»ÊµÛµÄÊ¥Ö¼¾ÍÊÇÈ«Ìå±±·½·¨Ê¦µÄÒâÔ¸£¡ËûÃÇ»æÖÆÕÙ»½Õó£¬¿ªÊ¼½øĞĞÒ»´Î¿ç½çÕÙ»½£¬ÊÔÍ¼´Ó¶à±äµÄÊ±¿ÕÀïÕÒ³öÄÜÑ±·şÉ³Ä®µÄÕ½Ê¿¡£
+    µ±ÕÙ»½µÄÄÜÁ¿ÑÌÎíÉ¢¾¡£¬·¨ÕóÖĞĞÄÕ¾×ÅÒ»¸öÃæÄ¿Àä¾şµÄÉÙÄê£¬ËûÉí±³¾Ş´óµÄºùÂ«£¬¶î½Ç´Ì×ÅÒ»¸öË¶´óµÄ¡°ÊÜ¡±×Ö¡£ÕÙ»½Ê¦ÃÇ·×·×ÃæÂ¶Ê§ÍûµÄÉñÉ«£¬È»¶øµ±ËûÃÇ¿´µ½É³ÀùÍğÈç»îÎï°ãÅÌÈÆÔÚÉÙÄêµÄËÄÖÜ£¬²»¶ÏÏòËûÃÇ·¢¶¯½ø¹¥Ê±£¬ËûÃÇÃ÷°××Ô¼ºµÄÖäÓï²¢Ã»ÓĞÕÒ´íÄ¿±ê¡£
+    Î¨Ò»µÄÒÅº¶ÊÇ£¬ËûÃÇÔÙÒ²ÕÒ²»µ½ÖµµÃĞÀÏ²µÄÀíÓÉÁË¡£Í¨¹ı×Ô¼ºµÄË«ÊÖ£¬ÕÙ»½Ê¦ÃÇ°ÑÉ³µÄ»¯Éí´øµ½ÁËÕâ¸öÊÀ½çÉÏÀ´£¬ÏÖÔÚÈÃËûÃÇÔÚÁíÒ»¸öÊÀ½çÀïÎª×Ô¼ºµÄÓŞĞĞºó»Ú°É¡£
+‹
+eProfessionIdx_saberò    ÄÇÊÇÒ»¸öÍõµÄÊ±´ú¡£
+    ÔÚÔ¤ÑÔÖ®ÈÕ£¬Ò»Î»½Ğ×ö°¢¶ûÍĞÀòÑÅµÄÉÙÅ®°ÎÆğÁËÏóÕ÷×Å³ÆÎªÍõµÄÊ¯ÖĞ½£¡£ÄÇÒ»¿Ì£¬Ëı·ÅÆúÁËÈËµÄÉí·İ£¬Á¢ÊÄÎªÍõ¡£
+    Ã»ÓĞÈËÀà¸ĞÇéµÄÍõÎŞ·¨ÖÎÀíÈË¡£´ø×ÅÕâ·İ²»°²£¬Ôø¾­ÖÒ³ÏµÄÆïÊ¿Â½ĞøÀë¿ªÍõ³Ç¡£ËıÍû×ÅËıÃÇÔ¶È¥µÄ±³Ó°£¬Ö»ÊÇÇáÌ¾¡£
+    ËıÔÚ×îºóÒ»³¡Õ½¶·ÖĞÉ±ËÀÁË×Ô¼ºµÄÇ×ÈË£¬ÉËºÛÈ´Ã»ÓĞ±»ÖÎÓú¡£ÕâÊÇÈË³ÆÆïÊ¿ÍõµÄËı£¬ÈËÉúµÄ×îºóÒ»¿Ì¡£
+    »òĞíËıµÄÁé»êÈÔÔÚÕ½³¡Ö®ÉÏ¡£ÔÚÄÇÆÆÏşÇ°£¬ÔÚÀ¶É«µÄÌì¿ÕÏÂ£¬ËıÈÎÆ¾Î¢·ç´µ×ÅÉíÌå£¬Ö»ÊÇ³¯Ô¶·½Ì÷Íû¡£Ìì¿ÕºÜ¸ß£¬ÔÆÁ÷¶¯µÃºÜ¿ì¡£ÔÚ³Î³ºµÄ¿ÕÆøÖĞ£¬ËıÊÖÉÏÎÕ×Å½££¬¿´×ÅÓ¦¸ÃÓ­»÷µÄ´ó¾ü¡£
+Ò
+eProfessionIdx_xialuote¶    ÕâÎ»´ó¹«Ö®Å®ÒÔÎŞË«½£¼¼Õ½Ê¤ÁËËùÓĞµÄ×·ÇóÕß£¬ÎªÁËÏò¸ü¸ßµÄ¾³½ç½ø¾ü£¬ËıÌ¤ÉÏÁË×·Çó½£µÀµÄ¶«ÓÎÖ®ÂÃ¡£
+    Íù·ğ¹ú²ÎÎò»Û½£Ö®Òå¡¢µÇÀ¥ÂØÁìÂÔÓù½£Ö®µÀ¡¢Ì¤å­ÖŞ¶áÈ¡ŞÈ½£Ö®ĞÄ¡£
+    µ±Ëı·¢ÏÖÊÀ½çÒÑÖÁ¾¡Í·£¬ÌìÏÂÔÙÎŞ¿ÉÎÊµÀÖ®ÈËÊ±£¬ÕâÎ»¾ª²É¾øÑŞµÄÅ®×ÓÒ»½£Õ¶¿ªÁËÊ±¿Õ¡ª¡ªÔÚÔ­À´µÄÊÀ½ç£¬Ãµ¹å½£Ê¥ÆÆ¿Õ¶øÈ¥£¬¶øÔÚÓÀºãÖ®µØ£¬Ëı½«×ß½øĞÂµÄ´«Ëµ¡£
+¿
+eProfessionIdx_yadianna£    ³öÉú×ÔÓÀºãÖ®µØµÄÑÅµäÄÈ£¬ÎªÁËÑ¡°ÎºÍÕÙ»½ÊôÓÚ×Ô¼ºµÄÇ¿´óÓ¢ĞÛ£¬ÀûÓÃ×Ô¼ºµÄÃÀÃ²ºÍËùÎ½µÄÕıÒåÈ¥ºöÓÆÁËÒ»ÅúÉÙÄê£¬²¢³ÆÖ®ÎªÊ¥¶·Ê¿£¬ÈÃÄÇĞ©Ê¥¶·Ê¿ÃÇÎªÖ®¸°ËÀÔÙ¸´»î£¬¸´»îÔÙ¸°ËÀ¡­¡­µ±Ê¥¶·Ê¿ÃÇÀ´µ½ÓÀºãÖ®µØ£¬²¢ÖªÏ¤ËùÓĞÒò¹ûÖ®ºó£¬²ªÈ»´óÅ­µÄËûÃÇÁªºÏÆğËßÁËÑÅµäÄÈ¡£ÔÚÌúÒ»°ãµÄÖ¤¾İÖ§³ÖÏÂ£¬ÑÅµäÄÈ°ÜËßÁË¡£
+    ÔÚËıµÄÅĞ¾öÊéÉÏĞ´×Å£ºÒòÎªÈÃÓ¢ĞÛ¹ıÓÚÆµ·±µØËÀÍö£¬ÌØÅĞ¾ö°ş¶áÑÅµäÄÈÕÙ»½Ê¦Éí·İ£¬½øÈëÓ¢ĞÛÖ®ÁĞ£¬ÔÚÃ¿Ìì±»É±¼¸°ÙÍò´ÎµÄ¼å°¾ÖĞÎª×Ô¼ºµÄ¶ñÁÓĞĞÎªÊê×ï£¡
+‡
+eProfessionIdx_shilaikeë    Ëæ×Å°¢·²ÌáµÄÃûÆøÔ½À´Ô½´ó£¬·ÛË¿ÃÇÈÃËûµÄÉú»îÈÕ½¥À«´ÂÁËÆğÀ´£¬ËûµÄÂ¿×Ó»ï°éÖğ½¥±»ËûËùÊèÔ¶£¬°¢·²ÌáÒ»ÃÅĞÄË¼Ïë×ÅÈçºÎË¦µôÕâÍ·ÀÏÂ¿×Ó²¢ÓÃËüÔÙ×¬ÉÏÒ»±Ê¡£
+    Ö±µ½Ä³ÌìËûÏëµ½ÁËÒ»¸ö¾øÃîµÄ¼Æ»®£¬Ëû»Ñ³ÆÕâÊÇÍ·¿ÉÒÔÀ­½ğ±ÒµÄÂ¿×Ó£¬²¢Ç£×ÅÂ¿×ÓÕÒµ½ÁËÌìÕæÀÃÂşµÄ°ÍÒÀÀÏÒ¯£¬Ëµ·şËûÓÃÈ«²¿µÄ²Æ²ú»»È¡ÁËÕâÍ·Â¿×Ó£¬´Ó´ËÒÔºó¡­¡­°¢·²Ìá³ÉÁË²ÆÖ÷ÀÏÒ¯£¬¶ø°ÍÒÀÀÏÒ¯Ôò±äµÃÒ»ÎŞËùÓĞ¡ª¡ª³ıÁËÄÇÍ·Â¿×Ó¡£
+    ¾ÍÔÚËû¾õµÃÇ°Í¾Ò»Æ¬»Ò°µµÄÊ±ºò£¬ÕâÍ·Â¿×Ó¾ÓÈ»¿ª¿ÚËµ»°ÁË£º¡°Ç×°®µÄÅóÓÑ£¬Çë²»Òª±¯ÉË£¬ÎÒ²¢²»ÊÇÒ»Í·Â¿×Ó£¬ÎÒÊÇÈûÂ×¸ÇµØµÄ°ßÂíÍõ×Ó¡ª¡ª°Â°ßÂí£¡ÎÒÔøÔÚÂí´ï¼ÓË¹¼Ó±íÑİ¹ı£¬ÓµÓĞÖÚ¶àµÄ·ÛË¿£¬Èç¹ûÄãÄÜ°ïÖúÎÒ»Øµ½Å¦Ô¼£¬ÎÒ»á¸øÄãºÜ¶àºÜ¶àµÄ²Æ±¦£¬ÃÀ½ğ£¡Äã¶®Ã´£¿¡±
+    ÌìÕæÀÃÂşµÄ°ÍÒÀÀÏÒ¯ÓÖÏàĞÅÁËÂ¿×ÓµÄ»°£¬Å¶£¬ÊÇ°Â°ßÂíµÄ»°¡­¡­ÓÚÊÇËûÃÇÉÏÂ·ÁË£¬¾­ÀúÁËÎŞÊıµÄ¹ÊÊÂ£¬¿ÉÒÔ½²ÕûÕûÒ»Ç§ÁãÒ»Ò¹£¬×îÖÕ×ß½øÁËÒ»¸ö½Ğ×öÓÀºãÖ®µØµÄ´«Ëµ£¡
+Ã
+eProfessionIdx_qiaoba©    ¶ÔÇÇ°ïÖ÷¶øÑÔ£¬ÉúÃüÖĞÓĞ¸öÓÀÔ¶ÎŞ·¨ÃÖ²¹µÄÊ§°Ü£¬ËûµÄ¶÷ÈË¿ËÂ³Â³Ï£Ò½ÉúÒòÎª¾øÖ¢¶øËÀ¡£Ã»ÄÜÖÎºÃ¶÷ÈËµÄÀ¢¾Î£¬½«¾Í´Ë³ÉÎªËûÒ»ÉúµÄî¿°í¡£
+    ÎªÁËÃÖ²¹¹ıÈ¥µÄÒÅº¶£¬ÇÇ°ïÖ÷Óëº£ÔôÃÇÌ¤ÉÏÁËÎ°´óº½Â·¡£
+    µ±¿çÔ½Ê±¿ÕµÄ·ç±©½µÁÙ£¬º£ÔôÍÅ±»¾íÈëÁËÊ±¿ÕÖ®¼äµÄÂÒÁ÷£¬×îÖÕÀ´µ½ÁËÓÀºãÖ®µØ¡£ÕâÀï³äÂúÁË²»¿ÉË¼ÒéµÄ·¨Á¦£¬Ò»ÇĞÆæ¼£ºÍÔ¸Íû¾ù¿É½èÓÉÄ§·¨À´ÊµÏÖ¡ª¡ªÖ»ÒªÄã¸¶³ö×ã¹»µÄ´ú¼Û¡£µ±Ö§¸¶µÄ´ú¼Û×ãÒÔÓëÄã×·ÇóµÄÔ¸ÍûÏàµ±Ê±£¬ÔÙÀëÆæµÄÊÂÇéÒ²»á³ÉÕæ¡£
+    Îª´ËÇÇ°ïÖ÷½ÓÊÜÁËÄÏ·½³Ç°îÄ§·¨Ê¦µÄÌáÒé¡£Ëû½«ÎªµÃµ½Ò»´ÎĞíÔ¸Êõ¶øÕ½£¬Ëû±ØĞëÔÚÕ½³¡ÉÏ»÷°Ü×ã¹»¶àµÄµĞÈË£¬ÒÔ´Ë´ÓÁíÒ»¸öÊÀ½ç½»»»Ëû×î¾´ÖØµÄ¶÷Ê¦£¬¿ËÂ³Â³Ï£Ò½Éú¡£
+œ
+eProfessionIdx_yingyan    µÈ´ıÉñÄ¿ºÚµ¶µÄÕ½¶·ÊµÔÚÌ«¹ıÎŞÈ¤¡£ÕâĞ©´àÈõµÄÔü×Ò£¬Á¬½£Ê¿µÄ³ÆºÅ¶¼Åä²»ÉÏ£¬ËûÃÇÊÖÖĞµÄÎäÆ÷²¢²»±ÈÂó½Õ¸ü·æÀû£¬ËûÃÇµÄÓÂÆø»¹²»Èçò÷ÒÏ¡£×îÖÕ£¬ÉñÄ¿ºÚµ¶¼¸ºõ·ÅÆúÁËÌôÕ½µÄÏ£Íû¡£¾¡¹ÜËûµÄ½£ÔÚÌìµØÖĞÎ¢Ğ¡ÈçÕë£¬È´ÓµÓĞ×ãÒÔÅü¿ªÒ»ÇĞµÄ¾õÎòºÍĞÅĞÄ¡£µ«Ê§È¥ÁË·Ü¶·µÄÄ¿±ê£¬ÈÃÉñÄ¿ºÚµ¶¸ĞÊÜµ½×Ô¼ºÊ§È¥ÁË·½Ïò£¬¾ÍÏñ½£Ê¿µÄ½£Ê§È¥ÁËÇÊ¡£
+    È»¶øÔÚÒ»ÕóÏ¯¾íÌìº£µÄ±©·ç¹ıºó£¬ÉñÄ¿ºÚµ¶·¢ÏÖ×Ô¼ºËæ×ÅĞ¡ô®°åÆ¯Á÷µ½ÁËÒ»¸öÄ°ÉúµÄÊÀ½ç¡£Õâ¸öÃûÎªÓÀºãÖ®µØµÄÊÀ½çÔÌº¬Åî²ªµÄÁ¦Á¿£¬¸ü»ã¾Û×ÅÀ´×Ô²»Í¬Ê±¿ÕµÄÎ°´óÓ¢ĞÛ¡£Ò»¹ÉÌôÕ½µÄÓûÍûÓÍÈ»¶øÉú£¬Ëû·Â·ğ¸ĞÊÜµ½ÁË±³ºóºÚµ¶ÕıÔÚÔ¾Ô¾ÓûÊÔ¡£
+·
+eProfessionIdx_kuqiŸ    ¿âÆæ³öÉúÓÚ»úĞµ¾³¡£ËıµÄ¸¸Ä¸ÓÃ±ÏÉúĞÄÑªÑĞ¾¿³öÁËÒ»¿îAVEµÄÕ½¶·»úÆ÷ÈË£¬¿âÆæµÄÄ¸Ç×ÔÚÑĞ¾¿ÊÂ¹ÊÖĞÉ¥Éú¡£
+    µ±ÄêÇáµÄ¿âÆæµÚÒ»´Î³Ë×øÕâ¸ö»úÆ÷ÈË£¬¾ÍÄÜ¹»¸Ğ¾õµ½Ä¸Ç×»·ÈÆ×Å×Ô¼º¡£
+    È»¶øÕâ¿î»úÆ÷ÈËÓĞ×ÅÇ¿ÁÒµÄÆÆ»µÓûÍû¡£ÎªÁË·ÀÖ¹»úĞµ¾³±»ÆÆ»µ£¬¿âÆæ³Ë×ÅAVEÀ´µ½ÁËÓÀºãÖ®µØ£¬ÓÃ²»Í£ĞªµÄÕ½¶·Âú×ã×ÅAVEµÄÕ½¶·ÓûÍû¡£
+¹
+eProfessionIdx_lvbu¡    ÓÀºãÖ®µØÓÀÔ¶²»¾Ü¾øÇ¿Õß£¬ËûÃÇ¶ÔÇ¿ÕßµÄ¿ÊÍûÉõÖÁµ½ÁËÇ¿ÇÀÄËÖÁËÑ¹ÎµÄ³Ì¶È£¬Òò´ËÈÎºÎÊÀ½çÖĞµÄÃû½«ÓëÓ¢ĞÛ£¬¶¼»á³ÉÎªËûÃÇËÑ¹ÎµÄ¶ÔÏó¡£
+    ÂÀ²¼ÏÔÈ»ÊÇÕâÖÖÇ¿Õß£¬Ëû³ÉÎªÁË±±·½µÛ¹úµÄÄ¿±ê£¬µ«Èç¹ıÍùÒ»Ñù£¬Ëû¶ÔÓÚÕóÓª²¢Ã»ÓĞÊ²Ã´ÕæÕıµÄÈÏÍ¬£¬±©ìå¶øÇ¿º·µÄËû³ÉÎªÁËÕ½¶·ÖĞËùÓĞÈË¶¼Î·¾åµÄ´æÔÚ£¬²»ÂÛÊÇËûµÄ¶ÔÊÖ»¹ÊÇ¶ÓÓÑ¡£
+ä
+eProfessionIdx_diaochanÈ    ºÜ¶àÊ±ºò£¬Ó¢ĞÛÃÇ½â¾ö²»ÁËµÄÎÊÌâ£¬È´¿ÉÒÔ±»Ò»Ğ©¿´ÉÏÈ¥ÈõĞ¡µÄ´æÔÚÇáÒ×½â¾ö£¬±ÈÈçõõ²õ£¬ËıµÄ÷ÈÁ¦¾ªĞÄ¶¯ÆÇ£¬½â¾öÁË¶­×¿£¬Ò²½â¾öÁËÄÏ·½ÁªÃËµÄÒ»¸öÄÑÌâ¡£
+    ±±·½µÛ¹úÕÙ»½À´µÄÂÀ²¼ÈÃÁªÃË³Ô¾¡ÁË¿àÍ·£¬ÎŞÊıÇ°ÍùÌôÕ½µÄÓ¢ĞÛ¶¼Ê§°ÜÁË£¬µ«õõ²õ¡­¡­È´ÇáÒ×µØ¶¯Ò¡ÁËÕâ¿ÅµÛ¹úĞÂĞÇµÄÁ¢³¡£¬Äæ×ªÁËÕ½³¡ÉÏµÄ¾ÖÊÆ¡£
+    ¿´À´ÎŞÂÛÊÇÔÚÄÄ¸öÊÀ½ç£¬Ğ¡Å®×Ó£¬¶¼¿ÉÒÔÓĞ´ó×÷Îª£¡
+
+eProfessionIdx_zhangfeiå    ÕâÎ»ÖÒ³Ï¶ø±©ÔêµÄ½«¾ü£¬¿´ÉÏÈ¥¾ø¶Ô²»ÊÇÒ»¸öºÏÊÊµÄÓ¢ĞÛ£¬ÇéĞ÷¼«Ò×ÈİÒ×Ê§¿ØµÄËû£¬±»ÕÙ»½½øÓÀºãÖ®µØºó£¬È´¸Ä±äÁËËûµÄĞÔ¸ñ¡£
+    ÎªÁËÅäºÏÖî¸ğÁÁÓëÕÙ»½Ê¦ÃÇËù´ï³ÉµÄĞ­Òé£¬Ëû³¼·şÓÚÕÙ»½Ê¦£¬ÖÒÊµµØÖ´ĞĞ×ÅËùÓĞµÄÃüÁî£¬ÎªÕÙ»½Ê¦Ó®µÃÒ»³¡ÓÖÒ»³¡µÄÊ¤Àû£¡
+Ş
+eProfessionIdx_zhugeliangÀ    Öî¸ğÏÈÉú²¢Ã»ÓĞ¶Ô×Ô¼ºÀ´µ½ÓÀºãÖ®µØ¸Ğµ½³Ô¾ª£¬ÎŞÂÛËûÊÇ´ÓºÎÖÖÇşµÀÁË½âµ½Õâ¸öÊÀ½çµÄ¹æÔò£¬×ÜÖ®Ëû²»ÏñÆäËûµÄÒÆÃñÄÇÑù£¬ĞèÒª¾­ÀúºÜ¶àÎó»áÓë³åÍ»²ÅÄÜÔÚÕâ¸öÊÀ½çÁ¢×ã¡£
+    ÔÚÂş³¤µÄÌ¸ÅĞºÍµõÎ¸¿ÚÖ®ºó£¬ËûÄÃ×Å×ã¹»¶àµÄºÃ´¦¡ª¡ª·şÎñÆÚÂúÖ®ºó£¬Ëû¿ÉÒÔ´©Ô½Ê±¼ä»Øµ½¹ıÈ¥¸Ä±äÀúÊ·¡£
+    ½ÓÏÂÀ´µÄÊÂÇé£¬¾ÍºÜ¼òµ¥ÁË£¬²»ÊÇÓĞ¾ä»°½Ğ£ºÌ¸Ğ¦¼ä£¬»Ò·ÉÑÌÃğÃ´¡­¡­
+¹
+eProfessionIdx_guanyuŸ    ¼ÈÈ»Öî¸ğÏÈÉúÒÑ¾­ÓëÕÙ»½Ê¦ÃÇÌ¸Í×ÁËÌõ¼ş£¬ÄÇÃ´¹ØÓğËùĞèÒª×öµÄ£¬ÎŞ·ÇÊÇÎÂ¾ÆÕ½Ó¢ĞÛ°ÕÁË¡£
+    ÎªÁËÊñººµÄ´óÒµ£¬ÔÚÖî¸ğÁÁµÄ°²ÅÅÏÂ£¬¹ØÓğÓÖ¿ªÊ¼¿ªÊ¼ÁË²ğÎåËşÕ¶Áù½«µÄÉú»î¡£
+è
+eProfessionIdx_dashewanÌ    ±±·½µÛ¹úµÄÇ°ÈÎ»ÊµÛÔÚÎ»Ê±£¬¿ªÆôÁËÒ»ÏµÁĞ¹æÄ£ºê´óµÄÇ¿¹ú²ßÂÔ£¬ÆäÖĞ±¸ÊÜÖõÄ¿µÄ¾Í°üÀ¨×¨ÃÅÇ°Íù¸÷¸öÊ±¿ÕËÑ¼¯Ç¿´óÕ½Ê¿µÄ¡¾Ó¢ĞÛ¼Æ»®¡¿¡ª¡ª´óÁ¿µÄºËĞÄ»ÊÊÒÈËÔ±£¬Ç°Íù¸÷¸öÊ±¿ÕÑ°ÕÒ×îÇ¿ÑªÂöºÍÌì¸³µÄÕ½Ê¿£¬½«ËûÃÇ´«ËÍÖÁÓÀºãÖ®µØ£¬²¢Ê¹Ö®ÎªµÛ¹úÕ½¶·£¡
+    ¶øÃæ¾ßÄĞ°¢·É£¬¾ÍÊÇÒ»ÃûÀ´×ÔµÛ¹úµÄÇ×Íõ£¬ËûÔÚÓ×ÄêÊ±¾Í±»´«ËÍµ½ÁËÈÌÕßµÄÊÀ½ç£¬ÔÚ±»µÛ¹ú»½ĞÑºó£¬¿ªÊ¼ÁËÔÚÈÌÕßÊÀ½çµÄĞĞ¶¯£¬Í¨¹ıÌô²¦Àë¼äÈÃÕâ¸öÊÀ½ç³äÂúÕ½¶·ºÍÉ±Â¾£¬½ø¶øÑ¡°Î³ö×îÓÅĞãµÄÕ½Ê¿£¬¶øÕâĞ©ÈË×îºó¶¼ÎŞÒ»ÀıÍâµØ»á±»ËûËÍ½ø±±·½µÛ¹úµÄÑµÁ·Óª£¬ÔÚÄÇÀï£¬µÛ¹úÈËÓĞÎŞÊıÊÖ¶ÎÇ¿ÆÈËûÃÇÇü·ş²¢ÈÃËûÃÇ²Î¼ÓÕ½¶·£¡
+    ¼´±ãÊÇÉßÊå£¬Ò²ÎŞ·¨°ÚÍÑ°¢·ÉµÄËã¼Æ£¬ËùÒÔËû³öÏÖÔÚÁËÓÀºãÖ®µØµÄÕ½³¡ÉÏ£¡
+    
+
+»
+eProfessionIdx_hamcock     È«ÊÀ½ç¶Ô²İÃ±Ğ¡×ÓµÄĞüÉÍ¼ÓÔÚÒ»Æğ£¬Ò²±È²»ÉÏ²İÃ±Ğ¡×ÓÔÚÕâÎ»º£ÔôÅ®ÍõĞÄÄ¿ÖĞµÄ·ÖÁ¿£¬µ±²İÃ±Ğ¡×ÓÏûÊ§ÔÚÎ°´óº½Â·µÄ¾¡Í·Ê±£¬ËıÈËÉúµÄÄ¿±ê¾ÍËæÖ®¸Ä±ä£ºÈ¥ÄÇ¸öÎ°´óº½Â·¾¡Í·µÄÊÀ½ç£¬È¥ÕÒµ½²İÃ±Ğ¡×Ó£¡
+    µ±ËıÕæµÄÌ¤ÉÏÓÀºãÖ®µØÊ±£¬²İÃ±Ğ¡×ÓÒÑ¾­ÔÚÓÀºã¾º¼¼³¡ÉÏÓ®µÃÁË¾Ş´óµÄÃûÉù£¬Ò»·½Ãæ¾ªÏ²ÓÚÒ»Ì¤ÉÏĞÂÊÀ½ç¾ÍµÃµ½ÁË²İÃ±Ğ¡×ÓµÄÏûÏ¢£¬ÁíÒ»·½ÃæÈ´µÃÖªÏëÒª¼ûµ½²İÃ±Ğ¡×Ó£¬¾Í±ØĞëÏÈ³ÉÎªÓÀºã¾º¼¼³¡ÉÏµÄÓ¢ĞÛ¡£
+    ÏÖÔÚµÄÊÂÇé¾Í¼òµ¥ÁË£¬ÓÀºã¾º¼¼³¡£¬ÉßÑªÎè¼§À´ÁË£¡
+å
+eProfessionIdx_zuozhuË    ±±·½µÛ¹úÔÚÈÌÕßÊÀ½çµÄÇ×Íõ¡ª¡ªÃæ¾ßÄĞ°¢·É£¬Ò»Ö±êéêì×ó¶şÉÙµÄÓÀºãÍò»¨Í²ÌìÍ«Êõ£¬ËûÉè¼ÆÁËÒ»Á¬´®µÄÒõÄ±ºÍ¼Æ»®±ÆÆÈ×ó¶şÉÙÀ´ÕÒËûÑ°ÇóÕæÏà¡£
+    ÏÔÈ»£¬Õâ²»ÊÇÒ»¸öºÜºÃµÄÑ¡Ôñ£¬µÈ´ıËûµÄÊÇÒ»ÌõÓÉ°¢·É´òÍ¨µÄÊ±¿ÕËíµÀ£¬ËíµÀµÄÄÇÒ»Í·£¬ÊÇµÛ¹úµÄÓ¢ĞÛÑµÁ·Óª£¬ÎªÁËÄÜ¹»»Øµ½ÈÌÕßµÄÊÀ½ç¼ÌĞøÑ°ÕÒÕæÏà£¬×ó¶şÉÙ²»µÃ²»ÏòµÛ¹úÈËÍ×Ğ­£¬Ëû½«ÔÚÕ½³¡ÉÏÓ®µÃ»Øµ½ÈÌÕßÊÀ½çµÄ»ú»á£¡
+š
+eProfessionIdx_mingrenÿ    ºÍÊ¯ºïµÄ´«ËµÒ»Ñù£¬ÑıºüÒ²ÊÇÃ¿¸öÊ±¿ÕÖĞ¶¼ÓĞµÄÉñ»°¡£ËûÃÇÒÔÈËÀàµÄÓûÄîÎªÊ³£¬Æ¾¸½ÔÚ·²ÈËµÄÉíÌåÀï£¬ÍæÅª×ÅÈËÀàµÄĞÄÁé¡£Òò´ËÁÔÄ§ÈËÃÇ²Å·Ñ¾¡ĞÄË¼Òª½ËÃğÕâÖÖÉúÎï¡£È»¶øÑıºüµÄ½ÆÕ©Ô¶³¬ÈËÃÇÏëÏó¡£ËûÃÇ×ÜÄÜÔÚ¹Ø¼üÊ±¿ÌÍÑÀë°üÎ§¡£
+    ÓÀºãÖ®µØÄÏ·½³Ç°îµÄ·¨Ê¦ÃÇÔøÏë´ÓÆäËûÊ±¿Õ²¶×½Ò»Ö»Ñıºü£¬ËÍÍù±±·½µÛ¹úµÄ¶¼³ÇÀ´ÓÕ»ó»ÊµÛ£¬ÒÔ°Ü»µÆä¹úÕş¡£
+    ¡°ÕâÀïÊÇ£¿¡±ËûÃÇÔÚÕÙ»½¾ÅÎ²ÑıºüÊ±£¬Á¬´ø½«ËûµÄËŞÖ÷äöÎĞÇàÇğ¹úÖ÷Ò»Æğ´øµ½ÁËÕâ¸öÊÀ½çÉÏÀ´ÁË¡£ÕÙ»½ÕóÖĞµÄÉÙÄêÉíÉÏÉ¢·¢×Å¾Ş´óµÄ²é¿ËÀ­Ö®Á¦¡£ÕâÈÃÄ¿¶Ã´Ë¾°µÄÄ§·¨Ê¦ÃÇ±»ÕğÉåÁË¡£ËûÃÇÃ÷°××Ô¼ºÕÙ»½ÁËÒ»¸öÎŞ·¨¿ØÖÆµÄÔÖÄÑ¡£
+
+Ê
+eProfessionIdx_baihuzi¯    Ã»ÓĞÈËÖªµÀ±»ºÚ¶´ÍÌÊÉÁËµÄ¶«Î÷»áÈ¥ÄÄ£¬¾ÍËãÊÇºÚ¶´µÄÖ÷ÈË×Ô¼ºÒ²²»ÖªµÀ£¬µ«¾ÍÔÚËûµÄÌåÄÚ£¬ºÚ¶´µÄÁíÒ»¶Ë£¬ÓĞÒ»¸öÈ«ĞÂµÄÊÀ½ç£ºÓÀºãÖ®µØ£¡
+    ºú×Ó´¬³¤ÔÚÓÀºãÖ®µØĞÑÀ´µÄÊ±ºò£¬Áª°îµÄÖøÃû¸Û¿Ú¡ª¡ª°ÍÊ¿À­ÕıÔÚÇì×£Áª°îº£¾üµÄÊ¤Àû£¬ËûÃÇ¸Õ¸Õ½ËÃğÁËºáĞĞ¸½½üº£ÓòµÄº£µÁ£¬·ıÂ²ÁË´óÁ¿µÄº£µÁ²¢×¼±¸ÔÚ¸Û¿Ú½øĞĞĞûÅĞ´¦¾ö£¡
+    ¿´×ÅÄÇĞ©Óë×Ô¼ºµÄ¶ù×ÓÃÇÊ®·ÖÏàÏñµÄº£µÁ£¬Ëû×ö³öÁËÒ»¸ö¾ö¶¨£ºÓÃ×Ô¼ºµÄÄÜÁ¦£¬È¥»»È¡¶ÔÄÇĞ©º£µÁµÄÉâÃâ¡£
+    ¶øËû×Ô¼º£¬½«»áÔÚĞÂµÄÕ½³¡ÉÏ´´ÔìĞÂµÄ´«Ææ£¡
+š
+eProfessionIdx_kakaxi€    ¿¨µîÏÂÕıÔÚ¶ÔÕó×éÖ¯×îÇ¿³ÉÔ±¡ª¡ªÁùµÀÖĞµÄÌìµÀ£¬ºÄ¹âÁË¼¸ºõËùÓĞ²é¿ËÀ­µÄ¿¨µîÏÂÒ²Ã»ÄÜÈ¡µÃÊ¤Àû¡£ÌìµÀ×¼±¸ÓÃÒ»¸ù¶¤×Ó»÷É±¿¨µîÏÂ£¬ÔÚÕâÉúËÀØü¹ØµÄÊ±¿Ì£¬¿¨µîÏÂÓÃ½ö´æµÄ²é¿ËÀ­·¢¶¯ÁËÉñÍş£¬µ«¡­¡­¿¨µîÏÂ¾¹È»²»ÖªÕâÖ»À´ËûÈËµÄÉñÍ«»¹ÄÜ½«×ÔÉí½øĞĞ´«ËÍ£¬ÓÚÊÇ¿¨µîÏÂÀ´µ½ÁËÕâ¸öÊÀ½ç¡£
+ñ
+eProfessionIdx_fashiwaÖ    ºùÂ«ÆßĞÖµÜ±»ÉßÑı×¥×¡ºó£¬¹ıÉÏÁËĞÒ¸£µÄÉú»î¡£Ã¿ÌìÔÚÉñÉ½Ö®ÖĞ×é¶ÓÁ·¼¶£¬¸ù¾İ¸÷×ÔµÄĞËÈ¤°®ºÃÑ¡ÔñÁË²»Í¬µÄÖ°Òµ½øĞĞĞŞĞĞ¡£ÔÚÒ»´Î×é¶ÓÁ·¼¶É±ËÀ×îÖÕBOSSºóÎŞÒâÖĞ´¥·¢ÁËÊ±¿ÕÈÅ¶¯£¬ÆßĞÖµÜÍ¬Ê±±»´«ËÍµ½ÁËÓÀºãÖ®µØ£¬¿ªÊ¼ÁËËûÃÇĞÂµÄÂÃ³Ì¡£
+Ğ
+eProfessionIdx_nazi¸    ÄÉ×ÈÔÚÑ°ÕÒ»ğÁú--Äá¸ñÀ­Â·µÄÍ¾ÖĞ£¬ÒâÍâµÄ·¢ÏÖÁËÓÀºãÖ®µØ¡£ÓÚÊÇÄÉ×È¿ªÊ¼ÁËËûµÄĞÂµÄÂÃ³Ì£¬Ä¿±ê---ÕÒµ½»ğÁú£¬²¢Ë³±ãÔÚÓÀºãÖ®µØ½¨Á¢Ñı¾«µÄÎ²°ÍµÄ·Ö²¿¡£
+    ÔÚÓÚÓÀºãÖ®µØµÄÖî¶àÇ¿ÕßµÄ¶ÔÕ½ÖĞ£¬ÄÉ×È³¹µ×È¼ÉÕÆğÀ´ÁË£¬Ëû½ÓÊÜÁËÁªÃËµÄÑûÇë£¬²¢Å¬Á¦½¨Éè×ÅĞÂµÄ¹«»á£¬ÔÚ²»¾ÃµÄ½«À´£¬Ëû¼áĞÅ×ÅÑı¾«µÄÎ²°ÍµÄÍ¬°é»áÈÏÍ¬ËûµÄÑ¡Ôñ£¬Ò»ÆğÀ´µ½ÓÀºãÖ®µØ¡£
+º
+eProfessionIdx_asuna¡    ¶ÔÑÇË¹ÄÈÕâÖÖ°×¸»ÃÀÀ´Ëµ£¬ÕÒÒ»¿î¼«ÓĞÌôÕ½ĞÔµÄÓÎÏ·À´ÍæÍæÊÇ¸ö²»´íµÄÑ¡Ôñ£¬ËùÒÔËıÏÂÔØÁË¡¶300Ó¢ĞÛ¡·¡£
+    ÎÒÖªµÀÄãÏ²»¶Ëı£¬ËùÒÔ¡­¡­ÔÚËıµÄ¿Í»§¶ËÖĞÌí¼ÓÁËÒ»Ğ©ÌØÊâµÄ´úÂë£¬Í¨¹ıÕâĞ©´úÂë£¬ÎÒ½«Ëı½øĞĞÁË¿ÉÄæ×ªµÄĞéÄâ»¯£¬ÏÖÔÚÄã¿ÉÒÔÔÚ¡¶300Ó¢ĞÛ¡·ÖĞÓµÓĞËıÁË£¬µ±È»¡­¡­ÎÒ¿ÉÃ»ÓĞµ÷½ÌËıµÄÄÜÁ¦£¬¿ÉÒÔÓµÓĞÊÇÒ»ÂëÊÂ£¬ÏëÈÃËı·ş´ÓÄã£¬ÕâµÃ¿´ÄãµÄ±¾ÊÂÁË¡£
+    Ë³±ã¸æËßÄã£ºÊ¹ÓÃÑÇË¹ÄÈÊ¤Àû1Íò³¡£¬Äæ×ªĞéÄâ»¯¾Í»áÆô¶¯£¬ÄÇ¸ö°®ÍæÓÎÏ·µÄ°×¸»ÃÀ¾Í»á³öÏÖÔÚÄãÃæÇ°Å¶¡£
+ò
+eProfessionIdx_shushiwaÖ    ºùÂ«ÆßĞÖµÜ±»ÉßÑı×¥×¡ºó£¬¹ıÉÏÁËĞÒ¸£µÄÉú»î¡£Ã¿ÌìÔÚÉñÉ½Ö®ÖĞ×é¶ÓÁ·¼¶£¬¸ù¾İ¸÷×ÔµÄĞËÈ¤°®ºÃÑ¡ÔñÁË²»Í¬µÄÖ°Òµ½øĞĞĞŞĞĞ¡£ÔÚÒ»´Î×é¶ÓÁ·¼¶É±ËÀ×îÖÕBOSSºóÎŞÒâÖĞ´¥·¢ÁËÊ±¿ÕÈÅ¶¯£¬ÆßĞÖµÜÍ¬Ê±±»´«ËÍµ½ÁËÓÀºãÖ®µØ£¬¿ªÊ¼ÁËËûÃÇĞÂµÄÂÃ³Ì¡£
+ñ
+eProfessionIdx_qishiwaÖ    ºùÂ«ÆßĞÖµÜ±»ÉßÑı×¥×¡ºó£¬¹ıÉÏÁËĞÒ¸£µÄÉú»î¡£Ã¿ÌìÔÚÉñÉ½Ö®ÖĞ×é¶ÓÁ·¼¶£¬¸ù¾İ¸÷×ÔµÄĞËÈ¤°®ºÃÑ¡ÔñÁË²»Í¬µÄÖ°Òµ½øĞĞĞŞĞĞ¡£ÔÚÒ»´Î×é¶ÓÁ·¼¶É±ËÀ×îÖÕBOSSºóÎŞÒâÖĞ´¥·¢ÁËÊ±¿ÕÈÅ¶¯£¬ÆßĞÖµÜÍ¬Ê±±»´«ËÍµ½ÁËÓÀºãÖ®µØ£¬¿ªÊ¼ÁËËûÃÇĞÂµÄÂÃ³Ì¡£
+ğ
+eProfessionIdx_hunterÖ    ºùÂ«ÆßĞÖµÜ±»ÉßÑı×¥×¡ºó£¬¹ıÉÏÁËĞÒ¸£µÄÉú»î¡£Ã¿ÌìÔÚÉñÉ½Ö®ÖĞ×é¶ÓÁ·¼¶£¬¸ù¾İ¸÷×ÔµÄĞËÈ¤°®ºÃÑ¡ÔñÁË²»Í¬µÄÖ°Òµ½øĞĞĞŞĞĞ¡£ÔÚÒ»´Î×é¶ÓÁ·¼¶É±ËÀ×îÖÕBOSSºóÎŞÒâÖĞ´¥·¢ÁËÊ±¿ÕÈÅ¶¯£¬ÆßĞÖµÜÍ¬Ê±±»´«ËÍµ½ÁËÓÀºãÖ®µØ£¬¿ªÊ¼ÁËËûÃÇĞÂµÄÂÃ³Ì¡£
+±
+eProfessionIdx_xueš    Â¶Î÷ºÍÀòÀòÊÇÒ»¶Ô½ãÃÃ£¬ËıÃÇ±»×Ô¼ºµÄÇ×Éú¸¸Ç×Å×ÆúÔÚÉ½ÏÂ£¬Ò»¸ö½Ğ×ö°¬Ë¹¸¥Âå¸ñµÄÄĞÈË¼ñµ½ÁËËıÃÇ²¢ÇÒ½«ËıÃÇ¸§Ñø³¤´ó¡£ËıÃÇ¸úËæËûÑ§»áÁËÒ»Ğ©»ù±¾µÄÕ½¶·¼¼ÇÉ£¬µ«ÊÇÔÚ³ÉÄêÖ®Ç°£¬ËıÃÇ¶ÔÓÚ×ÔÉíÎäÒÕµÄÇ°Í¾²úÉúÁË·ÖÆç¡£Â¶Î÷ÈÏÎªÔÚÕ½¶·ÖĞÓ¦¸Ã×ñ´Ó×Ô¼ºµÄ±¾ÄÜ£¬Ëæ»úÓ¦±ä¡£¶øÀòÀòÈÏÎªÔÚÕ½¶·ÖĞÓ¦¸Ã×ñ´ÓÌ×Â·£¬¼ûÕĞ²ğÕĞ¡£°¬Ë¹¸¥Âå¸ñÎªÁË½â¾öËıÃÇµÄ·ÖÆç£¬½«ËıÃÇµÄÁéÆõËÍÈëÁËÓÀºãÖ®µØ¡£ÔÚÄÇÀï£¬ËıÃÇ½«ÓÃÎŞ¾¡µØÕ½¶·À´Ö¤Ã÷×Ô¼ºµÄÎäÑ§Ö®µÀ±ÈËıÃÇµÄ½ãÃÃ¸üÕıÈ·¡£
+–
+eProfessionIdx_luojieü    ×÷ÎªÀ¥¿¨×îÖÒ³ÏµÄÊÖÏÂ£¬×îÇ×ÃÜµÄÅóÓÑºÍ×î°®µÄ°éÂÂ£¬ÂŞ½ÜÅã°é×ÅÀ¥¿¨»÷ÍËÁËÎŞÊı´ÎºéÁ÷¶ñÄ§µÄ½ø¹¥¡£ÔÚÄÇ´Î»ÙÃğäöÎĞÖ®Õ½ÖĞ£¬À¥¿¨ÔÚäöÎĞÖĞÊ§×Ù¡£ËæºóÔÚÊÀ½ç¸÷µØµÄº£Óò¾ùÓĞÀ¥¿¨³Ë×ÅÓÄÁé´¬¿¹»÷Ğ°¶ñµÄÊÂ¼£¡£ÂŞ½ÜÔÚÕ½ºó¼Ì³ĞÁËÀ¥¿¨µÄ¾üÏÎºÍÒÅÖ¾£¬ÌıËµÁËÏûÏ¢ºóÁ¢¿ÌÂÊÁì×Å½¢¶ÓÑï·«³öº££¬ËÄ´¦Ñ°ÕÒÀ¥¿¨µÄ×Ù¼£¡£ÔÚÌıËµÀ¥¿¨ÔÚÓÀºãÖ®µØ³öÏÖ¹ıÒÔºó£¬ÂŞ½ÜÖ÷¶¯ËÍÉÏÁË×Ô¼ºµÄÁé»êÆõÔ¼£¬ÆÚÍûÓĞÒ»ÌìÄÜ¹»ÔÚÎŞ¾¡µÄÕ½¶·ÖĞÓëÀ¥¿¨Ïà·ê¡£
+—
+eProfessionIdx_sishen~    ËÀÊÇÉúµÄĞÂÉú£¬ÔÚÓÀºãÖ®µØµÄÉúËÀÂİĞıµÄ¾¡Í·£¬ÓĞÒ»¸öÁé»êÒ»Ö±ÔÚÄ¬Ä¬µØÎüÊÕ×Å¸÷ÖÖ²ËÄñ±»Å°µÄÔ¹Æø£¬µ±Ëû½µÁÙÖ®Ê±£¬½«ÊÇ²ËÄñÄæÏ®Ö®Ê±£¡
+·
+eProfessionIdx_fuwang    ×÷Îª±»¸ĞÈ¾µÄÑª¸«Ò»×åÊ×Áì£¬Ëû¶àÊıÊ±¼äÎŞ·¨¿ØÖÆ×Ô¼ºµÄĞĞÎª£¬ËûÔÚÔ¶¹ÅÊØÎÀµÄÕ½³¡Õ¶É±ÁËÎŞÊıµĞÈË£¬µ«ÁíÒ»·½Ãæ£¬ÔÚËûÓĞÏŞµÄÇåĞÑÊ±¼äÄÚ£¬Ñ°Çó½â³ı×çÖäµÄ·½·¨£¬³ÉÎªÁËËûÎ¨Ò»µÄÄ¿±ê¡£
+    µ±ËûÔÚÕ½³¡ÉÏÕü¾ÈÁËÃÕÍÅÖ®ºó£¬Ëû»ñÏ¤ÁË¿Õ¼äµÄÃØÃÜ£¬ÔÚÎŞ¾¡µÄĞé¿ÕÖ®ÖĞ£¬´©Ô½ÓîÖæµÄ¾¡Í·£¬ÄÇÀïÓĞÒ»¿éÉñÆæµÄÍÁµØ£¬ÈÎºÎÄ§·¨¡¢ÆõÔ¼¡¢·¨Ôò¶¼ÎŞ·¨´ÓÍâ²¿ÊÀ½ç¶ÔÄÇÀï½øĞĞÔ¼Êø£¬ÄÇÀï¿ÉÒÔ³¹µ×µÄÕ¶¶ÏËûÓë¹ıÈ¥µÄÁªÏµ£¬°ÚÍÑØ¬ÃÎ£¬Ö»ÎªÁË×Ô¼º¶ø»î×Å£¬ÄÇÀï¡­¡­¾ÍÊÇÓÀºãÖ®µØ£¡
+1
+eProfessionIdx_zombie    ÎÒÊÇÒ»Ö»¿ìÀÖµÄ½©Ê¬¡£
+Í
+eProfessionIdx_tongkunvwang­    ±»ÊŞÈËÂ°ÂÓµ½ÍâÓòµÄÈËÀà¹«Ö÷ÊÜ¾¡ÁèÈè£¬È«¿¿»Øµ½¹ÊÏçµÄÔ¸ÍûÖ§³Å£¬ËıÏàĞÅ£¬ËıĞÄ°®µÄÆïÊ¿»áÀ´¾ÈËı¡£
+    ÈËÀà´ó¾üÖÕÓÚÀ´ÁË£¬¿ÉÊÇ£¬ËıÈ´¾ª¿ÖµØ·¢ÏÖ£¬Ëı»³ÔĞÁË¡­¡­»³ÉÏÁËÊŞÈËµÄº¢×Ó£¬ÉõÖÁË­ÊÇº¢×ÓµÄ¸¸Ç×£¬Ëı¶¼²»ÖªµÀ¡­¡­
+    ÎªÁË±¨¸´ÊŞ×å¸³ÓèËıµÄÍ´¿à£¬ËıÂñÔáÁË×÷ÎªÉÙÅ®µÄ×Ô¼º£¬»¯ÉíÌúÑªÅ®Íõ¶ÔÊŞÈËÁìÍÁÊµĞĞ²Ğ¿áµÄÖ³ÃñÍ³ÖÎ£¬ÎªÁË»º½âÄÚĞÄµÄÍ´¿à£¬ËıÓµÓĞÁËĞí¶à±äÌ¬µÄÊÈºÃ£¬µ«ËıÔÙÒ²Ã»ÓĞÕæÕı¿ìÀÖ¹ı¡£
+    ÏÖÔÚ£¬ÎªÁËÑ°ÇóÕæÕıµÄ¿ìÀÖºÍÄÚĞÄµÄ½âÍÑ£¬ËıÀ´µ½ÁËÓÀºãÖ®µØ£¡
+ª
+eProfessionIdx_yueliangnvjisiˆ    ¶ÔÓÚÈÎºÎÒ»¸öÕÉ·òÒÑ¾­ÔÚÃÎ¾³ÖĞ³Á½şÁËÒ»ÍòÄêµÄÅ®ÈËÀ´Ëµ£¬ÒÑ¾­Ã»ÓĞÊ²Ã´ÄÜ¹»×èÖ¹ËıÑ°ÇóĞÂµÄ´Ì¼¤ÁË£¬ÆğÂë·ç¸ÉµÄÏã½¶×ö²»µ½¡£
+    Ä³´ÎËıÓ°¶İÓÚÌìÔÖÒ°ÇøÊ±£¬²»Ğ¡ĞÄ¿úÊÓµ½ÁË¸«ÍõÓëÍ´¿àÅ®ÍõÒ»ÆğÏûÊ§ÔÚÁËÊ÷ÁÖÉî´¦£¬°´ÄÍ²»×¡ÄÚĞÄºÃÆæµÄËıÇÄÇÄµØ¸úÁËÉÏÈ¥¡­¡­¿ÉÏ§£¬ËıÃ»¿´¼ûËıÆÚ´ıµÄÄÚÈİ¡£
+    Ò»Õó°×¹âÉÁ¹ı£¬ËıÀ´µ½ÁËÓÀºãÖ®µØ£¬Ã»ÓĞÁË¶ÔÕÉ·òµÄÇ£¹Ò£¬ÍòÄêµÄ¼ÅÄ¯ÖÕ½«µÃµ½½âÍÑ£¬ÔÚÕâÆ¬×ÔÓÉÖ®µØÉÏ£¬Ã»ÓĞÈËÄÜ×èÖ¹ÔÂÖ®Å®¼ÀË¾µÄ¿ñÒ°ÁË£¡
+È
+eProfessionIdx_suolong­    µ±Ó¥ÑÛµÄÆøÏ¢ÏûÊ§ÔÚÁËº£ÑóµÄ¾¡Í·£¬×ôÂŞÒ²Ê§È¥ÁË½£µÀÉÏ·Ü½øµÄÄ¿±ê£¬ËäÈ»ËµÄÜ´ò°Ü×ôÂŞµÄÈË¶àÁËÈ¥ÁË¡­¡­µ«ÓĞÒ»ÖÖ¾«Éñ½ĞºÃ¸ßæğÔ¶£¬ÑÛ¾¦ÓÀÔ¶¶¢×ÅÌìÉÏµÄµÚÒ»Ãû£¬ÄÄÅÂÃÔÂ·Ò²Ê¸Ö¾²»Óå£¬Õâ¾ÍÊÇ×ôÂŞµÄ¾«Éñ£¡
+    ÃÔÂ·ÃÔµ½ÒìÊÀ½ç£¬¹À¼ÆÒ²Ö»ÓĞ×ôÂŞ²Å»á×öµÃ³öÀ´ÁË£¬µ«¶ÔÓÚÒÑ¾­ÕÒµ½Ó¥ÑÛµÄËûÀ´Ëµ£¬ÕâÀïÊÇº£ÉÏ»¹ÊÇÓÀºãÖ®µØ¡­¡­ÓĞÇø±ğÃ´£¿
+á
+eProfessionIdx_diyulingzhuÂ    Î×ÑıÍõÃ¿Ìì±»Ë¢Ò»Íò´Î£¬¶øÇÒËæ×ÅÍæ¼ÒÃÇµÄµÈ¼¶Ô½À´Ô½¸ß£¬ÒÑ¾­ÓĞÈË¿ªÊ¼¼Æ»®×Åµ¥Ë¢ËûÁË£¬ÎªÁËÌÓ±Ü±»µ¥Ë¢µÄ³ÜÈè£¬Ëû¾öÒâÀë¿ªÄÇ¸öÈÃËû±¯ÉËµÄÊÀ½ç¡£
+    ¸úËæ×ÅÆß¸öÔø¾­×éÍÅË¢¹ıËûµÄºùÂ«ÍŞ£¬ËûÀ´µ½ÁËÓÀºãÖ®µØ¡£
+
+¿
+eProfessionIdx_heiyansheshou    ºÚÒÂÂéÌÕ×î½üÃÔÁµÉÏÁË¡¶300Ó¢ĞÛ¡·£¬µ«È´¿àÓÚÃ»ÓĞÒ»¸öÄÜÊ¹µÃË³ÊÖµÄÓ¢ĞÛ£¬ÄÚĞÄÉî´¦¶ÔÓÚÓÎÏ·µÄ³ÕÃÔ´«µİ¸øÁËÁíÒ»¸öÊÀ½çµÄºÚÑÒÉäÊÖ£¬ºÚÑÒÉäÊÖÆÆËéÁËÔ­À´µÄÊÀ½çÀ´µ½ÁËÓÀºãÖ®µØ£¬ÕâÑùËıÃÇÓÖ¿ÉÒÔÔÚÒ»ÆğÕ½¶·ÁË¡£
+    ºÚÑÒÉäÊÖÄÚĞÄÒ»Ö±´æÔÚ×ÅÀ§»ó£¬×Ô¼ºÊÇÓÉºÎ¶øÉú£¿ÎªºÎ¶øÕ½£¿
+    ÔÚÓÀºãÖ®µØÖĞ£¬ºÚÑÒÉäÊÖ£¬Ä¬Ä¬µØÍû×Å¶ÔÃæµÄµĞÈËºÍ×Ô¼ºÉí±ßµÄ»ï°é£¬ÑÛÖĞµÄÀ¶É«»ğÑæ²»Öª²»¾õµØÈ¼ÉÕÆğÀ´ÁË£¬ĞÄÖĞÄªÃûµÄ¼Â¶¯Ê¹ËıµÄ×ì½Ç½¥½¥ÉÏÑïÆğÀ´£¬Ô­À´Õâ²ÅÊÇËıËù×·ÇóµÄ¡£
+
+à
+eProfessionIdx_difashiÅ    ¹Å¶ûµ¤µÄÍ·Â­ËéµôÖ®ºó£¬Ä§Íõ²¢Ã»ÓĞËÀÈ¥£¬Ê§È¥¶ñÄ§Á¦Á¿µÄËû£¬Í¬Ê±Ê§È¥ÁË×Ô¼ºµÄ¼ÇÒä£¬±¾ÄÜµØ¼ñÆğÒ»¶ÔÕ½ÈĞ£¬´©ËóÔÚÊÀ½çµÄ¸÷¸ö½ÇÂä£¬Ñ°ÕÒ×Å×Ô¼ºµÄ¹ıÈ¥¡£
+    ÔÚÂÃÍ¾ÖĞ£¬¶ñÄ§ÁÔÊÖµÄÖ°Òµ±¾ÄÜ´øÁì×ÅËûËÄ´¦½µÄ§£¬ÕâÈÃËûÊÜµ½ÁËÊÀ½ç¸÷µØÃñÖÚµÄ×ğ¾´Óë°®´÷£¬´ó¼Ò³ÆËûÎª£ºµĞ·¨Ê¦£¡
+    Ö±µ½À´µ½°µÒ¹¾«ÁéµÄÁìµØ£¬ÊìÏ¤µÄÀ¥ÑÅÓïÍ¸Â¶³öµÄÑá¶ñÓë¿Ö¾åÈÃËû²»ÖªËù´ë£¬µ«ËûÕÒµ½ÁËËıµÄ´æÔÚ¡ª¡ªÄÇ¸öÆï×Å°×»¢µÄÅ®ÈË¡£
+    ×·Ëæ×ÅËıµÄÄÜÁ¿¹ì¼££¬ËûÆÆ¿ªĞé¿Õ£¬À´µ½ÁËÓÀºãÖ®µØ£¬ËûÖªµÀ£¬ÄÇ¸öÅ®ÈËÒ»¶¨°ïËûÕÒ»Ø×Ô¼º£¡
+û
+eProfessionIdx_tongrenà    ÆäÊµÔÚ¡¶300Ó¢ĞÛ¡··â²âµÄÄÇÒ»Ìì£¬Í©ÈËÒÑ¾­µÇ³¡¹ıÁË£¬²¢³É¹¦´ò°ÜÁËµ±³õ³Æ°ÔÓÀºãÖ®µØµÄËùÓĞÓ¢ĞÛ¡£×îÖÕÊ¹ÖÆ×÷×é¾ö¶¨ÍÆ·­Ô­ÓĞµÄMMORPGÊÀ½ç£¬²¢°ÑÓÎÏ·ÖØËÜÎªMOBAÊÀ½ç¡£
+    Ã÷ÈÕÄÎ±»GM°ó¼ÜÈëÓÀºãÖ®µØºó£¬Í©ÈËÒ»ÎŞ·´¹ËµØ´³ÈëÁËÓÀºãÖ®µØ£»Í©ÈËÀûÓÃµ±³õ·â²âµÄ¾­ÑéÔÚÓÀºãÖ®µØ´óÕ¹ÉíÊÖ¡£
+    ÎªÁË°ÑÃ÷ÈÕÄÎ´ÓÕÙ»½Ê¦ÊÖÖĞ¾È³öÀ´£¬Í©ÈËµÄÄ¿±êÊÇ´òµ¹ÓÎÏ·µÄ×îÖÕGM£¬²¢³É¹¦¶áÈ¡ÓÎÏ·µÄ¿ØÖÆÈ¨¡£
+
+¬
+eProfessionIdx_yubanmeiqin    ÓùÛàÃÀÇÙµÄ³¬ÄÜÁ¦´ïµ½level6Ê±£¬³¬µç´ÅÅÚ²úÉúµÄ¾Ş´óÄÜÁ¿½«»áÅ¤ÇúÊ±¿Õ¡£ÔÚÒ»´ÎÅ¼È»µÄ»úÓöÖĞ£¬³¬µç´ÅÅÚÅ¤ÇúÁËÊ±¿Õ´ò¿ªÁËÍ¨ÍùÓÀºãÖ®µØµÄµÀÂ·£»¶øºÚ×ÓÈ´ÔÚÒ»±ß»ÃÏë×ÅºÍ½ã½ã´óÈËµÄË½±¼µÄÂÃÍ¾£¬µ±Ëı¿´µ½Å¤ÇúÊ±¿ÕÀïµÄÓÀºãÖ®µØÉÏÑİ×Å¼¤Çé´óÂÒ¶·Ê±£¬ºÚ×ÓÁé»úÒ»¶¯£¬È»ºó±§ÆğÃÀÇÙË²¼äÒÆ¶¯ÁË½øÈ¥¡£
+
+–
+eProfessionIdx_inoriı  ÔÚÓ£Âú¼¯µÄÆµ·±ĞÔÉ§ÈÅÏÂ£¬Òş²ØÔÚ˜GÆíÄÚĞÄÉî´¦µÄÕæÃûÖÕÓÚµ½´ïÁËËıÈÌÄÍµÄÁÙ½çµã£¬ÔÚÓëÓ£Âú¼¯Ïà¼ûµÄĞÅÄîÏÂ£¬ÖÕÓÚÕ½Ê¤ÁË˜GÆí£¬¾õĞÑºóµÄÕæÃûÈ´·¢ÏÖÁËÓ£Âú¼¯µÄ±³ÅÑ£¬Ó£Âú¼¯µÄÈÕ³£ÎŞÁ¼ĞĞÎªÒıÆğÁËÕæÃûµÄ´×Òâ£¬¾öĞÄ³¹µ×¾»»¯Õâ¸öÊÀ½ç£¬ÓÚÊÇÒı·¢ÁËÊ§ÂäµÄÊ¥µ®ÊÂ¼ş¡£½á¾Ö˜GÆí³É¹¦µÄÒÖÖÆÁËÕæÃûµÄ±©×ß£¬µ«˜GÆíµÄ¸èÉùÈ´´òÆÆÁËÊ±¿Õ´«µİµ½ÁËÓÀºãÖ®µØ£¬ÎªÁË·ÀÖ¹ÕæÃûÔÙ´ÎËÕĞÑ´øÀ´µÄÔÖÄÑ£¬˜GÆí¾öÒâ¸æ±ğÓ£Âú¼¯À´µ½ÓÀºãÖ®µØÑ°ÇóĞÂÉú.
+™
+eProfessionIdx_shana€    ÏÄÄÈºÍÓÆ¶şĞÒ¸£µØÉú»îÔÚÒ»ÆğÒÔºó£¬ÎŞÁÄ»éºóÉú»îÈÃÏÄÄÈ¼ÅÄ¯ÄÑÄÍ¡£ÎªÁËÊµ(xun)ÏÖ(zhao)×Ô(ci)ÎÒ(ji)£¬ÏÄÄÈÇĞ¿ªÁËÊ±¿ÕÖ®ÃÅ£¬À´µ½ÁËÓÀºãÖ®µØ¡£ÔÚºÍÓÀºãÖ®µØµÄ¸÷ÖÖµĞÈËÕ½¶·ÖĞ£¬ÏÄÄÈ²»¶ÏµØÌá(diu)Éı(diao)×Å×Ô¼ºµÄ¾õ£¨jie£©Îò(cao)£¬ÎªÁË³ÉÎªÕæÕıµÄºì£¨ao£©ÊÀ(jiao)Ö®Íõ¶øÅ¬Á¦¡£
+š
+eProfessionIdx_aisi‚    Ò»¸öÑô¹â»ı¼«µÄÉÙÄêÔõÄÜ¾ÍÕâÑùÏûÊÅ£¬¾ß±¸²Ù×İ»ğÑæÄÜÁ¦µÄËûÔÚÉúÃüµÄ×îºó×ö³öÁË×îÕıÈ·µÄ¾ö¶¨¡£ÔÚËû¼´½«Àë¿ªÄÇ¸öÊÀ½çÊ±¡­¡­¡°ÎÒÓĞÒ»¸ö×ÜÈÃÈËµ£ĞÄµÄµÜµÜ¡£¡±ËûÌ¾ÁË¿ÚÆø¡°ÎÒ»¹Òª×ö×îºóÒ»¼şÊÂ£¡¡±ËµÍêS»¯×÷»ğÑæÏûÉ¢ÔÚ¿ÕÆøÖĞ¡£ÔÚÓÀºãÖ®µØµÄºÓµÀ£¬S×·Ëæ×ÅÒ»¸ö´ø×ÅÈ­Ì×µÄ²İÃ±Ğ¡×Ó¡­¡­
+
+eProfessionIdx_lingmeng‚    ²©ÀöÉñÉçµÄÈûÇ®ÏäÉÏÌù×ÅÕÅÕĞÆ¸ÆôÊÂ£º¡°ÓÀºãÖ®µØ½üÀ´Ñı¹ÖºáĞĞ£¬ÎªÁËÎ¬»¤¾º¼¼³¡µÄÆ½ºâ£¬ÏÖÕĞÆ¸Ò»Ãû´º¶ÈÖµ²»ÄÜÌ«µÍµÄÎ×Å®À´½øĞĞÑı¹ÖÍËÖÎ¹¤×÷£¬³ê½ğ10W¡±£»ÁéÃÎµÍÍ·Ë¼Ë÷×Å£¬´º¶ÈÖµÊÇÊ²Ã´£¬¹À¼ÆºÍÁéÁ¦Öµ²î²»¶à°É£¬ÎÒ¿Ï¶¨ÄÜºÏ¸ñ¡£
+    Ç©Íê¾ÍÒµºÏÍ¬ºó£¬ÁéÃÎÍ»È»·¢ÏÖºÏÍ¬¸½¿îÉÏĞ´×Å£¬ÓÀºãÖ®µØ½ûÖ¹¸ßÖĞ·ÉĞĞ¡¢½ûÖ¹Ğ¯´øÁÅ»ú¡¢½ûÖ¹ÎŞ½Ú²Ù£»ÁéÃÎÒ»Á³³é´¤×ÅÏë×Å¡°¿´À´´º¶ÈÖµÌ«¸ßÁËÒ²²»ºÃ°¥£»²»¹ÜÔõÃ´Ëµ£¬ÖÕÓÚÂÖµ½ÎÒ³ö·¬ÁË¡£¡±
+ì
+eProfessionIdx_jinshanshanÍ    Ê¥±­±»ÆÆ»µÖ®ºó£¬¼ª¶ûÙ¤ÃÀÊ²Ò²»ñµÃÁËĞÂÉú£¬³àÂãÓÚÌìµØµÄËû£¬Í»È»¸ĞÎòµ½Ê¥±­µÄÕæÕıÒâÒå£»Ô­À´°¢¶ûÍĞÀòÑÅ²ÅÊÇÄÜÁîËûÓäÔÃµÄÊ¥±­£¬ÓÚÊÇËûÔÙ´ÎÌ¤ÉÏÁËÑ°ÕÒ¡°Ê¥±­¡±Ö®ÂÃ¡£
+    ÔÚÒ»¸öĞ¡Íø°ÉÀï£¬Ëû·¢ÏÖÁË°¢¶ûÍĞÀòÑÅ¾¹È»È¥¡¶300Ó¢ĞÛ¡·×öĞÎÏó´úÑÔÁË¡£ÔÚÏÂÒ»ÃëµÄÓÀºãÖ®µØÀï£¬ËûÃÇÒâÁÏÖ®ÖĞµÄÏàÓöÁË£»µ«ÒâÁÏÖ®ÍâµÄÊÇ£¬ËûÔÚÓÀºãÖ®µØÓöµ½ÁËÁíÒ»¸öÅ®Éñ£¬ÄÇÅ®ÉñµÀ£º¡°ÎÒ²ÅÊÇÄãµÄÊ¥±­£¬ÄãÄÑµÀ²»ÏëÒªÁËÂğ£¿¡±£¬Ö®ºóµÄÕ½¶·ÖĞ£¬Ê±³£ÄÜÌıµ½¼ª¶ûÙ¤ÃÀÊ²µÄ°§Ô¹Éù£º¡°ÑÅµäÄÈ£¬ÎÒÒÑ¾­Ëµ~ÁË1Íò´ÎÁË£¬ÎÒ²»ÊÇÄãµÄÊ¥~¶·Ê¿¡£¡±
+á
+eProfessionIdx_chuyinÇ    ³õÒôÎ´À´×÷ÎªÈ«ÇòÈËÆø×î¸ßµÄĞéÄâÅ¼Ïñ£¬Ò»ÄêÒª¿ª¶à´ï32³¡Ñİ³ª»á¡£Ò»´ÎÅ¼È»µÄ»ú»á£¬ËıÔÚÍøÂçÖĞËÑË÷µ½ÁË300Ó¢ĞÛÕâ¿îÓÎÏ·£¬·¢ÏÖĞí¶àµÄ¶¯ÂşÈËÎï¶¼ÔÚÆäÖĞ£¬¿ÉÈ´Ã»ÓĞ×Ô¼º¡£ËıÊ®·Ö²»¸ßĞË£¬¸´ÖÆÁËÒ»·İ×Ô¼ºµÄ¿½±´·¢¸øÁËÌøÔ¾ÍøÂç¡£
+    ¡°Ò»¶¨ÒªÊÇÒ»¸öºÜÇ¿µÄÓ¢ĞÛ°¡£¡°İÍĞÁË£¡¡±³õÒôÎ´À´Èç´ËËµµÀ¡£
+    ÓÚÊÇÓÀºãÖ®µØ¾Í¶àÁËÒ»¸ö¿¿Ë¦´ĞºÍÂôÃÈÃãÇ¿¶ÈÈÕµÄ½´ÓÍÓ¢ĞÛ¡£
+‰
+eProfessionIdx_safeiluosië    ÊÀ½çÉÏÓĞºÜ¶à¹ØÓÚÄ§ÍõµÄ¹ÊÊÂ£¬ÕâĞ©Ä§ÍõÇ§Ææ°Ù¹Ö¸÷Ê½¸÷Ñù£¬ÓĞµÄ´ÏÃ÷ÓĞµÄÓŞ´À£¬ÓĞµÄÓÂ¸ÒÓĞµÄÇÓÅ³£¬ÓĞµÄ²»¿°ÈëÄ¿£¬¶øÓĞĞ©È´ÓµÓĞ»ªÀöÍâ±í£¬ºÁÎŞÒÉÎÊ£¬ÎÒ×î°®µÄÎ°´óµÄÊÀ½ç¶ÀÒ»ÎŞ¶şµÄÈø·ÆÂŞË¹´óÄ§ÍõÊôÓÚË§µ½±¬±íµÄÄÇÖÖ£¬ÎÒµÄ·¿¼äÀïµ½´¦¶¼ÊÇËûµÄº£±¨ºÍÊÖ°ì£¬×ÀÃæÉÏÈ«ÊÇËûµÄ¾«ÃÀ²å»­£¬ÒôÏäÀïÖØ¸´ºäÃù×ÅµÄĞıÂÉÃûÎª£º¡¶Æ¬ÒíÌìÊ¹¡·£¬Ó²ÅÌÀïÈûÂúÒÔËûÎªÖ÷½ÇµÄGV¡­¡­ßÀ£¬Æ´´íÁË£¬ÊÇCG¶¯»­¡£
+    µÈµÈ¡­¡­ÔõÃ´ÁË£¿àÅ¡ª¡ªÄãÎÊÎÒÊÇË­£¿
+    ÎÒÊÇË­ºÜÖØÒªÂğ£¿ºÃ°É£¬¼ÈÈ»Äã³ÏĞÄµÄ·¢ÎÊÁË£¬ÎÒ¾Í¸æËßÄã£ºÎªÁË°®ÓëÕıÒå£¬ÎªÁËÓîÖæµÄºÍÆ½£¬Ò»Éú¶¼ÔÚÎª´©Ô½¶ş´ÎÔª×ö×¼±¸µÄÕ¬ÄĞ£¬ÓîÖÇ²¨²Ô¾®¿Õ¾ÍÊÇÎÒ£¡
+    ÒòÎªĞÄÖĞÂú»³×Å¶ÔÈøµîµÄ°®£¬ÎÒ»ñµÃÁËÒ»¸ö»ú»á£ºÍ¨¹ı300ÖÆ×÷×é¶ÀÓĞµÄÏÖÊµĞéÄâ»¯¼¼Êõ£¬½øÈëÓÀºãÖ®µØ£¬×÷ÎªÈø·ÆÂŞË¹µÄË¼ÄîÌå£¬ÕÙ»½Èøµî½µÁÙ¡£
+    ËùÒÔ£¬Ôø¾­£¬ÎÒÊÇË­ÒÑ¾­²»ÖØÒªÁË£¬ÏÖÔÚ£¬ÎÒÁé»ê¡¢ÈâÌå¡¢ºÍÃû×Ö¶¼½Ğ£ºÈø·ÆÂŞË¹¡£
+Ó
+eProfessionIdx_geleiº    Ò»¸ö±»°®ÇéÊø¸¿×¡ÁË»ùÇéµÄÄĞÈËÊÇĞÒ¸£µÄ£¬¿ÉÏ§ËûÖ»ÊÇ¸öÄĞº¢¶øÒÑ¡£Ä©ÈÕ½µÁÙ£¬µ±¡®°¢¿ËÅµÀûÑÇ¡¯ÅÇ»²ÔÚÖÚÉúÍ·¶¥Ö®Ê±£¬Ëû²Åá¦È»ĞÑÎò£¬Ô­À´ÎªÁË°®ÈËÒ»ÇĞ½Ô¿ÉÎşÉü£»Õ¾ÔÚÃüÔË½»´í¿ÚÉÏµÄËûºÁ²»ÓÌÔ¥µØÊ¹ÓÃÁËÒÔÉúÃüÎª´ú¼ÛµÄ¾ø¼¼¡¾¾ø¶Ô±ù·â¡¿¡£µ±È»¾ÍÆ¾ÕâĞ©ÊÇÍì¾È²»ÁËÊÀ½çµÄ£¬±»Ê±¼äÖ®»¡Íì¾ÈÁËĞÔÃüµÄËû£¬¾ö¶¨ÆÆ¿ªÊ±¿Õ£¬À´µ½ÓÀºãÖ®µØÑ°ÕÒĞÂµÄÏ£Íû¡£
+ù
+eProfessionIdx_mikasaß¡°µ±¾ŞÈË¶¼ËÀ¹âÒÔºó£¬ÄãÒª×öµãÊ²Ã´£¿¡±ÈıóÒ?°¢¿ËÂü¿´×ÅÂúµØµÄ¾ŞÈËÊ¬ÌåÎÊ°¬Â×¡£
+¡°ÄãÊÇËµÕ½Õù½áÊøºóÃ´£¿µ±È»ÊÇ»ØÀÏ¼Ò½á»é£¡¡±°¬Â×´ğµÀ¡£
+¡°ºÍË­£¿¡±
+¡°µ±È»ÊÇ±ø³¤£¡¡±
+ÔÚÖ®ºóµÄÄ³Ò»´Î±ÚÍâµ÷²éÖĞ£¬ÈıóÒ¸ºÔğ±£»¤¾ŞÈË»¯µÄ°¬Â×¡£²»¹ıµ±¾ŞÈËÃÇĞÚÓ¿¶øÖÁµÄÊ±ºò£¬ËıÖ»ÊÇÔÚ¸½½üĞ¦×Å¿´×Å°¬Â×±»³Ôµô¡£×ÔÄÇÒÔºóÔÙÒ²Ã»ÓĞÈË¼û¹ıÈıóÒ£¬ËıÔÙÒ²Ã»ÓĞÈÎºÎÇ£¹ÒµÄ¶«Î÷£¬¶À×ÔÏìÓ¦ÕÙ»½£¬À´µ½ÁËÓÀºãÖ®µØ¡£
+É
+eProfessionIdx_hei²    Ãæ¾ßÏÂËÁÁ÷µÄÀáË®£¬ÀíĞÔÓëÑªµÄ¼ÇÒä±»²»¶ÏµÄÇÖÊ´×Å£»²»ÔÙÆÚÍû£¬²»ÔÙÏñÒÔÍùÒ»ÑùÈ¥¸ĞÊÜ£¬ÔÚÏà»¥²øÈÆµÄĞØÌÅ¼ä£¬Ïë»ñµÃµÄÖ»ÓĞÕâĞĞÊ¬×ßÈâµÄÉíÇû¡£ÓÃ×Å±»çèÎÛµÄÖ¸¼â£¬ÉøÈëºÚÒ¹£¬¼´Ê¹·ÛÉíËé¹Ç£¬Ò²Òª°ÑÄã»½ĞÑ¡£ÔÚÃÎÖĞ£¬±»°şÂäµÄÇé¸ĞÔÚÖ¨Ö¨×÷Ïì£¬Èç¹ûÄÜÄ¨È¥ËùÓĞµÄÒ»ÇĞ£¬Ì«Ñô½«»áÉıÆğ£»±ÕÉÏÄãµÄÑÛ¾¦£¬×¹Âä¡¢×¹Âä¡¢×¹Âä£¬Ö»ÔÚºÚ°µÖĞÅØÏø£¡
+ø
+eProfessionIdx_QueenOfVanpireÖ    ¼§Ë¿Ğãß¯ËÍ×ßÁËÈÌÒ°ÈÌºÍ°¢Á¼Á¼Ä¾ÀúÖ®ºó£¬¿ªÆôÁËĞÂµÄÊÀ½çÏß¡£Ëı¿´µ½ÁíÒ»¸öÊÀ½çµÄ×Ô¼ºÄÜ¹»»ñµÃĞÒ¸££¬¼§Ë¿Ğãß¯¾ö¶¨Ò²½øĞĞ¼¸´ÎÊ±¼äÂÃĞĞ£¬¿´¿´ÊÇ·ñÄÜ¹»Îª×Ô¼ºÕÒµ½ĞÒ¸£¡£È»¶øÔÚ¶à¸öÊ±¿ÕÖĞ£¬ÊÀ½ç±»Ëı·´¸´»ÙÃğ£¬ËıÊ¼ÖÕÎŞ·¨ÕÒµ½ËıËùÏ£ÍûµÄĞÒ¸£¡£ÔÚÒ»´ÎÊ±¼äÂÃĞĞÖĞ£¬ËıÅ¼È»´©Ô½µ½ÁËÓÀºãÖ®µØ£¬Õâ´ÎËı·¢ÏÖ×Ô¼ºÎŞ·¨»ÙÃğÊÀ½çÁË¡£ËıÖÕÓÚÕÒµ½ÁËÏëÒªµÄĞÒ¸£¡ª¡ªÎŞÇîÎŞ¾¡µÄÕ½¶·ÓëÏÊÑª¡£
+‘
+eProfessionIdx_kamiù    ÎªÁËÄÜ¹»ÈÃÊÀ½çÉÏËùÓĞÖµµÃÆÚ´ıµÄ¶ş´ÎÔªÃÀÅ®ĞÄ¸ÊÇéÔ¸µØ¼ÓÈë300Ó¢ĞÛ£¬ÖÆ×÷×éÖÆ¶©ÁËÒ»¸ö¡°ÉñÖ®¹¥ÂÔ¡±¼Æ»®£¬Ö¼ÔÚÌôÑ¡Ò»Î»¶ÔÅ®ĞÔÓµÓĞ¾Ş´óÎüÒıÁ¦µÄÈË£¬ÈÃËûÍ¨¹ı¶¯Ö®ÒÔÇé£¬ÏşÖ®ÒÔÀíµÄ·½Ê½£¬È¥Ëµ·şÄÇĞ©¶ÔÒìÊÀ½ç±§ÓĞ¿Ö¾å¸ĞµÄ¶ş´ÎÔªÃÀÅ®¼ÓÈëÓÀºãÖ®µØ¡­¡­×îÖÕ£¬Ò»Ãû¸ßÖĞÉúÒÔÎŞ¿ÉÆ¥µĞµÄ¾Ş´óÓÅÊÆ»÷°ÜÁËÆäËû¾ºÕù¶ÔÊÖ£¬³ÉÎªÁËÖÆ×÷×éµÄ×î¼ÑÈËÑ¡£¬ËûµÄÃû×Ö½Ğ£º¹ğÄ¾¹ğÂí¡£
+    Ò»Ãû´úºÅÎªelo250µÄ¹¤×÷ÈËÔ±£¬´øÉÏÁË´óÁ¿·ÊÔíÇ°ÍùÈÕ±¾£¬²¢ÔÚXX¸ßÖĞÅÔ±ßµÄĞ¡ÂÃ¹İÓë¸ßÖĞÉú¹ğÄ¾¹ğÂí½øĞĞÁËÒ»¶Î³¤Ì¸£¬³É¹¦Ëµ·ş¹ğÄ¾¹ğÂí¼ÓÈë300ÖÆ×÷×é£¬µ£ÈÎÊ×Ï¯ÁÔÍ·¹ËÎÊ£¬¸ºÔğÉñÖ®¹¥ÂÔ¼Æ»®£¬´ÓÊÂÕë¶Ô¸ß¶Ë¶ş´ÎÔªÃÀÅ®µÄÍÚ½Ç¹¤×÷¡£
+    ÔÚ¹¤×÷µÄÏĞÏ¾Ê±¼ä£¬ÕâÎ»ÉñÖ®¹¥ÂÔµÄ¸ºÔğÈËÒ²»á½øÈëÓÎÏ·ÖĞ°çÑİÒ»ÏÂÓ¢ĞÛ£¬ÔÚÕ½¶·ÖĞ½ü¾àÀë¹Û²ì¶ş´ÎÔªÃÀÅ®ÃÇµÄ±íÏÖ£¬ÑĞ¾¿ËıÃÇµÄĞÔ¸ñ£¬Êµ¼ù¹¥ÂÔ¼¼ÇÉ£¬²¢×îÖÕÓ¦ÓÃÓÚÊµ¼ù£¬Ô´Ô´²»¶ÏµØ½«×î¶¥¼âµÄ¶ş´ÎÔªÃÀÅ®ÍÚ£¨guai£©½Ç£¨dai£©ÖÁ300Ó¢ĞÛ¡£
+
+ƒ
+eProfessionIdx_jianxinè    ¶À×ÔÒ»ÈË×ßÔÚÀèÃ÷Ê±·Ö£¬ÏëÒª¿çÔ½Ò£Ô¶µÄÎ´À´£»ÈÎË¼Ğ÷×ÔÓÉ±¼·Å£¬ºÍÃÎÏë²Á¼ç¶ø¹ı£»ÈËÉúµÄµÃÊ§ÄÑ¾¡ÈËÒâ£¬Æ½Æ½·²·²ÊÇ×îÕæµÄÂğ£¿×İÊ¹ÉúËÀÓĞÃü£¬µ«ÖÁÉÙ×Ô¼ºµÄÈËÉúÒªÈÃ×Ô¼ºÈ¥°ÑÎÕ£»³¬È»¿´ÊÀ¼ä²ÅÊÇÕæÕıµÄÓÆÏĞ£¬Òş²ØÆğÂúÇ»ÈÈÑªµÄ×ÔÎÒ£¬ÈËÉú¿à¶Ì£¬×ªÑÛ¼´ÊÅ¡£
+ê
+eProfessionIdx_lixiaolangÌĞ¡Ó££¬ÄãÔÚÄÄÀï£¿ÓÚÊÇÎÒÀ´µ½ÁËÕâÀï£¡´ó¼ÒºÃ£¬ÎÒÊÇÀîĞ¡ÀÇ£¬ÎÒÊÇÒ»Ãû¿¼¹ÅÑ§¼Ò£¬ÌıËµÕâ¸öµØ·½Ôø¾­ÂñÔá¹ıÒ»¸ö·Ç³£µôÔüÌìµÄ¹Å´úÓ¢ĞÛ£¬ÅãÔá×Å¾ŞÅ£±ÆµÄÎäÁÖÃØ¼®£¬Ö»ÒªĞŞÁ¶Ò»µãµã£¬¾Í¿ÉÒÔÍ³ÖÎÓÀºãÖ®µØ¡£Ê²Ã´£¬ÄãÎÊÎÒĞ¡Ó££¿ÎÒ²Å²»¹Ü£¬ÎÒ¸üÏ²»¶²Ù×İÎÒµÄÄÇ¸öÃÀÀöµÄÕÙ»½Ê¦£¬hi£¬ÕÙ»½Ê¦£¬ÎÒ°®Äã£¬°®×ÅÄã£¬¾ÍÏñ¿¼¹ÅµÄ°®Ê¬Ìå£¬²»¹ÜÓĞ¶àÉÙ·çÓê£¬ÎÒ¶¼»áÒÀÈ»ÍÚ¾òÄã£¬ÕâÑù°®Äã¡£
+²
+eProfessionIdx_sunwukong•ÁíÒ»¸öÎ´À´¡£ÌØÀ¼¿ËË¹ÖÎÓúÁËÎò¿ÕµÄĞÄÔà²¡£¬Ê¹ÓÃ½ô¼±Í£Ö¹×°ÖÃ¶³½áÁËÈËÔìÈË17¡¢18ºÅµÄ»úÄÜ£¬ÓÖÔÚÉ³Â³³öÉúÇ°¼°Ê±»ÙÃğÁËµØÏÂÅàÑø²Û£¬µ«Ëû²¢Ã»ÓĞ·¢ÏÖ19¡¢20ºÅµÄ´æÔÚ¡£¸ñÂŞ²©Ê¿¸ÄÔìÁË²¼ÂêÁô¸øÌØÀ¼¿ËË¹µÄÊ±¹â»ú£¬ÊÔÍ¼Å¤×ª¼È³ÉÊÂÊµ£¬¼ÌĞøÏòÎò¿Õ¸´³ğ¡£È»¶ø£¬Ê±¹â»ú½«ËûÓëÎò¿ÕÒ»ÆğËÍÈëÁËÊ±¼äµÄÂÒÁ÷¡£ÕâÊÇÓÉÓÚ¸ñÂŞ²©Ê¿²»×ÔÖªµÄ´íÎó£ºËûÉè¶¨µÄ¸´³ğ¶ÔÏó²»ÊÇÎ´À´µÄ¿¨¿¨ÂŞÌØ£¬¶øÊÇ¼ÇÒäÖĞÄÇ¸ö»ÙÃğÁËºì³ñ¾üµÄÉÙÄê¡£Ë³´øÒ»Ìá£¬ÈËÔìÈË19ºÅÒ²ÒâÍâµØ´©Ô½µ½ÁËÄ³¸öÎ»Ãæ£¬³ÉÎªÁËÒ»Î»Ó¢Ã÷ÓĞÎªÄêÉÙ¶à½ğ·çÁ÷ÙÃÙÎµÄÁìĞäÈËÎï£¬Í³ÖÎ×ÅÄ³¸ö·±ÈÙ²ıÊ¢É½ºÓ×³ÀöµÄÓîÖæ¼¶Î°´óÇ¿¹ú¡­¡­                                                                                                                                                           
+Ã
+eProfessionIdx_sessho©Ğ°¶ñµÄÄÎÂäÔÙ¶È¸´»î!ÎªÁËÏòÉ±ÉúÍè¸´³ğ£¬ÄÎÂä´Ó·ãÆÅÆÅ´¦Â°×ßÁËÁá²¢ÇÇ×°¶ã²Øµ½ÁËÓÀºãÖ®µØ¡£É±ÉúÍè´óÈË×·Ñ°µ½ÓÀºãÖ®µØ£¬·¢ÏÖÄÎÂäÒÑ¾­±»Ò»¸öÉí×ÅÎäÊ¿×°µÄµ¶°ÌÇàÄêÇáËÉÄ¨É±¡£ºÍÁáÖØ·êµÄÏ²ÔÃ£¬Ã»ÄÜ±£»¤ºÃÁáµÄ×ÔÔğ£¬ÖØ¶àÇé¸Ğ½»Ö¯ÔÚÉ±ÉúÍè´óÈËµÄĞÄÖĞ£¬Õ÷µÃÁáµÄÍ¬Òâºó£¬Á½ÈË¾ö¶¨ÔÚÓÀºãÖ®µØ¶¨¾Ó¡£É±ÉúÍèÔÙ´ÎÌ¤ÉÏÁË³ÉÎªÇ¿ÕßµÄ¼èÍ¾¡£
+‰
+eProfessionIdx_freedomî    ¸©ÎÔÔÚËæ·çÆğÎèµÄÊ÷ÒõÏÂ¿ŞÆü£¬Íû×ÅÄÇ¸öËØ²»ÏàÊ¶µÄ×Ô¼º£»¼ªËûÎªÊÅÈ¥µÄÈË¶øµ¯×à£¬Á÷ĞÇÒò²»¹éÖ®ÈË¶øÔÉÂä¡£
+    ²»ÒªÀëÎÒ¶øÈ¥£¬¼´Ê¹ÊÇÕâÑù¿ÒÇó£¬Ò²Ö»ÊÇ»»À´³ÈÉ«»¨°êµÄ¾²¾²Ò¡Ò·£»ÒÅÁôÔÚÖÉÄÛÁ³ÅÓÉÏµÄ£¬ÕÆĞÄÖĞµÄ¼ÇÒä£¬ÒÑ½¥Ô¶È¥£¬Ö¸¼âµ¯×à³ö±ğÀëµÄĞıÂÉ£¬ÒÀ¿¿ÔÚÄãÎÂÈá¼ç°òÉÏµÄ¶ùÍ¯Ö®ĞÄ£¬±»ºôĞ¥µÄ³µÂÖÎŞÇéµÄÅ×¿ª¡£
+    ¼ªËûµ¯×à³öÊÅÈËµÄÌ¾Ï¢£¬²¦Åª×ÅĞÄÏÒÎŞ·¨Æ½¾²£¬ÔÚÎ´±»±¯ÉËÕ´È¾µÄ½à°×ÉÏÓ³³öÁË£¬Ò¡Ò·×Å³È»Æ»¨°êµÄÏÄÈÕÖ®Ó°¡£¼´Ê¹Á³ÅÓ²»ÔÙÖÉÄÛ£¬Ò²ÄÜ¿çÔ½ÄÇ±»Ï¦ÑôÈ¾ºìµÄÉ³Ì²£¬Àë±ğµÄĞıÂÉ¡£
+    ÔÚ»ØÒäÈ¼ÉÕ´ù¾¡µÄ´óµØÉÏ£¬»³ÁµµÄÄÛÑ¿ÕıÔÚÆÆÍÁ¶ø³ö£¬Ä¿ËÍ·÷ÏşµÄÁĞ³µ£¬³ÈÉ«µÄ»¨°êÏÖÔÚÓÖÔÚºÎ´¦Ò¡Ò·¡£
+    ÔÚÒÑÓ­½Ó¹ıÎŞÊı´ÎµÄÀèÃ÷£¬ÔÙ´ÎÀ´µ½Ö®Ç°£¬²»ÒªÏ¨ÃğÊÖÖĞµÄµÆ»ğ£¬³µÂÖ°¡£¬Ğı×ª°É¡£
+‘
+eProfessionIdx_kuangsanõ    ¸ÉÀäµÄ¿ñ·çÔÚÄÇ¿ÕÎŞÒ»ÈËµÄ½ÖµÀÉÏºôĞ¥¶ø¹ı£¬ÄÇÏòÍù¹âÃ÷µÄÑÛíøÖĞÓ³³öµÄÖ»ÓĞ¾øÍû£¬ÄÇË­Ò²ñöÌı²»µ½µÄºôÉùÎÒ¶¨½«ÆäÕÒµ½ÎªÖ¹£¬ÔÚÕâÒ»ÇĞ¶¼±»ÆÆ»µµÄÊÀ½çÖĞ£¬ÒÀÈ»Ò»ÎŞËùÖªµØÉú»îÏÂÈ¥£¬´¥Ãş×ÅÕâ·İÎÂÈáµ«ÒÀÈ»¿Ö¾å×Å£¬ÄÜÌî²¹ĞÄÖĞ¿ÕĞéµÄÈËÊÇ·ñ¾ÍÊÇÄã£¿Ñ¡Ôñ°É£¬Date A Live£¡
+Ğ
+eProfessionIdx_lvziqiao´    ÊÀÉÏ±¾Ã»ÓĞ°®Çé¹«Ô¢£¬µ«ÊÇ¿´µÄÈË¶àÁË£¬¾ÍÓĞÁË¡£
+    ÔÚµÚÈı¼¾½áÊøµÄÊ±ºò£¬ÅÓ´óµÄ·ÛË¿Èº»ã¼¯ÁËº£Á¿µÄĞÅÑöÖ®Á¦£¬×îÖÕÔÚĞé¿ÕÖĞ¿ª±Ù³öÁËÕæÕıµÄ°®Çé¹«Ô¢¡ª¡ªÒ»¸ö½Ğ×ö°®Çé¹«Ô¢µÄÎ»Ãæ£¬´ó¼Ò¶ÔÓÚÖ÷½ÇµÄÓ¡ÏóÒ²ÔÚÆäÖĞÄı¾Û³ÉĞÎ¡­¡­
+    ×÷ÎªÎ»ÃæÖĞ×î¡°¹ÅÀÏ¡±µÄÉúÎï£¬ËûÃÇ¾ÍÏñÆäËûÎ»Ãæ³õ´´Ê±µ®ÉúµÄÔªÊ¼ÉúÁéÒ»Ñù£¬ÓµÓĞÁËÉñ¸ñºÍ¶ÀÌØµÄÉñÁ¦£¬²¢¼ç¸ºÆğÁË·¢Õ¹×´Ì¬Î»ÃæµÄÔğÈÎ¡£
+    µ«·ÛË¿µÄÈºÌåÒâÊ¶¿É²»ÊÇ×¨ÒµµÄ´´ÊÀÉñ£¬°®Çé¹«Ô¢Î»ÃæÔÚ³õÉúÖ®Ê¼¾ÍÓĞÒ»µãĞ¡ÎÊÌâ¡ª¡ªÕâ¸öÎ»ÃæÌ«Ğ¡ÁË¡­¡­Ğ¡µ½Ö»ÓĞÄÇÃ´Ò»¶°¹«Ô¢¼¸¼ä·¿×Ó¡£
+    ¶øÉñìóÃÇ¾ÓÈ»±»Éè¶¨ÎªĞèÒª³Ô·¹Ë¯¾õÉÏ²ŞËù£¬·¿¼äÀïµ¹ÊÇÓĞ×ÔÀ´Ë®¹Ü£¬µ«ÊÇÁíÍâÒ»Í·Á´½Ó¾ÍÊÇÎŞ¾¡Ğé¿Õ£¬ÉÏÁË²ŞËùÁ¬³åÂíÍ°µÄË®¶¼Ã»ÓĞ¡£
+    ĞÒºÃ£¬ÓÀºãÖ®µØÁ´½Ó×ÅÊÀ½çÉÏËùÓĞµÄÎ»Ãæ£¬Ö÷½ÇÃÇ·×·×À´µ½ÁËÓÀºãÖ®µØÕÒ¹¤×÷Ä±Éú£¬¾­ÀúÁËÒ»·¬Åö±ÚÖ®ºó£¬ËûÃÇÕÒµ½ÁËÒ»·İ·Ç³£ÓĞÇ®Í¾µÄ¹¤×÷£ºÕÙ»½Ê¦µÄ´òÊÖ¡­¡­
+    ÎªÁË°®Çé¹«Ô¢µÄ·¢Õ¹ºÍÃÀºÃÉú»î£¬ËûÃÇ²»µÃ²»Ê¹³öÁËÊ®¶ş·ÖÁ¦Æø£¬ÔÚÓÀºãÖ®µØ´óÉ±ËÄ·½¡£
+Ô
+eProfessionIdx_zengxiaoxian´    ÊÀÉÏ±¾Ã»ÓĞ°®Çé¹«Ô¢£¬µ«ÊÇ¿´µÄÈË¶àÁË£¬¾ÍÓĞÁË¡£
+    ÔÚµÚÈı¼¾½áÊøµÄÊ±ºò£¬ÅÓ´óµÄ·ÛË¿Èº»ã¼¯ÁËº£Á¿µÄĞÅÑöÖ®Á¦£¬×îÖÕÔÚĞé¿ÕÖĞ¿ª±Ù³öÁËÕæÕıµÄ°®Çé¹«Ô¢¡ª¡ªÒ»¸ö½Ğ×ö°®Çé¹«Ô¢µÄÎ»Ãæ£¬´ó¼Ò¶ÔÓÚÖ÷½ÇµÄÓ¡ÏóÒ²ÔÚÆäÖĞÄı¾Û³ÉĞÎ¡­¡­
+    ×÷ÎªÎ»ÃæÖĞ×î¡°¹ÅÀÏ¡±µÄÉúÎï£¬ËûÃÇ¾ÍÏñÆäËûÎ»Ãæ³õ´´Ê±µ®ÉúµÄÔªÊ¼ÉúÁéÒ»Ñù£¬ÓµÓĞÁËÉñ¸ñºÍ¶ÀÌØµÄÉñÁ¦£¬²¢¼ç¸ºÆğÁË·¢Õ¹×´Ì¬Î»ÃæµÄÔğÈÎ¡£
+    µ«·ÛË¿µÄÈºÌåÒâÊ¶¿É²»ÊÇ×¨ÒµµÄ´´ÊÀÉñ£¬°®Çé¹«Ô¢Î»ÃæÔÚ³õÉúÖ®Ê¼¾ÍÓĞÒ»µãĞ¡ÎÊÌâ¡ª¡ªÕâ¸öÎ»ÃæÌ«Ğ¡ÁË¡­¡­Ğ¡µ½Ö»ÓĞÄÇÃ´Ò»¶°¹«Ô¢¼¸¼ä·¿×Ó¡£
+    ¶øÉñìóÃÇ¾ÓÈ»±»Éè¶¨ÎªĞèÒª³Ô·¹Ë¯¾õÉÏ²ŞËù£¬·¿¼äÀïµ¹ÊÇÓĞ×ÔÀ´Ë®¹Ü£¬µ«ÊÇÁíÍâÒ»Í·Á´½Ó¾ÍÊÇÎŞ¾¡Ğé¿Õ£¬ÉÏÁË²ŞËùÁ¬³åÂíÍ°µÄË®¶¼Ã»ÓĞ¡£
+    ĞÒºÃ£¬ÓÀºãÖ®µØÁ´½Ó×ÅÊÀ½çÉÏËùÓĞµÄÎ»Ãæ£¬Ö÷½ÇÃÇ·×·×À´µ½ÁËÓÀºãÖ®µØÕÒ¹¤×÷Ä±Éú£¬¾­ÀúÁËÒ»·¬Åö±ÚÖ®ºó£¬ËûÃÇÕÒµ½ÁËÒ»·İ·Ç³£ÓĞÇ®Í¾µÄ¹¤×÷£ºÕÙ»½Ê¦µÄ´òÊÖ¡­¡­
+    ÎªÁË°®Çé¹«Ô¢µÄ·¢Õ¹ºÍÃÀºÃÉú»î£¬ËûÃÇ²»µÃ²»Ê¹³öÁËÊ®¶ş·ÖÁ¦Æø£¬ÔÚÓÀºãÖ®µØ´óÉ±ËÄ·½¡£
+Ò
+eProfessionIdx_chenmeijia´    ÊÀÉÏ±¾Ã»ÓĞ°®Çé¹«Ô¢£¬µ«ÊÇ¿´µÄÈË¶àÁË£¬¾ÍÓĞÁË¡£
+    ÔÚµÚÈı¼¾½áÊøµÄÊ±ºò£¬ÅÓ´óµÄ·ÛË¿Èº»ã¼¯ÁËº£Á¿µÄĞÅÑöÖ®Á¦£¬×îÖÕÔÚĞé¿ÕÖĞ¿ª±Ù³öÁËÕæÕıµÄ°®Çé¹«Ô¢¡ª¡ªÒ»¸ö½Ğ×ö°®Çé¹«Ô¢µÄÎ»Ãæ£¬´ó¼Ò¶ÔÓÚÖ÷½ÇµÄÓ¡ÏóÒ²ÔÚÆäÖĞÄı¾Û³ÉĞÎ¡­¡­
+    ×÷ÎªÎ»ÃæÖĞ×î¡°¹ÅÀÏ¡±µÄÉúÎï£¬ËûÃÇ¾ÍÏñÆäËûÎ»Ãæ³õ´´Ê±µ®ÉúµÄÔªÊ¼ÉúÁéÒ»Ñù£¬ÓµÓĞÁËÉñ¸ñºÍ¶ÀÌØµÄÉñÁ¦£¬²¢¼ç¸ºÆğÁË·¢Õ¹×´Ì¬Î»ÃæµÄÔğÈÎ¡£
+    µ«·ÛË¿µÄÈºÌåÒâÊ¶¿É²»ÊÇ×¨ÒµµÄ´´ÊÀÉñ£¬°®Çé¹«Ô¢Î»ÃæÔÚ³õÉúÖ®Ê¼¾ÍÓĞÒ»µãĞ¡ÎÊÌâ¡ª¡ªÕâ¸öÎ»ÃæÌ«Ğ¡ÁË¡­¡­Ğ¡µ½Ö»ÓĞÄÇÃ´Ò»¶°¹«Ô¢¼¸¼ä·¿×Ó¡£
+    ¶øÉñìóÃÇ¾ÓÈ»±»Éè¶¨ÎªĞèÒª³Ô·¹Ë¯¾õÉÏ²ŞËù£¬·¿¼äÀïµ¹ÊÇÓĞ×ÔÀ´Ë®¹Ü£¬µ«ÊÇÁíÍâÒ»Í·Á´½Ó¾ÍÊÇÎŞ¾¡Ğé¿Õ£¬ÉÏÁË²ŞËùÁ¬³åÂíÍ°µÄË®¶¼Ã»ÓĞ¡£
+    ĞÒºÃ£¬ÓÀºãÖ®µØÁ´½Ó×ÅÊÀ½çÉÏËùÓĞµÄÎ»Ãæ£¬Ö÷½ÇÃÇ·×·×À´µ½ÁËÓÀºãÖ®µØÕÒ¹¤×÷Ä±Éú£¬¾­ÀúÁËÒ»·¬Åö±ÚÖ®ºó£¬ËûÃÇÕÒµ½ÁËÒ»·İ·Ç³£ÓÃÇ®Í¾µÄ¹¤×÷£ºÕÙ»½Ê¦µÄ´òÊÖ¡­¡­
+    ÎªÁË°®Çé¹«Ô¢µÄ·¢Õ¹ºÍÃÀºÃÉú»î£¬ËûÃÇ²»µÃ²»Ê¹³öÁËÊ®¶ş·ÖÁ¦Æø£¬ÔÚÓÀºãÖ®µØ´óÉ±ËÄ·½¡£
+š	
+eProfessionIdx_buzhihuowuü    Ä³ÌìÒ»Ôç£¬Éñ´óÈËÕıÒª³öÃÅ¾ÙĞĞÑŞÓö½ÌÊ¦µÄµÚÈıÊ®¶ş³¡Ñİ½²£¬µ«¸ÕÒ»ÍÆ¿ª¼ÒÃÅ£¬¾ÍÁ¢¿Ì±»ÑÛÇ°µÄÇéĞÎ¾ª´ôÁË¡ª¡ªµØÉÏ°ÚÂúÁË¸÷ÖÖ¹ıÆøµÄ±¾×Ó¡¢Ö»Ê£ÄÚÒÂµÄÊÖ°ì¡¢²¼Âú¸÷ÖÖ°ß×Õ£¨ÊÇ¿ÚË®°É£¬Ò»¶¨ÊÇ¿ÚË®°É£©µÄ¶ş´ÎÔªÃÀÅ®±§Õí¡­¡­
+    ¡°Éñ´óÈË£¬Èç¹ûÄãÄÜ¸É³ÉÕâÒ»Æ±µÄ»°£¬ÕâĞ©¡­¡­¶¼ÊÇÄãµÄ£¬Å¶ºÇºÇºÇ¡±
+    Ò»ÉùÒùĞ¦½«ÕıÔÚ·çÖĞÁèÂÒµÄ¹ğÄ¾¹ğÂíÀ­»ØÁËÏÖÊµ£¬ËûÈÏ³öÁËÕâ¸ö¼Ò»ï£ºµÚÒ»¸öÊ¹ÓÃÑÇË¹ÄÈÊ¤ÀûÒ»ÍòÅÌ³É¹¦±§µÃ°×¸»ÃÀµÄ¿ª·¢×é³ÉÔ±£¬¶øËûµÄÉíºó£¬ÊÇËÄ°Ù¶à¸öº£´óÒ¯¡£
+    ¡°ÄÉÄá£¿Ê²Ã´ºÍÉñÂí°¡£¬ÄãÄÜËµÇå³şµãÂğ£¬·Ùµ­£¡¡±
+    ¡°ÊÇÕâÑùµÄ£¬×Ô´ÓÉÏ´Î¿ª·¢×éÖÒÊµµÄĞ¡»ï°é¿ì²¥·¨Ê¦·ÖÏíÁËÒ»¸öÒÔ²»Öª»ğÎèÎªÖ÷½ÇµÄ¶¯»­Ö®ºó£¬¿ª·¢×éÀïÄÇĞ©¿É°®µÄÄĞº¢×ÓÃÇ¾ÍÒ»Ö±ÄîÄî²»Íü£¬ÏÖÔÚËûÃÇÖÕÓÚ°Ñ³Ö²»×¡ÁË£¬ÓÚÊÇ¾ÍÈÃÎÒ³öÃæÀ´ÕÒÄãÉÌÁ¿Ò»ÏÂ£¬ÄÜ²»ÄÜ°Ñ»ğÎè¹¥ÂÔµ½ÓÀºãÖ®µØÀ´£¿¡±¡ª¡ªÄÇ¸ö¼Ò»ïÈçÊÇ¡£
+    ¡°ÕâÑù°¡£¬ÈÃÎÒÏëÏë¡±
+     Éñ´óÈË±§±Û¸§¶îË¼Ë÷ÁËÒ»»áºó³ÁÒ÷µÀ£º¡°²»Öª»ğÎè°¡£¬¸ñ¶·¼ÒµÄÒâÖ¾ÏòÀ´ÊÇ·Ç³£¼á¶¨µÄ£¬ÕâÈÎÎñºÜÓĞÄÑ¶È°¡¡­¡­ÎÒ×î½üÓÖºÜÃ¦£¬Ò»¸öÔÂÓĞÈıÊ®¶ş³¡Ñİ½²»á¡£¡±
+    ¡°¿´À´£¬Éñ´óÈËÊÇ²»Ô¸Òâ°ïÃ¦ÁË¡±¡°¾ÍÖªµÀÊÇÕâ¸öÑù×Ó¡­¡­¡±¡°ÀÏÊµµÄ¸ú¿ì²¥Ğ¡»ï°éÍæË£°É£¬²»ÒªÏëÌ«¶àÁË¡­¡­¡±
+    ¾ÍÔÚËÄ°Ù¶à¸öº£´óÒ¯Ò»Á¬´®Ê§ÍûµÄà½àìÉùÖĞ¡£Éñ´óÈËµÄÉùÒôÍ»È»¼á¶¨µØÏìÆğ£º¡°²»¹ı£¬ÎÒ¾ÍÏ²»¶ÕâÑùÌôÕ½ĞÔµÄÈÎÎñ£¬²»Öª»ğÎè£¬¾Í½»¸øÎÒÀ´¸ã¶¨°É£¡¡±
+    ÓÚÊÇ£¬²»Öª»ğÎè£¬¼´½«½µÁÙ£¡
+ã
+eProfessionIdx_16yeËÓÀºãÖ®µØ£¬Ä³Ê±Ä³´¦¡£ºì´°µÄÑó¹İ¾²¾²ÏÔÏÖ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ËäÈ»´ËÊÂÓë»ÃÏëÏçÎŞ¹Ø£¬µ«ÏĞÀ´ÎŞÊÂÕûÌìÓëÇàÑÛ°×ÁúÏà°éµÄÄ³Î»
+Î×Å®»¹ÊÇÉÃ×Ô½«Æä¶¨ÃûÎª¡°ºÓµÀÒì±ä¡±²¢×·²é¶øÀ´£¬ÔÚºìÄ§¹İµÄ
+Ç°ÌüÔâµ½ÁËÒ»ÈºÍ¬ÑùÎŞËùÊÂÊÂµÄÑı¾«Å®ÆÍµÄ×èÀ¹¡£¡¡¡¡¡¡¡¡¡¡¡¡
+¡°ÊØÃÅÈË²»ÔÚ¡£¡±Ñı¾«Å®ÆÍ£Á£¬¡°Ë³´øÒ»Ìá´óĞ¡½ãºÍ¶şĞ¡½ãÒ²²»
+ÔÚ¡£¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°ÒìÊÀ½ç²¢²»¿ÉÅÂ£¬¿ÉÅÂµÄÊÇ²»ÄÜ¼ÌĞøÔÚºìÄ§¹İ¹¤×÷¡£¡±Ñı¾«Å®
+ÆÍ£Â¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°Å®ÆÍÒ²ĞèÒªÅ®ÆÍµÄ¾ÈÊÀÖ÷¡£¡±Ñı¾«Å®ÆÍ£Ã¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Î×Å®Ì§Í·¿´È¥£¬ºìÄ§¹İµÄÅ®ÆÍ³¤£¬Ê®ÁùÒ¹†DÒ¹£¬ÕıÕ¾ÔÚÂ¥Ìİ×îÉÏ
+¶Ë¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°ÃÎÏë·â¡ª¡ª¡°†DÒ¹µÄÊÀ½ç¡£¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°ËäÈ»Ê±¼äÍ£Ö¹ÒÔºóÕâÑùËµºÜÆæ¹Ö£¬µ«´óÔ¼¾ÍÊÇÎåÃëµÄÑù×Ó¡£¡±
+Å®ÆÍ³¤ÓÆÏĞµØÔÚÎ×Å®ÉíÖÜ²¼Âú·Éµ¶¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+£µ£¬£´£¬£³£¬£²£¬£±¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+È»ºóÊ±¼ä¿ªÊ¼Á÷¶¯¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡                                                            
+ñ
+eProfessionIdx_yeyeÙÒ¹Ò¹Ò»Ö±×ªÒ»Ö±×ªÒ»Ö±×ªÒ»Ö±×ªÒ»Ö±×ªÒ»Ö±×ªÒ»Ö±×ª×ª°¡×ª°¡×ª°¡×ª°¡×ª°¡×ª°¡×ª°¡×ª°¡×ª°¡×ª°¡×ª°¡×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ª×ªÍ»È»¾Í×ª³öÁËÊ±¿ÕµÄÁÑ·ì£¬¡°Å¾ß´¡±Ò»ÉùµØ´©Ô½ÁË¡£Ò¹Ò¹À´µ½ÁËÓÀºãÖ®µØ£¬Óë´÷×ÅÆæ¹ÖÃæ¾ßµÄÄĞÈË³ÉÎªÁËĞÄÖ®ÓÑ£¬µÃµ½ÁËĞí¶à·Ç³£ÓĞÒæµÄ½Ì»åÀıÈç¡°´ò²»ÖĞµÄ»°¾ÍÊ²Ã´ÊÂ¶¼Ã»ÓĞ¡±¡¢¡°ÈËÅ¼µÄĞÔÄÜ²»ÊÇÕ½Á¦²îµÄ¾ö¶¨ÒòËØ¡±¡¢¡°ÚÀ£¡»¨ÁøÕ«µÄÈËÅ¼¶¼ÊÇ¹ÖÎïÂğ¡±µÈµÈ¡£Ò¹Ò¹ÄÜ¹»¸ĞÊÜµ½ÓëÀ×ÕæµÄÄ§Á¦ÁªÏµ²¢Î´¶Ï¾ø£¬Òò´Ë£¬Ä¿Ç°ÕıÔÚÑ°ÕÒ°ÑÀ×ÕæÒ²´øÀ´µÄ·½·¨¡£                                                                                                                                                           
+²
+eProfessionIdx_gin›ÂÅ´Î±»ÎŞÊÓµÄ¶´Ò¯ºşÏÉÈËÖÕÓÚ³¹µ×±©Å­ÁË¡£ËùÒÔ£¬µ±ÒøÊ±¼ûµ½´«ËµÖĞµÄ¶´Ò¯ºş±ØÉ±Ê±£¬ËûÒÑ¾­±»»÷·Éµ½ÁËÒìÊÀ½ç¡£ÎªÁËÉú¼Æ£¬ÎªÁË²İİ®Å£ÄÌ£¬ÒøÊ±ÔÚÓÀºãÖ®µØÒ²¿ª°ìÁËÍòÊÂÎİ¡£ÒÔÏÂÊÇ¾­ËûÖ®ÊÖ½â¾öµÄ²¿·ÖÊÂ¼ş£º¡¾Ê§¿ØµÄ±¦¿â£¡ÒªÇóÄäÃûµÄÍõÏÈÉúÔâ´óÁ¿±¦¾ß»îÂñÊÂ¼ş¡¿¡¾°ÑËªÖ®°§ÉËÍÂ³öÀ´£¡ËÀÍöÆïÊ¿ÓëºùÂ«ÍŞ¾ÛÖÚ¶·Å¹ÊÂ¼ş¡¿¡¾ÊÖ»úĞ¡¹ÊÕÏ£¡ÓùÛàÃÃÃÃ½ñÌìÔöÒ»¸öÑ½Ã÷ÌìÔöÒ»¸öÊÂ¼ş¡¿¡¾ÈËÅ¼»ØĞı±©×ß£¡¿ÉÒÉÃæ¾ßÄĞÊÔÍ¼Ä§¸Ä¾Ş´ó»úÆ÷ÈËÊÂ¼ş¡¿                                                                                                                                                           
+ñ
+eProfessionIdx_icarus×¡¾ÓéÀÖÓÃÍòÄÜÌìÊ¹¹Û²ì¼ÇÂ¼¡¿¡¾¡ù¡¿·¢ÏÖÉíÓĞ°×ÒíµÄÅ®ĞÔ£¬ÄâÅĞ¶ÏÎªÌìÊ¹£¬Ñ¯ÎÊºóµÃµ½ÁË·ñ¶¨µÄ´ğ°¸¡£¸ÃÅ®ĞÔÕıÔÚÊ³ÓÃÒ»ÖÖ½şÅİÓÚºìÉ«ÒºÌåÄÚµÄ¿é×´Îï¡£¡¾¡ù¡¿·¢ÏÖÉíÓĞ½ğÊôË«ÒíµÄÅ®ĞÔ£¬ÄâÅĞ¶ÏÎªÌìÊ¹£¬Ñ¯ÎÊºóµÃµ½ÁË·ñ¶¨µÄ´ğ°¸¡£ÁË½âÆä¾­ÀúºóÃüÃûÎª¡°ÓÀ¾Ã±»·ıÈËĞÎ±øÆ÷Athena¡±¡£È»ºó±»´òÁË¡£¡¾¡ù¡¿·¢ÏÖÉíÓĞºÚÒíµÄÅ®ĞÔ£¬ÄâÅĞ¶ÏÎªÌìÊ¹£¬Ñ¯ÎÊºóµÃµ½ÁË·ñ¶¨µÄ´ğ°¸¡£¸ÃÅ®ĞÔ×ÔÃû¶ñÄ§£¬²¢ÇÒ¿ªÊ¼Ğû´«Ò»Ì×¾İ³ÆÎª¡°ÈËÀà¸ĞÇé¼«ÖÂ¡±µÄÎ£ÏÕµÄÁµ°®¹Û¡£¡¾¡ù¡¿·¢ÏÖÎ÷¹Ï¡ª¡ª¹Û²ì¼ÇÂ¼ÔİÊ±ÖĞÖ¹£¬»Ö¸´Ê±¼äÎ´¶¨¡£                                                                                                                                                           
+ë
+eProfessionIdx_konanÒ·Ç³£Õğ¾ª¡£ÊÇÕâÑùµÄ£¬ÎÒÊÇĞ¡ÎåÀÉ¡£×òÌìµØÉÏ³öÏÖÁËÒ»µÀ¾ŞĞÍÁÑ
+·ì£¬¿ÂÄÏµô½øÈ¥¡°Å¾ß´¡±Ò»Éù¾ÍÏûÊ§ÁË¡£ÎÒÒ²Ë¤ÉËÁËÍÈ£¬¾ÍÈ¥Ò½
+Ôº¼ì²é¡£½á¹ûÍÈÃ»Ê²Ã´ÎÊÌâ£¬È´´Ó²±×ÓÀï°Î³öÆß°Ù¶à¸ùÕë¡£ËäÈ»
+²»ÖªµÀÊÇÔõÃ´»ØÊÂ£¬µ«ÏÖÔÚÎÒ¾õµÃÖÇÉÌ´ó·ù»ØÉıÁË¡£¡¡¡¡¡¡¡¡¡¡
+¸ù¾İÎÒµÄÍÆÀí£¬Çé¿öÊÇÕâÑùµÄ£º¿ÂÄÏ¾ÍÊÇ¹¤ÌÙĞÂÒ»£¬±»Ä³¸ö×éÖ¯
+×¢ÉäÁËÒ©¼Á±ä»ØĞ¡º¢¡£Ò©¾ÍÊÇ»ÒÔ­°§×öµÄ¡£ÄÇ¸ö×éÖ¯ÀïÈ«ÊÇÎÔµ×
+£¬ÆäÊµÃ»¼¸¸öÈÏÕæ¸É»µÊÂµÄ¡£°¢óÒ²©Ê¿²»ÊÇÄÇ¸ö×éÖ¯µÄÀÏ´ó¡£×ò
+ÌìÎÒÃÇÓöµ½µÄÊÇÊ±¿ÕµÄÁÑ·ì£¬¿ÂÄÏ´©Ô½µ½±ğµÄÊÀ½çÁË¡£ºô¡£Ò»ÏÂ
+×öÕâÃ´¶àÍÆÀí»¹ÕæÓĞµãÀÛÄØ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+´
+eProfessionIdx_rikka›ÆäÊµµÚÒ»´ÎÌıËµÒªÖĞ¶şÎÒÊÇ¾Ü¾øµÄ¡£ÒòÎª£¬Äã²»ÄÜÈÃÎÒÖĞ¶ş£¬ÎÒ¾ÍÂíÉÏÈ¥ÖĞ¶ş¡£µÚÒ»ÎÒÒªÊÔÒ»ÏÂ£¬ÒòÎªÎÒ²»Ô¸ÒâÖĞ¶şÍêÁËÒÔºó¼ÓÒ»Ğ©ÌØ¼¼ÉÏÈ¥£¬ÑÛ¾¦¡°ßÛ¡±Ò»ÏÂ£¬ºÜÁÁ£¬ºÜÈá¡£ÕâÑù½ã½ãÒ»¶¨»áÂîÎÒ£¬¸ù±¾Ã»ÓĞÕâÑùµÄÑÛ¾¦£¬¾ÍÖ¤Ã÷ÄãÄÇ¸öÊÇÃÀÍ«¡£ºóÀ´ÎÒÒ²¾­¹ıÖ¤ÊµÎÒÈ·ÊµÊÇÖĞ¶şµÄ£¬ÎÒÖĞ¶şÁË¼¸Äê£¬¸Ğ¾õºÜ²»´í¡£ºóÀ´ÎÒ¿ªĞ°ÍõÕæÑÛµÄÊ±ºòÒ²ÒªÇóËûÃÇ²»Òª¼ÓÌØ¼¼£¬ÒòÎªÎÒÒªÈÃÓÂÌ«¿´µ½£¬ÎÒÖĞ¶şÒÔºóÊÇÕâ¸öÑù×Ó£¬ÄãÖĞ¶şÒÔºóÒ²»áÊÇÕâ¸öÑù×Ó£¡                                                                                                                                                           
+°
+eProfessionIdx_ryuko—¡¡¡¡¡¡¡¡¡¡¡¡£Ë£É£Ì£Ì¡¡£Ì£Á¡¡£Ë£É£Ì£Ì£¬´Î»ØÓè¸æ¡¡¡¡¡¡¡¡¡¡
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ºÀp¡¡Á÷×Ó¡»¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÊÇ´ÓºÎÊ±¿ªÊ¼µÄÄØ£¿ÎªÊ²Ã´Àë¿ªÁËµØÇò£¿×Ô¼ºÉíÔÚºÎ´¦£¿ÃÎ¡­¡­Âğ
+£¿»¹ÓĞ£¬ÄÇ±ßµÄ¡­¡­ÊÇ£¿¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ºÉñÒÂõrÑª¡»¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Ó´£¬ÓÖ¼ûÃæÁË£¬Á÷×Ó¡£¿´À´»¹Ã»µ½ÍÑÏÂË®ÊÖ·şµÄÄÇÌì°¡¡£¡¡¡¡¡¡
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ºÓÀßh¤Î´óê‘¡»¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Î´ÖªµÄĞÇÇò£¬ÓÀºãÖ®µØ¡£ÉĞÎ´ÔâÓöÉúÃüÕ½Î¬µÄÒìÊÀ½ç£¬¼´½«ÃæÁÙ
+À´×ÔÒøºÓÉî´¦µÄ¾øÍûÎ£»ú£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡º¹íıˆÔº¡¡Á_•Ô¡»¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÈËÒÂ¾ıÁÙ£¬¶ñÒâÇÖÏ®£¬³¬åó¼¶Ñ¹ÆÈ¸Ğ£¬´Ë¿Ì¡¢¸´»î¡£ÉúÃüÕ½Î¬¼´
+Ô­³õÕæÀí£¬¶ø½ñÕıÊÇÇåËã¶ûµÈ×ïÔğÖ®Ê±£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡ºÌì·NÀOĞÇ¡»¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÉúÃüÕ½Î¬¾Û¾ÓµÄ¼«¶ñ±¤Àİ¡¢ÔÚÓîÖæÖĞÉ¢²¥Å«ÒÛÖ®ÖÖµÄ»îÌå±ø½¢£¡
+ÉñÂŞÖ®Ó°¡¢È«Óò¸²¸Ç¡ª¡ª¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+´Î»Ø£Ë£É£Ì£Ì¡¡£Ì£Á¡¡£Ë£É£Ì£Ì£º¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡ºÌìÁ¹ÁË£¬ÈÃ¹íÁúÔº²ÆÍÅµ¹±Õ°É¡»¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+
+ˆ
+eProfessionIdx_homuraîĞé¼ÙµÄÓîÖæ£¬Ğé¼ÙµÄÊ±¼ä¡£ÃÔÊ§ÓÚ¶ñÄ§Ëù´´ÔìµÄÊÀ½çÖĞ£¬Ôø¾­Éí
+ÎªÉñÃ÷µÄÄ³ÈËÒÑ½«Éí·İÒÅÍü£¬¹ı×ÅÆ½·²µÄÉú»î¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¶ñÄ§À§×¡ÁËÉñÓëÉñÊ¹£¬µ«ÉñÊ¹ÃÇ²¢Î´È«²¿½øÈë¶ñÄ§µÄÊÀ½ç¡£µ±Ä³
+Î»ÉñÊ¹»÷ËéÁËÊÀ½çµÄÖ§µã£¬ÊÀ½çÍâ²¿µÄËéÆ¬¾ÍÈç²£Á§ÉÏµÄÓêË®Ò»
+°ãÉøÍ¸½øÊÀ½çÖ®ÄÚ¡£Ê±¿ÕÖĞ´æÔÚÓë²»´æÔÚµÄÎïÌåÒ»ÆğÓ¿Èë£¬Áî¶ñ
+Ä§µÄÇôÀÎÎŞ·¨¼ÌĞø½ûïÀÉñÃ÷¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Ô²»·Ö®ÀíÖØÏÖ£¬ÉñÃ÷ÖØĞÂ³ÉÎª¹æÔò¡£¼´Ê¹Èç´Ë£¬¶ñÄ§Ò²ÈÔ½«ĞĞ¶ñ
+Ä§Ö®ÊÂ¡£´ÓÇĞ¶ÏÕæÊµµÄ³¤ÃÎÖĞĞÑÀ´£¬ÉÙÅ®ÔÙ´ÎÄÃÆğÁËÇ¹¡£¡¡¡¡¡¡
+¡°ÕâÒ»´Î£¬Ò»¶¨ÒªÕü¾ÈÄã¡£¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+õ
+eProfessionIdx_lihuazouÙ±ø¿âÒÔ±±£¬Ì«ÑôÒÔÎ÷¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÌìÊ¹¡¢Éñ¸¸ÓëÌØ¼¶³øÊ¦Î§×øÒ»×À£¬ÏíÊÜ×Å¹²Í¬°®ºÃµÄÃÀÎ¶¡£¡¡¡¡
+¡°Õâ£¬Õâ¸öÎ¶µÀÊÇ£¡Ïñ»ğÔÚÈ¼ÉÕµÄÀ±£¬Éî¶ÈÂé×í°ãµÄ»¨½·£¬¼ÓÉÏ
+¶¹¸¯±¾ÉíµÄ»¬ÄÛË¬¿Ú£¬ÕâÊÇÎ¶¾õµÄ²¨×´¹¥»÷£¡¡±ÌìÊ¹¡£¡¡¡¡¡¡¡¡
+¡°ÉàÍ·Âú×ãÓÚ¶¹¸¯µÄÈÈÀ±Ö®Óà£¬Ò²ÄÜÍ¬Ê±ÏíÊÜËÖË¬µÄ¿Ú¸Ğ£¬ÒÔ¼°
+½Óõà¶øÀ´µÄÈáÄÛ¶È£¡ºÃÏñÔÚÉàÉÏÑİ×à×ÅÂüÃîµÄĞıÂÉ£¬Ò»ÇĞ¶¼»íÈ»
+¿ªÀÊÁË£¡¡±Éñ¸¸¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°ÈıÖÖĞıÂÉºÍ¶ø²»Í¬£¬Ñİ×à³öÉîÌğ¸ÊÃÀµÄÒôÉ«£¬Öğ½¥»¯Îªµ­Ñ©£¬
+ÓÖÔÚÎíÖĞÏûÉ¢£¬ÂıÂıÍùºíÁüÉî´¦ÍÊÈ¥£¡¼òÖ±ÊÇ¶¹¸¯ÓëÈâ¸ß¶ÈºÍĞ³
+µÄºÏ×à£¡¡±ÌØ¼¶³øÊ¦¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°¹Û²ì¼ÇÂ¼¡ª¡ªÊ³ÓÃ¡ª¡ª½şÅİÓÚºìÉ«ÒºÌåÄÚµÄ¿é×´Îï¡£¡±¡¡¡¡¡¡
+¡°£¿¡±ÌìÊ¹¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°£¿¡±Éñ¸¸¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°£¿¡±ÌØ¼¶³øÊ¦¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÂÔ´ø»úĞµ¸ĞµÄ»ØÉù£¬ÕÒ²»µ½ÉùÒôµÄÀ´Ô´¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Óê£¬19¶È¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Û
+eProfessionIdx_yamiÃÀæ¶·ÔÙ´Î´¥·¢ÁË±»¶¯¼¼ÄÜ£¬°ÑĞ¡°µÆËµ¹ÔÚµØ¡£ÒòÎªË¤µÃÌ«ÓÃÁ¦£¬
+¡°Å¾ß´¡±Ò»Éù¾Í´©Ô½ÁË¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÔÚÓÀºãÖ®µØ£¬Ğ¡°µ±»Ä³Î»¸ñ¶·¼Ò¡¢Ä³Î»÷ÈÄ§¡¢Ä³Î»»îÁËÒ»ÍòÄêµÄ
+¾«Áé½Ìµ¼ÁËÒ»Ğ©ÌÖÑáµÄÖªÊ¶¡£µ±Ğ¡°µÄÃ×ÅÉÈ×Ó¡¢Æ¤±ŞºÍ·ç¸ÉµÄÏã
+½¶»ØÈ¥ÕÒÀæ¶·Ê±£¬·¢ÏÖËûÒÑ¾­¼ÓÈëÁËÉñ´óÈËµÄ¡°ÉñÖ®¹¥ÂÔ×é¡±¡£
+ÓÚÊÇĞ¡°µºô½ĞÁËÃÎÃÎ£¬¹²Í¬¼ûÖ¤¡°ÀÖÔ°¡±¼Æ»®µÄÊµÏÖ¡­¡­¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ 
+eProfessionIdx_nep‰ÔÚ¡°Ê·Êé¡±¶ÔÊ±¿ÕµÄ²Ù×İÓ°ÏìÏÂ£¬º£ÍõĞÇµÄ»¯ÉíÄùÆÕ¶ÙĞ¯Í¬Ö÷³¡
+µØÍ¼¡°ÓÎÏ·Òµ½ç¡±Ò»Æğ½µÁÙÓÀºãÖ®µØ¡£ÕæÖ÷½Ç²ÎÕ½£¡¡¡¡¡¡¡¡¡¡¡
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÌìÃğÈÎË÷Èí£¬ÄùÆÕ±£Æ½°²¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+£Á£Â£Ã¼üÊÇÕıÍ³£¬È¦²æÈı½ÇÁôÒş»¼¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+³ÏĞÄ³ÏÄîº£ÍõĞÇ£¬ÄùÆÕÄùÆÕÆ½°²±£¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÄùÆÕÎªÄã×öÓ¢ĞÛ£¬ËÄÊ®Îå¿éÄª¾Ü¾ø¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÔçÈÕ°ÚÍÑ£Ì£Ø£Ì¡¢£Ä£Ø£Ø£Á£¬ÔçÈÕ»ñµÃĞÂÉú¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÉÏÍøËÑ¡¡£³£°£°Ó¢ĞÛ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓĞ¡¡¡¡¡¡Õæ¡¡¡¡¡¡Ïà¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+«
+eProfessionIdx_madoka‘ÊÀ½çÍâ²¿µÄËéÆ¬Èç²£Á§ÉÏµÄÓêË®Ò»°ãÉøÍ¸½øÊÀ½çÖ®ÄÚ¡£´æÔÚÓë²»
+´æÔÚµÄÊÂÎïÒ»ÆğÓ¿Èë£¬Áî¶ñÄ§µÄÇôÀÎÎŞ·¨¼ÌĞø½ûïÀÉñÃ÷¡£¡¡¡¡¡¡
+Ê±¿ÕÁÑ·ì´ò¿ª£¬±À»ÙµÄ¹ı³ÌÖĞ½«ÎŞÊıÒò¹û±àÖ¯³ÉäöÎĞ£¬¶øÆäÖÕµã
+ÊÇÒ»Æ¬Î´ÖªµÄ´óÂ½¡£ÈËÅ¼¡¢ÕìÌ½¡¢°µÉ±Õß¡ª¡ªÒìÊÀ½çµÄ×¡ÃñÃÇ·×
+·×ÊÜµ½Ó°Ïì£¬¾íÈëÆäÖĞ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÉñµÄÓ°×ÓÍ¶ÉäÔÚÕâÆ¬´óÂ½ÉÏ£¬³ÉÎªÆ½·²µÄÈËĞÎ£¬Óö¼ûÁËÄÇÎ»Ôø¾­
+ÉíÎª¶ñÄ§µÄÄ§Å®¡£Ô²»·Ö®ÀíµÄ·¨ÔòÔÚÕâÌØÊâµÄÊÀ½ç²¢²»Í¨ĞĞ£¬Îª
+´Ë£¬Ä§Å®ÊÔÍ¼½«ÉñÃ÷±¾ÉíÒ²À­ÈëÕâÆ¬´óÂ½¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÎÒÒÑ¸ø³öÎÒµÄ´ğ°¸£¬ÉñÃ÷Í¶Ó°µÄÉÙÅ®ĞÄÏë£¬µ«ÄÇ²»ÊÇÄãµÄÔ¸Íû¡£
+¡°ÕâÒ»´Î£¬¾ÍÓÉÄãÀ´×÷´ğ°É¡£¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ú
+eProfessionIdx_tohkaáÃ¿´Î¶Ô»°¡¡Ã¿´Î´¥Åö¡¡Ã¿´Î»¶Ğ¦¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¶¼ÈÃÕâ·İË¼Äî½¥½¥¾õĞÑ¡¡¾öÒâ¾ø²»ÍËÈÃ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÎÒÏëÕâÊÇµÚÒ»´Î¡¡ÕâÑùÌ¹ÂÊµØ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Ö»ÊÇÏëÅã°éÔÚÄãÉí±ß¡¡ÒòÎªÓëÄãÏàÓöÁË¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ËùÒÔÏë¼áĞÅ¡¡£Ä£Á£Ô£Å¡¡£Á¡¡£Ì£É£Ö£Å¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+
+–
+eProfessionIdx_nyarukoûÄãÈÏÎªÊÇÓîÖæ£Ã£Ñ£ÃµÄ¶«Î÷¾ÍÊÇÓîÖæ£Ã£Ñ£Ã¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡ª¡ªÕª×Ô¡¶ºÃÀ÷º¦£¡ÎÒµÄÓîÖæ£Ã£Ñ£Ã¡·¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¸½£º¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡¶Î´·ÅËÍÖ®ÓîÖæ£Ã£Ñ£Ã²»ÍêÈ«ÊÕÂ¼¡·¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£ÃÁùÊ½¡¡¡¤¡¡³¬¾¿ÎäÉñ°ÔÕ¶¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£Ã¶şÊ®ËÄÊ½¡¡¡¤¡¡ÑîÊ½Ì«¼«È­¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£ÃÁ½ÒÇÊ½¡¡¡¤¡¡¿ÕÖ®¾³½ç¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£Ã¼¯»»Ê½¡¡¡¤¡¡¿¨ÅÆÓÎÏ·¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£ÃÈ«ĞÂÕĞÊ½¡¡¡¤¡¡ÌìÆÆÏÀÂÒ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£ÃÈôË¹ÆæÑÇµÈÊ½¡¡¡¤¡¡ÍâÉñÖ®ÊıÑ§¹«Ê½¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+“
+eProfessionIdx_oumashuøÈıÂ·£Ğ£Ë£¬Ê¤ÕßÎªÍõ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Ğé¿Õ±¦µ¶£¬µã»÷¾ÍËÍ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÃÃÖĞ³é½££¬ÍõÕßÖ®Á¦¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+£Ñ£×£Å£Ò£¬Ò»ÃëË¢±¬¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÎŞÏŞË¢¹Ö£¬µ¥±¶¾­Ñé¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¶ÀÌØĞé¿Õ£¬ÓÉÄú´òÔì¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÎÒ²»¶ÏµØÑ°ÕÒ£¬ÓĞÆíÃÃµÄÊÀ½çÔÚÄÄÀï¡£
+Û
+eProfessionIdx_baijingheizi»Ê±¿ÕÁÑ·ì´ò¿ª£¬±À»ÙµÄ¹ı³ÌÖĞ½«ÎŞÊıÒò¹û±àÖ¯³ÉäöÎĞ£¬¶øÆäÖÕµã
+ÊÇÒ»Æ¬Î´ÖªµÄ´óÂ½¡£ÈËÅ¼¡¢ÕìÌ½¡¢°µÉ±Õß¡ª¡ªÒìÊÀ½çµÄ×¡ÃñÃÇ·×
+·×ÊÜµ½Ó°Ïì£¬¾íÈëÆäÖĞ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¶ÔÓÚºÚ×Ó¶øÑÔ£¬ÕâÊÇÒ»´ÎÅ¼È»µÄ»úÓö¡£³¬µç´ÅÅÚÅ¤ÇúÁËÊ±¿ÕµÄÁí
+Ò»¶Ë£¬¡°Å¾ß´¡±Ò»Éù´ò¿ªÁËÍ¨ÍùÓÀºãÖ®µØµÄµÀÂ·¡£ºÚ×ÓÁé»úÒ»¶¯
+£¬±§Æğ½ã½ã´óÈËË²¼äÒÆ¶¯ÁË½øÈ¥¡£
+Œ
+eProfessionIdx_momoôÀæ¶·ÔÙ´Î´¥·¢ÁË±»¶¯¼¼ÄÜ£¬°ÑĞ¡°µÆËµ¹ÔÚµØ¡£ÒòÎªË¤µÃÌ«ÓÃÁ¦£¬
+¡°Å¾ß´¡±Ò»Éù¾Í´©Ô½ÁË¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Ğ¡°µºô½ĞÁËÃÎÃÎ£¬¹²Í¬¼ûÖ¤¡°ÀÖÔ°¡±¼Æ»®µÄÊµÏÖ¡£ÔÚÓÀºãÖ®µØ£¬
+ÃÎÃÎ¼ûµ½ÁËÄÃ×ÅÉÈ×Ó¡¢Æ¤±ŞºÍ·ç¸ÉÏã½¶µÄĞ¡°µ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+´ÓĞ¡°µÄÇÀïÁË½âÇé¿öÒÔºó£¬ÃÎÃÎ×·×ÅÀæ¶·¼ÓÈëÁË¡°ÉñÖ®¹¥ÂÔ×é¡±
+£¬³ÉÎªÁË¹¥ÂÔ×éµÄÌØ±ğ¹ËÎÊ¡£Õâ¾ÍÊÇ¡°ÀÖÔ°¡±¼Æ»®µÄÏÂÒ»²½¡ª¡ª
+°ÑÓÀºãÖ®µØ±äÎªÀæ¶·µÄºó¹¬ÌìÌÃ¡£
+¸
+eProfessionIdx_wrs¡I know. That's all, I'll be all right.   I know. That's why you take me back.   I know. That's the price I must pay.   I've got to leave nothing to take anymore.
+Â	
+eProfessionIdx_archer¨	Â×¶Ø£¬Ê±¼ÆËş¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Åû×ÅºìÉ«ÍâÌ×µÄÉÙÅ®¶À×ÔÔÚ¾²ÊÒÖĞÊµÑéÄ³ÖÖÉæ¼°µÚ¶ş·¨Ä£ÄâµÄÎ´
+ÖªÄ§Êõ£¬¾­ÀúÁËÎå¸öÍêÃÀÎŞÈ±µÄ»·½Ú£¬´ïµ½ÁË×îºóµÄÊ±¿Ì¡£¡¡¡¡
+¡°ÕÚ±Î£¬ÈÛÈÚ£¬½â·Å¡£¹éÓÚÒø°×»ùÊ¯µÄ±ßÔµ£¬¹âÏßĞı×ªËÄÊ®¶ş¶È
+£¬Î¬¶ÈÔÚÃÅÓëÃÅµÄ½»½ç´¦ÊÕËõ¡£¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°ÕªÈ¡¡£Õñ·ù¡£¸ĞÖª¡£Í¨¹ıÀíĞÔÓëÎŞÒâÊ¶½»´íµÄ³¤ÀÈ£¬°ÙÒÚµÀÂ·
+µÄÌ½ÇóÕß£¬ÎŞÏŞÍù¸´µÄÂÃĞĞÕß¡£¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÉÙÅ®°Ñ±¦Ê¯½£Ôó¶ûÀïÆæĞ¡ĞÄµØ·ÅÔÚÄ§·¨ÕóÖĞÑë¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°×ªµ÷Éı¸ß£¬ĞŞ°İÒò°Â¹ÅµÄÈÙÒ«Ò²Éı¸ß¡ª¡ª£¡¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°Å¾ß´¡£¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ß×£¿¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Å¾ß´¡ª¡ª£¿¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡¡ª¡ª¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÉÙÅ®ĞÑÀ´Ê±£¬·¢ÏÖÊÖ±³¸¡ÏÖ³öÁËÁîÖä£¬Éíºó³öÏÖÁËÊìÏ¤µÄºìÉ«Éí
+Ó°¡£ÉíÅÔÏÔÏÖµÄ·ç¾°²»ÊÇÂ×¶Ø£¬Ò²²»ÊÇ¶¬Ä¾£¬»òÈÎºÎÒ»´¦×Ô¼º¼Ç
+Òä·¶Î§ÄÚµÄµØÓò¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°¹Ø¼üÊ±¿Ì£¬ÓÖ³ö´íÁË¡£²»À¢ÊÇÎÒµÄ£Í£á£ó£ô£å£ò¡£¡±¡¡¡¡¡¡¡¡
+¡ª¡ªÁ¬ÕâÖÖ³°·íµÄÓïÆø¶¼ºÜÊìÏ¤£¬ÉÙÅ®ĞÄÏë¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÃÔÊ§ÓÚÊ±¿ÕµÄäöÎĞ£¬ÉÙÅ®À´µ½ÁËÎ´ÖªµÄĞÇÇò£¬×ÔÉíµÄ×´Ì¬Ò²²»Öª
+ÎªºÎ»Øµ½ÁËµÚÎå´ÎÊ¥±­Õ½ÕùÊ±ÆÚ¡£±§×Å¡°¸ã²»ºÃ»¹ÓĞ»ú»á»ØÈ¥¡±
+µÄĞÄÇé£¬ÉÙÅ®ÓëÁ¶ÌúÖ®Ó¢ÁéÒ»Æğ£¬Õ¹¿ªÁËÓÀºãÖ®µØµÄÂÃĞĞ¡£
+Ü
+eProfessionIdx_kuronekoÀ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¶¶éÈë·²¼äµÄÄ§ÊŞµÄâú¿Ş¡·¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ªĞòÕÂ¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÎÒÏëµ½ÁËÒ»²¿¾øÃîµÄ¹ØÓÚÇ§Ò¶µÄ¶éÌìÊ¥ºÚÃ¨µÄ¾Å°ÙÒ³Éè¶¨¼¯£¬¡¡¿ÉÏ§¼¯¿¨ÊéÀïµÄ¿Õ¼äÌ«Ğ¡£¬Ğ´²»ÏÂÁË¡£¡¡
+´
+eProfessionIdx_yukariš¡°ÃÎÏë·â¡ª¡ª¡°†DÒ¹µÄÊÀ¡ª¡ª¡°£££¡£¥¡Á£¤£¨£¦£¥£¦£¬££¡Á£¦¡Á
+£¦£¡£À£££¬£¥£¤¡Á£À£££¡£¡£¡£¡£¡£¡¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+×ÏÉ«µÄ¨€¨€¨€¨€¨€¨€£¬½µÁÙÓÀºãÖ®µØ¡£¡¡
+Å
+eProfessionIdx_liangyishi§¹ÇÉ«µÄ°ëÔÂ£¬½ÖµÆÉî÷ö¡£ºÍ·şµÄÉíÓ°Âş²½¶øĞĞ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°À´µ½ÁËÆæ¹ÖµÄµØ·½°¡¡ª¡ª¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÊÀ½çÍâ²¿µÄËéÆ¬¿ÉÒÔÉ±ËÀ¡£Òò¹û±àÖ¯µÄäöÎĞ¿ÉÒÔÉ±ËÀ¡£´æÔÚÓë²»
+´æÔÚµÄÊÂÎïÃ»ÓĞÈÎºÎ²î±ğÈ«¶¼¿ÉÒÔÉ±ËÀ¡£¼´Ê¹ÊÇÕâ³¡¾íÈëÎŞÊıÒì
+ÊÀ½ç×¡ÃñµÄÊ±¿Õ±À»Ù±¾Éí£¬ÒÔÕâË«ÑÛÀ´Ä¿ÊÓµÄ»°£¬ÏëÀ´Ò²¿ÉÒÔÇá
+Ò×Ä¨Ïû¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+µ«ÊÇÃ»ÓĞ±ØÒª¡£ºÚ·¢µÄÉÙÅ®Ïë¡£Õâ¸öÊÀ½çµÄÄ³Ğ©ÊÂÎï¹ÖÒìµ½ÁËÓĞ
+È¤µÄ³Ì¶È£¬¹ÃÇÒµ±×÷Ò»´ÎÃÎÏÖÖ®ÂÃ£¬ÏíÊÜÆä¼äµÄÎ¢ÃîĞÂÆæ¸Ğ°É¡£
+ÉÙÅ®ÍûÏòÒ¹¿Õ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°Æ¯¸¡ÔÚÄÇÀïµÄÂÌÉ«µÄÊÖ£¬Ò²¿´µÃ¼ûÅ¶¡£¡±
+§
+eProfessionIdx_jojo¡°Ìì¹úÖÆÔì¡±·¢¶¯ºó£¬¾ÉÊÀ½çÔÚ¼ÓËÙÖĞÖÕ½á£¬ĞÂµÄÊÀ½çµ®ÉúÁË¡£
+ÖØÆôºóµÄÊÀ½çÈÔÈ»°²ÎÈÔËĞĞ£¬µ«ÉÏÒ»¸öÊÀ½çËÀÈ¥µÄÄ³ÈË£¬È´ÔÚÓî
+Öæ´ïµ½ÖÕµãÖ®Ê±£¬Ç¡ÇÉÓö¼ûÒòÄ³¶ÔÉñÄ§µÄ³åÍ»¶ø´ò¿ªµÄÍ¨µÀ¡£¡¡
+ÓµÓĞÊ±¼äÏµÄÜÁ¦µÄ³ĞÌ«ÀÉ£¬Ãæ¶ÔÊ±¿ÕµÄÁÑ·ì£¬Ñ¡ÔñµÄ·½·¨ÊÇ¡ª¡ª
+¡°¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­
+Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­
+Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­
+Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­Å·À­
+¡±¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+½èÖú´¿´âµÄÎïÀíÆÆ»µÁ¦£¬ÓµÓĞ×îÇ¿ÌæÉíµÄÌæÉíÊ¹Õß´©Ô½ÁËÊ±¿ÕÓë
+Òò¹ûµÄÂÒÁ÷£¬À´µ½ÁËÓÀºãÖ®µØ¡£
+å
+eProfessionIdx_zekamashiÈ±³¾°¹ÊÊÂ£¿ÒªÊ²Ã´±³¾°¹ÊÊÂ£¬¿´µº·çµÄ¨€¨€¨€¨€²»¾ÍºÃ¿©£¿ÄãÃÇÊÇÀ´
+¿´¹ÊÊÂ»¹ÊÇÀ´¿´µº·çµÄ¨€¨€¨€¨€µÄßÖ£¿¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓÂ¸ÒµÄÌá¶½°¡¿ìÀ´Óëµº·çÒ»ÆğÔÚÒ¹Õ½ÖĞ´´ÔìÆæ¼£¡£ÎÒºÍÄãÃÇ½²£¬
+µº·çµÄ¨€¨€¨€¨€£¬ÔŞ£¡
+
+Œ
+eProfessionIdx_killuaòÀë¿ªÊÀ½çÊ÷Ö®ºó£¬Ææ ëÓëÑÇÂ·¼ÎÓöµ½ÁË´ó¼Ò¶¼ºÜÊìÏ¤µÄ¡°Å¾ß´¡±
+Ò»Éù£¬À´µ½ÁËÓÀºã´óÂ½¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°Åã×Å¾Ã²»³öÃÅµÄÃÃÃÃ£¬ÔÚÒìÊÀ½çÏĞ¹äÒ»¶ÎÊ±¼äÒ²Í¦²»´íµÄ£¬¡±
+Ææ ëÏë£¬¡°Ê²Ã´Ê±ºòÓĞÁË»ØÈ¥¼ûÒ»¼ûÄ³ÈËµÄĞÄÇé£¬ÔÙÊÔ×ÅÕÒÕÒ¿´
+»ØÈ¥µÄÂ·°É¡£¡±
+Ù
+eProfessionIdx_kyokoÀÉñµÄÓ°×ÓÍ¶ÉäÔÚÒìÊÀ½çµÄ´óÂ½ÉÏ£¬³ÉÎªÆ½·²µÄÈËĞÎ¡£È»¶øÔÚ´ËÖ®
+Ç°£¬ËıÒÑ½«Ä³¼şÖØÒªµÄÊÂÍĞ¸¶¸øÁËÄ³Î»ÖµµÃĞÅÈÎµÄÈË¡£¡¡¡¡¡¡¡¡
+ÉñÃ÷µÄÍ¶Ó°Óö¼û¶ñÄ§µÄ»¯ÉíÊ±£¬ÇàÉ«µÄ½£Ê¿ÓëºìÉ«µÄÇ¹Ê¹½µÂäÓÚ
+ÓÀºãÖ®µØ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°¼ÈÈ»ÓĞÍşĞ²ÊÀ½çµÄ´óÄ§Íõ£¬»¹ÓĞ±»Çô½ûµÄÉñ£¬ÄÇ²»ÊÇ»¹ĞèÒªÒ»
+¸öÕü¾ÈÊÀ½çµÄÓÂÕß²ÅĞĞÂğ£¿ÕæÃ»°ì·¨£¬ËùÒÔ¾ÍÊÇÎÒÀ²£¿¡±¡¡¡¡¡¡
+¡°ÓÂÕßÉ³Ò®¼Ó´óÈËÂğ£¬ÌıÆğÀ´ÍêÈ«²»¿É¿¿¡£ËäÈ»Ğ¡Ô²Ö®Ç°Ö»°İÍĞ
+ÁËÄã£¬µ«ÎÒ»¹ÊÇ¸úÀ´ÕÕ¿´Ò»ÏÂ°É¡£»°ËµÒª³Ô£Ğ£ï£ã£ë£ùÂğ£¿¡±¡£
+¡°½À½À½À¡ª¡ª×ÜÖ®»¹ÊÇ°ÑÊÂ¼ş¾¡¿ì½â¾öÎªºÃ¡£¶ñÄ§µÄÏë·¨Ë¡ÎÒ²»
+ÄÜÈÏÍ¬£¬Èç¹ûËıÎŞÂÛÈçºÎ¶¼²»Ô¸Ğ»Ä»µÄ»°£¬¾ÍÓÉÎÒÃÇÀ´»®ÏÂĞİÖ¹
+·û¡£¡±
+Ú
+eProfessionIdx_sayakaÀÉñµÄÓ°×ÓÍ¶ÉäÔÚÒìÊÀ½çµÄ´óÂ½ÉÏ£¬³ÉÎªÆ½·²µÄÈËĞÎ¡£È»¶øÔÚ´ËÖ®
+Ç°£¬ËıÒÑ½«Ä³¼şÖØÒªµÄÊÂÍĞ¸¶¸øÁËÄ³Î»ÖµµÃĞÅÈÎµÄÈË¡£¡¡¡¡¡¡¡¡
+ÉñÃ÷µÄÍ¶Ó°Óö¼û¶ñÄ§µÄ»¯ÉíÊ±£¬ÇàÉ«µÄ½£Ê¿ÓëºìÉ«µÄÇ¹Ê¹½µÂäÓÚ
+ÓÀºãÖ®µØ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°¼ÈÈ»ÓĞÍşĞ²ÊÀ½çµÄ´óÄ§Íõ£¬»¹ÓĞ±»Çô½ûµÄÉñ£¬ÄÇ²»ÊÇ»¹ĞèÒªÒ»
+¸öÕü¾ÈÊÀ½çµÄÓÂÕß²ÅĞĞÂğ£¿ÕæÃ»°ì·¨£¬ËùÒÔ¾ÍÊÇÎÒÀ²£¿¡±¡¡¡¡¡¡
+¡°ÓÂÕßÉ³Ò®¼Ó´óÈËÂğ£¬ÌıÆğÀ´ÍêÈ«²»¿É¿¿¡£ËäÈ»Ğ¡Ô²Ö®Ç°Ö»°İÍĞ
+ÁËÄã£¬µ«ÎÒ»¹ÊÇ¸úÀ´ÕÕ¿´Ò»ÏÂ°É¡£»°ËµÒª³Ô£Ğ£ï£ã£ë£ùÂğ£¿¡±¡£
+¡°½À½À½À¡ª¡ª×ÜÖ®»¹ÊÇ°ÑÊÂ¼ş¾¡¿ì½â¾öÎªºÃ¡£¶ñÄ§µÄÏë·¨Ë¡ÎÒ²»
+ÄÜÈÏÍ¬£¬Èç¹ûËıÎŞÂÛÈçºÎ¶¼²»Ô¸Ğ»Ä»µÄ»°£¬¾ÍÓÉÎÒÃÇÀ´»®ÏÂĞİÖ¹
+·û¡£¡±
+º
+eProfessionIdx_rin£Ô¶ÛàÁİÅÜ±éÁË¸÷¸ö³ÇÊĞ£¬Ñ°ÕÒËıÏëÒªµÄ±¦Ê¯¡£               
+½á¹û¶¼Ã»ÓĞ~~¼±µÃËıÔÚµØÉÏÄ¦²Á£¬                        
+Ä¦²Á - Ä¦²Á - Ò»²»Ğ¡ĞÄ¾Íµôµ½ÁËÓÀºãÖ®µØ¹â»¬µÄµØ°åÉÏ¡£
+l
+eProfessionIdx_iriyaT¼¯ºÏÁËÓÀºãÖ®µØÖÚÉğÊ¿µÄÕÙ»½Ö®Á¦£¬ÔÚÉ±ÉúÍèÇ¿´óµÄÂÜÀò¿ØÖ®»êÏÂÌØÕĞ¶ø³ö -- Ä§·¨ÉÙÅ®ÒÁÀòÑÅ
+$
+eProfessionIdx_jinmuyan	1000-7=?
+
+À
+eProfessionIdx_qinli§¼´Ê¹ÊÇË¼Äî¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¼´Ê¹ÊÇÔ¸Íû¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Èç¹û³ÉÕæµÄ»°¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¼´Ê¹ÔÚÈÎºÎµØ·½¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+Ò²ÄÜÁ¬½Ó±Ë´Ë¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÄÇ¾ÍÔ¼»á°É
+w
+eProfessionIdx_shinai^Í©ÈËÈ¥µ½ÓÀºãÖ®µØ½â¾ÈÑÇË¿ÄÈ£¬Ê«ÄËÎŞ·¨ÒÖÖÆ¶ÔÍ©ÈËµÄ¸ĞÇé
+ÓÚÊÇ×·Öğ¶øÀ´
+¡ª¡ª¡°Õâ´ÎÒ»¶¨Òª´òÖĞÄãµÄĞÄ¡±
+™
+eProfessionIdx_nilu    ÓÀºãÖ®µØ×î½ü±¥ÊÜÔëÒôÈÅÃñµÄÀ§ÈÅ¡£¾İËµÒ»¸ö»ÊµÛÃ¿Ìì¶¼ÔÚ¿ªÑİ³ª»á£¬Ò»¸öÔÂ¿ª32³¡Ñİ³ª»á¡£                                                       
+    ¾ÓÃñ·×·×¿¹Òé:"ÄãÕâ±©¾ı£¡£¡±ğ³ªÁË£¡£¡£¡ÎÒÃÇÒªË¯¾õ£¡£¡"            
+    ÄáÂ»:"Ë¯ÄãÂé±ÔÆğÀ´àË£¡"                                                           
+    ¿¹ÒéÕßËæºó¾Í±»ÍÏÈë¾ç³¡£¬"¿ªĞÄ"µÄÌıÆğÁËÑİ³ª»á¡£ÓÀºãÖ®µØ½ñÌì»¹ÊÇÒ»Èç¼ÈÍùµÄ"ºË"Æ½ÄØ¡£
+÷
+eProfessionIdx_zhezhiİ¡º×¹Èë°®ºÓµÄĞØÖĞ    ÓĞ×Å»¨µÄÍ¼°¸¡»                                                  
+ËüÊÇĞÂºì½¿ÑŞµÄÈÈÇéÖ®É«                                                            
+ÓëÎŞÇéµÄÒâÒå²»Í¬  ÓĞÊ±µÄ¶ñ×÷¾ç                                                  
+»áÈÃÎÒ¿ÊÇóµ½ÍüÈ´µÄ³Ì¶È                                                        
+Ææ¼£Ö»ÊÇÓÃÖ¸¼âÄóÔìµÄÊÂÎï                                                        
+ÈçÍ¬Òª½«ÎÒÃÇ»¥ÏàÈÚºÏ°ã                                                        
+Ò»¸öµØ  Á½¸öµØ  ²»¶Ï×¢Èë¸ĞÇé                                                        
+ÁµÄ½µÄÖ½º×            ÎªÄã¶øÕÛ
+
+
+Ê
+eProfessionIdx_siminai¯Éñ°¡¡¡ÇóÇóÄã¸æËßÎÒ°É£¬Ã÷ÌìµÄÎÒ½«»áÈ¥ÍùºÎ´¦£¬Ã¿Ã¿Í´³ş¶¼»¯×÷ÁË±ùºÓ£¬ÊÍ·Å³öÎÒÄÚĞÄÖĞµÄÎÂÈÈ£¬Äã°¡¡¡ÎªºÎÂ¶³öÁËĞ¦Èİ£¬Ã÷Ã÷×ÜÊÇÖ»Áô¸øÎÒ±³Ó°£¬È¼ÉÕµÄÌ«ÑôÒ²ÒÑ¾­×¹Âä£¬ÎÒ½«´ËÀá»¯Óê±§ÔÚ»³Àï 
+‘
+eProfessionIdx_gaotingnaiyeñ ¡°ÎÒÒ»Ö±ÔÚÑ°ÕÒµÄÊÇÓÂÆøµÄº¬Òå£¬È»¶øÎÒÎŞ·¨ÕıÊÓÏÖÊµ£¬ÏëÌÓ±Üµ½ÃÎÏëºÍÎ´À´¡£µ±ÎÒÉËº¦±ğÈË£¬È´ÊøÊÖÎŞ²ßµÄÊ±ºò£¬Î¨¶ÀÖ»ÓĞ¸©ÏÂÉíÀ´¶À×ÔÉªÉª·¢¶¶µÄ×Ô¼º¡£ÎÒÏëÑ§»áµÄÊÇ¿Ë·şÕâĞ©µÄÒâÖ¾ÓëÁ¦Á¿¡£ÎÒÏë×öÄÇĞ©Á¦ËùÄÜ¼°µÄÊÂ£¬ÎªÁË±£»¤×Ô¼ºËùÕäÊÓµÄ¶«Î÷£¬ÎÒÒ»¶¨²»»áÈÃ±¯ÉËºÍ»ÚºŞÀ´½áÊøÕâ´ÎµÄÊÂ¼ş¡£¡±ÄÎÒ¶ØùÁ¢ÔÚÓÀºãÖ®µØµÄÈë¿Ú£¬¼á¶¨µÄÍû×ÅÕâÒ»Æ¬Õ¿À¶É«µÄ¹âËµµÀ:¡°ÎÒÒªÕÒµ½ÊôÓÚ×Ô¼ºµÄÁ¦Á¿£¬ÎªÁËÎÒÒª±£»¤µÄÈË£¡¡± 
+Œ
+eProfessionIdx_heixuejiğÆäÊµÔÚ¡°ÓÀºãÖ®µØ¡±Î´±»·¢ÏÖµÄÊ±ºò£¬ºÚÑ©¼§ÒÑ¾­ÔÚ¼ÓËÙÊÀ½çÉî´¦µÄ´«ËÍÃÅ½øÈëÁËÓÀºãÖ®µØ£¬²¢ÇÒÀûÓÃ¼ÓËÙÄÜÁ¦´ò°ÜÁËµ±³õ³Æ°ÔÓÀºãÖ®µØµÄËùÓĞÓ¢ĞÛ¡£×îÖÕÊ¹ÖÆ×÷×é¾ö¶¨ÍÆ·­Ô­ÓĞµÄÕ½¶·Ä£Ê½£¬²¢°ÑÓÎÏ·ÖØËÜÎªMOBAÊÀ½ç¡£´ºÑ©±»GM°ó¼ÜÈëÓÀºãÖ®µØºó£¬ºÚÑ©¼§ÒåÎŞ·´¹ËµÄ´³ÈëÁËÓÀºãÖ®µØ£»ºÚÑ©¼§ÀûÓÃ×Ô¼º²ĞÓàµÄ¼ÓËÙÄÜÁ¦ÔÚÓÀºãÖ®µØ´óÕ¹ÉíÊÖ¡£ÎªÁË°Ñ´ºÑ©´ÓÏÈÖªÊÖÉÏ¾È³öÀ´£¬ºÚÑ©¼§µÄÄ¿±êÊÇ´ò°ÜËùÓĞµÄGM£¬²¢ÇÒ»Ø¼ÒÑøÖí¡£
+‰
+eProfessionIdx_yaomengîºì°×¶şÉ«Î×Å®µÄ¾­³£ÏûÊ§£¬»ØÀ´ºó»ñµÃ¾Ş¶î½ğÇ®£¬ç³ºì¶ñÄ§µÄÖÒÈ®ÉñÒş£¬½ÓÀ´¹ÖÊÂ²»¶Ï£¬ÑıÃÎÈÏÎª²»ÄÜ×øÊÓ²»¹Ü¡£ÔÚÓÅÑÅµÄÍöÁéÓë¼äÏ¶Ñı¹ÖµÄÖ¸ÒıÀ´µ½ÁËÓÀºãÖ®µØÕÒµ½ÁËÁ½ÃûÈËÀà£¬ÈÎÎñÍê³ÉºóÑıÃÎ¾ö¶¨ÔÚÏĞÏ¾Ö®Óà²Î¼ÓÓÀºãÖ®µØµÄÕ½¶·£¬Ä¥Á·×Ô¼ºµÄ¼¼ÒÕ£¬×·ÉÏ×æ¸¸µÄ½Å²½¡£
+¯
+eProfessionIdx_feite–·ÆÌØØùÁ¢ÔÚ³ÇÊĞ×î¸ß´¦µÄÀ¶É«´«ËÍÃÅÇ°¼á¶¨Íû×ÅäöÎĞÖĞÄÇÒ»Æ¬ÈôÓĞÈôÎŞÎ´ÖªµÄÊÀ½ç
+ÄÎÒ¶£¬ÎÒÖÕÓÚÓĞĞ©Ã÷°×£¬µ±¿´¼ûÅóÓÑÁ÷ÏÂÉËĞÄÑÛÀáµÄÊ±ºò£¬×Ô¼ºµÄĞÄÒ²»á¸Ğ¾õÄÑ¹ı£¬Õâ¸öÊ±ºò²Å¾õµÃÄãÊÇ¶àÃ´µÄÖØÒª¡£ÄÎÒ¶£¬ËäÈ»ÎÒÃÇ·Ö±ğÁË£¬µ«ÊÇÎÒÃÇÂíÉÏ¾Í»á¼ûÃæÁË£¬ÎÒÒ»¶¨»áÔÚÄÇÎ´ÖªµÄµÄµØ·½ÕÒµ½Äã£¬È»ºóÒ»¶¨»áÔÙ´ÎºÍÄã³ÉÎªÕâÒ»Éú×îºÃ×îºÃµÄÅóÓÑ¡£Èç¹ûÕâ¾ÍÊÇÃüÔËµÄ»°£¬ÄÇ¾ÍÈÃËüÖ¸ÏòÓÀºãÖ®µØ°É£¡ÎÒÀ´ÁË¡­ÄÎÒ¶£¬ÔÙÒ»´Î¡°I will call you name surely,many times.¡±
+Û
+eProfessionIdx_bamameiÀÉñµÄÓ°×ÓÍ¶ÉäÔÚÒìÊÀ½çµÄ´óÂ½ÉÏ£¬³ÉÎªÆ½·²µÄÈËĞÎ¡£È»¶øÔÚ´ËÖ®
+Ç°£¬ËıÒÑ½«Ä³¼şÖØÒªµÄÊÂÍĞ¸¶¸øÁËÄ³Î»ÖµµÃĞÅÈÎµÄÈË¡£¡¡¡¡¡¡¡¡
+ÉñÃ÷µÄÍ¶Ó°Óö¼û¶ñÄ§µÄ»¯ÉíÊ±£¬ÇàÉ«µÄ½£Ê¿ÓëºìÉ«µÄÇ¹Ê¹½µÂäÓÚ
+ÓÀºãÖ®µØ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡°¼ÈÈ»ÓĞÍşĞ²ÊÀ½çµÄ´óÄ§Íõ£¬»¹ÓĞ±»Çô½ûµÄÉñ£¬ÄÇ²»ÊÇ»¹ĞèÒªÒ»
+¸öÕü¾ÈÊÀ½çµÄÓÂÕß²ÅĞĞÂğ£¿ÕæÃ»°ì·¨£¬ËùÒÔ¾ÍÊÇÎÒÀ²£¿¡±¡¡¡¡¡¡
+¡°ÓÂÕßÉ³Ò®¼Ó´óÈËÂğ£¬ÌıÆğÀ´ÍêÈ«²»¿É¿¿¡£ËäÈ»Ğ¡Ô²Ö®Ç°Ö»°İÍĞ
+ÁËÄã£¬µ«ÎÒ»¹ÊÇ¸úÀ´ÕÕ¿´Ò»ÏÂ°É¡£»°ËµÒª³Ô£Ğ£ï£ã£ë£ùÂğ£¿¡±¡£
+¡°½À½À½À¡ª¡ª×ÜÖ®»¹ÊÇ°ÑÊÂ¼ş¾¡¿ì½â¾öÎªºÃ¡£¶ñÄ§µÄÏë·¨Ë¡ÎÒ²»
+ÄÜÈÏÍ¬£¬Èç¹ûËıÎŞÂÛÈçºÎ¶¼²»Ô¸Ğ»Ä»µÄ»°£¬¾ÍÓÉÎÒÃÇÀ´»®ÏÂĞİÖ¹
+·û¡£¡±
+Ù
+eProfessionIdx_keziÁÄãÈÏÎªÊÇÓîÖæ£Ã£Ñ£ÃµÄ¶«Î÷¾ÍÊÇÓîÖæ£Ã£Ñ£Ã¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡ª¡ªÕª×Ô¡¶ºÃÀ÷º¦£¡ÎÒµÄÓîÖæ£Ã£Ñ£Ã¡·¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¸½£º¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+¡¶Î´·ÅËÍÖ®ÓîÖæ£Ã£Ñ£Ã²»ÍêÈ«ÊÕÂ¼¡¤Ğø¡·¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£ÃÎå¾ÅÊ½¡¡¡¤¡¡Ç°½øµÄÌúÆï¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£Ã°Ù°ËÊ½¡¡¡¤¡¡´óÉßËS¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£Ã¶×·ÀÊ½¡¡¡¤¡¡Îå°ÙÄêµÄÍşÑÏ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£Ã×ÜÍ³Ê½¡¡¡¤¡¡£Ä£´£Ã¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£ÃÓĞµÂÊ½¡¡¡¤¡¡ÖĞ¶şĞŞÕıÈ­¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£Ã£Æ£Æ£ÆÊ½¡¡¡¤¡¡Òì¶ËÉóÅĞ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÒÔÏÂÄÚÈİÎ´Á÷³ö£º¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓîÖæ£Ã£Ñ£Ã¿Ë×Ó×¨ÓÃÊ½¡¡¡¤¡¡¼à£Ø°ó£ØÍµ£Ø£¨ºóÃæ±»Ñªµ²×¡ÁË¿´²»Çå£©
+©
+eProfessionIdx_nuowaluÊ·ÊéÔÚ´«ËÍÄùÆÕ¶ÙÀ´µ½ÓÀºãÖ®µØÊ±¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÅµÍßÂ¶×÷Îª×ÅÂ½Æøµæ£¬ÀíËùµ±È»Ò²À´µ½ÁËÕâÀï¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÄÇÃ´ÎªÊ²Ã´ËıÔÚÄùÆÕ¶Ù³öÏÖÕâÃ´¾Ãºó²ÅÀ´µ½´ó¼ÒÃæÇ°ÄØ¡£¡¡¡¡¡¡
+Ô­À´ÒòÎªÕâ´Î×ÅÂ½£¬ÄùÆÕ¶Ù×ËÊÆ²»¶Ô£¬µ¼ÖÂÅµÍßÂ¶ÖØÉËÈëÔº¡£¡¡
+ÔÚ×¡ÔºµÄÊ±¼äÀï£¬¼ÅÄ¯ÄÑÄÍµÄËıÖÕÓÚÎŞ·¨ÈÌÊÜ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+ÓÚÊÇ£¬·ÅÆúÁËÖÎÁÆ¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+×·Ñ°×ÅÄùÆÕ¶ÙµÄ½Å²½£¬¼ÓÈëÁËÓÀºãÖ®µØµÄÕ½¶·¡£¡¡¡¡¡¡¡¡¡¡¡¡¡¡
+›
+eProfessionIdx_yaliyaÈ«ÃûÉñÆé¡¤¸£¶ûÄ¦Ë¹¡¤ÑÇÀïÑÇ¡£Ó¢¹úÖøÃûÕìÌ½ÏÄÂå¿Ë¡¤¸£¶ûÄ¦Ë¹µÄ×ÓËï¸£¶ûÄ¦Ë¹ËÄÊÀ¡£Ã»ÓĞÒÅ´«µ½×æÏÈÓÅĞãÍÆÀíÄÜÁ¦µÄËı£¬±»¼Ò×åÊÓÎª·ÏÎï£¬µ«ĞÔ¸ñ²»·şÊäÓÖ×Ô×ğ¼«Ç¿µÄÑÇÀïÑÇ£¬ÎªÁËÖ¤Ã÷×Ô¼º£¬Æ¾½è×ÔÉíÌìÉúµÄÕ½¶·¸Ğ¼°Å¬Á¦£¬ÔÚÓ¢¹úÎäÕì½ç´³³öÁËÃûÆø¡£À´×ÔÓ¢¹úµÄS¼¶¾«Ó¢ÎäÕì£¬Í¨³Æ¡°Ë«½£Ë«Ç¹¡±¡£ÉÆÊ¹Á½°Ñ[Colt M1911A1]¼°Ë«Ğ¡Ì«µ¶¡£ÔÚÒ»´ÎÎäÕìĞĞ¶¯ÖĞ£¬±»²»ÖªÃûµÄÁ¦Á¿´øµ½ÁËÓÀºãÖ®µØ,ÎªÁË»Øµ½×Ô¼ºµÄÊÀ½ç,ÔÚÓÀºãÖ®µØÕ¹¿ªÁËµ÷²é¡£
+Ì
+!eProfessionIdx_zhandoubaolongshou¦ÎŞÏŞ´ó¤ÊÃÎ¤Î¤¢¤È¤Î ¤ä¤ë¤»¤Ê¤¤ÊÀ¤ÎÖĞ¤¸¤ã,¤½¤¦¤µ³£Ê¶ ¤Ï¤º¤ì¤â™¤¯¤Ê¤¤¤«¤Ê,Stay¤·¤½¤¦¤Ê¥¤¥á©`¥¸¤òÈ¾¤á¤¿ ¤®¤³¤Á¤Ê¤¤Òí¤Ç¤â,¤­¤Ã¤È·É¤Ù¤ë¤µ Oh My Love¡£\nÎŞÏŞ´ó¤ÊÃÎ¤Î¤¢¤È¤Î ºÎ¤â¤Ê¤¤ÊÀ¤ÎÖĞ¤¸¤ã£¬¤½¤¦¤µ°®¤·¤¤ Ïë¤¤¤â¸º¤±¤½¤¦¤Ë¤Ê¤ë¤±¤É£¬Stay¤·¤¬¤Á¤Ê¥¤¥á©`¥¸¤À¤é¤±¤Î îm¤ê¤Ê¤¤Òí¤Ç¤â£¬¤­¤Ã¤È·É¤Ù¤ë¤µ Oh Yeah¡£
+²
+eProfessionIdx_dasha™Ó¢¹ú³öÉíµÄ¹é¹ú×ÓÅ®´óÉµde-su£¡Çë¶à¶àÖ¸½ÌÀ²~\(¨R¨Œ¨Q)/~,ÂÖµ½ÎÒÃÇÁË£¡Follow me£¡´ó¼Ò£¬¸úÎÒÀ´Å¶£¡È«»ğÅÚ£¡Fire£¡¿´µ½ÎÒµÄÉíÊÖÁËÂğ£¿ÎÒ»á¸ü¼ÓÅ¬Á¦µÄ£¬Èç¹û²»Ò»Ö±×¢ÊÓ×ÅÎÒµÄ»°¿ÉÊÇNO¡«µÄÅ¶£¡Burning Love£¡×¥×¡Ìá¶½heartµÄ±ØÈ»ÊÇÎÒde-su£¡Ìá¶½£¬Ê±¼äºÍ³¡Ëùµ½À²£¬µ«ÒªÊÇÍüÁËÆø·ÕºÍÊ±»úµÄ»°¡­¿ÉÊÇnoµÄ°¡¡£
+ß
+eProfessionIdx_youxiaomeijiu¾ÔÚÕâ¸öÎŞÏŞÀ©´óµÄÊÀ½çÀï£¬×°ÊÎ°®µÄÆæ¼£°É
+ÁôÏÂÕä¹óµÄÒ»µãÒ»µÎ£¬ÓÀÔ¶Ò²²»»áÍ£Ï¢
+ÔÚ½Ğ×öÃüÔËµÄåâåËÏÂ£¬Äã¿´£¬ĞÄ¶ùÔÚĞØÖĞ¼¤ÁÒµÄÃù½Ğ
+Ïë´«´ïÕâ·İË¼Äî£¬ÔÚÈıÀâ¾µÖ®ÖĞ
+
+ÈôºçÉ«µÄ·çÓ­Ãæ´µ¹ı£¬¼´Ê¹½ÖµÀÅÔµÄÊ÷Ä¾¶¼»áÂ¶³öÎ¢Ğ¦
+¾ÍºÃÏñ°üÈİ½øÄÇ¿ªÊ¼ÁËµÄ°®Çé¹ÊÊÂÖĞÒ»°ã
+Èç¹ûÎªµ¥É«µÄÌì¿ÕÈ¾ÉÏÉ«²Ê£¬ĞÄĞÎÍ¼°¸¶¼»áÉÁË¸
+ÓĞÄãÔÚ£¬½ö½öÈç´Ë£¬Ò²ÊÇÑ¤Àö¶à²ÊµÄÃ¿Ò»Ìì
+!
+eProfessionIdx_dita
+¾´ÇëÆÚ´ı£¡
+”
+eProfessionIdx_yifangtongxingòÓÀºãÖ®µØµÄ¹ÜÀíÕßµÙËşÔÚÕÙ»½Å®ĞÔÓ¢ĞÛÊ±£¬ÓÉÓÚ×ÔÉíµÄ´íÎó²Ù×÷£¬ÕÙ»½ÁËÎ´ÖªĞÔ±ğµÄÒ»Î»Ó¢ĞÛ¡£\nÒ»·½Í¨ĞĞÌı´Ó×îºóÖ®×÷µÄ½¨Òé£¬±¨ÃûÁË¶¼ÊĞÑ§Ôº×î´óµÄÎèµ¸°àÑ§Ï°ÌøÎèÀ´µ÷ÀíÉíÌå¡£Ä³Ìì£¬ÔÚÈ¥Îèµ¸°àµÄÂ·ÉÏ£¬´ÎÔª·¢ÉúÅ¤Çú£¬Ò»·½Í¨ĞĞ±»ÕÙ»½µ½ÁËÓÀºãÖ®µØ¡£\n±©Å­µÄÒ»·½Í¨ĞĞ´óÉ±ËÄ·½£¬Ñ°ÕÒ×ÅÕÙ»½×Ô¼ºÀ´µ½ÓÀºãÖ®µØµÄÔªĞ×£¬²¢´Óºì·¢°Á½¿Å®ÄÇÀïµÃÖª£¬Ö»ÓĞ¾¡¿ìÌáÉı×Ô¼ºµÄÊµÁ¦£¬±äÎªLv7,²ÅÓĞ¿ÉÄÜÍ»ÆÆÓÀºãÖ®µØµÄÊø¸¿¡£
+Ó
+eProfessionIdx_mulaihongliqi²°®×öÊµÑé,°®ÉÏ2CH,¸ü°®±ãĞ¯²æ×Ó
+ÎÒ²»ÊÇ2CHER,°Á½¿²ÅÃ»ÓĞÄØ
+ÍâÌ×Ö»´©Ò»°ë²Å²»ÊÇÒÂÉÀ²»Õû~
+ÊÇÒòÎª¿É°®²ÅÕâÑù´©µÄ
+×îÌÖÑá¸Ô²¿Â×Ì«ÀÉÁË,ºÃºÃ½ĞÎÒÃû×Ö°¡
+²»ÊÇÖúÊÖ,¸ü²»ÊÇ¿ËÀïË¿ç¾ÄÈ
+ÎÒÊÇÄÁäşºìÀòÆÜ
+)
+eProfessionIdx_lishanweilai
+¾´ÇëÆÚ´ı£¡
+"
+eProfessionIdx_yisha
+¾´ÇëÆÚ´ı£¡
+)
+eProfessionIdx_zetiangangji
+¾´ÇëÆÚ´ı£¡
+K
+eClient_IsEquipInlayGem0ÊÇ·ñÈ·¶¨½«{#ff00ff00=%s#}ÏâÇ¶µ½{#ff00ff00=%s#}ÉÏ
+%
+eClient_InlayGemSuccessedÏâÇ¶³É¹¦
+3
+eClient_NoneIntroduce¸ÃÖ°Òµ»¹Î´¿ª·Å£¬¾´ÇëÆÚ´ı¡£
+$
+eNation_Athens_ShortName¡¾ÑÅµä¡¿
+&
+eNation_Sparta_ShortName
+¡¾Ë¹°Í´ï¡¿
+'
+eNation_Collyns_ShortName
+¡¾¿ÆÁÖË¹¡¿
+'
+eNation_Mycenae_ShortName
+¡¾ÂõÎıÄá¡¿
+#
+eNation_Thebe_ShortName¡¾ß¯°İ¡¿
+$
+eNation_Troy_ShortName
+¡¾ÌØÂåÒÁ¡¿
+%
+eNation_Minos_ShortName
+¡¾Ã×ÅµË¹¡¿
+'
+eNation_Neutral_ShortName
+¡¾ÖĞÁ¢Çø¡¿
+
+eNation_Athens_FullNameÑÅµä
+!
+eNation_Sparta_FullNameË¹°Í´ï
+"
+eNation_Collyns_FullName¿ÆÁÖË¹
+"
+eNation_Mycenae_FullNameÂõÎıÄá
+
+eNation_Thebe_FullNameß¯°İ
+
+eNation_Troy_FullNameÌØÂåÒÁ
+ 
+eNation_Minos_FullNameÃ×ÅµË¹
+"
+eNation_Neutral_FullNameÖĞÁ¢Çø
+$
+eClient_NpcFuncNationWar·¢Æğ¹úÕ½
+)
+eClient_NpcFuncNationOfficialÈÎÃü¹ÙÔ±
+)
+eClient_NpcFuncNationResource²éÑ¯¹ú¿â
+9
+eClient_AppointNationOfficialÇëÊäÈëÄãÒªÈÎÃüµÄÍæ¼ÒÃû³Æ
+'
+eClient_FireOutOfficialÊÇ·ñÒª°ÕÃâ%s
+
+eOfficial_King_Name¹úÍõ
+ 
+eOfficial_Secretary_Name´ó³¼
+
+eOfficial_Captor_Name²¶Í·
+
+eClient_Resource_WoodÄ¾²Ä
+
+eClient_Resource_StoneÊ¯²Ä
+
+eClient_Resource_IronÌú¿ó
+ 
+eClient_Resource_CrystalË®¾§
+%
+NotHaveFlowerItemÄúÃ»ÓĞµÀ¾ß[ÏÊ»¨]
++
+eGuild_Build_LvUp_Success¡¾%s¡¿Éı¼¶³É¹¦
+'
+eClient_GuildDomain_BidÊäÈëÁîÅÆÊıÁ¿
+.
+eClient_GuildDomain_Gold_EmptyÊäÈë²»ÄÜÎª¿Õ
+.
+eClient_GuildDomain_Gold_ErrorÊäÈë¼Û¸ñÓĞÎó
+5
+eClient_GuildDomain_ErrorÑ¡ÔñµÄ¼Ò×åÁìÍÁ±àºÅ²»´æÔÚ
+6
+ eClient_GuildDomain_Not_SelectedÇëÑ¡ÔñÒª¾º±êµÄÁìÍÁ
+3
+eClient_GuildDomain_Not_Match¼Ò×åÁìÍÁĞÅÏ¢²¿Æ¥Åä
+.
+eClient_2V2_Relive_TextÄãÒÑÕóÍö,%dÃëºó¸´»î
+#
+eClient_2V2_Relive_TimeµÈ´ı%dÃë
+V
+eClient_2v2_Cancel_Text;Ô¤¼ÆµÈ´ıÊ±¼ä3·ÖÖÓ\nÄúÒÑ¾­ÅÅ¶Ó%dÃë\nÏµÍ³ÕıÔÚÑ°ÕÒºÏÊÊµÄ¶ÔÊÖ¡­
+
+eClient_2v2_Report_WinÊ¤Àû
+
+eClient_2v2_Report_LostÊ§°Ü
+"
+eClient_2v2_Report_DogfallÆ½¾Ö
+!
+eClient_2v2_Report_EscapeÌÓÅÜ
+
+eClient_2v2_PerfectWinÍêÊ¤
+
+eClient_2v2_GreatWin´óÊ¤
+
+eClient_2v2_LittleWinĞ¡Ê¤
+
+eClient_2v2_MicroWinÏÕÊ¤
+H
+eClient_Tutorial_TrackTask*µã»÷¼´¿ÉÒÆ¶¯µ½
+{#ffff6c00=[Ã·¶ûç÷À­]#}Éí±ß
+7
+eClient_Tutorial_TaskEndµã»÷¡°Ó¢ĞÛµÄĞÂ
+Éú¡±Íê³ÉÈÎÎñ
+-
+eClient_Tutorial_ClickNpcÇëµã»÷[Ã·¶ûç÷À­]
+.
+eClient_GetFirstEquipµã»÷»òÊ¹ÓÃB¼ü´ò¿ª°ü¹ü
+3
+eClient_Tutorial_FirstEquipÊó±êÓÒ»÷ÎäÆ÷¼´¿É×°±¸
+@
+eClient_Tutorial_FirstEquipPos×°±¸ºó¿ÉÒÔÔÚÏàÓ¦µÄÎäÆ÷À¸ÖĞÏÔÊ¾
+t
+eClient_EquipActive_NeedX{#fff7f764=ÊÇ·ñÊ¹ÓÃ#}{#ff00ff00=ÔªËØ¼¤»î·û#}{#fff7f764=¶Ô×°±¸½øĞĞ#}{#ff00ff00=ÔªËØ¼¤»î#}
+t
+eClient_EquipRandom_NeedX{#fff7f764=ÊÇ·ñÊ¹ÓÃ#}{#ff00ff00=ÔªËØËæ»ú·û#}{#fff7f764=¶Ô×°±¸½øĞĞ#}{#ff00ff00=ÔªËØËæ»ú#}
+
+eClient_EquipActiveÔªËØ¼¤»î
+
+eClient_EquipRandomÔªËØËæ»ú
+%
+eClient_OnLineMemberCountÔÚÏßÈËÊı
+"
+eClient_MaxMemberCount×î´óÈËÊı
+1
+eClient_GuildCancelIdiographÈ·¶¨ÒªÈ¡ÏûÇ©ÃûÂğ?
+(
+eClient_GuildJoinInÈ·¶¨Òª¼ÓÈë¹«»áÂğ?
+0
+eClient_GuildInviteIdiographÑûÇëÄúÇ©Ãû%s¼Ò×å
+
+eClient_GuildDonate¾èÔù
+C
+eClient_Guildproperty*¶Ò»»¼Ò×å¸öÈËÊôĞÔ£¬Ôö¼ÓĞÒÔËÒ»»÷d%£¨µÈ¼¶d%£©
+=
+eClient_Guildcontribute"Ôö¼Ó¸öÈË¹±Ï×¶È»ñµÃËÙ¶Èd%£¨µÈ¼¶d%£©
+C
+eClient_Tutorial_Skill)Ñ¡ÖĞ¹ÖÎïºó£¬µã»÷¼´¿ÉÊÍ·Å¼¼ÄÜ»òÊ¹ÓÃ¿ì½İ¼ü2
+2
+eClient_Tutorial_UseItemÓÒ¼üµã»÷"¿ÕÆ¿"¼´¿ÉÊ¹ÓÃ
+1
+eClient_AthCancelForbidÖ»ÓĞ¶Ó³¤²Å¿ÉÒÔÈ¡Ïû±¨Ãû
+,
+eClient_AthCancelSuccess±ÈÈü±¨ÃûÒÑ¾­È¡Ïû
+D
+eClient_CollectTaskReq*ÄãÊÇ·ñÍ¬Òâ×å³¤ÑûÇëÄãÒ»Æğ½øÈë¼Ò×å¿óÇø²É¿ó£¿
+@
+eClient_Guildconstruction#[Ê¯Í·:%d Ä¾Í·:%d \nË®¾§:%d Ìú¿ó:%d]
+-
+eClient_Tutorial_FirstEquipBag
+  µã»÷°ü¹ü
+:
+eClient_Tutorial_TaskEnd2µã»÷¡°ĞÂÖªÊ¶µÄ
+»ñÈ¡¡±Íê³ÉÈÎÎñ
+G
+eClient_Tutorial_AcceptTask(µã»÷¼´¿ÉÒÆ¶¯µ½
+{#ffff6c00=[ÑÅÀò°²]#}Éí±ß
+(
+eClient_Tutorial_FirstTrans	
+µã»÷´«ËÍ
+9
+eClient_Tutorial_SelectTransÑ¡ÔñÇ°ÍùĞÂÊÀ½ç
+²¢È·ÈÏ´«ËÍ
+6
+eClient_TaskHelp_QuestÍ·¶¥ÓĞ»ÆÉ«Í¼±ê±íÊ¾´¦¿É½ÓÈÎÎñ
+/
+eClient_TaskHelp_HPÕ½¶·ÖĞ¿ÉÊ¹ÓÃÑªÆ¿»Ø¸´ÑªÁ¿
+1
+eClient_TaskHelp_Growthµã»÷Éñ¼áÄ¾¼´¿É½øĞĞ²É¼¯
+9
+eClient_TaskHelp_DropItemµã»÷µôÂä±¦ÏäÊ°È¡±»¶á×ßµÄÎäÆ÷
+
+eClient_Effect_Set_0×îµÍ
+
+eClient_Effect_Set_1µÍ
+
+eClient_Effect_Set_2ÖĞ
+
+eClient_Effect_Set_3¸ß
+
+eClient_Effect_Set_4×î¸ß
+:
+ eClient_Guildconstruction_summit½¨ÖşÎïÒÑ¾­µ½´ï×î¸ßµÈ¼¶
+I
+eClient_Guildconstruction_lucky&Ê¹ÓÃ¹±Ï×¶È¶Ò»»ĞÒÔËÒ»»÷µÄÄÜÁ¦£¨µÈ¼¶%d£©
+V
+&eClient_Guildconstruction_contribution,Ê¹ÓÃ¹±Ï×¶È¶Ò»»ÌáÉı»ñµÃ¹±Ï×¶ÈµÄËÙ¶È£¨µÈ¼¶%d£©
++
+eClient_ExchangeLockTip¶Ô·½ÒÑ¾­È·ÈÏ½»Ò×
+&
+eClient_FriendListColumn_0ºÃÓÑÃû³Æ
+"
+eClient_FriendListColumn_1µÈ¼¶
+"
+eClient_FriendListColumn_2Ö°Òµ
+"
+eClient_FriendListColumn_3µØÇø
+"
+eClient_MemberListColumn_0Ãû×Ö
+"
+eClient_MemberListColumn_1µÈ¼¶
+"
+eClient_MemberListColumn_2Ö°Îñ
+$
+eClient_MemberListColumn_3¹±Ï×¶È
+"
+eClient_MemberListColumn_4Î»ÖÃ
+!
+eClient_GuildListColumn_0Ãû×Ö
+!
+eClient_GuildListColumn_1µÈ¼¶
+!
+eClient_GuildListColumn_2ÈËÊı
+4
+eClient_Build_Cannot_LevelUpÖ»Òª×å³¤²ÅÄÜÉı¼¶½¨Öş
+
+eClient_Jump½øÈëÑ¡ÈË´óÌü
+
+eClient_MailÊÕ¼şÏä
+.
+"eClient_NationResourceListColumn_0×ÊÔ´Ãû³Æ
+,
+"eClient_NationResourceListColumn_1¿â´æÁ¿
+;
+eClient_CountryForbidSpeakInputÇëÊäÈëÄúÒª½ûÑÔµÄÍæ¼ÒÃû×Ö
+8
+eClient_CountryImprisonInputÇëÊäÈëÄúÒª¹ØÑºµÄÍæ¼ÒÃû×Ö
++
+e_isChangeAccountÊÇ·ñ·µ»ØÊäÈëÕËºÅ½çÃæ£¿
+X
+eUI_JumpGateContentAÈ·¶¨Òª½øÈëÑ¡ÈË´óÌü£¿\n{#ffffee5e=½øÈëÑ¡ÈË´óÌüºó£¬½«±äÎª¹âÇò×´Ì¬#}
+*
+eClient_ReqSubTaskÇë½ÓÈ¡¼Ò×åÃ³Ò×ÈÎÎñ¡£
+@
+eClient_ProtectTaskReq&ÄãÊÇ·ñÍ¬Òâ×å³¤ÑûÇëÄãÒ»Æğ½øĞĞ¼Ò×åÃ³Ò×£¿
+B
+eClient_EquipPunch_Need'ÊÇ·ñÊ¹ÓÃ´ò¿×·ûÎª×°±¸Ôö¼ÓÒ»¸ö±¦Ê¯ÏâÇ¶¿×?
+$
+eClient_EquipPunchÕıÔÚ´ò¿×ÇëÉÔºò
+1
+eClinet_AskJoinDomainBattleÊÇ·ñÒª¼ÓÈëÁìÍÁÕ½£¿
+&
+eClient_SubTaskMemberList0¹«»á³ÉÔ±
+"
+eClient_SubTaskMemberList1×´Ì¬
+.
+&eClient_SubTaskMemberList_StateOfflineÀëÏß
+-
+%eClient_SubTaskMemberList_StateToofar¹ıÔ¶
+-
+%eClient_SubTaskMemberList_StateNormalÕı³£
+1
+eClient_EquipElement_Fire<#ffff0000=(»ğLV%d)>
+2
+eClient_EquipElement_Light<#ffE6DC19=(À×LV%d)>
+0
+eClient_EquipElement_Ice<#ff0AB4F0=(±ùLV%d)>
+1
+eClient_KingSelectMonsterLineÑ¡ÔñÈÎÎñ·¢²¼ÏßÂ·
+I
+eClient_Tutorial_ClickTransNpc'´ò¿ª±³°ü£¨B¼ü£©£¬Ê¹ÓÃÉñÁ¦¾§Ô´ºó¶Ô»°ÄÈÂ¶
+D
+eClient_JumpHeroIntro+Ó¢ĞÛÖ°Òµ£º%s\nËùĞèG&HÖ®Á¦£º%d\nÓ¢ĞÛ×´Ì¬£º%s
+"
+eClient_JumpHeroActiveÒÑ¾­¼¤»î
+#
+eClient_JumpHeroDisActiveÎ´¼¤»î
+*
+eClient_LearnSkill_Success¼¼ÄÜÉı¼¶³É¹¦
+0
+eUI_DuplicateNewbieTransformµã»÷Í·ÏñÇĞ»»Ó¢ĞÛ
+6
+eUI_DuplicateNewbieUseItemÓÒ¼üµã»÷Ó¢ĞÛ¿¨Æ¬¼¤»îÓ¢ĞÛ
+2
+eUI_DuplicateNewbieLeaveÄú½«±»´«ËÍµ½Ó¢ĞÛÑµÁ·³¡
+,
+eUI_DuplicateNewbieEquipÓÒ¼üµã»÷´©´÷×°±¸
+9
+eClient_MailDelete_ItemÓÊ¼şÖĞ´æÔÚÎïÆ·£¬ÎŞ·¨É¾³ı¸ÃÓÊ¼ş
+>
+eClient_LineFull*µ±Ç°ÏßÂú£¬ÇëµÈ´ı£¡\n ¿Í·şµç»°:021-51312215
+
+ui_energy_tipÄÜÁ¿Öµ
+
+ui_dander_tipÅ­ÆøÖµ
+
+	ui_mp_tip·¨Á¦Öµ
+
+ui_TelePort_tip»Ø³Ç
+ 
+ui_shop_tipÉÌµê£¬¿ì½İ¼ü¡¾P¡¿
+'
+eUseItemSuccess¡¾%s¡¿ÒÑ¾­Ê¹ÓÃ³É¹¦£¡
+(
+eClient_KeySet_CancleKey¼üÎ»%sÒÑÈ¡Ïû
++
+eClient_KeySet_InvalidKeyÎŞ·¨ÉèÖÃ¸Ã¼üÎ»
+,
+eClient_PleaseSetShortCutKeyÇëÉèÖÃ¿ì½İ¼ü
+I
+eClient_EquipUp_NoUpEquip,Ê±Ğ§×°±¸ºÍÃâ·ÑÁìÈ¡µÄÊÔÓÃ×°±¸²»ÄÜ½øĞĞÇ¿»¯Éı¼¶
+J
+eClinet_GemInlay_NoEquip.Ê±Ğ§×°±¸ºÍÃâ·ÑÁìÈ¡µÄÊÔÓÃ×°±¸²»ÄÜ´ò¿×ºÍÏâÇ¶±¦Ê¯
+:
+$eClinet_Leave_BattleGround_CountDownÇëÉÔºó£¬ÕıÔÚµ¹¼ÆÊ±
+Q
+!eClinet_Leave_BattleGround_Punish,Õ½³¡Î´½áÊøÇ°Àë¿ªÕ½³¡£¬½«»áÊÜµ½³Í·££¬ÊÇ·ñÀë¿ª
+K
+!eClinet_Leave_PVE_NoReturn_Notice&Àë¿ª³¡¾°£¬½«ÎŞ·¨·µ»Øµ±Ç°³¡¾°£¬ÊÇ·ñÀë¿ª
+,
+eClinet_Eternal_AthleticsScene
+ÓÀºã¾º¼¼³¡
+'
+eClinet_Eternal_BattleSceneÓÀºãÕ½³¡
+%
+eClinet_Eternal_RankSceneÌìÌİÅÅÎ»
+)
+eClinet_Reason_Abnormalquit
+·ÇÕı³£ÍË³ö
+(
+eClinet_Reason_NegativematchÏû¼«±ÈÈü
+*
+eClinet_Punish_SurplusTime³Í·£Ê±¼ä»¹ÓĞ
+&
+eClinet_ShopCenterTypeInfo_NewÈÈÏú
+?
+!eClinet_ShopCenterTypeInfo_SupplyÕ½³¡²¹¸øÆ·£¨¾º¼¼³¡²»¿ÉÓÃ£©
+6
+eClinet_ShopCenterTypeInfo_Gem±¦Ê¯¿ÉÒÔÇ¿»¯Õ½³¡×°±¸
+T
+eClinet_ShopCenterTypeInfo_Item1Õ½³¡×°±¸£¨¾º¼¼³¡²»¿ÉÓÃ,ÓÀºãÉñÆ÷Í¬Ê±Ö»ÄÜ×°±¸Ò»¼ş£©
+M
+"eClinet_ShopCenterTypeInfo_Exploit'ÈÙÓş¿ÉÒÔ¶Ò»»¸÷ÖÖ²¹¸øÆ·,¹¦Ñ«¿ÉÒÔ¶Ò»»±¦Ïä
+E
+eClinet_ShopCenterTypeInfo_Hero"¹ºÂòµÄÓ¢ĞÛ¿ÉÒÔÔÚ¾º¼¼³¡ºÍÕ½³¡ÖĞÊ¹ÓÃ
+>
+eClient_ItemExpiryDate$ÓĞĞ§ÆÚÎª %d Ìì %d Ğ¡Ê± %d ·ÖÖÓ %d Ãë
+1
+eClient_ItemPassExpiryDateÓĞĞ§ÆÚÒÑ¹ı,¼´½«Ïú»Ù
+A
+eClient_AlchemyExpiryDate$ÓĞĞ§ÆÚÎª %d Ìì %d Ğ¡Ê± %d ·ÖÖÓ %d Ãë
+4
+eClient_AlchemyPassExpiryDateÓĞĞ§ÆÚÒÑ¹ı,¼´½«ÏûÊ§
+A
+eClient_NotYetStudySkill%<color=FFff0000>Äã»¹ÉĞÎ´Ñ§»áÕâ¸ö¼¼ÄÜ!
+
+eClient_UseTimeItem[Ê±Ğ§]
+
+eClient_TryOutItem[ÊÔÓÃ]
++
+eClient_SurplusUpgradeTimeÊ£ÓàÉı¼¶´ÎÊı:
+
+eClient_EquipLevel  µÈ¼¶ 
+"
+eClient_EquipNoUpgrade  Î´Éı¼¶
+/
+eClient_UpgradeAddShieldRewardÉı¼¶¼Ó»¤½±Àø:
+*
+eClient_EquipRandomReward×°±¸Ëæ»ú½±Àø:
+/
+eClient_RewardAttrExcellent[%d¼¶½±Àø]¡¾ÓÅ¡¿
+*
+eClient_RewardAttrFine[%d¼¶½±Àø]¡¾Á¼¡¿
++
+eClient_RewardAttrTop[%d¼¶½±Àø]¡¾×¿Ô½¡¿
+/
+eClinet_NeedSummonLevelĞèÇóÕÙ»½Ê¦µÈ¼¶: Lv%d
+7
+eClient_BeSuitableFor%s <color=ffff6600>[ÊÊÓÃÓÚ:%s]
+
+eClient_EquipGhostÖı»ê:
+)
+eClient_EquipGhostGrowthMax
+¿É³É³¤ÉÏÏŞ
+(
+eClient_EquipGhostValue0030%¹¥»÷ËÙ¶È
+(
+eClient_EquipGhostValue0120%»¤¼×´©Í¸
+(
+eClient_EquipGhostValue1020%ÀäÈ´Ëõ¼õ
+(
+eClient_EquipGhostValue1120%Ä§·¨´©Í¸
+%
+eClient_EquipGhostValue2050µãË«¿¹
+(
+eClient_EquipGhostValue2110%ÉËº¦¼õÃâ
+-
+eClient_EquipGhostValue3060µã·¨Á¦»Ö¸´ËÙ¶È
+(
+eClient_EquipGhostValue3120%·¨ÊõÇ¿¶È
+)
+eClient_EquipGhostValue4025ÎïÀí¹¥»÷Á¦
+'
+eClient_EquipGhostValue41
+5%»¤¼×´©Í¸
+)
+eClient_EquipGhostValue4250ÎïÀí¹¥»÷Á¦
+(
+eClient_EquipGhostValue4310%»¤¼×´©Í¸
+
+eClient_Attribute	»ù´¡ÊôĞÔ:
+)
+eClient_InitiativeSkillColon	Ö÷¶¯¼¼ÄÜ:
+(
+eClient_PassivitySkillColon	±»¶¯¼¼ÄÜ:
+%
+eClient_CanUseTimeZeroÄÍ¾Ã¶È 0/%d
+"
+eClient_CanUseTimeÄÍ¾Ã¶È %d/%d
+ 
+eClient_CanNotGrowUpÎŞ·¨³É³¤
+E
+eClient_CanNotInlayIdenticalGem"ÔÚÍ¬Ò»¼ş×°±¸ÉÏ²»ÄÜÏâÇ¶Í¬ÀàĞÍµÄ±¦Ê¯
+N
+eClient_CanNotInlay2CombineGem,ÔÚÍ¬Ò»¼ş×°±¸ÉÏ²»ÄÜÏâÇ¶³¬¹ıÒ»¿ÅÒÔÉÏµÄË«É«±¦Ê¯
+#
+eClient_ChatChannelWholeÈ«Ìå /r
+"
+eClient_ChatChannelTeam¶ÓÎé /t
+$
+eClient_ChatChannelSecretÃÜÓï /p
+$
+eClient_ChatChannelFriendºÃÓÑ /f
+"
+eClient_ChatChannelHall´óÌü /r
+ 
+eClient_ChatChannelOB¹ÛÕ½ /o
+2
+eClient_ReceiveFriendAskÄãÊÕµ½Ò»ÌõÌí¼ÓºÃÓÑÇëÇó
+P
+ eClient_MeanWhileChatYetToplimit,ÄãÄ¿Ç°Í¬Ê±ÁÄÌìµÄÈËÊıÒÑ¾­³¬¹ıÉÏÏŞ£¬ÇëÏÈ¹Ø±Õ£¡
+*
+eClient_YetBigKillVeryKillÒÑ¾­´óÉ±ÌØÉ±
+)
+eClient_SweepAllBeforeOneÒÑ¾­ÊÆÈçÆÆÖñ
+-
+eClient_NobodyCaresToAskAboutÒÑ¾­ÎŞÈË¿Éµ²
+'
+eClient_YetDictateMatchÒÑ¾­Ö÷Ô×±ÈÈü
+%
+eClient_YetGodGeneralÒÑ¾­ÉñÒ»°ãÁË
+%
+eClient_YetSurpassGodÒÑ¾­³¬Ô½ÉñÁË
+2
+eClient_JustFinishDoubleKill¸Õ¸ÕÍê³ÉÁËÒ»´ÎË«É±
+1
+eClient_JustFinishThreeKill¸Õ¸ÕÍê³ÉÁËÒ»´ÎÈıÉ±
+6
+eClient_JustFinishInsaneKill¸Õ¸ÕÍê³ÉÁËÒ»´Î·è¿ñÉ±Â¾
+"
+eClient_YetCruelWalk
+ÒÑ¾­±©×ßÁË
+
+eClient_KillDieFinishÉ±ËÀÁË
+#
+eClient_InvalidTarget
+ÎŞĞ§µÄÄ¿±ê
+P
+eClient_SkillOutRange7Ä¿±êµã³¬³ö×îÔ¶Ê©·¨¾àÀë,½ÇÉ«»á×Ô¶¯ÒÆ¶¯µ½½Ï½üµÄºÏÊÊµãÊ©·¨
+$
+eClient_AcquireExploit
+»ñµÃ%d¹¦Ñ«
+)
+eClinet_ClickAoToGoTo\n  µã»÷×Ô¶¯Ç°Íù
+@
+$eClient_RightHandUseItemActivateHero\n  ÓÒ¼üÊ¹ÓÃµÀ¾ß¼¤»îÓ¢ĞÛ
+>
+$eClient_LeftHandOpenHeroSetBlockBook\n  ×ó¼ü´ò¿ªÓ¢ĞÛ¼¯¿¨Êé
+/
+eClient_RightHandChangeHero\n  ÓÒ¼üÇĞ»»Ó¢ĞÛ
+H
+(eClient_LeftHandUseSkillAttackLockTarget\n  ×ó¼üÊ¹ÓÃ¼¼ÄÜ¹¥»÷Ëø¶¨Ä¿±ê
+I
+)eClient_LeftHandUseSkillAttackDestineArea\n  ×ó¼üÊ¹ÓÃ¼¼ÄÜ¹¥»÷Ö¸¶¨ÇøÓò
+U
+eClient_WelcomeToSportsDrill5ÄúºÃÕÙ»½Ê¦,»¶Ó­À´µ½ÓÀºã¾º¼¼³¡ÑµÁ·Óª,µã»÷È·¶¨¿ªÊ¼½Ì³Ì.
+X
+!eClient_WelcomeToBattlefieldDrill3ÄúºÃÕÙ»½Ê¦,»¶Ó­À´µ½ÓÀºãÕ½³¡ÑµÁ·Óª,µã»÷È·¶¨¿ªÊ¼½Ì³Ì.
+P
+eClient_WelcomeToNewHandDrill/ÄúºÃÕÙ»½Ê¦,»¶Ó­À´µ½ĞÂÊÖÑµÁ·Óª,µã»÷È·¶¨¿ªÊ¼½Ì³Ì.
+M
+eClient_FinishBattlefieldDrill+ÕÙ»½Ê¦,¹§Ï²ÄúÍê³ÉÓÀºãÕ½³¡ÊÔÁ¶,µã»÷È·¶¨ÍË³ö.
+O
+eClient_FinishNewHandDrill1ÕÙ»½Ê¦,¹§Ï²ÄúÍê³ÉÈ«²¿ĞÂÊÖÑµÁ·ÓªÈÎÎñ,µã»÷È·¶¨ÍË³ö.
+e
+"eClient_OpenBagUseBattlefieldEquip?´ò¿ª[color=0xffffff00]±³°ü[color=0xffffffff]´©ÉÏÕ½³¡×¨ÓÃ×°±¸à¸~
+Ü
+eClient_BagRightHandUseGiftBag¹ÕÙ»½Ê¦,»¶Ó­À´µ½±³°ü½çÃæ,[color=0xffffff00]ÓÒ¼üµã»÷[color=0xffffffff]Àñ°ü»ñµÃ[color=0xffffff00]Àñ°üµÀ¾ß[color=0xffffffff]»òÕßÖ±½Ó[color=0xffffff00]ÓÒ¼üµã»÷[color=0xffffffff]µÀ¾ß½øĞĞ×°±¸.
+
+'eClient_WelcomeToNewHandDrillStartDrillVÄúºÃÕÙ»½Ê¦,»¶Ó­À´µ½ĞÂÊÖÑµÁ·Óª.µã»÷'[color=0xffffff00]¼ÌĞø[color=0xffffffff]'¿ªÊ¼ÑµÁ·°É
+v
+"eClient_HeroSelectUINeedSelectHeroPÕâÊÇ[color=0xffffff00]Ó¢ĞÛÑ¡Ôñ[color=0xffffffff]½çÃæ,ÄãĞèÒªÑ¡ÔñÒ»¸öÓ¢ĞÛ½øÈëÓÎÏ·.
+
+!eClient_SelectHeroHaveTimeAstrictZÍ¨³£Ñ¡ÔñÓ¢ĞÛÊÇÓĞ[color=0xffffff00]Ê±¼äÏŞÖÆ[color=0xffffffff]µÄ,ÇëÔÚ¹æ¶¨Ê±¼äÄÚÑ¡ÔñÄãµÄÓ¢ĞÛ.
+i
+eClient_HeroListCurHeroSelectHÕâÊÇ[color=0xffffff00]Ó¢ĞÛÁĞ±í[color=0xffffffff],±íÊ¾Äãµ±Ç°¿ÉÑ¡ÔñµÄÓ¢ĞÛ.
+[
+eClient_TeamMateSelectHero=ÕâÀïÊÇÄãµÄ[color=0xffffff00]¶ÓÓÑ[color=0xffffffff]Ñ¡ÔñµÄÓ¢ĞÛ.
+S
+eClient_MeSelectHero;ÕâÀïÊÇÄã[color=0xffffff00]×Ô¼º[color=0xffffffff]Ñ¡ÔñµÄÓ¢ĞÛ.
+s
+#eClient_MeAndTeamMateDiscussTacticsLÕâÀïÊÇ[color=0xffffff00]ÁÄÌì¿ò[color=0xffffffff],Äã¿ÉÒÔÔÚÕâÀïºÍ¶ÓÓÑÌÖÂÛÕ½Êõ.
+
+eClient_SelectTwoSkillClickIcon^Äã¿ÉÒÔÑ¡ÔñÁ½¸ö[color=0xffffff00]ÕÙ»½Ê¦¼¼ÄÜ[color=0xffffffff]¸¨ÖúÄãµÄÓ¢ĞÛ,µã»÷¼¼ÄÜÍ¼±ê½øĞĞÑ¡Ôñ.
+q
+eClient_GeniusClickAndAlterR[color=0xffffff00]Ìì¸³[color=0xffffffff]ÄÜ¼ÓÇ¿ÄãµÄÓ¢ĞÛ,Äã¿ÉÒÔÔÚÕâÀï²é¿´²¢ĞŞ¸ÄËûÃÇ.
+š
+"eClient_ClickStartGameAffirmSelecttµã»÷[color=0xffffff00]¿ªÊ¼ÓÎÏ·[color=0xffffffff]°´Å¥È·ÈÏÑ¡ÔñÄãµÄÓ¢ĞÛ,µ¹¼ÆÊ±½áÊøÇ°ÄãÒÀÈ»¿ÉÒÔĞŞ¸ÄÄãµÄÌì¸³ºÍÕÙ»½Ê¦¼¼ÄÜ.
+
+$eClient_SummonLevelSecondUnlockSkillvÕÙ»½Ê¦,¹§Ï²ÄúÉıµ½2¼¶,ÓĞĞÂµÄÕÙ»½Ê¦¼¼ÄÜ½âËø,µã»÷'[color=0xffffff00]Ìì¸³¼¼ÄÜ[color=0xffffffff]'°´Å¥²é¿´ÄãÓµÓĞµÄÕÙ»½Ê¦¼¼ÄÜ
+R
+"eClient_ClickSkillIconLookDescribe,µã»÷ÕÙ»½Ê¦¼¼ÄÜÍ¼±êÄÜ²é¿´ÕÙ»½Ê¦¼¼ÄÜµÄÏêÏ¸ÃèÊö
+’
+#eClient_SummonLevelThreeDowerExpertkÕÙ»½Ê¦,¹§Ï²ÄúÉıµ½3¼¶,µã»÷'[color=0xffffff00]Ìì¸³×¨¾«[color=0xffffffff]'°´Å¥²é¿´Äãµ±Ç°ÓµÓĞµÄÌì¸³µãÊıºÍÌì¸³Ò³
+M
+eClient_CurDowerPageFreeTwoPage*ÕâÊÇÄãµÄµ±Ç°Ìì¸³Ò³Êı,Ãâ·ÑÒ³Êı2Ò³,×î¶à10Ò³.
+j
+&eClient_ClickAddMarkButtonAddDowerPage@µã»÷'[color=0xffffff00]+[color=0xffffffff]'ºÅ°´Å¥Ìí¼ÓĞÂµÄÌì¸³Ò³.
+¢
+%eClient_UseLeftOrRightHandAddOrReduceyÊ¹ÓÃ[color=0xffffff00]×ó¼ü[color=0xffffffff]»òÕß[color=0xffffff00]ÓÒ¼ü[color=0xffffffff]µã»÷±¾Ãæ°å½øĞĞÌí¼Ó»òÕß¼õÉÙÌì¸³µã.
+}
+%eClient_UseClickAddOrReduceDowerPointTÒ²¿ÉÒÔµã»÷µã»÷'[color=0xffffff00]+ -[color=0xffffffff]'ºÅ°´Å¥½øĞĞÌì¸³µãÔö¼Ó»òÕß¼õÉÙ,
+b
+$eClient_AddThreePointUnlockDowerLine:Ìí¼ÓÍ¶Èë3¸öÌì¸³µã¿ÉÒÔ½âËøÒ»ÅÅÌì¸³ĞĞ,Ã¿ĞĞÖ»ÄÜÑ¡ÔñÒ»¸öÌì¸³µã
+O
+%eClient_SelectOneDowerPointAllotPoint&Ñ¡ÖĞÒ»¸öÌì¸³µã½øĞĞµ±Ç°Ìì¸³ĞĞµÄµãÊı·ÖÅä
+V
+$eClient_LeftDescribeHaveAttributeAdd.×ó±ßµÄÃèÊö¿òÓĞµ±Ç°Ìì¸³Ò³´øÀ´µÄÓ¢ĞÛÊôĞÔ¼Ó³ÉĞÅÏ¢
+]
+eClient_ClickSaveButtonSave>µã»÷[color=0xffffff00]±£´æ[color=0xffffffff]°´Å¥£¬±£´æÌì¸³×¨¾«
+b
+eClient_ClickCloseButtonQuitBµã»÷[color=0xffffff00]¹Ø±Õ[color=0xffffffff]°´Å¥£¬ÍË³öÌì¸³×¨¾«½çÃæ
+Z
+ eClient_MayProcessEquipIntensify6¿ÉÒÔ½øĞĞ[color=0xffffff00]×°±¸Ç¿»¯[color=0xffffffff]à¸
+›
+"eClient_WelcomeToBagUIIntroduceBaguÕÙ»½Ê¦,»¶Ó­À´µ½±³°ü½çÃæ,µã»÷[color=0xffffff00]¼ÌĞø[color=0xffffffff]½øĞĞ[color=0xffffff00]±³°ü½éÉÜ[color=0xffffffff].
+J
+ eClient_ThisFixedBagHaveAllEquip&ÕâÊÇÄúµÄ¹Ì¶¨±³°ü,ÓĞµ±Ç°±³°üËùÓĞµÄ×°±¸.
+|
+eClient_ThisPeriodTimeBag_ÕâÊÇÄúµÄ[color=0xffffff00]Ê±Ğ§±³°ü[color=0xffffffff],µ±µÀ¾ß¹ı¶àÊ±,¹ºÂòÊ±Ğ§±³°üÄÜ´æ·Å¸ü¶àµÄÎïÆ·.
+d
+eClient_ClickEquipUpqradeGµã»÷'[color=0xffffff00]×°±¸Éı¼¶[color=0xffffffff]'°´Å¥½øĞĞ½øĞĞ×°±¸Éı¼¶,
+°
+eClient_NeedProcessUpqradeEquipŒÕâÀïÊÇÒª½øĞĞ[color=0xffffff00]Éı¼¶µÄ×°±¸[color=0xffffffff],¿ÉÒÔ´ÓÓÒ±ßµÄ±³°üÁĞ±íÖĞ[color=0xffffff00]ÍÏ×§ »òÕß ÓÒ¼üµã»÷[color=0xffffffff]½øÀ´.
+]
+eClient_ShowNeedGemNumCÕâÀïÏÔÊ¾Éı¼¶[color=0xffffff00]ËùĞèµÄ¸÷ÖÖ±¦Ê¯ÊıÄ¿[color=0xffffffff].
+^
+eClient_ShowNeedUpTargetLevel=ÕâÀïÏÔÊ¾ÒªÉıµ½µÄ[color=0xffffff00]Ä¿±êµÈ¼¶[color=0xffffffff].
+
+!eClient_ClickSkillUpOrAttributeUpyµã»÷ÏÂÃæµÄ[color=0xffffff00]¼¼ÄÜÉı¼¶[color=0xffffffff]»òÕßÓÒ±ßµÄ[color=0xffffff00]ÊôĞÔÉı¼¶[color=0xffffffff]½øĞĞ×°±¸Éı¼¶.
+V
+#eClient_FinishNeHandGuideGetGiftBag/ÕÙ»½Ê¦,¹§Ï²ÄúÍê³ÉĞÂÊÖÒıµ¼,µã»÷È·¶¨ÁìÈ¡ĞÂÊÖÀñ°ü.
+G
+'eClient_InCourseOfEnterIntoNewHandDrillÕıÔÚ½øÈëĞÂÊÖÑµÁ·Óª,ÇëµÈ´ı...
+X
+eClient_ClickAddMarkUpSkill9µã»÷[color=0xffffff00]¡°+¡±[color=0xffffffff]ºÅ£¬Éı¼¶¼¼ÄÜ
+T
+eClient_ClickStartGameButton4µã»÷[color=0xffffff00]¿ªÊ¼ÓÎÏ·[color=0xffffffff]°´Å¥
+f
+%eClient_ClickTeachingButtonStartTeach=µã»÷[color=0xffffff00]½ÌÑ§[color=0xffffffff]°´Å¥,¿ªÊ¼½ÌÑ§Ä£Ê½
+U
+eClient_ClickYongHengMathMode4µã»÷[color=0xffffff00]ÓÀºãÕ½³¡[color=0xffffffff]Ä£Ê½
+(
+eClient_LeftKeyClickItem×ó¼üµã»÷ÎïÆ·
+i
+'eClient_LeftKeyClickBuyButtonProcessBuy>×ó¼üµã»÷[color=0xffffff00]¹ºÂò[color=0xffffffff]°´Å¥£¬½øĞĞ¹ºÂò
+
+eClient_Quest	ÈÎÎñ%d:%s
+P
+ eClient_PleaseLaterOnLoginThanks,%s, ÇëÓÚ %d Ğ¡Ê± %d ·Ö %d Ãëºó½øĞĞµÇÂ½£¬Ğ»Ğ»
+7
+"eClient_EnterToPreventWallowSystem½øÈë·ÀÖ¹³ÁÃÔÏµÍ³1
+ 
+eClient_LoginFailµÇÂ½Ê§°Ü:%s
+<
+$eClient_Quest1DestroyEnemyOuterTowerÈÎÎñ1:´İ»ÙµĞ·½µÄÍâËş
+=
+%eClient_Quest2DestroyEnemyCentreTowerÈÎÎñ2:´İ»ÙµĞ·½µÄÖĞËş
+A
+'eClient_Quest3DestroyEnemyHighLandTowerÈÎÎñ3:´İ»ÙµĞ·½µÄ¸ßµØËş
+6
+eClient_Quest4DestroyEnemyCampÈÎÎñ4:´İ»ÙµĞ·½µÄ±øÓª
+=
+#eClient_Quest5DestroyEnemyBaseTowerÈÎÎñ5:´İ»ÙµĞ·½µÄ»ùµØËş
+6
+eClient_Quest6DestroyEnemyBaseÈÎÎñ6:´İ»ÙµĞ·½µÄ»ùµØ
+7
+ eClient_JumpCaptainYetExceedGod3ÌøÔ¾´¬³¤ÒÑ¾­³¬ÉñÁË3
+7
+ eClient_JumpCaptainYetExceedGod1ÌøÔ¾´¬³¤ÒÑ¾­³¬ÉñÁË1
+@
+$eClient_DoubleClickChangeDesignation¡¾×ó¼üË«»÷ÇĞ»»µ½¸Ã³ÆºÅ¡¿
+$
+eClient_CurrentTitle¡¾µ±Ç°³ÆºÅ¡¿
+b
+eClient_ClickViewDetailG%s\n\n\n\nµ¥»÷×ó¼ü²é¿´ÏêÏ¸ĞÅÏ¢,ÔÚÏêÏ¸ĞÅÏ¢Ò³Ç©ÉÏË«»÷×ó¼ü¿ÉÒÔÇĞ»»µ½¸Ã³ÆºÅ
+'
+eClient_NoChangeTitleºÍµ±Ç°³ÆºÅÒ»ÖÂ
+:
+eClient_NotYetReachAchievement%s\n\n\n\nÉĞÎ´´ï³É¸Ã³É¾Í
+/
+eClient_ChangeDesignationÑ¡Ôñ %s Îªµ±Ç°³ÆºÅ
+
+eClient_PointNum%dµãÊı
+L
+'eClient_SelectDesignationNotYetNoSelect!ËùÑ¡Ôñ³É¾ÍÉĞÎ´´ï³É,²»ÄÜÑ¡Ôñ¸Ã³ÆºÅ
+&
+eClient_YouYetLineUpÄãÒÑ¾­ÅÅ¶Ó%dÃë
++
+eClient_InCourseOfGainDatasÕıÔÚ»ñÈ¡Êı¾İ
+#
+eClient_PlanOnWaitÔ¤¼ÆµÈ´ı3·ÖÖÓ
+<
+ eClient_AchieveHighestEquipLevel´ïµ½×î¸ßµÈ¼¶²»ÄÜ¼ÌĞøÉı¼¶
+-
+eClient_ItemCanNotIntensify´ËÎïÆ·²»ÄÜÇ¿»¯
+,
+eClient_EquipUpStillNeedÄú±¾´ÎÉı¼¶»¹ĞèÒª
+$
+eClient_BattleFieldMedalÕ½³¡½±ÅÆ
+!
+eClient_SportsMedal
+¾º¼¼³¡½±ÅÆ
+!
+eClient_EquipUpSign
+×°±¸Éı¼¶·û
+#
+eClient_SumNeedExpend
+¹²ĞèÒªÏûºÄ
+
+eClient_EquipUpGoldOr½ğ±Ò»ò
+
+eClient_PointVolume×êÊ¯
+:
+eClient_NotEnoughGold!ÄúÃ»ÓĞ×ã¹»µÄ½ğ±Ò,ÊÇ·ñÊ¹ÓÃ×êÊ¯Éı¼¶
+I
+eClient_NotEnoughMoney/ÄúÃ»ÓĞ×ã¹»µÄ×êÊ¯,Äã¿ÉÒÔÍ¨¹ı½ğ±ÒÉı¼¶»òÕßÁ¢¼´³äÖµ
+D
+eClient_NotEnoughMoneyAndGold#ÄúÃ»ÓĞ×ã¹»µÄ½ğ±ÒºÍ×êÊ¯,ÊÇ·ñÁ¢¼´³äÖµ
+ 
+eClient_SkillName¼¼ÄÜÃû  :  
+!
+eClient_SkillLevel¼¼ÄÜµÈ¼¶:  
+!
+eClient_SkillCDTime
+  ÀäÈ´Ê±¼ä
++
+eClient_EquipUpgradeSucceed×°±¸Éı¼¶³É¹¦
+ 
+eClient_eErrorUnknowÎ´Öª´íÎó
+)
+eClient_eErrorEquipNotFound
+×°±¸Î´ÕÒµ½
+.
+eClient_eErrorEquipCannotRaise×°±¸²»ÄÜÉı¼¶
+-
+eClient_eErrorTargetLevelÉı¼¶Ä¿±êµÈ¼¶ÎŞĞ§
+-
+eClient_eErrorSkillNotFound×°±¸¼¼ÄÜÎ´ÕÒµ½
+,
+eClient_eErrorNotEnoughMoneyÉı¼¶½ğ±Ò²»¹»
++
+eClient_eErrorNotEnoughGoldÉı¼¶×êÊ¯²»¹»
+.
+eClient_eErrorNotEnoughExploitÉı¼¶¹¦Ñ«²»¹»
+7
+eClient_eErrorEquipTryoutÊ±Ğ§×°±¸ºÍÊÔÓÃ×°±¸²»ÄÜÉı¼¶
+'
+eClient_eErrorEquipRand×°±¸Éı¼¶Ê§°Ü
+2
+eClient_ComeFrom\n \n<color=89b388>À´×Ô:"%s"%s
+2
+eClient_ComeFromInfo\n \n<color=89b388>À´×Ô:%s
+7
+eClient_ClickEquipIconBuyµã»÷×°±¸Í¼±ê¿ÉÖ±½Ó¹ºÂò×°±¸
+
+eClient_HeroLevel%d¼¶
+
+eClient_MagicValueÄ§·¨Öµ
+,
+eClient_PrepareSurplusTime×¼±¸½×¶ÎÊ±¼ä£º
+"
+eClient_PrepareStart
+×¼±¸¿ªÊ¼£º
+
+eClient_FriendColonºÃÓÑ:
+1
+eClient_AskForInviteAddTeam ÒªÑûÇëÄã¼ÓÈë¶ÓÎé.
+7
+ eClient_PrepareSurplusTimeSecond×¼±¸½×¶Î»¹Ê£ÏÂ:%dÃë
+)
+eClient_PrepareStartSecond×¼±¸¿ªÊ¼:%d
+
+eUI_violentRate±©»÷ÂÊ
+
+eUI_AttackDistance¹¥»÷¾àÀë
+
+eUI_AttackType¹¥»÷Àà
+
+eUI_MagicArtsType·¨ÊõÀà
+
+eUI_ExtraMoney¶îÍâ½ğÇ®
+
+eUI_GrowUpType³É³¤Àà
+
+eUI_ControlType¿ØÖÆÀà
+
+eUI_AureType¹â»·Àà
++
+eClinet_whenLoveGodµ±ÎÒ°®ÉÏÉñÃ÷µÄÄÇÒ»¿Ì
+
+eClinet_seteye·ÅÖÃÕì²éÊØÎÀ
+
+eClinet_herophotoÓ¢ĞÛÏà²á
+ 
+eClinet_cameratome
+¾µÍ·µ½×Ô¼º
+$
+eClinet_medicinal3Ò©Æ·À¸µÚÈı¸ö¿ò
+$
+eClinet_medicinal2Ò©Æ·À¸µÚ¶ş¸ö¿ò
+$
+eClinet_medicinal1Ò©Æ·À¸µÚÒ»¸ö¿ò
+
+eClinet_chosemeÑ¡¶¨×Ô¼º
+
+eClinet_lockcameraËø¶¨¾µÍ·
+
+eClinet_retreatsign³·ÍËĞÅºÅ
+
+eClinet_warningsign¾¯¸æĞÅºÅ
+!
+eClinet_helpinterface°ïÖú½çÃæ
+
+eClinet_shopÉÌµê
+
+eClinet_centershopÉÌ³Ç
+
+eClinet_sorcingborad¼Ç·ÖÅÆ
+
+eClinet_openbagui
+´ò¿ª±³°üui
+&
+eClinet_heropropertyuiÓ¢ĞÛÊôĞÔÃæ°å
+
+eClinet_stopÍ£Ö¹
+
+eClinet_attack¹¥»÷
+4
+eClinet_itemfastusevoluntarily1µÀ¾ß¿ì½İ1ÖÇÄÜÊ¹ÓÃ
+4
+eClinet_itemfastusevoluntarily2µÀ¾ß¿ì½İ2ÖÇÄÜÊ¹ÓÃ
+4
+eClinet_itemfastusevoluntarily3µÀ¾ß¿ì½İ3ÖÇÄÜÊ¹ÓÃ
+4
+eClinet_itemfastusevoluntarily4µÀ¾ß¿ì½İ4ÖÇÄÜÊ¹ÓÃ
+4
+eClinet_itemfastusevoluntarily5µÀ¾ß¿ì½İ5ÖÇÄÜÊ¹ÓÃ
+4
+eClinet_itemfastusevoluntarily6µÀ¾ß¿ì½İ6ÖÇÄÜÊ¹ÓÃ
+!
+eClinet_itemfastuse1	µÀ¾ß¿ì½İ1
+!
+eClinet_itemfastuse2	µÀ¾ß¿ì½İ2
+!
+eClinet_itemfastuse3	µÀ¾ß¿ì½İ3
+!
+eClinet_itemfastuse4	µÀ¾ß¿ì½İ4
+!
+eClinet_itemfastuse5	µÀ¾ß¿ì½İ5
+!
+eClinet_itemfastuse6	µÀ¾ß¿ì½İ6
+7
+ eClinet_callskillusevoluntarily1ÕÙ»½Ê¦¼¼ÄÜ1ÖÇÄÜÊ©·¨
+7
+ eClinet_callskillusevoluntarily2ÕÙ»½Ê¦¼¼ÄÜ2ÖÇÄÜÊ©·¨
+(
+eClinet_callskilluse1ÕÙ»½Ê¦¼¼ÄÜ1Ê©·¨
+(
+eClinet_callskilluse2ÕÙ»½Ê¦¼¼ÄÜ2Ê©·¨
+
+eClinet_back»Ø³Ç
+<
+eClinet_fastusevoluntarilytome1ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ1(¶Ô×Ô¼º)
+<
+eClinet_fastusevoluntarilytome2ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ2(¶Ô×Ô¼º)
+<
+eClinet_fastusevoluntarilytome3ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ3(¶Ô×Ô¼º)
+<
+eClinet_fastusevoluntarilytome4ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ4(¶Ô×Ô¼º)
+<
+eClinet_fastusevoluntarilytome5ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ5(¶Ô×Ô¼º)
+?
+"eClinet_fastusevoluntarilytoother1ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ1(¶ÔËûÈË)
+?
+"eClinet_fastusevoluntarilytoother2ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ2(¶ÔËûÈË)
+?
+"eClinet_fastusevoluntarilytoother3ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ3(¶ÔËûÈË)
+?
+"eClinet_fastusevoluntarilytoother4ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ4(¶ÔËûÈË)
+?
+"eClinet_fastusevoluntarilytoother5ÖÇÄÜÊ©·¨¼¼ÄÜ¿ì½İ5(¶ÔËûÈË)
+
+eClinet_addskill1	¼¼ÄÜ1¼Óµã
+
+eClinet_addskill2	¼¼ÄÜ2¼Óµã
+
+eClinet_addskill3	¼¼ÄÜ3¼Óµã
+
+eClinet_addskill4	¼¼ÄÜ4¼Óµã
+
+eClinet_addskill5	¼¼ÄÜ5¼Óµã
+!
+eClinet_skillfast1¼¼ÄÜ¿ì½İÀ¸1
+!
+eClinet_skillfast2¼¼ÄÜ¿ì½İÀ¸2
+!
+eClinet_skillfast3¼¼ÄÜ¿ì½İÀ¸3
+!
+eClinet_skillfast4¼¼ÄÜ¿ì½İÀ¸4
+!
+eClinet_skillfast5¼¼ÄÜ¿ì½İÀ¸5
+1
+eClinet_QPrivateChat1¿ì½İÃÜÓïÖ®Ç°ÃÜÓïÎÒµÄÍæ¼Ò
+1
+eClinet_QPrivateChat2¿ì½İÃÜÓïÖ®Ç°ÎÒÃÜÓïµÄÍæ¼Ò
+î
+eClinet_fastkeyuseexplainĞ¿ì½İ¼ü¶¨Òå ¿ÉÓÃµ½µÄ¼üÅÌµÄ°´¼ü xml¿ÉÓÃ[mouseleft] [mouseright] [backspace] [tab] [enter] [shift] [ctrl] [alt] [pause] [capslock] [esc] [space] [pageup][pagedown] [end] [home] [left] [up] [right] [down] [insert] [delete] [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [a] [b] [c] [d] [e] [f] [g] [h] [i] [j] [k] [l] [m] [n] [o] [p] [q] [r] [s] [t] [u] [v] [w] [x] [y] [z] [numeric0] [numeric1] [numeric2] [numeric3] [numeric4] [numeric5] [numeric6] [numeric7] [numeric8] [numeric9] [numeric*] [numeric+] [numeric-] [numeric/] [numeric.] [f1] [f2] [f3] [f4] [f5] [f6] [f7] [f8] [f9] [f10] [f11] [f12] [numlock] [leftshift] [rightshift] [leftctrl] [rightctrl] [leftmenu] [rightmenu] [;] [=] [,] [-] [.] [/] [~] [[] [|] []] [&apos;]
+
+eClinet_gold%s×êÊ¯
+
+eClinet_money%d½ğ±Ò
+
+eClinet_exploit%d¹¦Ñ«
+%
+eClinet_GoldOrMoney%s×êÊ¯»ò%d½ğ±Ò
+&
+eClinet_notenoughmoneyÉíÉÏ½ğÇ®²»¹»
+$
+eClinet_notenoughexploit¹¦Ñ«²»¹»
+%
+eClinet_notenoughgoldÉíÉÏ×êÊ¯²»¹»
+2
+eClinet_bagisfullclearbag±³°üÒÑÂú£¬ÇëÇåÀí±³°ü!
+
+eClinet_goldor×êÊ¯»ò
+
+eClinet_buyhero¹ºÂòÓ¢ĞÛ
+
+eClinet_ishaveÒÑ¾­ÓµÓĞ
+
+eClinet_commonequipÆÕÍ¨
+
+eClinet_heroequip×¨Êô
+
+eClinet_skillequip¼¼ÄÜ
+
+eClinet_ghostequipÖı»ê
+!
+eClinet_attributemedicineÊôĞÔ
+
+eClinet_recovermedicine»Ö¸´
+
+eClinet_giftÀñ°ü
+
+eClinet_card¿¨Æ¬
+
+eClinet_upgradegemÉı¼¶
+
+eClinet_strengthengemÇ¿»¯
+
+eClinet_gem±¦Ê¯
+
+eClinet_equip×°±¸
+
+eClinet_buy¹ºÂò
+
+eClinet_orGold»ò%s×êÊ¯
+-
+eClinet_determinegetequipÈ·¶¨ÒªÁìÈ¡ÊÔÓÃ×°
+,
+eClinet_determinegetheroÈ·¶¨ÒªÊÔÓÃ¸ÃÓ¢ĞÛ
+
+eClinet_OrExploit»ò%d¹¦Ñ«
+"
+eClinet_NoRottenValue	%s ²»ĞàÖµ
+!
+eClinet_singlelineµ¥ÈËÅÅ¶Ó:%d
+ 
+eClinet_creatteam´´½¨¶ÓÎé:%d
+9
+eClinet_youInitiateSurrenderÄã·¢ÆğÁËÍ¶½µ,ÊÇ·ñÈ·ÈÏÍ¶½µ
+
+eClinet_promptÌáÊ¾
+
+eClinet_quitorderÍË³ö³ÌĞò
+
+eClinet_chengeId¸ü»»ÕËºÅ
+
+eClinet_Lowest    ×îµÍ
+
+eClinet_Low    µÍ
+
+eClinet_Secondary    ÖĞµÈ
+
+eClinet_High    ¸ß
+
+eClinet_Highest    ×î¸ß
+
+eClinet_PercentdDay%dÌì
+
+eClinet_choosesuc¾Ù±¨
+%
+eClinet_unrealusesucc»ÃÁéÆôÓÃ³É¹¦
+#
+eClinet_nothaveunreal
+»ÃÁéÎ´ÓµÓĞ
+ 
+eClinet_date%dÄê%dÔÂ%dÈÕµ½ÆÚ
+
+eClinet_sourceÀ´Ô´: 
+
+eClinet_describeÃèÊö: 
+
+eClinet_levelµÈ¼¶: 
+,
+eClinet_deleteunrealÊÇ·ñÈ·ÈÏÉ¾³ı¸Ã»ÃÁé£¿
+P
+eClinet_onlyuseOneunreal4Ö»ÄÜÆôÓÃÒ»¸ö»ÃÁé£¬ÊÇ·ñÓÃµ±Ç°»ÃÁéÌæ»»ÒÑ¾­ÆôÓÃµÄ»ÃÁé£¿
+!
+eClinet_useunrealÆôÓÃ¸Ã»ÃÁé£¿
+"
+eClinet_stopunrealÍ£ÓÃ¸Ã»ÃÁé£¿
+
+eClinet_roomµÄ·¿¼ä
+-
+eClinet_IscreatroomÈ·¶¨Òª´´½¨[%s]·¿¼äÂğ£¿
+ 
+eClinet_chosemodle
+ÇëÑ¡ÔñÄ£Ê½
+
+eClinet_chosemap
+ÇëÑ¡ÔñµØÍ¼
+)
+eClinet_roomnameisempty·¿¼äÃû²»ÄÜÎª¿Õ
+
+eClinet_playerisfullÂúÔ±
+
+eClinet_enterinto½øÈë
+1
+eClinet_notenoughplayerÈËÊı²»¹»£¬ÎŞ·¨¿ªÊ¼±ÈÈü
+
+eClinet_singlineµ¥ÈËÅÅ¶Ó
+$
+eClinet_openroomlist´ò¿ª·¿¼äÁĞ±í
+8
+eClinet_playerlevelnotenoughÕÙ»½Ê¦µÈ¼¶²»Âú×ã×°±¸ÒªÇó
+6
+!eClient_ThisOrderStilettoNeedCost±¾´Î´ò¿×,ĞèÒªÏûºÄ
+Y
+!eClinet_curstilettoisusemoneygold4±¾´Î´ò¿×,ĞèÒªÏûºÄ"<<umoney<<"½ğ±Ò»òÕß"<<ugold<<"×êÊ¯
+%
+eClinet_chosepaywayÇëÑ¡ÔñÖ§¸¶·½Ê½
+?
+eClinet_notenoughmoneyusegoldÄãÃ»ÓĞ×ã¹»µÄ½ğ±Ò£¬ÊÇ·ñÊ¹ÓÃ×êÊ¯
+?
+eClinet_notenoughgoldusemoneyÄãÃ»ÓĞ×ã¹»µÄ×êÊ¯£¬ÊÇ·ñÊ¹ÓÃ½ğ±Ò
+G
+eClinet_notenoughgoldandmoney&ÄãÃ»ÓĞ×ã¹»µÄ½ğ±Ò»òÕß×êÊ¯£¬ÊÇ·ñÁ¢¼´³äÖµ
+1
+eClinet_LevelGemGiveUpNeed¼¶±¦Ê¯Õª³ı,ĞèÒªÏûºÄ
+
+eClient_MoneyOr½ğ±Ò»òÕß
+
+eClient_GameGold×êÊ¯
+,
+eClinet_notenoughgem±³°üÀïÃæ±¦Ê¯ÊıÁ¿²»¹»
+*
+eClinet_fuseloseºÏ³ÉÊ§°Ü£¡×£ÄãÏÂ´Î³É¹¦
+7
+ eClient_LevelGemCompoundNeedCost¼¶±¦Ê¯ºÏ³É,ĞèÒªÏûºÄ
+1
+eClient_LevelGemInNeedCost¼¶±¦Ê¯ºÏ³É,ĞèÒªÏûºÄ
+&
+eClinet_chosefusewayÇëÑ¡ÔñºÏ³É·½Ê½
+0
+eClinet_pushGemlevelnotfit·ÅÈë±¦Ê¯µÈ¼¶²»·ûºÏ
+0
+eClinet_pushGemCombineË«É«±¦Ê¯²»ÄÜÔÙ½øĞĞÈÚºÏ
+0
+eClinet_needtwotypegemÈÚºÏĞèÒªÁ½¿Å²»Í¬µÄ±¦Ê¯
+#
+eClinet_gemattrdec [Ë¥¼õ%d%%ºó]
+b
+eClinet_gemfusecondition4E4.Ëæ»úºÏ³ÉÊ±,ÓĞÒ»¶¨¼¸ÂÊ»ñµÃÕä¹óµÄ×ÏÉ«±¦Ê¯£¬×ÏÉ«±¦Ê¯µÄÊôĞÔËæ»ú.<< '\n'
+S
+eClinet_gemfusecondition363.²»Í¬ÊôĞÔµÄ±¦Ê¯ºÏ³ÉµÃµ½Ò»¸öËæ»úÊôĞÔµÄ¸ß¼¶±¦Ê¯.<< '\n'
+S
+eClinet_gemfusecondition262.ÏàÍ¬ÊôĞÔµÄ±¦Ê¯ºÏ³ÉµÃµ½Ò»¸öÏàÍ¬ÊôĞÔµÄ¸ß¼¶±¦Ê¯.<< '\n'
+[
+eClinet_gemfusecondition1>1.Ö»ÓĞ¼¸¸öÍ¬Ò»µÈ¼¶µÄ±¦Ê¯²Å¿ÉÒÔ½øĞĞºÏ³ÉÄÜºÏ³É¸ßÒ»¼¶±¦Ê¯.<< '\n'
+*
+eClinet_NotequiprepairÃ»ÓĞ×°±¸ĞèÒªĞŞÀí
+2
+eClinet_repairEquipConsumeĞŞÀíĞèÒªÏûºÄ %d ½ğ±Ò
+&
+eClinet_cannotrepair¸ÃµÀ¾ß²»ÄÜĞŞÀí
+0
+eClinet_noneedrepair¸Ã×°±¸ÍêºÃÈç³õ²»ĞèÒªĞŞÀí
+:
+eClinet_storehousePasswordErrorÃÜÂë´íÎó£¬ÎŞ·¨´ò¿ª²Ö¿â!
+D
+#eClinet_NotenoughgoldOpenstorehouseÃ»ÓĞ×ã¹»µÄ×êÊ¯£¬ÎŞ·¨´ò¿ª²Ö¿â!
+6
+eClinet_itemdontUseInthisSceneÎïÆ·²»ÄÜÔÚ¸Ã³¡¾°Ê¹ÓÃ
+9
+#eClinet_TimebagtoExceedTheTimeLimitÊ±Ğ§±³°üÒÑ¹ıÓĞĞ§ÆÚ
+
+eClient_Notice×¢Òâ
+%
+eClinet_TimebagIsfullÊ±Ğ§±³°üÒÑÂú
+
+eClinet_bagisfull±³°üÒÑÂú
+
+eClinet_activatebag¼¤»î±³°ü
+9
+eClinet_validIspassOnlygetÓĞĞ§ÆÚÒÑ¹ı,Ö»ÄÜÈ¡³ö²»ÄÜ´æÈë
+
+eClinet_addbagtimeĞø·Ñ±³°ü
+ 
+eClinet_TimeisPass
+ÓĞĞ§ÆÚÒÑ¹ı
+7
+eClinet_TimehaveDay ÓĞĞ§ÆÚ»¹ÓĞ %d Ğ¡Ê± %d ·ÖÖÓ %d Ãë
+1
+eClient_TimeHaveExceedDayÓĞĞ§ÆÚ»¹ÓĞ³¬¹ı %d Ìì
+.
+eClinet_determinedestroyÊÇ·ñÈ·¶¨ÒªÏú»ÙÎïÆ·
+
+eClient_gotovip
+Ìø×ª»áÔ±Ò³
+3
+eClinet_Teamisfulldontrequest¶ÓÎéÒÔÂú£¬²»ÄÜÑûÇë
+A
+eClinet_servernameplayerid#·şÎñÆ÷,Ãû´Î,½ÇÉ«Ãû,½ÇÉ«ID,Éı½µ,Öµ\n
+$
+eClent_SportsSumNum¾º¼¼³¡×Ü³¡Êı:
+
+eClient_WinSumNum
+,Ê¤Àû³¡Êı:
+
+eClient_WinRateColon,Ê¤ÂÊ:
+
+eClient_SumCount
+×Ü³¡Êı: %d
+<
+eClient_PointOutGameAdultOpenÌáÊ¾:ÓÎÏ·Ö»ÊÇÕë¶Ô³ÉÄêÈË¿ª·Å
+
+eClinet_thecapital´óĞ´
+
+eClinet_lowercaseĞ¡Ğ´
+$
+eClinet_ChoseserverÑ¡Ôñ·şÎñÆ÷:%s
+
+eClinet_beginlogin¿ªÊ¼µÇÂ½
+)
+eClinet_choseborncityÇëÑ¡Ôñ³öÉúµÄ³ÇÊĞ
+
+eClinet_ShowAll
+ÏÔÊ¾È«²¿
+ 
+"
+eClinet_ShowBaseNPCÏÔÊ¾ÆÕÍ¨NPC
+(
+eClinet_ShowFunctionNPCÏÔÊ¾¹¦ÄÜĞÔNPC
+(
+eClinet_ShowAreaConveyÏÔÊ¾ÇøÓò´«ËÍµã
+)
+eClinet_ShowAreaMonsterÏÔÊ¾ÇøÓòÄÚ¹ÖÎï
+2
+eClinet_PointOutJustRetreatÌáÊ¾:%s Õı´Ó %s³·ÍË
+2
+eClinet_PointOUtLetYouAloofÌáÊ¾:%s ÈÃÄãÔ¶Àë %s
+9
+eClinet_PointOUtLetYouFromAloofÌáÊ¾:%s ÈÃÄã´Ó %s ³·Àë
+?
+eClinet_PointOutEmitSigalPleaseÌáÊ¾:%s ·¢³öĞÅºÅ£¬ÇëĞ¡ĞÄĞĞÊÂ
+9
+eClinet_PointOutInPleaseSupportÌáÊ¾:%s ÔÚ %s ÇëÇóÖ§Ô®
+)
+eClinet_PointOutSignÌáÊ¾:%s ±ê¼ÇÁË %s
+9
+eClinet_PointOutPleaseLeaveÌáÊ¾:%s ·¢³öĞÅºÅ£¬Çë%s³·ÍË
+>
+eClinet_PointOutPleaseCome ÌáÊ¾:%s ·¢³öĞÅºÅ£¬ÔÚ±ê¼ÇµØµã¼¯ºÏ
+=
+eClinet_ClickOrCtrlAdd#<color=FFFFFFFF>Éı¼¶ - µã»÷»òÕß°´%s
+>
+eClinet_ClickStutySkill#<color=FFFFFFFF>Ñ§Ï° - µã»÷»òÕß°´%s
+
+eClinet_Success³É¹¦
+
+eClient_MapInfo
+µØÍ¼×ÊÁÏ\n
+
+eClient_MapNameµØÍ¼Ãû³Æ£º 
+
+eClient_MapModeµØÍ¼Ä£Ê½£º 
+
+eClient_WhoseTeam µÄ¶ÓÎé
+
+eClient_Accept½ÓÊÜ
+
+eClient_Refuse¾Ü¾ø
++
+eClient_GamePlayer[color=ffffbf36]Íæ¼Ò 
+6
+eClient_EnterIntoRoom[color=0xffffffff] ½øÈëÁË·¿¼ä
+2
+eClient_LeaveRoom[color=0xffffffff] Àë¿ªÁË·¿¼ä
+(
+eClient_YouByKickTeamÄãÒÑ±»Ìß³ö¶ÓÎé.
+&
+eClient_TeamByDismiss¶ÓÎéÒÑ±»½âÉ¢.
+
+eClient_LevelIntµÈ¼¶: %d
+&
+eClient_WinRateÊ¤ÂÊ:%.1f%c (%d/%d)
+
+eClient_WaitµÈ´ı
+
+eClient_GeniusPageÌì¸³Ò³%d
+!
+eClient_YouNeedCost
+ÄãĞèÒª»¨·Ñ
+:
+"eClient_PointActivateNewGeniusPage×êÊ¯À´¼¤»îĞÂµÄÌì¸³Ò³
+S
+$eClient_RightButtonClickGiveUpGenius+%s\n \n<color=FFFFFF00>ÓÒ¼üµã»÷·ÅÆú¸ÃÌì¸³\n
+T
+%eClient_LeftButtonClickActivateGenius+%s\n \n<color=FFFFFF00>×ó¼üµã»÷¼¤»î¸ÃÌì¸³\n
+f
+/eClient_NeedMoreExpetPerfectPutIntoUnlockGenius3%s\n \n<color=FFFFFF00>ĞèÒª¸ü¶àµÄ×¨¾«Í¶Èë½âËøÌì¸³\n
++
+eClient_ComeFromExpetPerfectÀ´×Ô×¨¾«:\n
+%
+eClient_ComeFromGeniusÀ´×ÔÌì¸³:\n
+"
+eClient_CurrentLevel
+µ±Ç°µÈ¼¶\n
+
+eClient_NextLevel
+ÏÂÒ»µÈ¼¶\n
+!
+eClient_LifeValueAdd	ÉúÃüÖµ + 
+"
+eClient_MagicValueAdd	·¨Á¦Öµ + 
+%
+eClient_AttackSpeedAdd¹¥»÷ËÙ¶È + 
+)
+eClient_CharAttr_MoveSpeedÒÆ¶¯ËÙ¶È + 
+#
+eClient_CharAttr_Dodge	ÉÁ±ÜÂÊ + 
+)
+eClient_CharAttr_HPRecoverÉúÃü»Ø¸´ + 
+
+eClient_PerFiveSecond/5Ãë
+)
+eClient_CharAttr_MPRecover·¨Á¦»Ø¸´ + 
+,
+eClient_CharAttr_CriticalOdds±©»÷¼¸ÂÊ + 
+0
+!eClient_CharAttr_PhysicsAttackMaxÎïÀí¹¥»÷ + 
+*
+eClient_CharAttr_PhysicsDefÎïÀí·ÀÓù + 
+-
+eClient_CharAttr_ArmorPunctureÎïÀí´©Í¸ + 
++
+eClient_CharAttr_MagicAttack·¨ÊõÇ¿¶È + 
+(
+eClient_CharAttr_MagicDef·¨Êõ¿¹ĞÔ + 
+2
+#eClient_CharAttr_MagicArmorPuncture·¨Êõ´©Í¸ + 
+&
+eClient_CharAttr_SuperArmorÈÍĞÔ + 
+(
+eClient_CharAttr_HPAbsorbÎïÀíÎüÑª + 
+(
+eClient_CharAttr_MPAbsorb·¨ÊõÎüÑª + 
+@
+eClient_CharAttr_KillBonusMoney»÷É±ÈÎÒâµ¥Î»»á¶îÍâ»ñµÃ½ğ±Ò + 
+;
+eClient_CharAttr_KillRestoreHP»÷É±ÈÎÒâµ¥Î»»Ö¸´ÉúÃüÖµ + 
+;
+eClient_CharAttr_KillRestoreMP»÷É±ÈÎÒâµ¥Î»»Ö¸´·¨Á¦Öµ + 
+A
+*eClient_CharAttr_PhysicsAttack_LevelGrowthÎïÀí¹¥»÷Ã¿¼¶³É³¤ + 
+=
+&eClient_CharAttr_PhysicDef_LevelGrowthÎïÀí·ÀÓùÃ¿¼¶³É³¤ + 
+?
+(eClient_CharAttr_MagicAttack_LevelGrowth·¨ÊõÇ¿¶ÈÃ¿¼¶³É³¤ + 
+7
+"eClient_CharAttr_HPMax_LevelGrowthÉúÃüÖµÃ¿¼¶³É³¤ + 
+7
+"eClient_CharAttr_MPMax_LevelGrowth·¨Á¦ÖµÃ¿¼¶³É³¤ + 
+A
+*eClient_CharAttr_ColdDownMinus_LevelGrowthÀäÈ´Ëõ¼õÃ¿¼¶Ôö¼Ó + 
+<
+%eClient_CharAttr_MagicDef_LevelGrowth·¨Êõ¿¹ĞÔÃ¿¼¶³É³¤ + 
+.
+eClient_CharAttr_DamageIncreaseÉËº¦¼Ó³É + 
+/
+ eClient_CharAttr_DamageReductionÉËº¦¼õÃâ + 
+-
+eClient_CharAttr_ColdDownMinusÀäÈ´Ëõ¼õ + 
+;
+$eClient_CharAttr_BonusMoney10SecondsÃ¿10ÃëÖÓÔö¼Ó½ğ±Ò + 
+.
+eClient_CharAttr_InitBonusMoney³õÊ¼½ğÇ® + 
+
+eClient_UnKnownAddÎ´Öª + 
+
+eClient_OneLevel ( 1¼¶ ) ~ 
+#
+eClient_EighteenLevel
+ ( 18¼¶ ) 
+2
+eClient_ExpertEquipTryOutBag%s×¨ÊôÌ××°ÊÔÓÃÀñ°ü
+
+eClient_ExpertEquipRansFormInfoz  ×¨Êô×°±¸»á¸ÄÔìÓ¢ĞÛµÄ¶ÔÓ¦¼¼ÄÜ£¬Ê¹ÆäÓµÓĞ¸üÇ¿µÄĞ§¹û£¬¶øÒ»ÕûÌ××¨ÊôÌ××°£¬¿ÉÒÔ¼¤»îÓ¢ĞÛµÄµÚ¶şĞÎÌ¬£¬»ñµÃ¸üìÅµÄÍâ¹Û¡£¸Ï¿ìÌåÑé°É£¡
+)
+eClient_ExpertHeroTryOutBag
+%sÊÔÓÃÀñ°ü
+&
+eClient_300HeroGuest300Ó¢ĞÛ¿Í·ş[v]
+
+eClient_FontBlackBodyºÚÌå
+
+eClient_HeaveSucess  ³É¹¦
+
+eClient_HeaveReport¾Ù±¨  
+
+eClient_QuitTeamÍË³ö
+6
+eClient_SkillNotUseFreeEquip²»ÊÇµ±Ç°Ó¢ĞÛµÄ×¨Êô×°±¸
+
+eClient_ShopGold×êÊ¯
+
+eClient_ShopMoney½ğ±Ò
+
+eClient_Shopexploit¹¦Ñ«
+
+eClient_shop_HeroÓ¢ĞÛ
+
+eClient_shop_Gem±¦Ê¯
+
+eClient_shop_restoreÒ©Æ·
+
+eClient_shop_equip×°±¸
+
+eClinet_Viptotal%d»ı·Ö
+4
+eClinet_SelectBagInterfaceÇëÑ¡Ôñ±³°ü½çÃæ½øĞĞ²Ù×÷
+
+eClient_Rose	Good job.
+2
+eClient_AcquireTimeBagTime»ñµÃÁËÊ±Ğ§±³°üµÄÊ±¼ä
+(
+eClient_PleaseSelectTarget
+ÇëÑ¡ÔñÄ¿±ê
+(
+eClient_YouYetHaveHeroÄúÒÑÓµÓĞ¸ÃÓ¢ĞÛ
+
+eClient_dPoint%dµã
+:
+"eClient_EquipNoMeetRepeatCondition×°±¸²»Âú×ãÖØÖıµÄÌõ¼ş
+E
+#eClient_RepeatAttrNeedExpendDiamondÃ¿´ÎÖØÖıËæ»úÊôĞÔĞèÒªÏûºÄ%d×êÊ¯
+6
+"eClient_CongratulationsYouHaveHero¹§Ï²ÄãÓµÓĞÁË %s!
+
+eClient_StandAlone¶ÀÁ¢
+
+eClent_AddMoney+%d½ğÇ®
+
+eClient_AddExp+%d¾­Ñé
+J
+&eClient_SevenPlayerLevelGreaterThanTen ÆßÈË×é¶ÓËùÓĞ³ÉÔ±±ØĞë´óÓÚµÈÓÚ30¼¶
+A
+eClient_NoFiveSixPlayerTeam"¸ÃµØÍ¼ÔİÊ±²»Ö§³Ö5ÈË»òÕß6ÈË×é¶Ó½øÈë
+6
+eClient_OnlySevenPlayerTeam¸ÃµØÍ¼Ö»Ö§³Ö7ÈË×é¶Ó½øÈë
+4
+eClient_OnlyTwoPlayerTeam¸ÃµØÍ¼Ö»Ö§³Ö2ÈË×é¶Ó½øÈë
+6
+eClient_MaxSupportGroupEnter%s×î¶àÖ§³Ö%dÈË×é¶Ó½øÈë
+1
+eClient_WhetherAcceptDieTaskÊÇ·ñ½ÓÊÜËÀÍöÈÎÎñ?
+Y
+$eClient_EquipInlayGemTogetherDestroy1×°±¸ÏâÇ¶ÓĞ±¦Ê¯,±¦Ê¯Ò²»áÒ»ÆğÏú»Ù\nÄÜ»ñµÃ%d½ğ±Ò\n%s
+(
+eClient_CanGainMoneyÄÜ»ñµÃ%d½ğ±Ò\n%s
+S
+)eClient_TimeItemAndTryOutEquipNoGainMoney&Ê±Ğ§µÀ¾ßºÍÊÔÓÃ×°±¸Ïú»Ù²»ÄÜ»ñµÃ½ğ±Ò\n%s
+Z
+(eClient_EquipOtherHeroEquipNotHaveEffect.×°±¸ÆäËûÓ¢ĞÛµÄ×¨Êô×°±¸½«»ñµÃ²»ÁËÈÎºÎÊôĞÔºÍĞ§¹û
+Q
+"eClient_EquipWearZeroNotHaveEffect+×°±¸ÄÍ¾Ã¶ÈÎª0µÄ×°±¸½«»ñµÃ²»ÁËÈÎºÎÊôĞÔºÍĞ§¹û
+>
+"eClient_PleaseImportTenGoToIntegerÇëÊäÈë10-10000Ö®¼äµÄÕûÊı
+
+eClient_HeroSkinÆ¤·ô
+=
+#eClient_NoIsCurHeroSpecialAttrEquip²»ÊÇµ±Ç°Ó¢ĞÛµÄ×¨Êô×°±¸
+-
+eClient_PerfectEternalTrumpÍêÃÀµÄÓÀºãÉñÆ÷
+ 
+eClient_EternalTrumpÓÀºãÉñÆ÷
+F
+&eClient_EquipFullSetAcquireExtraEccect×°±¸È«Ì×½«»ñµÃ¶îÍâµÄ %s Ğ§¹û
+6
+eClient_EquipSetSkillOnlyOne×¨Êô×°±¸¼¼ÄÜĞ§¹ûÎ¨Ò»¡£
+.
+eClient_TryOutEquipNoUse[ÊÔÓÃ×°±¸²»ÄÜÊ¹ÓÃ]
+(
+eClient_PropertyYetAddLock
+²Æ²úÒÑ¼ÓËø
+(
+eClient_PropertyNotAddLock
+²Æ²úÎ´¼ÓËø
+@
+(eClient_PointActivateNewGeniusPageByGold½ğ±ÒÀ´¼¤»îĞÂµÄÌì¸³Ò³
+F
+eClient_LockPasswordCancelTimeH#»¹ÓĞ %dÌì %dĞ¡Ê± ²Æ²úËøµÄÃÜÂë½«È¡Ïû
+C
+eClient_LockPasswordCancelTimeL »¹ÓĞĞ¡ÓÚ1Ğ¡Ê± ²Æ²úËøµÄÃÜÂë½«È¡Ïû
+;
+eClient_LockPasswordCancelOK²Æ²úËøÃÜÂëÒÑÈ¡Ïû,ÇëÖØĞÂµÇÂ½
+M
+eClient_ErrorPasswordNum1µÚ%d´ÎÃÜÂëÊäÈë´íÎó£¬Á¬Ğø3´Î´íÎó½«±»ÏµÍ³Ëø¶¨15·ÖÖÓ
+F
+eClient_ErrorPasswordLock)Á¬ĞøÊäÈë´íÎó3´Î£¬ĞèÒªµÈ´ı%d·ÖÖÓ%dÃëºóÖØÊÔ
+4
+eClient_TransformCheckÏÂ´ÎÁé»êÆõÔ¼½«²»µ¯³öÈ·ÈÏ¿ò
+,
+eClient_TransformCostÁé»êÆõÔ¼ĞèÒª»¨·Ñ1×ê
+;
+eClient_TransformErrorForDeadËÀÍö×´Ì¬ÏÂ²»ÄÜ½øĞĞÁé»êÆõÔ¼
+
+eClient_Eye_ComeFromÀ´×ÔÓÚ
+
+eClient_MagicArts·¨Êõ
+
+eClient_TeamDifficultyÍÅ¶Ó
+
+eClient_Operate²Ù×÷
+
+eClient_Passivity(±»¶¯)
+5
+eClient_ItemNotInShopCenter¸Ã×°±¸ÔİÎ´ÔÚÉÌ³ÇÖĞ³öÊÛ
+5
+eClient_HeroNotInShopCenter¸ÃÓ¢ĞÛÔİÎ´ÔÚÉÌ³ÇÖĞ³öÊÛ
+Ñ
+!eClient_Error_UserNamePassWordZQB«ÄúÊäÈëµÄÕÊºÅ»òÃÜÂëÓĞÎó£¬ÈçÄúµÄÕÊºÅÊÇ9ÔÂ25ÈÕÇ°×¢²á£¬ÇëÔÚÕÊºÅidºóÌí¼Ó¡°h300¡±ºó×ºÖØĞÂÊäÈë£¨ËùÓĞ9ÔÂ25ÈÕÇ°×¢²áµÄÕÊºÅ£¬¶¼ÒÑ×Ô¶¯Éı¼¶²¢Ìí¼ÓÁË¡°h300¡±ºó×º£©¡£\nAccount or password error. Player whose Accounts were registered before September 25th, please add "h300" after your account characters for normal login. (Accounts registered before September 25th have been auto-upgrade to new spelling format: Account+ h300 )¡£\n(×´Ì¬£º%d)¡£
+%
+eClient_ReduceMyFriends
+©ÎÒµÄºÃÓÑ
+"
+eClient_AddMyFriends
+©€ÎÒµÄºÃÓÑ
+2
+eClient_DoubleClickAddNewGroupË«»÷Ìí¼ÓĞÂµÄ·Ö×é
+/
+eClient_ConfirmNeedUpgradeWhatÈ·¶¨ÒªÉı¼¶Âğ?
+1
+eClient_YouAlreadyUpHighestLVÄúÒÑ¾­Éıµ½×î¸ß¼¶
+F
+'eClient_ConfirmNeedUpWhatNeedContributeÈ·¶¨ÒªÉı¼¶Âğ(ĞèÒª¹±Ï×¶È%d)?
+3
+eClient_OpenBagChangeEquipÇë´ò¿ª±³°üÔÙ¸ü»»×°±¸!
+!
+eClient_LevelReward
+[%d¼¶½±Àø]
++
+eClient_MakeSureApplyAddÈ·¶¨ÒªÉêÇë¼ÓÈë[
+
+eClient_TradeUnion]¹«»áÂğ?
+
+eClient_AddTradeUnionÉêÇë
+0
+eClient_esidualPointNotShare»¹Ê£ÓàµãÊıÎ´·ÖÅä
+/
+eClient_ThisAwakenNeedSpend±¾´Î¾õĞÑĞèÒªÏûºÄ
+$
+eClient_Time%dÄê%dÔÂ%dÈÕ%dµã%d·Ö
+>
+ eClient_IfNotChoseHeroRandomHeroÏµÍ³½«Ëæ»úÎªÄúÑ¡ÔñÒ»Î»Ó¢ĞÛ
+$
+eClient_thisWeekFreeHero±¾ÖÜÃâ·Ñ
+?
+!eClient_recommendEquipIsHaveChoseÍÆ¼ö×°±¸ÖĞÒÑÓĞËùÑ¡ÔñµÄ×°±¸
+=
+eClient_setuprecommendEquipÉèÖÃÍÆ¼ö×°±¸ÎªÏµÍ³Ä¬ÈÏÍÆ¼ö×°±¸
+)
+eClient_SureQuitObModeÈ·¶¨ÍË³ö¹ÛÕ½Âğ?
+
+eClient_neutralCampÖĞÁ¢ÕóÓª
+
+eClient_BlueCampÀ¶É«ÕóÓª
+
+eClient_RedCampºìÉ«ÕóÓª
+
+
+eClient_Or»òÕß
+7
+eClient_SpendGoldActivategenius×êÊ¯À´¼¤»îÕâÒ³Ìì¸³Ò³
+;
+!eClient_NotHaveEnoughMoneyAndGoldÄãÃ»ÓĞ×ã¹»µÄ½ğ±ÒºÍ×êÊ¯
+H
+(eClient_PassWordIsNullCanCloseSafetyLockÃÜÂëÉèÖÃÎª¿Õ»á¹Ø±Õ°²È«Ëø¹¦ÄÜ
+9
+eClient_NotSelfEquipDontUse²»ÊÇ×ÔÉíµÄ×¨Êô×°±¸²»ÄÜÊ¹ÓÃ
+2
+eClient_EquipDamageNotUse×°±¸ÄÍ¾ÃÎª0£¬²»ÄÜÊ¹ÓÃ
+(
+eClient_swimStatNotUseÑ£ÔÎÖĞ²»ÄÜÊ©·Å
+,
+eClient_GemLevelpassEight8¼¶±¦Ê¯²»ÄÜºÏ³É
+-
+eClient_GemLevelpassTooLow1¼¶±¦Ê¯²»ÄÜ·Ö½â
+
+eClient_leave1Àë¿ª %s
+
+eClient_leave2µã»÷Àë¿ª
+*
+eClient_NotEnoughPointÄãÃ»ÓĞ×ã¹»µÄ»ı·Ö
+
+eClient_second1%dÃë
+'
+eClient_OnlySencondµÚ%d²¨ %d»¹Ê£ÏÂ:
+-
+eClient_YouNotChoseHeroÄúµ±Ç°Ã»ÓĞÑ¡ÖĞÓ¢ĞÛ
+2
+eClient_QuickOperator_Danger´ËµØÎ£ÏÕ£¬´ó¼ÒĞ¡ĞÄ
+.
+eClient_QuickOperator_OnLoadÕıÔÚ¸ÏÀ´µÄÂ·ÉÏ
+.
+eClient_QuickOperator_AssistMeĞèÒªÄãµÄĞ­Öú
+7
+eClient_QuickOperator_EnemyLostµĞÈË²»¼ûÁË£¬´ó¼ÒĞ¡ĞÄ
+@
+ eClient_QuickOperator_Long10wordÉè¶¨µÄ»°ÓïÌ«³¤£¬ÇëËõ¶ÌºóÖØÊÔ
+&
+eClient_BattleSignalSaveOK±£´æ³É¹¦
+$
+eClient_HeroTryOutÓ¢ĞÛ %s µÄÊÔÓÃ
+*
+eClient_HeroTryOutTimeÊÔÓÃÊ±¼ä %d Ğ¡Ê±
+3
+eClient_HeroTryOutDayTimeÊÔÓÃÊ±¼ä»¹ÓĞ%dÌì%dĞ¡Ê±
+5
+eClient_HeroTryOutLastMin¾àÀëÊÔÓÃÊ±¼ä½áÊø»¹ÓĞ%d·Ö
+2
+eClient_HeroTryOutEnd¾àÀëÊÔÓÃÊ±¼ä½áÊø²»µ½1·ÖÖÓ
+;
+eClient_HeroReliveDayTime»Ö¸´½¡¿µ×´Ì¬Ê±¼ä»¹ÓĞ%dÌì%dĞ¡Ê±
+=
+eClient_HeroReliveLastMin ¾àÀë»Ö¸´½¡¿µ×´Ì¬Ê±¼ä½áÊø»¹ÓĞ%d·Ö
+:
+eClient_HeroReliveEnd!¾àÀë»Ö¸´½¡¿µ×´Ì¬Ê±¼ä½áÊø²»µ½1·ÖÖÓ
+
+eClient_HeroDefineÍÆ¼ö¶¨Î»
+*
+eClient_ForgeNotFullºÏ³ÉËùĞèµÄËéÆ¬²»¹»
+
+eClient_TaskAward½±Àø£º
+
+eClient_TaskFinsh[ÒÑÍê³É]
+ 
+eClient_TaskNormal
+ÈÕ³£ÈÎÎñ£º
+!
+eClient_TaskNextÏÂÒ»¸öÈÎÎñÊÇ:
+"
+eClient_TaskACTIVITY
+»î¶¯ÈÎÎñ£º
+ 
+eClient_TaskFinshNot[Î´Íê³É]
+
+eClient_SignIn[ÒÑÇ©µ½]
+6
+eClient_DropItemTimeµôÂäÎïÆ·Ö»±£Áô1·ÖÖÓ,Çë¾¡¿ìÊ°È¡
+
+eClient_HighHandÌø¹ıÑµÁ·
+T
+eClient_SkipNewAÊÇ·ñ¼ÌĞøĞÂÊÖÑµÁ·?\nÈç¹ûÄúÊÇ×ÊÉîÍæ¼Ò¿ÉÒÔÑ¡ÔñÌø¹ıÑµÁ·Ö±½Ó½øÈëÓÎÏ·¡£
+@
+eClient_MoneyNotEnoughRandom ×êÊ¯²»×ãÒÔ¼ÌĞø½øĞĞËæ»ú£¬Çë³äÖµ£¡
+#
+eClient_Gamble_Random
+Ëæ»ú£¨%d£©
+ 
+eClient_Gamble_Get
+ÁìÈ¡£¨%d£©
+
+eClient_Gamble_Get1ÁìÈ¡
+-
+eClient_PleaseGamble_RandomÇëËæ»ú³éÈ¡½±Æ·
+>
+eClient_NextGamble_Random!ÔÙ´ÎËæ»ú³éÈ¡½±Æ·ĞèÒªÏûºÄ:%.1f×êÊ¯
+%
+eClient_MailNoTimesÓÊ¼ş¼´½«±»É¾³ı
+,
+eClient_MailSaveTimesÓÊ¼ş±£´æÆÚ»¹ÓĞ:%dÌì
+=
+eClient_Random_SpendAllGold±¾´ÎËæ»ú%d´Î£¬Ò»¹²»¨·Ñ%d×êÊ¯£¡
+S
+eClient_Random_SpendGold7ÊÇ·ñÏûºÄ×êÊ¯Ëæ»ú£¬Ö±µ½Ëæ»úµ½,±¾´ÎËæ»ú×î¶à½«»¨·Ñ%.1f×êÊ¯
+
+eClient_lotSelÖÇÄÜ³öÊÛ
+)
+eClient_eErrorEquipType×°±¸ÀàĞÍ´íÎó£¡
+)
+eClient_eErrorEquipSoul×°±¸²»ÄÜÖı»ê£¡
+3
+eClient_EquipSoulNeedSpendGold±¾´ÎÖıÔì»ê½«»¨·Ñ:
+@
+'eClient_EquipSoulNeedSpendGoldNotEnough£¬ÄãµÄ×êÊ¯²»¹»,Çë³äÖµ
+0
+eClient_NotEquipSoul²»ÊÇÖı»ê×°±¸£¬²»ÄÜÖı»ê£¡
+/
+eClient_eErrorEquipUpCardÎ´ÕÒµ½×°±¸Éı¼¶¿¨£¡
+ 
+eClient_Small1¸öĞ¡ĞÍÁé»ê¾§Ê¯
+ 
+eClient_Small2ÖĞĞ¡ĞÍÁé»ê¾§Ê¯
+ 
+eClient_Small3´óĞ¡ĞÍÁé»ê¾§Ê¯
+/
+eClient_choseOneCardÄãÒÑÑ¡ÔñÏûºÄÒ»ÕÅÉı¼¶¿¨!
+3
+eClient_NotEnoughCardÄã±³°üÀïÃ»ÓĞ×ã¹»µÄÉı¼¶¿¨£¡
+*
+eClient_BonusTypeBase»ù´¡[°üº¬VIP½±Àø]
+%
+eClient_BonusTypeFirstWinÊ×Ê¤½±Àø
+(
+eClient_BonusTypeDoubleCË«±¶´ÎÊı½±Àø
+(
+eClient_BonusTypeDoubleTË«±¶Ê±¼ä½±Àø
+#
+eClient_BonusTypeNewbieĞÂÊÖ½±Àø
+!
+eClient_BonusTypeTask»î¶¯½±Àø
+
+eClient_BonusTotal×ÜºÍ
+:
+eClient_EquipSoulIsZheMaxÒÑ¾­´ïµ½×î´óÖµ,²»ÄÜÔÚÌí¼ÓÀ²£¡
+2
+eClient_WaitFriendTeamBanHeroµÈ´ıÎÒ·½BanÓ¢ĞÛ¡­
+5
+eClient_WaitFriendTeamChoseHeroµÈ´ıÎÒ·½Ñ¡ÔñÓ¢ĞÛ¡­
+0
+eClient_WaitEnmyTeamBanHeroµÈ´ı¶ÔÊÖBanÓ¢ĞÛ¡­
+3
+eClient_WaitEnmyTeamChoseHeroµÈ´ı¶ÔÊÖÑ¡ÔñÓ¢ĞÛ¡­
+
+eClient_BanHeroÆÁ±ÎÓ¢ĞÛ
+
+eClient_BeginGame¿ªÊ¼ÓÎÏ·
+9
+eClient_giveupthisTimechanceÊÇ·ñ·ÅÆú±¾´ÎBanÓ¢ĞÛ»ú»á£¡
+$
+eClient_RankWaitInµÈ´ı½øÈë±ÈÈü¡­
+P
+eClient_HaveHeroCard8ÄúµÄ±³°ü»òÕß²Ö¿âÖĞÓĞ¸ÃÓ¢ĞÛµÄ¿¨Æ¬»òÕßÀñ°ü£¬ÊÇ·ñ¼ÌĞø¹ºÂò£¿
+
+eClient_BonusAttr[¶îÍâ]
+
+eClient_FullAttr[È«]
+
+eClient_NewYearDay[Ôªµ©½Ú]
+*
+eClient_InternationalLabourDay[ÀÍ¶¯½Ú]
+#
+eClient_TombsweepingDay[ÇåÃ÷½Ú]
+&
+eClient_dragonboatfestival[¶ËÎç½Ú]
+!
+eClient_Mid-autumnDay[ÖĞÇï½Ú]
+
+eClient_NationaDay[¹úÇì½Ú]
+"
+eClient_ChinaNewYear
+[´óÄê³õÒ»]
+
+
+eClient_OkÈ·¶¨
+
+eClient_UseyuanbaoÊ¹ÓÃ×êÊ¯
+"
+eClient_ReNameÊäÈë½ÇÉ«µÄĞÂÃû×Ö
+A
+eClient_NameTooLong*Ãû×ÖÌ«³¤,ÇëÈ·±£³¤¶ÈÊÇ7¸öºº×Ö»ò14¸ö×Ö·ûÒÔÄÚ
++
+eClient_NameExistËùÑ¡ÔñµÄÃû×ÖÒÑ¾­±»ÓÃÁË
+%
+eClient_NameInvalidName
+ÎŞĞ§µÄÃû×Ö
+!
+eClient_NameSystemErrÏµÍ³´íÎó
+'
+eClient_NameTimeOut³¬Ê±£¬ÇëÉÔºóÖØÊÔ
+ 
+eClient_NameTooShortÃû×ÖÌ«¶Ì
+%
+eClient_ReNameSucceedĞŞ¸ÄÃû×Ö³É¹¦
+ˆ
+eClient_VIPInfo0ó\nµ±Ç°²»ÊÇVIPÓÃ»§,²»ÏíÊÜVIPÌØÈ¨¡£\n \nÏÂÒ»¼¶(1¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï30×êÊ¯¿ÉÌáÉıÖÁVIP1¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.1±¶£¬Ê×Ê¤½±ÀøÌá¸ß100½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½25³¡£¬µ¥ÏîVIP¹¦ÄÜ9.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½30¡£#}
+‘
+eClient_VIPInfo1ü\nµ±Ç°(1¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.1±¶£¬Ê×Ê¤½±ÀøÌá¸ß100½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½25³¡£¬µ¥ÏîVIP¹¦ÄÜ9.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½30¡£#}\n \nÏÂÒ»¼¶(2¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï100×êÊ¯¿ÉÌáÉıÖÁVIP2¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.2±¶£¬Ê×Ê¤½±ÀøÌá¸ß150½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½30³¡£¬µ¥ÏîVIP¹¦ÄÜ9ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½40¡£#}
+
+eClient_VIPInfo2ø\nµ±Ç°(2¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.2±¶£¬Ê×Ê¤½±ÀøÌá¸ß150½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÔö¼Óµ½30³¡£¬µ¥ÏîVIP¹¦ÄÜ9ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½40¡£#}\n \nÏÂÒ»¼¶(3¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï500×êÊ¯¿ÉÌáÉıÖÁVIP3¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.3±¶£¬Ê×Ê¤½±ÀøÌá¸ß200½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½50¡£#}
+Š
+eClient_VIPInfo3õ\nµ±Ç°(3¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.3±¶£¬Ê×Ê¤½±ÀøÌá¸ß200½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8.5ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½50¡£#}\n \nÏÂÒ»¼¶(4¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï1000×êÊ¯¿ÉÌáÉıÖÁVIP4¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½60¡£#}
+ˆ
+eClient_VIPInfo4ó\nµ±Ç°(4¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½60¡£#}\n \nÏÂÒ»¼¶(5¼¶)VIPÌØÈ¨£º\n{#FFbebebe=      ÀÛ¼Æ³äÖµµ½´ï5000×êÊ¯¿ÉÌáÉıÖÁVIP5¼¶£¬¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½70¡£#}
+ë
+eClient_VIPInfo5Ö\nµ±Ç°(5¼¶)VIPÌØÈ¨£º\n{#FF0cc208=      ¾º¼¼³¡ÓëÕ½³¡µÄ»ù´¡½ğ±ÒÓë¾­Ñé½±ÀøÌá¸ßÎª1.5±¶£¬Ê×Ê¤½±ÀøÌá¸ß250½ğ±Ò£¬Ã¿ÈÕÕ½³¡ÓĞĞ§³¡´ÎÎŞÉÏÏŞ£¬µ¥ÏîVIP¹¦ÄÜ8ÕÛ¡£²Ö¿âÉÏÏŞÌáÉıµ½70¡£ºÃÓÑÉÏÏŞÔö¼Óµ½130ÈË¡£#}\n \nµ±Ç°ÒÑ¾­ÊÇ×î¸ßVIPµÈ¼¶¡£
+&
+eClient_VIPInfo6\n6¼¶VIPÌØÈ¨£ºÄã²Â
+$
+eClient_VIPFunction1ÊÔÓÃ10¼¶×°±¸
+$
+eClient_VIPFunction2ÊÔÓÃÒ»¸öÓ¢ĞÛ
+
+eClient_Invalidµ±Ç°ÎŞĞ§
+
+eClient_EquipSet0Ä¬ÈÏÌ××°
+
+eClient_EquipSet1	À©Õ¹Ì××°1
+
+eClient_EquipSet2	À©Õ¹Ì××°2
+1
+eClient_EquipSetInvalidÄ¿±ê×°±¸À¸ÎŞĞ§£¬Çë¼¤»î
+E
+eClient_TryHero2¸ÃÓ¢ĞÛÊÇÊÔÓÃ£¬²»ÄÜ¹ºÂò¸ÃÓ¢ĞÛµÄÆ¤·ô£¬ÇëÏÈ¹ºÂò¸ÃÓ¢ĞÛ
+n
+eClient_NotHaveHeroContinueBuyLÉĞÎ´ÓµÓĞ¸ÃÓ¢ĞÛ£¬²»ÄÜ¹ºÂò¸ÃÓ¢ĞÛµÄÆ¤·ô£¬ÇëÏÈ¹ºÂò¸ÃÓ¢ĞÛ¡£µã»÷¼ÌĞøÖ±½Ó¹ºÂòÓ¢ĞÛ¡£
+'
+eUI_UniqueAttrSameEquip[Í¬×°±¸Î¨Ò»]
+!
+eClient_hideTitle¡¾Òş²Ø³ÆºÅ¡¿
+†
+eClient_ReqDuelsÊäÈëÌôÕ½µÄ¶ÔÊÖÃû×Ö£¬Ã¿´ÎÌôÕ½ĞèÒª1¸öSoloĞí¿ÉÖ¤ºÍ2000½ğ±ÒµÄÊÖĞø·Ñ£¬Èç¹ûÈ¡ÏûÌôÕ½»òÕß¶Ô·½¾Ü¾øSoloĞí¿ÉÖ¤½«Í¨¹ıÓÊ¼ş·µ»¹¡£
+,
+eClient_RequestDuelItemĞèÒª1¸öSoloĞí¿ÉÖ¤
+"
+eClient_ServerName1002·çÁÖ»ğÉ½
+"
+eClient_ServerName1003ÁÙ±ø¶·Õß
+#
+eClient_ServerName10611µ¶½£ÉñÓò
+#
+eClient_ServerName11111Ê¥±­Õ½Õù
+#
+eClient_ServerName12291¾ø¶ÔÁìÓò
+#
+eClient_ServerName12292Íş·çÌÃÌÃ
+#
+eClient_ServerName12293Ñ§Ô°¶¼ÊĞ
+#
+eClient_ServerName12294¿ÕÖ®¾³½ç
+#
+eClient_ServerName12431Ğ°ÍõÕæÑÛ
+#
+eClient_ServerName12394Ìì½µÖ®Îï
+#
+eClient_ServerName12432ÃÎÏë·âÓ¡
+#
+eClient_ServerName12591½ø»÷¾ŞÈË
+#
+eClient_ServerName20000ÎŞÏŞ½£ÖÆ
+#
+eClient_ServerName20001¿ÕÖ®¾³½ç
+#
+eClient_ServerName20002Ä§Å®Ö®Ò¹
+#
+eClient_ServerName20003ÃÎÏë·âÓ¡
+#
+eClient_ServerName20004ÌìÈÀ½Ù»ğ
+#
+eClient_ServerName20005Ê§ÂäÊ¥µ®
+#
+eClient_ServerName20006Ô²»·Ö®Àí
+
+eClient_ServerName20007XXXX
+#
+eClient_ServerName20008Áµ¼§ÎŞË«
+#
+eClient_ServerName20009¼ÓËÙÊÀ½ç
+#
+eClient_ServerName20010»úÇÉÉÙÅ®
+#
+eClient_ServerName20011×ï¶ñÍõ¹Ú
+#
+eClient_ServerName20012ĞñÈÕÖ®ĞÄ
+#
+eClient_ServerName20013¾øÃğÌìÊ¹
+#
+eClient_ServerName20014ÆÆ¾ü¸è¼§
+#
+eClient_ServerName20015»Æ½ğ¾ç³¡
+#
+eClient_ServerName20016¾³½ç±Ë·½
+ 
+eClient_ServerName5000ÌåÑé·ş
+¸
+eClient_FirstOper41 ÊÇ·ñ´ò¿ª×Ô¶¯¹ºÂòÍÆ¼ö×°±¸?\n\n´ò¿ª×Ô¶¯¹ºÂòÍÆ¼ö×°±¸,ÏµÍ³½«×Ô¶¯°ïÄãÍê³ÉÍÆ¼ö×°±¸µÄ¹ºÂò,ÔÚÕâÆÚ¼äÊÇ²»ÄÜÊÖ¶¯¹ºÂòºÍ³öÊÛ,ÏûºÄÆ·²»ÊÜÓ°Ïì¡£\n\n¹Ø±Õ¸Ã¹¦ÄÜÔÚÉÌµê½çÃæ×óÉÏ½Ç¡£
+¹
+eClient_OpenSmartBuy ÊÇ·ñ´ò¿ª×Ô¶¯¹ºÂòÍÆ¼ö×°±¸?\n\n´ò¿ª×Ô¶¯¹ºÂòÍÆ¼ö×°±¸,ÏµÍ³½«×Ô¶¯°ïÄãÍê³ÉÍÆ¼ö×°±¸µÄ¹ºÂò,ÔÚÕâÆÚ¼äÊÇ²»ÄÜÊÖ¶¯¹ºÂòºÍ³öÊÛ,ÏûºÄÆ·²»ÊÜÓ°Ïì¡£\n\n¹Ø±Õ¸Ã¹¦ÄÜÔÚÉÌµê½çÃæ×óÉÏ½Ç¡£
+‡
+eClient_CloseSmartBuynÊÇ·ñ¹Ø±Õ×Ô¶¯¹ºÂòÍÆ¼ö×°±¸?\n\n¹Ø±Õ×Ô¶¯¹ºÂòÍÆ¼ö×°±¸,Ö»ÄÜÊÖ¶¯¹ºÂòºÍ³öÊÛ×°±¸¡£\n\nÔÙ´Î´ò¿ª¸Ã¹¦ÄÜÔÚÉÌµê½çÃæ×óÉÏ½Ç¡£
+#
+eClient_ChatChannelGuild¹«»á /g
+,
+eClient_FirstPay10Ê×´Î³äÖµµ¥±ÊÂú 10 ×êÊ¯
+2
+eClient_FirstPay10_Award346;1000:805;1:25116;2
+,
+eClient_FirstPay50Ê×´Î³äÖµµ¥±ÊÂú 50 ×êÊ¯
+3
+eClient_FirstPay50_Award346;5000:805;4:25116;10
+.
+eClient_FirstPay100Ê×´Î³äÖµµ¥±ÊÂú 100 ×êÊ¯
+>
+eClient_FirstPay100_Award!346;10000:805;8:25116;10:25115;10
+.
+eClient_FirstPay300Ê×´Î³äÖµµ¥±ÊÂú 300 ×êÊ¯
+5
+eClient_FirstPay300_Award346;30000:805;21:27050;1
+.
+eClient_FirstPay500Ê×´Î³äÖµµ¥±ÊÂú 500 ×êÊ¯
+5
+eClient_FirstPay500_Award346;50000:805;30:27051;1
+0
+eClient_FirstPay1000Ê×´Î³äÖµµ¥±ÊÂú 1000 ×êÊ¯
+V
+eClient_FirstPay1000_Award8346;50000:41052;4:41082;4:41002;4@41122;4:805;50:27034;1
+0
+eClient_FirstPay2000Ê×´Î³äÖµµ¥±ÊÂú 2000 ×êÊ¯
+~
+eClient_FirstPay2000_Award`346;50000:41052;6:41082;6:41002;6@41122;6:41054;1:41084;1:41004;1@41124;1:805;80:27050;1:27051;1
+0
+eClient_FirstPay3000Ê×´Î³äÖµµ¥±ÊÂú 3000 ×êÊ¯
+‚
+eClient_FirstPay3000_Awardd346;50000:41052;12:41082;12:41002;12@41122;12:41054;3:41084;3:41004;3@41124;3:805;90:27051;1:27034;1
+0
+eClient_FirstPay5000Ê×´Î³äÖµµ¥±ÊÂú 5000 ×êÊ¯
+‡
+eClient_FirstPay5000_Awardi346;50000:41054;4:41084;4:41004;4@41124;4:41055;1:41085;1:41005;1@41125;1:805;100:27050;1:27051;1@27034;1
+&
+eClient_MemberListColumn_5ËùÊôÕ½¶Ó
+$
+eClient_SkinNoHeroÉĞÎ´ÓµÓĞ¸ÃÓ¢ĞÛ
+&
+eClient_SkinFreeHero¹ºÂòÆ¤·ôËÍÓ¢ĞÛ
+
+eClient_GuildApplyÉêÇëÖĞ
+8
+eClient_GuildCreatTeamNameÇëÊäÈëĞèÒª´´½¨Õ½¶ÓµÄÃû×Ö£¡
+$
+eClient_NotUseWordº¬ÓĞ·Ç·¨×Ö·û£¡
+,
+eClient_ChoseOnePlayerÇëÏÈÑ¡ÔñÒ»ÃûÍæ¼Ò£¡
+%
+eClient_SetTeamLeaderÇëÏÈÉèÖÃ¶Ó³¤
++
+eClient_DonttransferOwn²»ÄÜ×ªÈÃ¸ø×Ô¼º£¡
+0
+eClient_transferIsLeader×ªÈÃ¶ÔÏóÒÑ¾­ÊÇ¶Ó³¤£¡
+1
+eClient_confirmtransferLeaderÈ·¶¨Òª×ªÈÃ¶Ó³¤£¿
+3
+eClient_ChosetransferPlayerÇëÏÈÑ¡ÔñÒª×ªÈÃµÄÈË£¡
+0
+eClient_confirmApplyTeamÈ·¶¨ÉêÇë¼ÓÈë¸ÃÕ½¶Ó£¿
+&
+eClient_YouCreatTeamÄãÒª´´½¨Õ½¶Ó£¿
+:
+eClient_SureInVitePlayerAddTeamÊÇ·ñÑûÇë¸Ã»áÔ±¼ÓÈëÕ½¶Ó?
+)
+eClient_SuredismissTeamÈ·¶¨½âÉ¢Õ½¶Ó£¿
+8
+eClient_GuildApplyInViteAddTeamÊÇ·ñ½ÓÊÜÑûÇë¼ÓÈëÕ½¶Ó?
+5
+eClient_GuildBeforequitÇëÏÈ×ªÈÃ¶Ó³¤£¬ÔÙÍË³ö¹«»á£¡
+9
+eClient_GuildHaveTeam ¹«»áÖĞÓĞÕ½¶Ó´æÔÚ£¬ÇëÏÈ½âÉ¢Õ½¶Ó£¡
+P
+"eClient_GuildDontdismissTeamLeader*²»ÄÜÖ±½Ó°ÑÕ½¶Ó¶Ó³¤Ìß³ö¹«»á£¡ÇëÏÈÉèÖÃ¶Ó³¤£¡
+)
+eClinet_notenoughguildmoney
+¹«»á±Ò²»×ã
+
+eClinet_guildmoney%d¹«»á±Ò
+4
+eClinet_nottAlchemyequipÇëÏÈ·ÅÈëĞèÒªÁ¶½ğµÄ×°±¸£¡
+=
+eClinet_notAttrAlchemyequip×°±¸»ù´¡ÊôĞÔÃ»ÓĞ¶ÔÓ¦µÄÁ¶½ğÊôĞÔ
+
+eClient_AlchemyGet	Á¶½ğ»ñµÃ:
+!
+eClient_AlchemyLost
+(Á¶½ğÊ§È¥)
+0
+eClient_AlchemySoulEQuipNotÖı»ê×°±¸²»ÄÜÁ¶½ğ!
+!
+eClient_AlchemySucc
+Á¶½ğ³É¹¦£¡
+,
+eClient_AlchemynotFindEquip×°±¸²»ÄÜÕÒµ½!
+0
+eClient_AlchemyequipNotAlchemy×°±¸²»ÄÜÁ¶½ğ£¡
+8
+"eClient_AlchemyeTestquipNotAlchemyÊÔÓÃ×°±¸²»ÄÜÁ¶½ğ£¡
+3
+eClient_AlchemyeDontFindStoneÃ»ÓĞÕÒµ½Á¶½ğÊ¯Í·£¡
+E
+#eClient_AlchemyeLowerAttrThanBefore¼´½«Á¶½ğµÄÊôĞÔ±ÈÔ­Á¶½ğµÈ¼¶µÍ£¡
+7
+eClient_AlchemyeMaxAttrÁ¶½ğÊôĞÔ¸öÊıÒÑ¾­´ïµ½×î´óÖµ£¡
+1
+eClient_AlchemyerestoreAttrSucc»¹Ô­ÊôĞÔ³É¹¦£¡
+8
+eClient_AlchemyeIsCoverAttrÊÇ·ñ¸²¸ÇµôÒÑ¾­Á¶½ğµÄÊôĞÔ?
+Y
+,eClient_AlchemyeLowerAttrThanBeforeIsAlchemy)Á¶½ğºóÊôĞÔ±ÈÔ­ÓĞÊôĞÔµÍ,ÊÇ·ñ¸²¸ÇµôÔ­ÊôĞÔ£¿
+'
+eClient_UI_CrossServerMatch×é¶Ó¿ç·ş
+
+eClient_UI_Matchµ¥ ÈË
+
+eClient_UI_Enter½ø Èë
+
+eClient_GetMoney
+»ñµÃ%d½ğ±Ò
+
+eClient_UseMoney
+Ïû·Ñ%d½ğ±Ò
+"
+eClinet_battleevaluateitemÈÙÓş
+
+eClient_exploititem¹¦Ñ«
+ 
+eClinet_battleevaluate%dÈÙÓş
+
+eClient_UI_Singleµ¥ÈË
+
+eClient_UI_DeadMode¿ç·ş
+4
+"eClient_CharAttr_BattleEvaluateSubÄúÏûºÄ %d ÈÙÓş
+4
+"eClient_CharAttr_BattleEvaluateAddÄú»ñµÃ %d ÈÙÓş
+/
+eClient_CombineGem_Level0¡¾ÆÕÍ¨µÄË«É«±¦Ê¯¡¿
+/
+eClient_CombineGem_Level1¡¾¾«Á¼µÄË«É«±¦Ê¯¡¿
+/
+eClient_CombineGem_Level2¡¾ÓÅÖÊµÄË«É«±¦Ê¯¡¿
+/
+eClient_CombineGem_Level3¡¾ÍêÃÀµÄË«É«±¦Ê¯¡¿
+R
+eClient_CombineGem_Tip8ÈÚºÏË«É«±¦Ê¯µÄÆ·ÖÊ:75%ÆÕÍ¨,20%¾«Á¼,5%ÓÅÖÊ,¼«ÆäÏ¡ÉÙµÄÍêÃÀ
