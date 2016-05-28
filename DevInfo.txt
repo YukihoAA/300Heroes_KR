@@ -18,6 +18,8 @@
 
 9. XnView - http://www.xnview.com/en/ (dds파일 뷰어)
 
+10. PNG to 32bit BMP - https://pngtobmp32.codeplex.com/
+
 
 
 # 번역 기준
