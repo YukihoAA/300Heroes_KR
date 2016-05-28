@@ -143,7 +143,7 @@
 交易
 
 25 13 8 10 0 eUI_AddFriend
-模备眠啊
+加为好友
 
 16 8 4 10 0 eUI_Team
 组队
@@ -164,7 +164,7 @@
 价格
 
 24 12 8 10 0 eUI_ExitGame
-霸烙辆丰
+退出游戏
 
 29 13 12 10 0 eUI_InputName
 请输入姓名！
@@ -236,58 +236,58 @@
 职业需求
 
 25 15 6 10 0 eUI_AttStrength
-傍拜仿
+攻击力
 
 29 17 8 10 0 eUI_MagicStrength
-林巩碍档
+法术强度
 
 13 7 2 10 0 eUI_Yes
-匙
+是
 
 12 6 2 10 0 eUI_NO
-NO
+否
 
 21 9 8 10 0 eUI_AddHP
-眉仿雀汗
+恢复HP值
 
 21 9 8 10 0 eUI_AddMP
-付唱雀汗
+恢复MP值
 
 22 10 8 10 0 eUI_AddExp
 增加经验
 
 32 15 13 10 0 eUI_Add_Unknown
-眠啊瓤苞:阂疙
+附加作用:未知
 
 24 12 8 10 0 eUI_AttSpeed
-傍拜加档
+攻击速度
 
 27 15 8 10 0 eUI_AttackSpeed
-傍拜加档
+攻击速度
 
 33 19 10 10 0 eUI_stPlayAtt_Blaze
-阂加己傍拜
+火元素攻击
 
 33 19 10 10 0 eUI_stPlayAtt_Frost
-葫加己傍拜
+冰元素攻击
 
 35 21 10 10 0 eUI_stPlayAtt_Thunder
-堡加己傍拜
+光元素攻击
 
 34 20 10 10 0 eUI_stPlayAtt_Poison
-刀加己傍拜
+暗元素攻击
 
 30 20 6 10 0 eUI_ePlayAtt_Physics
-傍拜仿
+攻击力
 
 30 18 8 10 0 eUI_ePlayAtt_Magic
-林巩碍档
+法术强度
 
 28 16 8 10 0 eUI_Hurt_Physics
 额外伤害
 
 26 14 8 10 0 eUI_Hurt_Magic
-林巩碍档
+法术强度
 
 26 12 10 10 0 eUI_Hurt_Ice
 冰元素攻击
@@ -302,112 +302,112 @@ NO
 暗元素攻击
 
 18 10 4 10 0 eUI_sExact
-疙吝
+命中
 
 26 14 8 10 0 eUI_CritialHit
-摹疙犬伏
+暴击几率
 
 30 18 8 10 0 eUI_CriticalDamage
-摹 疙 鸥
+暴击伤害
 
 20 12 4 10 0 eUI_sAddLuck
-青款
+幸运
 
 30 18 8 10 0 eUI_sIntonateSpeed
-康芒加档
+吟唱速度
 
 29 17 8 10 0 eUI_stAtkSpeedAdd
-傍拜加档
+攻击速度
 
 35 21 10 10 0 eUI_stPlayAtt_Blaze_0
-阂加己傍拜
+火元素攻击
 
 35 21 10 10 0 eUI_stPlayAtt_Frost_0
-葫加己傍拜
+冰元素攻击
 
 37 23 10 10 0 eUI_stPlayAtt_Thunder_0
-堡加己傍拜
+光元素攻击
 
 28 16 8 10 0 eUI_ePlayHolyDef
-脚己规绢
+神圣防御
 
 23 15 4 10 0 eUI_sPhysicsDef
-规绢
+护甲
 
 30 16 10 10 0 eUI_ePlayFireDef
-阂加己历亲
+火元素抗性
 
 29 15 10 10 0 eUI_ePlayIceDef
-葫加己历亲
+冰元素抗性
 
 31 17 10 10 0 eUI_ePlayLightDef
-堡加己历亲
+光元素抗性
 
 30 16 10 10 0 eUI_ePlayDarkDef
-鞠加己历亲
+暗元素抗性
 
 20 10 6 10 0 eUI_nHpMax
-积疙仿
+生命值
 
 25 15 6 10 0 eUI_shieldValue
-规绢备
+护甲值
 
 25 13 8 10 0 eUI_sHpMaxPer
 生命上限
 
 20 10 6 10 0 eUI_sMpMax
-付唱樊
+法力值
 
 25 13 8 10 0 eUI_sMpMaxPer
-弥措付唱
+法力上限
 
 25 13 8 10 0 eUI_HpRestore
-眉仿雀汗
+生命回复
 
 25 13 8 10 0 eUI_MpRestore
-付唱雀汗
+法力回复
 
 29 17 8 10 0 eUI_danderRestore
-盒畴雀汗
+怒气回复
 
 29 17 8 10 0 ui_energy_Restore
-扁仿雀汗
+能量回复
 
 30 14 12 10 0 eUI_sHpRestore
-眉仿雀汗/5檬
+生命回复/5秒
 
 30 14 12 10 0 eUI_sMpRestore
-付唱雀汗/5檬
+法力回复/5秒
 
 28 16 8 10 0 eUI_sReboundRate
-拱府雀汗
+物理反弹
 
 18 10 4 10 0 eUI_sDodge
-雀乔
+闪避
 
 22 14 4 10 0 eUI_sAddLuck_0
-青款
+幸运
 
 28 16 8 10 0 eUI_sComposeRate
-钦己犬伏
+合成几率
 
 34 18 12 10 0 eUI_fBaseMoveSpeed
-扁夯捞悼加档
+基础移动速度
 
 26 14 8 10 0 eUI_fMoveSpeed
-捞悼加档
+移动速度
 
 27 15 8 10 0 eUI_ustPrepTime
-康芒矫埃
+吟唱时间
 
 36 20 12 10 0 eUI_ustStatusHitRate
-疙吝犬伏惑怕
+状态命中几率
 
 23 13 6 10 0 eUI_ustCostHP
-家厚HP
+消耗HP
 
 23 13 6 10 0 eUI_ustCostMP
-家厚MP
+消耗MP
 
 42 26 12 10 0 eUI_stDamageEffectDistance
 伤害有效距离
@@ -419,7 +419,7 @@ NO
 是否需要武器
 
 29 17 8 10 0 eUI_CoolDownMinus
-酿沤皑家
+冷却缩减
 
 35 23 8 10 0 eUI_dwSkillColddownTime
 冷却时间
@@ -470,7 +470,7 @@ NO
 攻击改变 百分比
 
 44 21 19 10 0 eUI_ePlayAtt_MagicPer
-林巩碍档改变 百分比
+法术强度改变 百分比
 
 44 19 21 10 0 eUI_ePlayAtt_IcePer
 冰元素攻击改变 百分比
@@ -485,7 +485,7 @@ NO
 暗元素攻击改变 百分比
 
 22 14 4 10 0 eUI_SuperArmor
-碍牢
+韧性
 
 30 18 8 10 0 eUI_DamageIncrease
 伤害加深
@@ -494,22 +494,22 @@ NO
 伤害减免
 
 29 17 8 10 0 eUI_ArmorPuncture
-规绢包烹
+护甲穿透
 
 34 22 8 10 0 eUI_MagicArmorPuncture
-付过包烹
+法术穿透
 
 36 24 8 10 0 eUI_ArmorPuncturePercent
-规绢包烹
+护甲穿透
 
 41 29 8 10 0 eUI_MagicArmorPuncturePercent
-付过包烹
+法术穿透
 
 34 26 4 10 0 eUI_ChangedPlayAtt_Physics
-傍拜
+攻击
 
 36 24 8 10 0 eUI_ChangedPlayAtt_Magic
-林巩碍档
+法术强度
 
 36 22 10 10 0 eUI_ChangedPlayAtt_Ice
 冰元素攻击
@@ -524,13 +524,13 @@ NO
 暗元素攻击
 
 35 27 4 10 0 eUI_stChangedPhysicsDef_Per
-规绢
+防御
 
 31 23 4 10 0 eUI_ChangededPhysicsDef
-规绢
+防御
 
 33 21 8 10 0 eUI_ChangededMagicDef
-付过历亲
+法术抗性
 
 39 25 10 10 0 eUI_ChangedDefElement_Ice
 冰元素抗性
@@ -629,28 +629,28 @@ NO
 无视回避
 
 24 12 8 10 0 eUI_HPAbsorb
-积疙软荐
+生命偷取
 
 32 22 6 10 0 eUI_stAbsorbExtraHPVal
-软趋伏
+吸血值
 
 24 12 8 10 0 eUI_MPAbsorb
-付唱软荐
+法术吸血
 
 32 22 6 10 0 eUI_stAbsorbExtraMPVal
-软荐樊
+吸魔值
 
 33 21 8 10 0 eUI_fMoveSpeedChanged
-捞悼加档
+移动速度
 
 34 21 9 10 0 eUI_stAttSpeedChanged
-%傍拜加档
+%攻击速度
 
 26 14 8 10 0 eUI_bIsMoveAtt
-捞悼傍拜
+移动攻击
 
 34 22 8 10 0 eUI_stPrepSpeedChanged
-康芒加档
+吟唱速度
 
 25 11 10 10 0 eUI_bIsMove
 是否能移动
@@ -737,10 +737,10 @@ NO
 请输入新创建的公会的名字
 
 57 27 26 10 0 eClient_Guild_Create_NoGold
-创建新公会所需要的焊籍不足
+创建新公会所需要的钻石不足
 
 50 25 21 10 0 eClient_Guild_Create_Info
-创建新公会需要100焊籍
+创建新公会需要100钻石
 
 42 20 18 10 0 eClient_Guild_Notice
 请输入新的公会公告
@@ -836,49 +836,49 @@ Boss
 特殊
 
 48 36 8 10 0 eClient_Chat_Prepositive_Text_Normal
-〖老馆〗
+【附近】
 
 48 36 8 10 0 eClient_Chat_Prepositive_Text_Family
-〖啊练〗
+【家族】
 
 47 35 8 10 0 eClient_Chat_Prepositive_Text_Guild
-〖辨靛〗
+【公会】
 
 46 34 8 10 0 eClient_Chat_Prepositive_Text_Team
-〖评盔〗
+【队伍】
 
 49 37 8 10 0 eClient_Chat_Prepositive_Text_Private
-〖庇富〗
+【密语】
 
 47 35 8 10 0 eClient_Chat_Prepositive_Text_World
-〖岿靛〗
+【世界】
 
 48 36 8 10 0 eClient_Chat_Prepositive_Text_Friend
-〖模备〗
+【好友】
 
 51 36 11 10 0 eClient_Chat_Prepositive_Text_Battle
 [image=505]
 
 48 36 8 10 0 eClient_Chat_Prepositive_Text_System
-〖Syst〗
+【系统】
 
 49 34 11 10 0 eClient_Chat_Prepositive_Text_Bull
 [image=507]
 
 47 35 8 10 0 eClient_Chat_Prepositive_Text_Shout
-〖唱迫〗
+【号角】
 
 53 37 12 10 0 eClient_Chat_Prepositive_Text_ShoutEx
-〖康盔唱迫〗
+【永恒号角】
 
 48 36 8 10 0 eClient_Chat_Prepositive_Text_Region
-〖傈眉〗
+【全体】
 
 48 36 8 10 0 eClient_Chat_Prepositive_Text_Nation
 【国家】
 
 47 35 8 10 0 eClient_Chat_Prepositive_Text_Lobby
-〖肺厚〗
+【大厅】
 
 30 21 5 10 0 eClient_Npc_CanAccept
 -可接
@@ -1205,10 +1205,10 @@ MP消耗：
 召唤兽分解
 
 49 20 25 10 0 eGoldSaleData_String
-%8d金/100陛拳 %8d %8d小时
+%8d金/100金币 %8d %8d小时
 
 56 20 32 10 0 eGoldSaleNote_String
-%d %d小时 %d %d金/100陛拳 %d小时
+%d %d小时 %d %d金/100金币 %d小时
 
 33 19 10 10 0 eClient_MailSender1
 发件人：%s
@@ -1232,7 +1232,7 @@ MP消耗：
 是否要记录当前坐标？
 
 34 22 8 10 0 eClient_FunGoldConsign
-陛拳交易
+金币交易
 
 52 38 10 10 0 eClient_InputBox_PrivateShopChangeName
 输入商店名
@@ -1295,229 +1295,229 @@ MP消耗：
 %s的召唤兽
 
 21 9 8 10 0 Name_Soul
-康去惑怕
+灵魂状态
 
 45 25 16 10 0 Name_IlluminatiPrometheus
-橇 肺 皋 抛 快胶
+先觉者普罗米修斯
 
 26 16 6 10 0 Name_MonthRabbit
-伎  巩
+月野免
 
 33 21 8 10 0 Name_AnamnesisCoherer
-屈惑陛加
+记忆金属
 
 28 16 8 10 0 Name_RomeMonarch
-肺付炔力
+罗马大帝
 
 38 24 10 10 0 Name_DestroyDragonTrojan
-戈锋付八荤
+灭龙魔剑士
 
 25 13 8 10 0 Name_Succubae
-皋滴荤  
+娜迦女妖
 
 27 15 8 10 0 Name_CattleKing
-乞玫措己
+平天大圣
 
 24 16 4 10 0 Name_ProtectLing
-寸铰
+唐僧
 
 32 18 10 10 0 Name_ExplorerLaura
-沤氰啊肺扼
+探险家劳拉
 
 29 17 8 10 0 Name_RockColossus
-鞠籍芭牢
+岩石巨像
 
 34 24 6 10 0 Name_DestroyDragonTrojan
 僵尸王
 
 34 24 6 10 0 Name_DestroyDragonTrojan
-家碍矫
+小僵尸
 
 23 11 8 10 0 Name_Monkey
-府撇根虐
+齐天小剩
 
 29 17 8 10 0 Name_PrettyHunter
-具父侩荤
+蛮族猎手
 
 27 15 8 10 0 Name_StyxPunter
 冥河渡者
 
 26 14 8 10 0 Name_StormLady
-皋单捞酒
+雷霆之怒
 
 29 17 8 10 0 Name_AraneidBegum
-锋林傍林
+龙蛛公主
 
 30 18 8 10 0 Name_AnchorCaptain
-芭功急厘
+巨锚船长
 
 27 15 8 10 0 Name_bianyimogu
-函捞付绊
+变异魔菇
 
 31 19 8 10 0 Name_huaxingzhanshi
-拳屈傈荤
+化形战士
 
 29 17 8 10 0 Name_jifengzhiren
-龙浅瘤牢
+疾风之忍
 
 25 15 6 10 0 Name_meihouwang
-固饶空
+美猴王
 
 31 19 8 10 0 Name_manchuiyongshi
-父眠侩荤
+蛮锤勇士
 
 26 18 4 10 0 Name_yingxiongwang
-荤铰
+沙僧
 
 28 16 8 10 0 Name_emuolieshou
-角官唱胶
+亡灵女王
 
 30 16 10 10 0 Name_jixiegongdi
-岿-E      
+垃圾毁灭者
 
 26 18 4 10 0 Name_hanbingnvjisi
-酿扼
+古娜
 
 29 17 8 10 0 Name_leitingzhinu
-皋单捞酒
+雷霆之怒
 
 27 15 8 10 0 Name_kapaidashi
-墨靛崔牢
+卡牌大师
 
 21 13 4 10 0 Name_mangseng
-竿铰
+盲僧
 
 24 10 10 10 0 Name_liluo
-胞厚沥荤捍
+霍比侦查兵
 
 22 12 6 10 0 Name_qiandai
-鸥虐  
+影舞者
 
 23 11 8 10 0 Name_kalasi
-墨扼矫  
+暴风狂斧
 
 21 9 8 10 0 Name_ainu
-超矫崔牢
+捕鱼达人
 
 21 11 6 10 0 Name_bolisi
-历迫拌
+猪八戒
 
 21 9 8 10 0 Name_muli
-蹬瘤囱磊
+食之忍者
 
 24 12 8 10 0 Name_haokaya
-窍坷墨磊
+雾影射手
 
 24 12 8 10 0 Name_duolixi
-付过家赤
+魔导少女
 
 24 12 8 10 0 Name_mingren
-唱 风 配
+青丘国主
 
 22 10 8 10 0 Name_lufei
-秦利风乔
+草帽小子
 
 26 14 8 10 0 Name_haenlaite
-缴楷狼传
+深渊之眼
 
 22 12 6 10 0 Name_aoteman
-匡飘扼
+奥特曼
 
 22 12 6 10 0 Name_wusuopu
-快  假
+匹诺曹
 
 22 12 6 10 0 Name_woailuo
-啊捞扼
+我受罗
 
 19 10 5 10 0 Name_saber
 Saber
 
 23 13 6 10 0 Name_xialuote
-迹吩  
+夏洛特
 
 25 13 8 10 0 Name_shilaike
-八篮荐堪
+巴依老爷
 
 23 13 6 10 0 Name_yadianna
-酒抛唱
+雅典娜
 
 21 11 6 10 0 Name_qiaoba
-幂  颇
+乔帮主
 
 24 12 8 10 0 Name_yingyan
-固龋农  
+神目黑刀
 
 18 10 4 10 0 Name_croki
-目贸
+库奇
 
 17 9 4 10 0 Name_lvbu
-咯器
+吕布
 
 21 13 4 10 0 Name_diaochan
-檬急
+貂蝉
 
 21 13 4 10 0 Name_zhangfei
-厘厚
+张飞
 
 25 15 6 10 0 Name_zhugeliang
-力哎樊
+诸葛亮
 
 19 11 4 10 0 Name_guanyu
-包快
+关羽
 
 21 13 4 10 0 Name_dashewan
-坷肺
+蛇叔
 
 24 12 8 10 0 Name_hamcock
-焊酒勤嫩
+蛇血舞姬
 
 20 9 7 10 0 Name_aisi
-俊捞胶 
+火拳·S
 
 22 12 6 10 0 Name_zilaiye
-瘤扼捞
+自来也
 
 21 11 6 10 0 Name_zuozhu
-谅捞家
+左二少
 
 24 12 8 10 0 Name_mingren
-唱 风 配
+青丘国主
 
 24 12 8 10 0 Name_baihuzi
-闰  荐堪
+胡子船长
 
 21 11 6 10 0 Name_kakaxi
-墨墨矫
+卡殿下
 
 20 12 4 10 0 Name_suolong
-炼肺
+佐罗
 
 19 11 4 10 0 Name_sishen
-荤脚
+死神
 
 25 8 13 10 0 Name_xue
-磊按·L·副府
+幻刺·L·莉莉
 
 23 11 8 10 0 Name_luojie
-窃措急厘
+舰队统帅
 
 26 9 13 10 0 Name_xue2
-磊按·D·风矫
+幻刺·D·露西
 
 19 11 4 10 0 Name_fuwang
-档尝
+斧王
 
 29 17 8 10 0 Name_tongkunvwang
-绊烹咯空
+痛苦女王
 
 22 12 6 10 0 Name_difashi
-亲付荤
+敌法师
 
 33 19 10 10 0 Name_yueliangnvjisi
-固扼唱    
+月之女祭司
 
 28 16 8 10 0 Name_diyulingzhu
-磷澜扁荤
+死亡骑士
 
 20 12 4 10 0 Name_jinzhan
 近战
@@ -1526,232 +1526,232 @@ Saber
 远程
 
 18 8 6 10 0 Name_fda
-过荤  
+法师娃
 
 23 13 6 10 0 Name_shushiwa
-孺过荤
+术士娃
 
 22 12 6 10 0 Name_qishiwa
-迫扼凋
+骑士娃
 
 17 9 4 10 0 Name_nazi
-唱明
+纳兹
 
 24 10 10 10 0 Name_asuna
-酒胶唱    
+结城明日奈
 
 21 11 6 10 0 Name_hunter
-荤成槽
+猎人娃
 
 19 11 4 10 0 Name_zombie
-粱厚
+僵尸
 
 20 10 6 10 0 Name_rogue
-档利  
+盗贼娃
 
 22 12 6 10 0 Name_warrior
-傈荤  
+战士娃
 
 20 12 4 10 0 Name_suolong
-炼肺
+佐罗
 
 21 11 6 10 0 Name_cleric
-努贰腐
+牧师娃
 
 30 18 8 10 0 Name_heiyansheshou
-喉发酱磐
+黑岩射手
 
 20 12 4 10 0 Name_tongren
-虐府
+桐人
 
 28 16 8 10 0 Name_yubanmeiqin
-固内配  
+御坂美琴
 
 25 13 8 10 0 Name_lingmeng
-饭捞公  
+博丽灵梦
 
 18 10 4 10 0 Name_inori
-捞畴
+楪祈
 
 18 10 4 10 0 Name_shana
-箕唱
+夏娜
 
 30 16 10 10 0 Name_jinshanshan
-辨啊皋矫  
+吉尔伽美什
 
 23 11 8 10 0 Name_chuyin
-固捻    
+初音未来
 
 27 15 8 10 0 Name_safeiluosi
-技乔肺胶
+萨菲罗斯
 
 18 10 4 10 0 Name_gelei
-Gray
+格雷
 
-20 10 6 10 0 Name_sanli
-固墨荤
+18 10 4 10 0 Name_sanli
+三笠
 
 14 8 2 10 0 Name_hei
-孺
+黑
 
 21 11 6 10 0 Name_sessho
-悸碱付
+杀生丸
 
 21 9 8 10 0 Name_kami
-窃遏脚  
+桂木桂马
 
 31 19 8 10 0 Name_QueenOfVanpire
-矫畴何  
+姬丝秀忒
 
 25 15 6 10 0 Name_lixiaolang
-箕坷尔
+李小狼
 
 24 12 8 10 0 Name_jianxin
-乃脚    
+绯村剑心
 
 24 14 6 10 0 Name_sunwukong
-颊坷傍
+孙悟空
 
 23 13 6 10 0 Name_lvziqiao
-妨磊背
+吕子乔
 
 24 12 8 10 0 Name_freedom
-橇 府 待
+强袭自由
 
 25 15 6 10 0 Name_chenmeijia
-柳固啊
+陈美嘉
 
 27 15 8 10 0 Name_buzhihuowu
-矫扼穿捞
+不知火舞
 
 25 13 8 10 0 Name_kuangsan
-捻 风 固
+时崎狂三
 
 27 17 6 10 0 Name_zengxiaoxian
-刘家泅
+曾小贤
 
 23 9 10 10 0 Name_16ye
-荤  捻  具
+十六夜咲夜
 
 17 9 4 10 0 Name_yeye
-具具
+夜夜
 
 20 8 8 10 0 Name_gin
-变 配 虐
+坂田银时
 
 27 17 6 10 0 Name_littlewukong
-颊坷馆
+小悟空
 
 23 11 8 10 0 Name_icarus
-捞墨风胶
+伊卡洛斯
 
 24 10 10 10 0 Name_konan
-疙沤沥内抄
+江户川柯南
 
 24 10 10 10 0 Name_rikka
-吝2捍 复墨
+小鸟游六花
 
 24 10 10 10 0 Name_tohka
-配  快  墨
+夜刀神十香
 
 21 9 8 10 0 Name_yami
-具    固
+金色之暗
 
 20 10 6 10 0 Name_ryuko
-幅  内
+纏流子
 
 18 8 6 10 0 Name_nep
-耻  篇
+涅普顿
 
 21 11 6 10 0 Name_homura
-龋公扼
+晓美焰
 
 22 12 6 10 0 Name_oumashu
-坷快付
+樱满集
 
 23 11 8 10 0 Name_madoka
-付档墨炉
+鹿目圆香
 
 22 12 6 10 0 Name_nyaruko
-衬风内
+奈亚子
 
 23 13 6 10 0 Name_lihuazou
-墨唱单
+立华奏
 
 17 9 4 10 0 Name_momo
-葛葛
+梦梦
 
 20 8 8 10 0 Name_wrs
-拳捞飘遏
+白岩射手
 
 29 17 8 10 0 Name_baijingheizi
-矫 扼 捞
+白井黑子
 
 21 11 6 10 0 Name_archer
 Archer
 
 25 13 8 10 0 Name_kuroneko
-捻肺匙内
+五更琉璃
 
 21 11 6 10 0 Name_yukari
-蜡墨府
+八云紫
 
 25 15 6 10 0 Name_liangyishi
-矫  虐
+两仪式
 
-26 14 8 10 0 Name_zekamashi
-矫付墨力
+22 14 4 10 0 Name_zekamashi
+岛风
 
 23 9 10 10 0 Name_jojo
-扁功茄烈烈
+空条承太郎
 
 19 11 4 10 0 Name_killua
 奇犽
 
 22 10 8 10 0 Name_kyoko
-撵    内
+佐仓杏子
 
-26 11 11 10 0 Name_sayaka
-固虐 荤具墨
+25 11 10 10 0 Name_sayaka
+美树沙耶加
 
 23 13 6 10 0 Name_jinmuyan
-墨匙虐
+金木研
 
 29 17 8 10 0 Name_gaotingnaiye
-蜡 眉 府
+高町奈叶
 
-20 10 6 10 0 Name_qinli
-内配府
+22 10 8 10 0 Name_qinli
+五河琴里
 
 23 11 8 10 0 Name_shinai
-矫    稠
+朝田诗乃
 
 18 8 6 10 0 Name_rin
-赴    
+远坂凛
 
 20 10 6 10 0 Name_iriya
-捞府具
+伊莉雅
 
 18 10 4 10 0 Name_feite
 菲特
 
 17 9 4 10 0 Name_nilu
-匙肺
+尼禄
 
 19 11 4 10 0 Name_zhezhi
-坷府
+折纸
 
 22 12 6 10 0 Name_siminai
-夸矫畴
+四糸乃
 
 23 13 6 10 0 Name_heixueji
-孺  汲
+黑雪姬
 
 24 12 8 10 0 Name_yaomeng
-夸 快 公
+魂魄妖梦
 
 22 12 6 10 0 Name_bamamei
-付  固
+巴麻美
 
 17 9 4 10 0 Name_kezi
 克子
@@ -1892,10 +1892,10 @@ Archer
 显示公会列表
 
 47 27 16 10 0 eGoldSale_ConSignbuy_Failed
-委托陛拳交易失败
+委托金币交易失败
 
 48 28 16 10 0 eGoldSale_ConSignSell_Failed
-委托陛拳交易失败
+委托金币交易失败
 
 18 16 0 10 0 eClient_help_new
 
@@ -2009,13 +2009,13 @@ Archer
 两次安全密码输入不一致
 
 46 23 19 10 0 eClient_Text_HourMinSec
-%d 小时 %d 分 %d 檬
+%d 小时 %d 分 %d 秒
 
 34 19 11 10 0 eClient_Text_MinSec
-%d 分 %d 檬
+%d 分 %d 秒
 
 25 16 5 10 0 eClient_Text_Sec
-%d 檬
+%d 秒
 
 59 28 27 10 0 eExchange_RequestBestartDeal
 {#fff7dc7f=%s#}请求与您交易
@@ -2057,10 +2057,10 @@ Archer
 该物品暂时未开放购买，具体开放时间请关注官网公告
 
 18 10 4 10 0 eTaskType0
-皋牢
+主线
 
 18 10 4 10 0 eTaskType1
-劝悼
+活动
 
 18 10 4 10 0 eTaskType2
 支线
@@ -2117,7 +2117,7 @@ Archer
 分
 
 20 14 2 10 0 eClient_Second
-檬
+秒
 
 52 27 21 10 0 eClient_MailDelete_Makesure
 确定要删除这一封信件?
@@ -2147,7 +2147,7 @@ Archer
 收件人名字太长
 
 20 12 4 10 0 eClient_Gold
-陛拳
+金币
 
 21 13 4 10 0 eClient_Money
 金钱
@@ -2174,13 +2174,13 @@ Archer
 可捕捉2
 
 33 21 8 10 0 eGoldSaleUI_BuyButton
-购买陛拳
+购买金币
 
 34 22 8 10 0 eGoldSaleUI_SellButton
-出售陛拳
+出售金币
 
 37 17 16 10 0 TaskAcceptResult0
-接受任务[%s]己傍
+接受任务[%s]成功
 
 55 17 34 10 0 TaskAcceptResult1
 任务数量已达上限，无法再接任务[%s]
@@ -2414,7 +2414,7 @@ PK值不满足[%s]任务要求
 生产数不能为0
 
 49 21 24 10 0 eUI_Relive_ReturnTime
-自动前往墓地，剩余 %d 檬
+自动前往墓地，剩余 %d 秒
 
 32 16 12 10 0 eTaskDoneResult0
 完成任务[%s]
@@ -2660,7 +2660,7 @@ HP满
 私聊输入不正确；正确格式 /p 玩家名字 说话内容
 
 78 35 39 10 0 eError_Chat_Lobby_SummonerLevelNeed
-肺厚盲泼篮 5饭骇 捞惑捞 登具 捞侩 啊瓷!
+在大厅频道发言需要召唤师等级大于等于5级
 
 78 35 39 10 0 eError_Chat_Shout_SummonerLevelNeed
 使用圣号角发言需要召唤师等级大于等于3级
@@ -2687,7 +2687,7 @@ HP满
 （发光）
 
 69 16 49 10 0 eUI_BagUI_ExpBag
-升级背包需要消耗 {#ffffde00=%d#} 陛拳\n是否继续？
+升级背包需要消耗 {#ffffde00=%d#} 金币\n是否继续？
 
 45 15 26 10 0 eGuild_Me_Expel
 您被公会开除了，现在没公会
@@ -2711,7 +2711,7 @@ HP满
 解散公会
 
 29 17 8 10 0 eUI_Hurt_MagicDef
-付过历亲
+法术抗性
 
 24 16 4 10 0 eComposeFoundry0
 全部
@@ -2732,7 +2732,7 @@ HP满
 戒指
 
 24 16 4 10 0 eComposeFoundry6
-扁鸥
+其他
 
 22 14 4 10 0 eComposeCloth0
 全部
@@ -2756,7 +2756,7 @@ HP满
 背部
 
 22 14 4 10 0 eComposeCloth7
-扁鸥
+其他
 
 26 18 4 10 0 eComposeTechnical0
 全部
@@ -2774,7 +2774,7 @@ HP满
 腰带
 
 26 18 4 10 0 eComposeTechnical5
-扁鸥
+其他
 
 24 16 4 10 0 eComposeAlchemy0
 全部
@@ -2786,7 +2786,7 @@ HP满
 辅助类药品
 
 24 16 4 10 0 eComposeAlchemy3
-扁鸥
+其他
 
 28 20 4 10 0 eComposeProficiency0
 全部
@@ -2798,16 +2798,16 @@ HP满
 材料
 
 28 20 4 10 0 eComposeProficiency3
-扁鸥
+其他
 
 19 9 6 10 0 [perfect]
 极品的
 
 43 23 16 10 0 eDoubleTime_OpenSuccess
-双倍时间开启己傍
+双倍时间开启成功
 
 44 24 16 10 0 eDoubleTime_CloseSuccess
-双倍时间关闭己傍
+双倍时间关闭成功
 
 64 23 37 10 0 eDoubleTime_NoAddonTime
 {#ffff1f0e=目前您没有可用的双倍时间#}
@@ -2939,13 +2939,13 @@ HP满
 您当前排名：未进入排名
 
 68 25 39 10 0 eUIStorage_ExpandNeedGold
-增加仓库上限需要消耗 %d 陛拳,是否继续？
+增加仓库上限需要消耗 %d 金币,是否继续？
 
 24 16 4 10 0 eClient_Warnning
 警告
 
 55 29 22 10 0 eUIStorage_ExpandError_NoGold
-陛拳不足，无法扩展仓库
+金币不足，无法扩展仓库
 
 41 17 20 10 0 eUIStorage_MaxNum
 仓库已经达到最大数量
@@ -2975,7 +2975,7 @@ HP满
 晚熟
 
 55 23 28 10 0 eClientMessage_1v1_Chat
-{#fff7dc7f=%s 丛狼富：#}\n%s
+{#fff7dc7f=%s 对您说：#}\n%s
 
 77 26 47 10 0 eClientMessage_TeamRequest
 您收到组队邀请\n{#fff7dc7f=请点击组队按钮查看#}
@@ -2999,7 +2999,7 @@ HP满
 开除徒弟需要您{#ffffe400=花费金钱5000#}\n您是否确定开除徒弟？
 
 52 23 25 10 0 eWorldChatNeedSomething
-世界频道发言需要消耗1陛拳
+世界频道发言需要消耗1金币
 
 54 24 26 10 0 eNationChatNeedSomething
 国家频道发言需要消耗1%的MP
@@ -3068,25 +3068,25 @@ HP满
 当前场景不允许摆摊
 
 65 27 34 10 0 eGoldSaleData_ExamineString
-%10s %8s %8d %8d金/100陛拳 %6d小时
+%10s %8s %8d %8d金/100金币 %6d小时
 
 44 28 12 10 0 eGoldSale_ConSignSell_Sucess
-出售陛拳己傍
+出售金币成功
 
 32 20 8 10 0 eGoldConsignLackGold
-陛拳不足
+金币不足
 
 33 21 8 10 0 eGoldConsignLackMoney
 金钱不足
 
 34 18 12 10 0 eGoldConsignFailed
-陛拳委托失败
+金币委托失败
 
 35 19 12 10 0 eGoldConsignSucceed
-陛拳交易己傍
+金币交易成功
 
 40 18 18 10 0 eGoldConsignSystem
-陛拳交易，系统原因
+金币交易，系统原因
 
 56 34 18 10 0 eUIMagicWeapon_YouhaveNoEquippedMW
 您没有装备中的法器
@@ -3272,7 +3272,7 @@ HP满
 只有队长才可以邀请别人加入队伍
 
 46 28 14 10 0 eText_Server_TeamJoinSuccess
-加入队伍己傍！
+加入队伍成功！
 
 36 24 8 10 0 eText_Server_TeamDisband
 队伍解散
@@ -3302,7 +3302,7 @@ HP满
 不能把该物品放入仓库！
 
 40 22 14 10 0 eText_BankTradeSucceed
-银行交易己傍！
+银行交易成功！
 
 49 23 22 10 0 eText_BankTradeBankFull
 所存的钱超过钱柜上限！
@@ -3356,7 +3356,7 @@ HP满
 您已经死亡，复活倒计时还剩下
 
 42 20 18 10 0 eText_PwdResetSuceed
-您的密码修改己傍！
+您的密码修改成功！
 
 48 20 24 10 0 eText_PlsSetPwdFirst
 请先设置物品的加密密码！
@@ -3386,16 +3386,16 @@ HP满
 幸运一击几率
 
 30 20 6 10 0 eUI_MinPhysicsAttack
-傍拜仿
+攻击力
 
 30 20 6 10 0 eUI_MaxPhysicsAttack
-傍拜仿
+攻击力
 
 30 18 8 10 0 eUI_MinMagicAttack
-林巩碍档
+法术强度
 
 30 18 8 10 0 eUI_MaxMagicAttack
-林巩碍档
+法术强度
 
 38 16 18 10 0 eUI_AnimalMaster
 对动物系的伤害增加
@@ -3416,13 +3416,13 @@ HP满
 对恶魔系的伤害增加
 
 27 17 6 10 0 eText_IT_MATERIAL
-盔犁丰
+原材料
 
 26 16 6 10 0 eText_IT_RESTORE
-家葛前
+消耗品
 
 20 12 4 10 0 eText_IT_GEM
-焊籍
+宝石
 
 25 13 8 10 0 eText_IT_TASK
 任务物品
@@ -3434,7 +3434,7 @@ HP满
 法力
 
 24 18 2 10 0 eSystemName_Second
-檬
+秒
 
 42 18 20 10 0 eText_InputItemPwd
 请输入物品的加锁密码
@@ -3458,7 +3458,7 @@ HP满
 正在获取负载较低Gate…
 
 53 19 30 10 0 eText_ConnectToGate
-获取Gate信息己傍，正准备连接…
+获取Gate信息成功，正准备连接…
 
 38 20 14 10 0 eText_SendRightCheck
 发送验证消息…
@@ -3503,7 +3503,7 @@ HP满
 您是否申请密码清除功能？
 
 74 26 44 10 0 eText_Succ_Of_App_ClearPwd
-申请己傍，15日后系统将自动清除物品的加密密码
+申请成功，15日后系统将自动清除物品的加密密码
 
 55 27 24 10 0 eText_YouHaveAlreadyApplied
 您已经申请过密码清除功能
@@ -3530,7 +3530,7 @@ HP满
 组队失败！
 
 34 16 14 10 0 eText_TeamScuscc
-己傍加入队伍！
+成功加入队伍！
 
 47 17 26 10 0 eText_AddTeam_Ask
 要加入您的队伍，您同意吗？
@@ -3545,7 +3545,7 @@ HP满
 交易失败，未知错误！
 
 30 16 10 10 0 eExchange_sucess
-交易己傍！
+交易成功！
 
 30 16 10 10 0 eExchange_fail_0
 交易失败！
@@ -3614,7 +3614,7 @@ MP不足
 金，确定升级仓库？
 
 18 12 2 10 0 eText_Second
-檬
+秒
 
 42 16 22 10 0 eText_Sell_Price
 请输入该物品卖出的价格
@@ -3671,7 +3671,7 @@ MP不足
 请输入数量
 
 28 16 8 10 0 eText_CompSucess
-合成己傍
+合成成功
 
 26 14 8 10 0 eText_CompFail
 合成失败
@@ -3701,7 +3701,7 @@ MP不足
 使用物品
 
 27 15 8 10 0 eText_NextLevel
-促澜饭骇
+下一等级
 
 38 14 20 10 0 eText_Ask_Task
 您是否要放弃此任务？
@@ -3803,10 +3803,10 @@ MP不足
 请选择操作方式
 
 70 20 46 10 0 eUI_NotMemoyToRepair
-对不起，您的陛拳或金钱不足\n不能进行此项操作！
+对不起，您的金币或金钱不足\n不能进行此项操作！
 
 139 26 109 1 0 eUI_RemoteStorageNeedMoney
-开启该功能需要消耗 {#ffffde00=%d#} 陛拳,是否继续？\n{#ffffde00=开启后可以使用 10 小时（离线不影响使用时间）#}
+开启该功能需要消耗 {#ffffde00=%d#} 金币,是否继续？\n{#ffffde00=开启后可以使用 10 小时（离线不影响使用时间）#}
 
 40 18 18 10 0 eUI_StorageNeedPsw
 请输入密码开启仓库
@@ -3926,7 +3926,7 @@ MP不足
 无法移动，请正确回答验证码图片上的文字
 
 35 23 8 10 0 eClient_AddInfo_2slk_50
-验证己傍
+验证成功
 
 57 23 30 10 0 eClient_AddInfo_2slk_51
 几秒钟后将更换验证图片重新验证
@@ -4007,7 +4007,7 @@ MP不足
 任务[%s] 
 
 37 24 9 10 0 eClient_AddInfo_2slk_126
-%s %d 檬 
+%s %d 秒 
 
 49 24 21 10 0 eClient_AddInfo_2slk_127
 %s 在切磋中战胜了 %s 
@@ -4019,7 +4019,7 @@ MP不足
 您正在离开切磋区域，%d 秒后您将输掉比赛
 
 47 24 19 10 0 eClient_AddInfo_2slk_130
-验证剩余时间 %d 檬 
+验证剩余时间 %d 秒 
 
 41 24 13 10 0 eClient_AddInfo_2slk_131
 验证时间已到 
@@ -4064,7 +4064,7 @@ MP不足
 %s对您说：%s\n 
 
 43 24 15 10 0 eClient_AddInfo_2slk_148
-%s 俊霸~：%s\n 
+您对%s说：%s\n 
 
 43 24 15 10 0 eClient_AddInfo_2slk_149
 不存在或不在线 
@@ -4076,10 +4076,10 @@ MP不足
 没什么事
 
 29 11 14 10 0 eIsExitGame
-霸烙 辆丰秦夸?
+是否退出游戏？
 
 42 16 22 10 0 e_isChangePlayer
-康旷急琶芒栏肺 哎鳖夸?
+是否返回角色选择界面？
 
 107 29 74 10 0 eTextPlayer_InterchangeReqQue
 {#FFFFD940=%s#} 向您发起了挑战\n是否愿意接受？\n30秒后没有选择系统判定拒绝
@@ -4097,58 +4097,58 @@ MP不足
 很遗憾，您败给了 %s
 
 34 22 8 10 0 eAttrType_MagicDefence
-付过历亲
+法术抗性
 
 37 25 8 10 0 eAttrType_ResistanceMagic
-付过历亲
+法力抗性
 
 41 29 8 10 0 eAttrType_MagicDefencePercent
-付过历亲
+法术抗性
 
 39 27 8 10 0 eAttrType_ResistancePhysics
-拱府历亲
+物理抗性
 
 39 27 8 10 0 eAttrType_ResistanceSilence
-魔宫历亲
+沉默抗性
 
 38 26 8 10 0 eAttrType_ResistanceFreeze
-趁悼历亲
+冰冻抗性
 
 37 25 8 10 0 eAttrType_ResistanceSleep
-荐搁历亲
+昏睡抗性
 
 37 25 8 10 0 eAttrType_ResistanceDizzy
-扁例历亲
+晕眩抗性
 
 67 25 38 10 0 eUI_ShopCenterSliverError
-对不起，您的陛拳不足\n无法购买此商品！
+对不起，您的金币不足\n无法购买此商品！
 
 14 8 2 10 0 eSex_Man
-巢
+男
 
 16 10 2 10 0 eSex_FeMan
-咯
+女
 
 21 15 2 10 0 eShopUI_Storage
 %d
 
 25 14 7 10 0 eShopUI_Price2
-%s 焊籍
+%s 钻石
 
 26 17 5 10 0 eShopUI_VIPPrice2
 %d 金
 
 24 13 7 10 0 eShopUI_Price
-%d 陛拳
+%d 金币
 
 27 16 7 10 0 eShopUI_VIPPrice
-%d 陛拳
+%d 金币
 
 79 23 52 10 0 eCostSilverToRePairItem
 您需消耗{#FFFFD940=%d #}个装备修理锤\n是否需要修理？
 
 55 23 28 10 0 eUI_ShopCenterSliverCnt
-您需消耗{#FFFFD940=%d #}陛拳
+您需消耗{#FFFFD940=%d #}金币
 
 31 19 8 10 0 eClient_help_person
 帮助系统
@@ -4235,7 +4235,7 @@ MP不足
 {#ffa7b59e=请输入想加入黑名单的名字#}
 
 65 26 35 10 0 eClient_ExpandBag_NotMoney
-您的陛拳不足，扩充背包需要500陛拳！
+您的金币不足，扩充背包需要500金币！
 
 19 17 0 10 0 eUI_OpenGetTSRool
 
@@ -4283,7 +4283,7 @@ MP不足
 购买获得 %s×%d
 
 45 20 21 10 0 eText_ReasonAddItem9
-生产己傍，获得 %s×%d
+生产成功，获得 %s×%d
 
 36 21 11 10 0 eText_ReasonAddItem10
 获得 %s×%d
@@ -4304,7 +4304,7 @@ MP不足
 
 
 46 21 21 10 0 eText_ReasonAddItem16
-交易己傍，获得 %s×%d
+交易成功，获得 %s×%d
 
 23 21 0 10 0 eText_ReasonAddItem17
 
@@ -4316,7 +4316,7 @@ MP不足
 
 
 51 21 26 10 0 eText_ReasonAddItem20
-己傍将召唤兽分解成 %s %d个
+成功将召唤兽分解成 %s %d个
 
 23 21 0 10 0 eText_ReasonAddItem21
 
@@ -4340,7 +4340,7 @@ MP不足
 购买了 %s×%d
 
 34 21 9 10 0 eText_ReasonAddItem33
-赎回己傍!
+赎回成功!
 
 22 20 0 10 0 eText_ReasonSubItem0
 
@@ -4391,7 +4391,7 @@ MP不足
 
 
 46 21 21 10 0 eText_ReasonSubItem16
-交易己傍，失去 %s×%d
+交易成功，失去 %s×%d
 
 23 21 0 10 0 eText_ReasonSubItem17
 
@@ -4442,7 +4442,7 @@ MP不足
 欢迎来到这里，穿越而来的英雄于此处诞生！在这里你将经历未曾遇到过的故事，更可在此建功立业名扬四方，希望你能成就一番属于你自己的传奇！\n角色查看【C】\n打开背包【B】\n任务界面【L】
 
 33 17 12 10 0 eLogin_ErrorCode0
-游戏登入己傍
+游戏登入成功
 
 45 17 24 10 0 eLogin_ErrorCode1
 您的帐号错误，请重新输入
@@ -4499,7 +4499,7 @@ MP不足
 尊敬的300英雄用户您好:您的账号申诉已完成,请尽快登陆账号升级页面进行账号升级,升级完成后请用新的账号密码登陆游戏。
 
 40 24 12 10 0 eUI_Mail_SendResult_True
-邮件发送己傍
+邮件发送成功
 
 41 25 12 10 0 eUI_Mail_SendResult_False
 邮件发送失败
@@ -4517,7 +4517,7 @@ MP不足
 是否使用此物品
 
 76 20 52 10 0 eClient_ExitTimeInfo
-正在保存玩家数据，请稍候...\n{#FFFFD940=剩余 %d 檬#}
+正在保存玩家数据，请稍候...\n{#FFFFD940=剩余 %d 秒#}
 
 43 25 14 10 0 eLogin_StartConnectFailed
 服务器连接失败
@@ -4541,7 +4541,7 @@ MP不足
 {#FFFFD940=您将获得 %d 金#}
 
 94 20 70 10 0 eUI_RideIntensifyAsk
-强化消耗：{#FFFFD940=%d个%s#}\n己傍几率：{#FFFFD940=%d%%#}\n是否继续？
+强化消耗：{#FFFFD940=%d个%s#}\n成功几率：{#FFFFD940=%d%%#}\n是否继续？
 
 37 15 18 10 0 eProduceNoSkill
 您没有这个生产技能
@@ -4574,16 +4574,16 @@ MP不足
 当前服务器：%s\n网络状态：%dms
 
 137 27 233 2 1 eText_SysMail_GoldSystemBuy
-陛拳交易委托-购入陛拳\n您的挂单于{#ffffd666=%d年%d月%d日 %d：%d分#}，以{#ffffd666=%d金/100陛拳(单号：%d）#}的价格己傍购入{#ffffd666=%d×100陛拳#}，共花费{#ffffd666=%d金#}。\n\n{#ffffd666=附件内容为本次交易所获得的陛拳，请注意收取。#}
+金币交易委托-购入金币\n您的挂单于{#ffffd666=%d年%d月%d日 %d：%d分#}，以{#ffffd666=%d金/100金币(单号：%d）#}的价格成功购入{#ffffd666=%d×100金币#}，共花费{#ffffd666=%d金#}。\n\n{#ffffd666=附件内容为本次交易所获得的金币，请注意收取。#}
 
 138 28 233 2 1 eText_SysMail_GoldSystemSell
-陛拳交易委托-卖出陛拳\n您的挂单于{#ffffd666=%d年%d月%d日 %d：%d分#}，以{#ffffd666=%d金/100陛拳(单号：%d）#}的价格己傍卖出{#ffffd666=%d×100陛拳#}，共获得{#ffffd666=%d金#}。\n\n{#ffffd666=附件内容为本次交易所获得的金钱，请注意收取。#}
+金币交易委托-卖出金币\n您的挂单于{#ffffd666=%d年%d月%d日 %d：%d分#}，以{#ffffd666=%d金/100金币(单号：%d）#}的价格成功卖出{#ffffd666=%d×100金币#}，共获得{#ffffd666=%d金#}。\n\n{#ffffd666=附件内容为本次交易所获得的金钱，请注意收取。#}
 
 142 31 234 2 1 eText_SysMail_GoldSystemBuyExit
-陛拳交易委托-系统退单\n您的挂单已到期，系统自动退回，并将您剩余金额以附件形式返还。\n过期时间：{#ffffd666=%d年%d月%d日 %d：%d分#}\n单号：{#ffffd666=%d#}\n剩余金额：{#ffffd666=%d金#}\n\n{#ffffd666=附件内容为挂单剩余金额，请注意领取。#}
+金币交易委托-系统退单\n您的挂单已到期，系统自动退回，并将您剩余金额以附件形式返还。\n过期时间：{#ffffd666=%d年%d月%d日 %d：%d分#}\n单号：{#ffffd666=%d#}\n剩余金额：{#ffffd666=%d金#}\n\n{#ffffd666=附件内容为挂单剩余金额，请注意领取。#}
 
 146 32 237 2 1 eText_SysMail_GoldSystemSellExit
-陛拳交易委托-系统退单\n您的挂单已到期，系统自动退回，并将您剩余金额以附件形式返还。\n过期时间：{#ffffd666=%d年%d月%d日 %d：%d分#}\n单号：{#ffffd666=%d#}\n剩余金额：{#ffffd666=%d 陛拳#}\n\n{#ffffd666=附件内容为挂单剩余金额，请注意领取。#}
+金币交易委托-系统退单\n您的挂单已到期，系统自动退回，并将您剩余金额以附件形式返还。\n过期时间：{#ffffd666=%d年%d月%d日 %d：%d分#}\n单号：{#ffffd666=%d#}\n剩余金额：{#ffffd666=%d 金币#}\n\n{#ffffd666=附件内容为挂单剩余金额，请注意领取。#}
 
 68 22 42 10 0 eUI_PrivateShop_Error0
 请先关闭您的个人商店，再调整需要出售的物品
@@ -4598,13 +4598,13 @@ MP不足
 将以{#FFFFD940=%d金#}的价格购买召唤兽{#FFFFD940=%s#}\n是否继续？
 
 63 23 36 10 0 eGoldConsignInvalidPara
-交易失败，您购买的陛拳数量超出上限！
+交易失败，您购买的金币数量超出上限！
 
 58 22 32 10 0 eGoldSaleData_StringEx
-%8d %18d金/100陛拳 %28d %12d小时
+%8d %18d金/100金币 %28d %12d小时
 
 70 29 37 10 0 eGoldSaleData_ExamineStringEx
-%6d %10s %22d %18d金/100陛拳 %10d小时
+%6d %10s %22d %18d金/100金币 %10d小时
 
 94 32 58 10 0 eUI_PrivateShop_BuyExclusiveItem
 将以{#FFFFD940=%d金#}的价格购买{#FFFFD940=%s#}\n是否继续？
@@ -4769,16 +4769,16 @@ MP不足
 您的背包已满，无法回购
 
 29 17 8 10 0 eMsgResBuyResult0
-购买己傍
+购买成功
 
 29 17 8 10 0 eMsgResBuyResult1
 购买失败
 
 41 17 20 10 0 eMsgResBuyResult2
-召唤师，您的焊籍不够
+召唤师，您的钻石不够
 
 41 17 20 10 0 eMsgResBuyResult3
-召唤师，您的焊籍不够
+召唤师，您的钻石不够
 
 39 17 18 10 0 eMsgResBuyResult4
 您购买的商品不存在
@@ -4796,10 +4796,10 @@ MP不足
 召唤师，您的赠点不足
 
 41 17 20 10 0 eMsgResBuyResult9
-召唤师，您的陛拳不足
+召唤师，您的金币不足
 
 42 18 20 10 0 eMsgResBuyResult10
-召唤师，您的陛拳不足
+召唤师，您的金币不足
 
 42 18 20 10 0 eMsgResBuyResult11
 召唤师，您的功勋不足
@@ -4814,13 +4814,13 @@ MP不足
 已拥有了相同的试用装备
 
 34 18 12 10 0 eMsgResBuyResult15
-领取试用己傍
+领取试用成功
 
 42 24 14 10 0 eClient_CharAttr_GoldAdd
-您获得 %s 焊籍
+您获得 %s 钻石
 
 42 24 14 10 0 eClient_CharAttr_GoldSub
-您消耗 %s 焊籍
+您消耗 %s 钻石
 
 150 32 114 1 0 eNetWorkClose_CheckVersionFailed
 与服务器版本不一致\n请更新客户端到最新版本，如果更新失败可以尝试修复客户端或下载最新客户端\n 客服电话:021-51312215
@@ -4853,10 +4853,10 @@ MP不足
 剩余时间：%d秒
 
 80 22 54 10 0 eGoldSale_confirmNote0
-{#ff36db03=单号:%d#}\n出售价:%d金/100陛拳\n出售数量:%d
+{#ff36db03=单号:%d#}\n出售价:%d金/100金币\n出售数量:%d
 
 80 22 54 10 0 eGoldSale_confirmNote1
-{#ff36db03=单号:%d#}\n求购价:%d金/100陛拳\n求购数量:%d
+{#ff36db03=单号:%d#}\n求购价:%d金/100金币\n求购数量:%d
 
 30 18 8 10 0 ui_npc_equip_bless
 装备祝福
@@ -4871,7 +4871,7 @@ MP不足
 您确认要出售 {#ffffee5e=%s#} 吗？
 
 63 25 34 10 0 eClient_ExitWait10Seconds
-请稍候...\n{#FFFFD940=剩余 %d 檬#}
+请稍候...\n{#FFFFD940=剩余 %d 秒#}
 
 45 13 28 10 0 eEr_Skill_119
 没有装备盾，无法使用盾系技能
@@ -4937,10 +4937,10 @@ MP不足
 搜索的单号不存在，请重新搜索
 
 81 19 58 10 0 eDeletePlayerSuccss
-角色删除己傍\n{#ffffee5e=提示：在7天内您可以随时恢复角色#}
+角色删除成功\n{#ffffee5e=提示：在7天内您可以随时恢复角色#}
 
 38 21 13 10 0 eResumePlayer_Success
-恢复角色己傍!
+恢复角色成功!
 
 35 18 13 10 0 eResumePlayer_Fail
 恢复角色失败!
@@ -5156,7 +5156,7 @@ MP不足
 温馨提示：\n您已进入深度疲劳状态，杀怪将不再\n获得任何收益，您可以通过参与活动\n来获得更好的收益以及体验更多的游\n戏乐趣！
 
 41 20 17 10 0 eUI_Fans_CardResMsg0
-恭喜你己傍激活F卡
+恭喜你成功激活F卡
 
 50 20 26 10 0 eUI_Fans_CardResMsg1
 您输入的卡号无效或已被使用
@@ -5267,7 +5267,7 @@ MP不足
 [color=ffffe096]%02d:%02d %s 购买 %s×%d
 
 137 25 108 1 0 ePrivateShop_BuyPetRecord
-[color=ffffe096]%02d:%02d %s [color=fff7f764]以 [color=ffffd940]%d陛拳 [color=ffffffff]的价格购买了召唤兽 %s
+[color=ffffe096]%02d:%02d %s [color=fff7f764]以 [color=ffffd940]%d金币 [color=ffffffff]的价格购买了召唤兽 %s
 
 57 24 29 10 0 eGuildLogic_ReqJoinUnion
 %s家族 请求加入您的家族同盟！
@@ -5342,7 +5342,7 @@ MP不足
 移动中不能摆摊
 
 50 28 18 10 0 eClient_UI_NpcShopLackMedals
-您的探险者陛拳不足
+您的探险者金币不足
 
 34 20 10 10 0 eClient_ExplorerShop
 探险者商店
@@ -5447,25 +5447,25 @@ MP不足
 无暇强化石
 
 38 24 10 10 0 eClient_Strength_Succeed
-强化己傍！
+强化成功！
 
 37 23 10 10 0 eClient_Strength_Failed
 强化失败！
 
 41 27 10 10 0 eClient_Low_Upgrade_Succeed
-升阶己傍！
+升阶成功！
 
 40 26 10 10 0 eClient_Low_Upgrade_Failed
 升阶失败！
 
 46 28 14 10 0 eClient_High_Upgrade_Succeed
-高级升阶己傍！
+高级升阶成功！
 
 45 27 14 10 0 eClient_High_upgrade_Failed
 高级升阶失败！
 
 35 21 10 10 0 eClient_SkillInCDTime
-胶懦酿鸥烙
+技能冷却中
 
 48 30 14 10 0 eSkillError_SelectPointIsValid
 目标地点有阻挡
@@ -5626,7 +5626,7 @@ MP不足
     “影舞者”千代和“疾风之忍”望月同属于南方城邦雇佣的忍者部队。望月擅长以忍术辅助军队作战；而千代则是独来独往的刺客，刀下少有活口。
     然而随着战争加剧，千代厌倦了看着自己的忍者同胞们一个个去送死。他们是隐秘部队，不受正规军的尊重，身怀的忍术又让人畏惧。最终千代背弃了村子，成了逃忍。
 忍者的生命不属于自己，属于村子的首领。于是一纸格杀令下达，忍者们摩拳擦掌，随时准备杀死这位声名显赫的前辈。
-    然而迄今为止从未有人己傍过。任何接近千代的敌人，都死在了她魅影般的身法下。临死前，他们眼中倒映着千代漆黑的影子。
+    然而迄今为止从未有人成功过。任何接近千代的敌人，都死在了她魅影般的身法下。临死前，他们眼中倒映着千代漆黑的影子。
 
 158 21 132 4 4 eProfessionIdx_kalasi
     风，将战争血腥的气息吹上了北方高原。
@@ -5710,7 +5710,7 @@ MP不足
 
 135 23 235 6 5 eProfessionIdx_shilaike
     随着阿凡提的名气越来越大，粉丝们让他的生活日渐阔绰了起来，他的驴子伙伴逐渐被他所疏远，阿凡提一门心思想着如何甩掉这头老驴子并用它再赚上一笔。
-    直到某天他想到了一个绝妙的计划，他谎称这是头可以拉陛拳的驴子，并牵着驴子找到了天真烂漫的巴依老爷，说服他用全部的财产换取了这头驴子，从此以后……阿凡提成了财主老爷，而巴依老爷则变得一无所有——除了那头驴子。
+    直到某天他想到了一个绝妙的计划，他谎称这是头可以拉金币的驴子，并牵着驴子找到了天真烂漫的巴依老爷，说服他用全部的财产换取了这头驴子，从此以后……阿凡提成了财主老爷，而巴依老爷则变得一无所有——除了那头驴子。
     就在他觉得前途一片灰暗的时候，这头驴子居然开口说话了：“亲爱的朋友，请不要悲伤，我并不是一头驴子，我是塞伦盖地的斑马王子——奥斑马！我曾在马达加斯加表演过，拥有众多的粉丝，如果你能帮助我回到纽约，我会给你很多很多的财宝，美金！你懂么？”
     天真烂漫的巴依老爷又相信了驴子的话，哦，是奥斑马的话……于是他们上路了，经历了无数的故事，可以讲整整一千零一夜，最终走进了一个叫做永恒之地的传说！
 
@@ -5852,9 +5852,9 @@ MP不足
     追随着她的能量轨迹，他破开虚空，来到了永恒之地，他知道，那个女人一定帮他找回自己！
 
 251 22 224 2 2 eProfessionIdx_tongren
-    其实在《300英雄》封测的那一天，桐人已经登场过了，并己傍打败了当初称霸永恒之地的所有英雄。最终使制作组决定推翻原有的MMORPG世界，并把游戏重塑为MOBA世界。
+    其实在《300英雄》封测的那一天，桐人已经登场过了，并成功打败了当初称霸永恒之地的所有英雄。最终使制作组决定推翻原有的MMORPG世界，并把游戏重塑为MOBA世界。
     明日奈被GM绑架入永恒之地后，桐人一无反顾地闯入了永恒之地；桐人利用当初封测的经验在永恒之地大展身手。
-    为了把明日奈从召唤师手中救出来，桐人的目标是打倒游戏的最终GM，并己傍夺取游戏的控制权。
+    为了把明日奈从召唤师手中救出来，桐人的目标是打倒游戏的最终GM，并成功夺取游戏的控制权。
 
 
 172 26 141 2 2 eProfessionIdx_yubanmeiqin
@@ -5862,7 +5862,7 @@ MP不足
 
 
 150 20 253 3 2 eProfessionIdx_inori
-  在樱满集的频繁性骚扰下，隐藏在楪祈内心深处的真名终于到达了她忍耐的临界点，在与樱满集相见的信念下，终于战胜了楪祈，觉醒后的真名却发现了樱满集的背叛，樱满集的日常无良行为引起了真名的醋意，决心彻底净化这个世界，于是引发了失落的圣诞事件。结局楪祈己傍的抑制了真名的暴走，但楪祈的歌声却打破了时空传递到了永恒之地，为了防止真名再次苏醒带来的灾难，楪祈决意告别樱满集来到永恒之地寻求新生.
+  在樱满集的频繁性骚扰下，隐藏在楪祈内心深处的真名终于到达了她忍耐的临界点，在与樱满集相见的信念下，终于战胜了楪祈，觉醒后的真名却发现了樱满集的背叛，樱满集的日常无良行为引起了真名的醋意，决心彻底净化这个世界，于是引发了失落的圣诞事件。结局楪祈成功的抑制了真名的暴走，但楪祈的歌声却打破了时空传递到了永恒之地，为了防止真名再次苏醒带来的灾难，楪祈决意告别樱满集来到永恒之地寻求新生.
 
 153 20 128 2 2 eProfessionIdx_shana
     夏娜和悠二幸福地生活在一起以后，无聊婚后生活让夏娜寂寞难耐。为了实(xun)现(zhao)自(ci)我(ji)，夏娜切开了时空之门，来到了永恒之地。在和永恒之地的各种敌人战斗中，夏娜不断地提(diu)升(diao)着自己的觉（jie）悟(cao)，为了成为真正的红（ao）世(jiao)之王而努力。
@@ -5908,7 +5908,7 @@ MP不足
 
 145 19 249 6 5 eProfessionIdx_kami
     为了能够让世界上所有值得期待的二次元美女心甘情愿地加入300英雄，制作组制订了一个“神之攻略”计划，旨在挑选一位对女性拥有巨大吸引力的人，让他通过动之以情，晓之以理的方式，去说服那些对异世界抱有恐惧感的二次元美女加入永恒之地……最终，一名高中生以无可匹敌的巨大优势击败了其他竞争对手，成为了制作组的最佳人选，他的名字叫：桂木桂马。
-    一名代号为elo250的工作人员，带上了大量肥皂前往日本，并在XX高中旁边的小旅馆与高中生桂木桂马进行了一段长谈，己傍说服桂木桂马加入300制作组，担任首席猎头顾问，负责神之攻略计划，从事针对高端二次元美女的挖角工作。
+    一名代号为elo250的工作人员，带上了大量肥皂前往日本，并在XX高中旁边的小旅馆与高中生桂木桂马进行了一段长谈，成功说服桂木桂马加入300制作组，担任首席猎头顾问，负责神之攻略计划，从事针对高端二次元美女的挖角工作。
     在工作的闲暇时间，这位神之攻略的负责人也会进入游戏中扮演一下英雄，在战斗中近距离观察二次元美女们的表现，研究她们的性格，实践攻略技巧，并最终应用于实践，源源不断地将最顶尖的二次元美女挖（guai）角（dai）至300英雄。
 
 
@@ -5964,7 +5964,7 @@ MP不足
 154 25 252 9 8 eProfessionIdx_buzhihuowu
     某天一早，神大人正要出门举行艳遇教师的第三十二场演讲，但刚一推开家门，就立刻被眼前的情形惊呆了——地上摆满了各种过气的本子、只剩内衣的手办、布满各种斑渍（是口水吧，一定是口水吧）的二次元美女抱枕……
     “神大人，如果你能干成这一票的话，这些……都是你的，哦呵呵呵”
-    一声淫笑将正在风中凌乱的桂木桂马拉回了现实，他认出了这个家伙：第一个使用亚斯娜胜利一万盘己傍抱得白富美的开发组成员，而他的身后，是四百多个海大爷。
+    一声淫笑将正在风中凌乱的桂木桂马拉回了现实，他认出了这个家伙：第一个使用亚斯娜胜利一万盘成功抱得白富美的开发组成员，而他的身后，是四百多个海大爷。
     “纳尼？什么和神马啊，你能说清楚点吗，焚淡！”
     “是这样的，自从上次开发组忠实的小伙伴快播法师分享了一个以不知火舞为主角的动画之后，开发组里那些可爱的男孩子们就一直念念不忘，现在他们终于把持不住了，于是就让我出面来找你商量一下，能不能把火舞攻略到永恒之地来？”——那个家伙如是。
     “这样啊，让我想想”
@@ -6375,20 +6375,31 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 不是助手,更不是克里丝缇娜
 我是牧濑红莉栖
 
-41 27 10 10 0 eProfessionIdx_lishanweilai
-敬请期待！
+194 27 162 4 4 eProfessionIdx_lishanweilai
+伴随着蛰伏期的结束一天天地逼近，永恒之地的妖梦也开始蠢蠢欲动起来。管理员蒂塔为了保证永恒之地的安宁，通过数据搜集与整理等黑科技，成功地将一位操控血液的美少女异界士带到了永恒之地。
+“我不高兴”
+少女答应蒂塔消灭妖梦，但并不是无条件的。
+【回到故事最初发生的地方重新开始】蒂塔答应了少女的请求。
+“没有未来的未来不是我想要的未来”
+少女回忆着与学长的点点滴滴，缓慢地拆下了手上的绷带，流出的血液化成了血刃，血刃锋利，里面的血液仿佛在流动
+“我想……再一次与学长相遇。”
+少女紧握着手中的血刃，将这份思念化作强大的力量，迅速向妖梦刺去。
+“与他一起活下去。”
 
 34 20 10 10 0 eProfessionIdx_yisha
 敬请期待！
 
-41 27 10 10 0 eProfessionIdx_zetiangangji
-敬请期待！
+239 27 207 3 3 eProfessionIdx_zetiangangji
+虽然因为学习和运动都不行，被同学称为“废柴纲”，但由于是彭格列家族初代首领的后裔，沢田纲吉还是被家族选为十代首领的继承者候补。
+其本人天真善良，不愿卷入争斗，一开始强烈地拒绝，经过一系列的事件后为了重要的同伴而不断成长着，并开始承担起十代的使命。
+在指环争夺战最终的大空战中，不但出色地爆发出零地点突破·初代版，还自创出了零地点突破·改的招式，并最终战胜XANXUS，正式成为十代继承者。
+随后，他代表彭格列家族来到了永恒之地，正式参加了一场由三大管理者发起的终焉之战……
 
 75 23 48 10 0 eClient_IsEquipInlayGem
 是否确定将{#ff00ff00=%s#}镶嵌到{#ff00ff00=%s#}上
 
 37 25 8 10 0 eClient_InlayGemSuccessed
-镶嵌己傍
+镶嵌成功
 
 51 21 26 10 0 eClient_NoneIntroduce
 该职业还未开放，敬请期待。
@@ -6481,7 +6492,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 您没有道具[鲜花]
 
 43 25 14 10 0 eGuild_Build_LvUp_Success
-【%s】升级己傍
+【%s】升级成功
 
 39 23 12 10 0 eClient_GuildDomain_Bid
 输入令牌数量
@@ -6783,7 +6794,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 未激活
 
 42 26 12 10 0 eClient_LearnSkill_Success
-技能升级己傍
+技能升级成功
 
 48 28 16 10 0 eUI_DuplicateNewbieTransform
 点击头像切换英雄
@@ -6810,7 +6821,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 怒气值
 
 19 9 6 10 0 ui_mp_tip
-付唱樊
+法力值
 
 23 15 4 10 0 ui_TelePort_tip
 回城
@@ -6819,7 +6830,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 商店，快捷键【P】
 
 39 15 20 10 0 eUseItemSuccess
-【%s】已经使用己傍！
+【%s】已经使用成功！
 
 40 24 12 10 0 eClient_KeySet_CancleKey
 键位%s已取消
@@ -6846,16 +6857,16 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 离开场景，将无法返回当前场景，是否离开
 
 44 30 10 10 0 eClinet_Eternal_AthleticsScene
-康亲酒饭唱
+永恒竞技场
 
 39 27 8 10 0 eClinet_Eternal_BattleScene
-康亲傈厘
+永恒战场
 
 37 25 8 10 0 eClinet_Eternal_RankScene
-饭歹霸烙
+天梯排位
 
 41 27 10 10 0 eClinet_Reason_Abnormalquit
-厚沥惑辆丰
+非正常退出
 
 40 28 8 10 0 eClinet_Reason_Negativematch
 消极比赛
@@ -6882,13 +6893,13 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 购买的英雄可以在竞技场和战场中使用
 
 62 22 36 10 0 eClient_ItemExpiryDate
-有效期为 %d 天 %d 小时 %d 分钟 %d 檬
+有效期为 %d 天 %d 小时 %d 分钟 %d 秒
 
 49 26 19 10 0 eClient_ItemPassExpiryDate
 有效期已过,即将销毁
 
 65 25 36 10 0 eClient_AlchemyExpiryDate
-有效期为 %d 天 %d 小时 %d 分钟 %d 檬
+有效期为 %d 天 %d 小时 %d 分钟 %d 秒
 
 52 29 19 10 0 eClient_AlchemyPassExpiryDate
 有效期已过,即将消失
@@ -6942,7 +6953,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 30%攻击速度
 
 40 25 11 10 0 eClient_EquipGhostValue01
-20%规绢包烹
+20%护甲穿透
 
 40 25 11 10 0 eClient_EquipGhostValue10
 20%冷却缩减
@@ -6960,19 +6971,19 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 60点法力恢复速度
 
 40 25 11 10 0 eClient_EquipGhostValue31
-20%林巩碍档
+20%法术强度
 
 41 25 12 10 0 eClient_EquipGhostValue40
 25物理攻击力
 
 39 25 10 10 0 eClient_EquipGhostValue41
-5%规绢包烹
+5%护甲穿透
 
 41 25 12 10 0 eClient_EquipGhostValue42
 50物理攻击力
 
 40 25 11 10 0 eClient_EquipGhostValue43
-10%规绢包烹
+10%护甲穿透
 
 30 17 9 10 0 eClient_Attribute
 基础属性:
@@ -6999,22 +7010,22 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 在同一件装备上不能镶嵌超过一颗以上的双色宝石
 
 35 24 7 10 0 eClient_ChatChannelWhole
-傈眉 /r
+全体 /r
 
 34 23 7 10 0 eClient_ChatChannelTeam
-评盔 /t
+队伍 /t
 
 36 25 7 10 0 eClient_ChatChannelSecret
-庇富 /p
+密语 /p
 
 36 25 7 10 0 eClient_ChatChannelFriend
-模备 /f
+好友 /f
 
 34 23 7 10 0 eClient_ChatChannelHall
-肺厚 /r
+大厅 /r
 
 32 21 7 10 0 eClient_ChatChannelOB
-霸烙 /o
+观战 /o
 
 50 24 22 10 0 eClient_ReceiveFriendAsk
 你收到一条添加好友请求
@@ -7023,37 +7034,37 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 你目前同时聊天的人数已经超过上限，请先关闭！
 
 42 26 12 10 0 eClient_YetBigKillVeryKill
-切混吝涝聪促
+已经大杀特杀
 
 41 25 12 10 0 eClient_SweepAllBeforeOne
-固媚朝遁聪促
+已经势如破竹
 
 45 29 12 10 0 eClient_NobodyCaresToAskAbout
-阜阑荐绝绰磊
+已经无人可挡
 
 39 23 12 10 0 eClient_YetDictateMatch
-傈厘狼瘤硅磊
+已经主宰比赛
 
 37 21 12 10 0 eClient_YetGodGeneral
-傈厘狼  拳脚
+已经神一般了
 
 37 21 12 10 0 eClient_YetSurpassGod
-傈汲狼  免泅
+已经超越神了
 
 50 28 18 10 0 eClient_JustFinishDoubleKill
-丛捞 歹喉懦 崔己!!
+刚刚完成了一次双杀
 
 49 27 18 10 0 eClient_JustFinishThreeKill
-丛捞 飘府敲懦 崔己
+刚刚完成了一次三杀
 
 54 28 22 10 0 eClient_JustFinishInsaneKill
-丛捞 农 饭 捞 瘤 懦!!!
+刚刚完成了一次疯狂杀戮
 
 34 20 10 10 0 eClient_YetCruelWalk
 已经暴走了
 
 31 21 6 10 0 eClient_KillDieFinish
-贸摹窃
+杀死了
 
 35 21 10 10 0 eClient_InvalidTarget
 无效的目标
@@ -7311,19 +7322,19 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 共需要消耗
 
 31 21 6 10 0 eClient_EquipUpGoldOr
-陛拳或
+金币或
 
 27 19 4 10 0 eClient_PointVolume
-焊籍
+钻石
 
 58 21 33 10 0 eClient_NotEnoughGold
-您没有足够的陛拳,是否使用焊籍升级
+您没有足够的金币,是否使用钻石升级
 
 73 22 47 10 0 eClient_NotEnoughMoney
-您没有足够的焊籍,你可以通过陛拳升级或者立即充值
+您没有足够的钻石,你可以通过金币升级或者立即充值
 
 68 29 35 10 0 eClient_NotEnoughMoneyAndGold
-您没有足够的陛拳和焊籍,是否立即充值
+您没有足够的金币和钻石,是否立即充值
 
 32 17 11 10 0 eClient_SkillName
 技能名  :  
@@ -7335,7 +7346,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
   冷却时间
 
 43 27 12 10 0 eClient_EquipUpgradeSucceed
-装备升级己傍
+装备升级成功
 
 32 20 8 10 0 eClient_eErrorUnknow
 未知错误
@@ -7353,10 +7364,10 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 装备技能未找到
 
 44 28 12 10 0 eClient_eErrorNotEnoughMoney
-升级陛拳不够
+升级金币不够
 
 43 27 12 10 0 eClient_eErrorNotEnoughGold
-升级焊籍不够
+升级钻石不够
 
 46 30 12 10 0 eClient_eErrorNotEnoughExploit
 升级功勋不够
@@ -7383,10 +7394,10 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 魔法值
 
 44 26 14 10 0 eClient_PrepareSurplusTime
-霖厚鳖瘤矫埃：
+准备阶段时间：
 
 34 20 10 10 0 eClient_PrepareStart
-矫累鳖瘤：
+准备开始：
 
 28 19 5 10 0 eClient_FriendColon
 好友:
@@ -7401,28 +7412,28 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 准备开始:%d
 
 25 15 6 10 0 eUI_violentRate
-摹疙鸥
+暴击率
 
 30 18 8 10 0 eUI_AttackDistance
 攻击距离
 
 24 14 6 10 0 eUI_AttackType
-拱府屈
+攻击类
 
 27 17 6 10 0 eUI_MagicArtsType
-付过屈
+法术类
 
 26 14 8 10 0 eUI_ExtraMoney
-榜靛裙垫
+额外金钱
 
 24 14 6 10 0 eUI_GrowUpType
-己厘屈
+成长类
 
 25 15 6 10 0 eUI_ControlType
-牧飘费
+控制类
 
 22 12 6 10 0 eUI_AureType
-酒快扼
+光环类
 
 43 19 20 10 0 eClinet_whenLoveGod
 当我爱上神明的那一刻
@@ -7464,7 +7475,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 商店
 
 26 18 4 10 0 eClinet_centershop
-碱俏
+商城
 
 30 20 6 10 0 eClinet_sorcingborad
 记分牌
@@ -7530,7 +7541,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 召唤师技能2施法
 
 20 12 4 10 0 eClinet_back
-蓖券
+回城
 
 60 31 25 10 0 eClinet_fastusevoluntarilytome1
 智能施法技能快捷1(对自己)
@@ -7602,16 +7613,16 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 快捷键定义 可用到的键盘的按键 xml可用[mouseleft] [mouseright] [backspace] [tab] [enter] [shift] [ctrl] [alt] [pause] [capslock] [esc] [space] [pageup][pagedown] [end] [home] [left] [up] [right] [down] [insert] [delete] [0] [1] [2] [3] [4] [5] [6] [7] [8] [9] [a] [b] [c] [d] [e] [f] [g] [h] [i] [j] [k] [l] [m] [n] [o] [p] [q] [r] [s] [t] [u] [v] [w] [x] [y] [z] [numeric0] [numeric1] [numeric2] [numeric3] [numeric4] [numeric5] [numeric6] [numeric7] [numeric8] [numeric9] [numeric*] [numeric+] [numeric-] [numeric/] [numeric.] [f1] [f2] [f3] [f4] [f5] [f6] [f7] [f8] [f9] [f10] [f11] [f12] [numlock] [leftshift] [rightshift] [leftctrl] [rightctrl] [leftmenu] [rightmenu] [;] [=] [,] [-] [.] [/] [~] [[] [|] []] [&apos;]
 
 22 12 6 10 0 eClinet_gold
-%s焊籍
+%s钻石
 
 23 13 6 10 0 eClinet_money
-%d陛拳
+%d金币
 
 25 15 6 10 0 eClinet_exploit
 %d功勋
 
 37 19 14 10 0 eClinet_GoldOrMoney
-%s焊籍或%d陛拳
+%s钻石或%d金币
 
 38 22 12 10 0 eClinet_notenoughmoney
 身上金钱不够
@@ -7620,13 +7631,13 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 功勋不够
 
 37 21 12 10 0 eClinet_notenoughgold
-身上焊籍不够
+身上钻石不够
 
 50 25 21 10 0 eClinet_bagisfullclearbag
 背包已满，请清理背包!
 
 24 14 6 10 0 eClinet_goldor
-焊籍或
+钻石或
 
 27 15 8 10 0 eClinet_buyhero
 购买英雄
@@ -7671,10 +7682,10 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 装备
 
 19 11 4 10 0 eClinet_buy
-备概
+购买
 
 26 14 8 10 0 eClinet_orGold
-或%s焊籍
+或%s钻石
 
 45 25 16 10 0 eClinet_determinegetequip
 确定要领取试用装
@@ -7695,7 +7706,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 创建队伍:%d
 
 57 28 25 10 0 eClinet_youInitiateSurrender
-辑罚磨波聪?? 辑罚磨波聪!!
+你发起了投降,是否确认投降
 
 22 14 4 10 0 eClinet_prompt
 提示
@@ -7728,7 +7739,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 举报
 
 37 21 12 10 0 eClinet_unrealusesucc
-幻灵启用己傍
+幻灵启用成功
 
 35 21 10 10 0 eClinet_nothaveunreal
 幻灵未拥有
@@ -7743,7 +7754,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 描述: 
 
 23 13 6 10 0 eClinet_level
-饭骇: 
+等级: 
 
 44 20 20 10 0 eClinet_deleteunreal
 是否确认删除该幻灵？
@@ -7794,34 +7805,34 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 本次打孔,需要消耗
 
 89 33 52 10 0 eClinet_curstilettoisusemoneygold
-本次打孔,需要消耗"<<umoney<<"陛拳或者"<<ugold<<"焊籍
+本次打孔,需要消耗"<<umoney<<"金币或者"<<ugold<<"钻石
 
 37 19 14 10 0 eClinet_chosepayway
 请选择支付方式
 
 63 29 30 10 0 eClinet_notenoughmoneyusegold
-你没有足够的陛拳，是否使用焊籍
+你没有足够的金币，是否使用钻石
 
 63 29 30 10 0 eClinet_notenoughgoldusemoney
-你没有足够的焊籍，是否使用陛拳
+你没有足够的钻石，是否使用金币
 
 71 29 38 10 0 eClinet_notenoughgoldandmoney
-你没有足够的陛拳或者焊籍，是否立即充值
+你没有足够的金币或者钻石，是否立即充值
 
 49 26 19 10 0 eClinet_LevelGemGiveUpNeed
 级宝石摘除,需要消耗
 
 27 15 8 10 0 eClient_MoneyOr
-陛拳或者
+金币或者
 
 24 16 4 10 0 eClient_GameGold
-焊籍
+钻石
 
 44 20 20 10 0 eClinet_notenoughgem
 背包里面宝石数量不够
 
 42 16 22 10 0 eClinet_fuselose
-合成失败！祝你下次己傍
+合成失败！祝你下次成功
 
 55 32 19 10 0 eClient_LevelGemCompoundNeedCost
 级宝石合成,需要消耗
@@ -7860,7 +7871,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 没有装备需要修理
 
 50 26 20 10 0 eClinet_repairEquipConsume
-修理需要消耗 %d 陛拳
+修理需要消耗 %d 金币
 
 38 20 14 10 0 eClinet_cannotrepair
 该道具不能修理
@@ -7872,7 +7883,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 密码错误，无法打开仓库!
 
 68 35 29 10 0 eClinet_NotenoughgoldOpenstorehouse
-没有足够的焊籍，无法打开仓库!
+没有足够的钻石，无法打开仓库!
 
 54 30 20 10 0 eClinet_itemdontUseInthisScene
 物品不能在该场景使用
@@ -7902,7 +7913,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 有效期已过
 
 55 19 32 10 0 eClinet_TimehaveDay
-有效期还有 %d 小时 %d 分钟 %d 檬
+有效期还有 %d 小时 %d 分钟 %d 秒
 
 49 25 20 10 0 eClient_TimeHaveExceedDay
 有效期还有超过 %d 天
@@ -7932,7 +7943,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 总场数: %d
 
 60 29 27 10 0 eClient_PointOutGameAdultOpen
-舅覆:游戏只是针对成年人开放
+提示:游戏只是针对成年人开放
 
 26 18 4 10 0 eClinet_thecapital
 大写
@@ -7966,28 +7977,28 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 显示区域内怪物
 
 50 27 19 10 0 eClinet_PointOutJustRetreat
-舅覆:%s 正从 %s撤退
+提示:%s 正从 %s撤退
 
 50 27 19 10 0 eClinet_PointOUtLetYouAloof
-舅覆:%s 让你远离 %s
+提示:%s 让你远离 %s
 
 57 31 22 10 0 eClinet_PointOUtLetYouFromAloof
-舅覆:%s 让你从 %s 撤离
+提示:%s 让你从 %s 撤离
 
 63 31 28 10 0 eClinet_PointOutEmitSigalPlease
-舅覆:%s 丛狼脚龋，请小心行事
+提示:%s 发出信号，请小心行事
 
 57 31 22 10 0 eClinet_PointOutInPleaseSupport
-舅覆:%s 在 %s 请求支援
+提示:%s 在 %s 请求支援
 
 41 20 17 10 0 eClinet_PointOutSign
-舅覆:%s 标记了 %s
+提示:%s 标记了 %s
 
 57 27 26 10 0 eClinet_PointOutPleaseLeave
-舅覆:%s 丛狼脚龋，%s硼阿秦
+提示:%s 发出信号，请%s撤退
 
 62 26 32 10 0 eClinet_PointOutPleaseCome
-舅覆:%s 丛狼脚龋，在标记地点集合
+提示:%s 发出信号，在标记地点集合
 
 61 22 35 10 0 eClinet_ClickOrCtrlAdd
 <color=FFFFFFFF>升级 - 点击或者按%s
@@ -7996,7 +8007,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 <color=FFFFFFFF>学习 - 点击或者按%s
 
 23 15 4 10 0 eClinet_Success
-己傍
+成功
 
 29 15 10 10 0 eClient_MapInfo
 地图资料\n
@@ -8011,19 +8022,19 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
  的队伍
 
 22 14 4 10 0 eClient_Accept
-荐遏
+接受
 
 22 14 4 10 0 eClient_Refuse
-芭例
+拒绝
 
 43 18 21 10 0 eClient_GamePlayer
-[color=ffffbf36]蜡历 
+[color=ffffbf36]玩家 
 
 54 21 29 10 0 eClient_EnterIntoRoom
-[color=0xffffffff] 丛捞  涝厘
+[color=0xffffffff] 进入了房间
 
 50 17 29 10 0 eClient_LeaveRoom
-[color=0xffffffff] 丛捞  硼厘
+[color=0xffffffff] 离开了房间
 
 40 21 15 10 0 eClient_YouByKickTeam
 你已被踢出队伍.
@@ -8047,7 +8058,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 你需要花费
 
 58 34 20 10 0 eClient_PointActivateNewGeniusPage
-焊籍来激活新的天赋页
+钻石来激活新的天赋页
 
 83 36 43 10 0 eClient_RightButtonClickGiveUpGenius
 %s\n \n<color=FFFFFF00>右键点击放弃该天赋\n
@@ -8068,64 +8079,64 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 当前等级\n
 
 31 17 10 10 0 eClient_NextLevel
-促澜饭骇\n
+下一等级\n
 
 33 20 9 10 0 eClient_LifeValueAdd
-积疙仿 + 
+生命值 + 
 
 34 21 9 10 0 eClient_MagicValueAdd
-付唱樊 + 
+法力值 + 
 
 37 22 11 10 0 eClient_AttackSpeedAdd
-傍拜加档 + 
+攻击速度 + 
 
 41 26 11 10 0 eClient_CharAttr_MoveSpeed
-捞悼加档 + 
+移动速度 + 
 
 35 22 9 10 0 eClient_CharAttr_Dodge
-雀乔啦 + 
+闪避率 + 
 
 41 26 11 10 0 eClient_CharAttr_HPRecover
-眉仿雀汗 + 
+生命回复 + 
 
 29 21 4 10 0 eClient_PerFiveSecond
-/5檬
+/5秒
 
 41 26 11 10 0 eClient_CharAttr_MPRecover
-付唱雀汗 + 
+法力回复 + 
 
 44 29 11 10 0 eClient_CharAttr_CriticalOdds
 暴击几率 + 
 
 48 33 11 10 0 eClient_CharAttr_PhysicsAttackMax
-拱府傍拜 + 
+物理攻击 + 
 
 42 27 11 10 0 eClient_CharAttr_PhysicsDef
-拱府规绢 + 
+物理防御 + 
 
 45 30 11 10 0 eClient_CharAttr_ArmorPuncture
-拱府包烹 + 
+物理穿透 + 
 
 43 28 11 10 0 eClient_CharAttr_MagicAttack
-林巩碍档 + 
+法术强度 + 
 
 40 25 11 10 0 eClient_CharAttr_MagicDef
-付过历亲 + 
+法术抗性 + 
 
 50 35 11 10 0 eClient_CharAttr_MagicArmorPuncture
-付过包烹 + 
+法术穿透 + 
 
 38 27 7 10 0 eClient_CharAttr_SuperArmor
-碍牢 + 
+韧性 + 
 
 40 25 11 10 0 eClient_CharAttr_HPAbsorb
-积疙软荐 + 
+物理吸血 + 
 
 40 25 11 10 0 eClient_CharAttr_MPAbsorb
-付唱软荐 + 
+法术吸血 + 
 
 64 31 29 10 0 eClient_CharAttr_KillBonusMoney
-击杀任意单位会额外获得陛拳 + 
+击杀任意单位会额外获得金币 + 
 
 59 30 25 10 0 eClient_CharAttr_KillRestoreHP
 击杀任意单位恢复生命值 + 
@@ -8140,7 +8151,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 物理防御每级成长 + 
 
 63 40 19 10 0 eClient_CharAttr_MagicAttack_LevelGrowth
-林巩碍档每级成长 + 
+法术强度每级成长 + 
 
 55 34 17 10 0 eClient_CharAttr_HPMax_LevelGrowth
 生命值每级成长 + 
@@ -8164,7 +8175,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 冷却缩减 + 
 
 59 36 19 10 0 eClient_CharAttr_BonusMoney10Seconds
-每10秒钟增加陛拳 + 
+每10秒钟增加金币 + 
 
 46 31 11 10 0 eClient_CharAttr_InitBonusMoney
 初始金钱 + 
@@ -8194,22 +8205,22 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 黑体
 
 29 19 6 10 0 eClient_HeaveSucess
-  己傍
+  成功
 
 29 19 6 10 0 eClient_HeaveReport
-脚绊  
+举报  
 
 24 16 4 10 0 eClient_QuitTeam
-辆丰
+退出
 
 54 28 22 10 0 eClient_SkillNotUseFreeEquip
 不是当前英雄的专属装备
 
 24 16 4 10 0 eClient_ShopGold
-促具
+钻石
 
 25 17 4 10 0 eClient_ShopMoney
-榜靛
+金币
 
 27 19 4 10 0 eClient_Shopexploit
 功勋
@@ -8218,7 +8229,7 @@ I know. That's all, I'll be all right.   I know. That's why you take me back.   
 英雄
 
 24 16 4 10 0 eClient_shop_Gem
-焊籍
+宝石
 
 28 20 4 10 0 eClient_shop_restore
 药品
@@ -8251,7 +8262,7 @@ Good job.
 装备不满足重铸的条件
 
 69 35 30 10 0 eClient_RepeatAttrNeedExpendDiamond
-每次重铸随机属性需要消耗%d焊籍
+每次重铸随机属性需要消耗%d钻石
 
 54 34 16 10 0 eClient_CongratulationsYouHaveHero
 恭喜你拥有了 %s!
@@ -8284,13 +8295,13 @@ Good job.
 是否接受死亡任务?
 
 89 36 49 10 0 eClient_EquipInlayGemTogetherDestroy
-装备镶嵌有宝石,宝石也会一起销毁\n能获得%d陛拳\n%s
+装备镶嵌有宝石,宝石也会一起销毁\n能获得%d金币\n%s
 
 40 20 16 10 0 eClient_CanGainMoney
-能获得%d陛拳\n%s
+能获得%d金币\n%s
 
 83 41 38 10 0 eClient_TimeItemAndTryOutEquipNoGainMoney
-时效道具和试用装备销毁不能获得陛拳\n%s
+时效道具和试用装备销毁不能获得金币\n%s
 
 90 40 46 10 0 eClient_EquipOtherHeroEquipNotHaveEffect
 装备其他英雄的专属装备将获得不了任何属性和效果
@@ -8302,7 +8313,7 @@ Good job.
 请输入10-10000之间的整数
 
 24 16 4 10 0 eClient_HeroSkin
-胶挪
+皮肤
 
 61 35 22 10 0 eClient_NoIsCurHeroSpecialAttrEquip
 不是当前英雄的专属装备
@@ -8329,7 +8340,7 @@ Good job.
 财产未加锁
 
 64 40 20 10 0 eClient_PointActivateNewGeniusPageByGold
-陛拳来激活新的天赋页
+金币来激活新的天赋页
 
 70 31 35 10 0 eClient_LockPasswordCancelTimeH
 还有 %d天 %d小时 财产锁的密码将取消
@@ -8449,10 +8460,10 @@ Good job.
 或者
 
 55 31 20 10 0 eClient_SpendGoldActivategenius
-焊籍来激活这页天赋页
+钻石来激活这页天赋页
 
 59 33 22 10 0 eClient_NotHaveEnoughMoneyAndGold
-你没有足够的陛拳和焊籍
+你没有足够的金币和钻石
 
 72 40 28 10 0 eClient_PassWordIsNullCanCloseSafetyLock
 密码设置为空会关闭安全锁功能
@@ -8506,7 +8517,7 @@ Good job.
 设定的话语太长，请缩短后重试
 
 38 26 8 10 0 eClient_BattleSignalSaveOK
-保存己傍
+保存成功
 
 36 18 14 10 0 eClient_HeroTryOut
 英雄 %s 的试用
@@ -8569,7 +8580,7 @@ Good job.
 是否继续新手训练?\n如果您是资深玩家可以选择跳过训练直接进入游戏。
 
 64 28 32 10 0 eClient_MoneyNotEnoughRandom
-焊籍不足以继续进行随机，请充值！
+钻石不足以继续进行随机，请充值！
 
 35 21 10 10 0 eClient_Gamble_Random
 随机（%d）
@@ -8584,7 +8595,7 @@ Good job.
 请随机抽取奖品
 
 62 25 33 10 0 eClient_NextGamble_Random
-再次随机抽取奖品需要消耗:%.1f焊籍
+再次随机抽取奖品需要消耗:%.1f钻石
 
 37 19 14 10 0 eClient_MailNoTimes
 邮件即将被删除
@@ -8593,10 +8604,10 @@ Good job.
 邮件保存期还有:%d天
 
 61 27 30 10 0 eClient_Random_SpendAllGold
-本次随机%d次，一共花费%d焊籍！
+本次随机%d次，一共花费%d钻石！
 
 83 24 55 10 0 eClient_Random_SpendGold
-是否消耗焊籍随机，直到随机到,本次随机最多将花费%.1f焊籍
+是否消耗钻石随机，直到随机到,本次随机最多将花费%.1f钻石
 
 26 14 8 10 0 eClient_lotSel
 智能出售
@@ -8611,7 +8622,7 @@ Good job.
 本次铸造魂将花费:
 
 64 39 21 10 0 eClient_EquipSoulNeedSpendGoldNotEnough
-，你的焊籍不够,请充值
+，你的钻石不够,请充值
 
 48 20 24 10 0 eClient_NotEquipSoul
 不是铸魂装备，不能铸魂！
@@ -8716,7 +8727,7 @@ Good job.
 确定
 
 30 18 8 10 0 eClient_Useyuanbao
-使用焊籍
+使用钻石
 
 34 14 16 10 0 eClient_ReName
 输入角色的新名字
@@ -8740,25 +8751,25 @@ Good job.
 名字太短
 
 37 21 12 10 0 eClient_ReNameSucceed
-修改名字己傍
+修改名字成功
 
 136 16 243 2 1 eClient_VIPInfo0
-\n当前不是VIP用户,不享受VIP特权。\n \n下一级(1级)VIP特权：\n{#FFbebebe=      累计充值到达30焊籍可提升至VIP1级，竞技场与战场的基础陛拳与经验奖励提高为1.1倍，首胜奖励提高100陛拳，每日战场有效场次增加到25场，单项VIP功能9.5折。仓库上限提升到30。#}
+\n当前不是VIP用户,不享受VIP特权。\n \n下一级(1级)VIP特权：\n{#FFbebebe=      累计充值到达30钻石可提升至VIP1级，竞技场与战场的基础金币与经验奖励提高为1.1倍，首胜奖励提高100金币，每日战场有效场次增加到25场，单项VIP功能9.5折。仓库上限提升到30。#}
 
 145 16 252 3 2 eClient_VIPInfo1
-\n当前(1级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础陛拳与经验奖励提高为1.1倍，首胜奖励提高100陛拳，每日战场有效场次增加到25场，单项VIP功能9.5折。仓库上限提升到30。#}\n \n下一级(2级)VIP特权：\n{#FFbebebe=      累计充值到达100焊籍可提升至VIP2级，竞技场与战场的基础陛拳与经验奖励提高为1.2倍，首胜奖励提高150陛拳，每日战场有效场次增加到30场，单项VIP功能9折。仓库上限提升到40。#}
+\n当前(1级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础金币与经验奖励提高为1.1倍，首胜奖励提高100金币，每日战场有效场次增加到25场，单项VIP功能9.5折。仓库上限提升到30。#}\n \n下一级(2级)VIP特权：\n{#FFbebebe=      累计充值到达100钻石可提升至VIP2级，竞技场与战场的基础金币与经验奖励提高为1.2倍，首胜奖励提高150金币，每日战场有效场次增加到30场，单项VIP功能9折。仓库上限提升到40。#}
 
 141 16 248 3 2 eClient_VIPInfo2
-\n当前(2级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础陛拳与经验奖励提高为1.2倍，首胜奖励提高150陛拳，每日战场有效场次增加到30场，单项VIP功能9折。仓库上限提升到40。#}\n \n下一级(3级)VIP特权：\n{#FFbebebe=      累计充值到达500焊籍可提升至VIP3级，竞技场与战场的基础陛拳与经验奖励提高为1.3倍，首胜奖励提高200陛拳，每日战场有效场次无上限，单项VIP功能8.5折。仓库上限提升到50。#}
+\n当前(2级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础金币与经验奖励提高为1.2倍，首胜奖励提高150金币，每日战场有效场次增加到30场，单项VIP功能9折。仓库上限提升到40。#}\n \n下一级(3级)VIP特权：\n{#FFbebebe=      累计充值到达500钻石可提升至VIP3级，竞技场与战场的基础金币与经验奖励提高为1.3倍，首胜奖励提高200金币，每日战场有效场次无上限，单项VIP功能8.5折。仓库上限提升到50。#}
 
 138 16 245 3 2 eClient_VIPInfo3
-\n当前(3级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础陛拳与经验奖励提高为1.3倍，首胜奖励提高200陛拳，每日战场有效场次无上限，单项VIP功能8.5折。仓库上限提升到50。#}\n \n下一级(4级)VIP特权：\n{#FFbebebe=      累计充值到达1000焊籍可提升至VIP4级，竞技场与战场的基础陛拳与经验奖励提高为1.5倍，首胜奖励提高250陛拳，每日战场有效场次无上限，单项VIP功能8折。仓库上限提升到60。#}
+\n当前(3级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础金币与经验奖励提高为1.3倍，首胜奖励提高200金币，每日战场有效场次无上限，单项VIP功能8.5折。仓库上限提升到50。#}\n \n下一级(4级)VIP特权：\n{#FFbebebe=      累计充值到达1000钻石可提升至VIP4级，竞技场与战场的基础金币与经验奖励提高为1.5倍，首胜奖励提高250金币，每日战场有效场次无上限，单项VIP功能8折。仓库上限提升到60。#}
 
 136 16 243 3 2 eClient_VIPInfo4
-\n当前(4级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础陛拳与经验奖励提高为1.5倍，首胜奖励提高250陛拳，每日战场有效场次无上限，单项VIP功能8折。仓库上限提升到60。#}\n \n下一级(5级)VIP特权：\n{#FFbebebe=      累计充值到达5000焊籍可提升至VIP5级，竞技场与战场的基础陛拳与经验奖励提高为1.5倍，首胜奖励提高250陛拳，每日战场有效场次无上限，单项VIP功能8折。仓库上限提升到70。#}
+\n当前(4级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础金币与经验奖励提高为1.5倍，首胜奖励提高250金币，每日战场有效场次无上限，单项VIP功能8折。仓库上限提升到60。#}\n \n下一级(5级)VIP特权：\n{#FFbebebe=      累计充值到达5000钻石可提升至VIP5级，竞技场与战场的基础金币与经验奖励提高为1.5倍，首胜奖励提高250金币，每日战场有效场次无上限，单项VIP功能8折。仓库上限提升到70。#}
 
 235 16 214 1 1 eClient_VIPInfo5
-\n当前(5级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础陛拳与经验奖励提高为1.5倍，首胜奖励提高250陛拳，每日战场有效场次无上限，单项VIP功能8折。仓库上限提升到70。好友上限增加到130人。#}\n \n当前已经是最高VIP等级。
+\n当前(5级)VIP特权：\n{#FF0cc208=      竞技场与战场的基础金币与经验奖励提高为1.5倍，首胜奖励提高250金币，每日战场有效场次无上限，单项VIP功能8折。仓库上限提升到70。好友上限增加到130人。#}\n \n当前已经是最高VIP等级。
 
 38 16 18 10 0 eClient_VIPInfo6
 \n6级VIP特权：你猜
@@ -8773,7 +8784,7 @@ Good job.
 当前无效
 
 29 17 8 10 0 eClient_EquipSet0
-扁夯技飘
+默认套装
 
 30 17 9 10 0 eClient_EquipSet1
 扩展套装1
@@ -8794,103 +8805,103 @@ Good job.
 [同装备唯一]
 
 33 17 12 10 0 eClient_hideTitle
-〖莫龋见辫〗
+【隐藏称号】
 
 134 15 115 1 0 eClient_ReqDuel
-输入挑战的对手名字，每次挑战需要1个Solo许可证和2000陛拳的手续费，如果取消挑战或者对方拒绝Solo许可证将通过邮件返还。
+输入挑战的对手名字，每次挑战需要1个Solo许可证和2000金币的手续费，如果取消挑战或者对方拒绝Solo许可证将通过邮件返还。
 
 44 23 17 10 0 eClient_RequestDuelItem
-Solo倾啊刘1俺鞘夸
+需要1个Solo许可证
 
 34 22 8 10 0 eClient_ServerName1002
-浅覆拳魂
+风林火山
 
 34 22 8 10 0 eClient_ServerName1003
-烙捍滴磊
+临兵斗者
 
 35 23 8 10 0 eClient_ServerName10611
-档八脚开
+刀剑神域
 
 35 23 8 10 0 eClient_ServerName11111
-己硅傈里
+圣杯战争
 
 35 23 8 10 0 eClient_ServerName12291
-例措己开
+绝对领域
 
 35 23 8 10 0 eClient_ServerName12292
-困浅寸寸
+威风堂堂
 
 35 23 8 10 0 eClient_ServerName12293
-切盔档矫
+学园都市
 
 35 23 8 10 0 eClient_ServerName12294
-傍狼版拌
+空之境界
 
 35 23 8 10 0 eClient_ServerName12431
-荤空柳救
+邪王真眼
 
 35 23 8 10 0 eClient_ServerName12394
-玫碍瘤拱
+天降之物
 
 35 23 8 10 0 eClient_ServerName12432
-根惑豪牢
+梦想封印
 
 35 23 8 10 0 eClient_ServerName12591
-柳拜芭牢
+进击巨人
 
 35 23 8 10 0 eClient_ServerName20000
-公茄八力
+无限剑制
 
 35 23 8 10 0 eClient_ServerName20001
-傍狼版拌
+空之境界
 
 35 23 8 10 0 eClient_ServerName20002
-付赤瘤具
+魔女之夜
 
 35 23 8 10 0 eClient_ServerName20003
-根惑豪牢
+梦想封印
 
 35 23 8 10 0 eClient_ServerName20004
-玫剧疤拳
+天壤劫火
 
 35 23 8 10 0 eClient_ServerName20005
-角倡己藕
+失落圣诞
 
 35 23 8 10 0 eClient_ServerName20006
-盔券瘤府
+圆环之理
 
 31 23 4 10 0 eClient_ServerName20007
 XXXX
 
 35 23 8 10 0 eClient_ServerName20008
-楷锐公街
+恋姬无双
 
 35 23 8 10 0 eClient_ServerName20009
-啊加技拌
+加速世界
 
 35 23 8 10 0 eClient_ServerName20010
-扁背家赤
+机巧少女
 
 35 23 8 10 0 eClient_ServerName20011
-了狼空包
+罪恶王冠
 
 35 23 8 10 0 eClient_ServerName20012
-宽老瘤缴
+旭日之心
 
 35 23 8 10 0 eClient_ServerName20013
-例戈玫荤
+绝灭天使
 
 35 23 8 10 0 eClient_ServerName20014
-颇焙啊锐
+破军歌姬
 
 35 23 8 10 0 eClient_ServerName20015
-炔陛必厘
+黄金剧场
 
 35 23 8 10 0 eClient_ServerName20016
-版拌历祈
+境界彼方
 
 32 22 6 10 0 eClient_ServerName5000
-抛胶飘
+体验服
 
 184 19 160 1 1 eClient_FirstOper41
 是否打开自动购买推荐装备?\n\n打开自动购买推荐装备,系统将自动帮你完成推荐装备的购买,在这期间是不能手动购买和出售,消耗品不受影响。\n\n关闭该功能在商店界面左上角。
@@ -8902,58 +8913,58 @@ XXXX
 是否关闭自动购买推荐装备?\n\n关闭自动购买推荐装备,只能手动购买和出售装备。\n\n再次打开该功能在商店界面左上角。
 
 35 24 7 10 0 eClient_ChatChannelGuild
-辨靛 /g
+公会 /g
 
 44 18 22 10 0 eClient_FirstPay10
-首次充值单笔满 10 焊籍
+首次充值单笔满 10 钻石
 
 50 24 22 10 0 eClient_FirstPay10_Award
 346;1000:805;1:25116;2
 
 44 18 22 10 0 eClient_FirstPay50
-首次充值单笔满 50 焊籍
+首次充值单笔满 50 钻石
 
 51 24 23 10 0 eClient_FirstPay50_Award
 346;5000:805;4:25116;10
 
 46 19 23 10 0 eClient_FirstPay100
-首次充值单笔满 100 焊籍
+首次充值单笔满 100 钻石
 
 62 25 33 10 0 eClient_FirstPay100_Award
 346;10000:805;8:25116;10:25115;10
 
 46 19 23 10 0 eClient_FirstPay300
-首次充值单笔满 300 焊籍
+首次充值单笔满 300 钻石
 
 53 25 24 10 0 eClient_FirstPay300_Award
 346;30000:805;21:27050;1
 
 46 19 23 10 0 eClient_FirstPay500
-首次充值单笔满 500 焊籍
+首次充值单笔满 500 钻石
 
 53 25 24 10 0 eClient_FirstPay500_Award
 346;50000:805;30:27051;1
 
 48 20 24 10 0 eClient_FirstPay1000
-首次充值单笔满 1000 焊籍
+首次充值单笔满 1000 钻石
 
 86 26 56 10 0 eClient_FirstPay1000_Award
 346;50000:41052;4:41082;4:41002;4@41122;4:805;50:27034;1
 
 48 20 24 10 0 eClient_FirstPay2000
-首次充值单笔满 2000 焊籍
+首次充值单笔满 2000 钻石
 
 126 26 96 10 0 eClient_FirstPay2000_Award
 346;50000:41052;6:41082;6:41002;6@41122;6:41054;1:41084;1:41004;1@41124;1:805;80:27050;1:27051;1
 
 48 20 24 10 0 eClient_FirstPay3000
-首次充值单笔满 3000 焊籍
+首次充值单笔满 3000 钻石
 
 130 26 100 1 0 eClient_FirstPay3000_Award
 346;50000:41052;12:41082;12:41002;12@41122;12:41054;3:41084;3:41004;3@41124;3:805;90:27051;1:27034;1
 
 48 20 24 10 0 eClient_FirstPay5000
-首次充值单笔满 5000 焊籍
+首次充值单笔满 5000 钻石
 
 135 26 105 1 0 eClient_FirstPay5000_Award
 346;50000:41054;4:41084;4:41004;4@41124;4:41055;1:41085;1:41005;1@41125;1:805;100:27050;1:27051;1@27034;1
@@ -9040,7 +9051,7 @@ XXXX
 铸魂装备不能炼金!
 
 33 19 10 10 0 eClient_AlchemySucc
-炼金己傍！
+炼金成功！
 
 44 27 13 10 0 eClient_AlchemynotFindEquip
 装备不能找到!
@@ -9061,7 +9072,7 @@ XXXX
 炼金属性个数已经达到最大值！
 
 49 31 14 10 0 eClient_AlchemyerestoreAttrSucc
-还原属性己傍！
+还原属性成功！
 
 56 27 25 10 0 eClient_AlchemyeIsCoverAttr
 是否覆盖掉已经炼金的属性?
@@ -9073,16 +9084,16 @@ XXXX
 组队跨服
 
 25 16 5 10 0 eClient_UI_Match
-教 臂
+单 人
 
 25 16 5 10 0 eClient_UI_Enter
-涝 仿
+进 入
 
 30 16 10 10 0 eClient_GetMoney
-获得%d陛拳
+获得%d金币
 
 30 16 10 10 0 eClient_UseMoney
-消费%d陛拳
+消费%d金币
 
 34 26 4 10 0 eClinet_battleevaluateitem
 荣誉
@@ -9094,7 +9105,7 @@ XXXX
 %d荣誉
 
 25 17 4 10 0 eClient_UI_Single
-教臂
+单人
 
 27 19 4 10 0 eClient_UI_DeadMode
 跨服
@@ -9119,4 +9130,7 @@ XXXX
 
 82 22 56 10 0 eClient_CombineGem_Tip
 融合双色宝石的品质:75%普通,20%精良,5%优质,极其稀少的完美
+
+44 24 16 10 0 eClient_SetMainBKSuccess
+设置主页背景成功
 
