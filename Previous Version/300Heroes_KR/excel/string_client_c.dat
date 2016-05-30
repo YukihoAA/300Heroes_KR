@@ -2567,7 +2567,7 @@ $
 eCreate_BirthdayÇëÑ¡Ôñ³öÉúÈÕÆÚ£¡
 
 eLogin_Logining
-·Î±×ÀÎ ¡¦
+·Î±×ÀÎ¡¡¡¦
 
 eText_ConFail¿¬°á½ÇÆĞ
 
@@ -5803,7 +5803,7 @@ $eClient_CharAttr_BonusMoney10SecondsÃ¿10ÃëÖÓÔö¼Ó½ğ±Ò +
 .
 eClient_CharAttr_InitBonusMoney³õÊ¼½ğÇ® + 
 
-eClient_UnKnownAddºÒ¸í +
+eClient_UnKnownAddºÒ¸í + 
 
 eClient_OneLevel ( 1Lv ) ~ 
 #
