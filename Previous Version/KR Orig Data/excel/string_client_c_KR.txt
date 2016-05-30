@@ -1,0 +1,2370 @@
+63 20 39 10 0 eLogin_UserPassError
+접속실패：{#FFd8ea62=계정or암호오류！#}
+
+76 19 53 10 0 eLogin_VersionError
+접속실패：{#FFd8ea62=클라이언트를업데이트해주세요！#}
+
+61 16 41 10 0 eLogin_UserError
+접속실패：{#FFd8ea62=잘못된 암호입니다!#}
+
+65 20 41 10 0 eLogin_PasswordError
+접속실패：{#FFd8ea62=잘못된 암호입니다!#}
+
+74 16 54 10 0 eLogin_UseOnline
+특별안내：{#FFd8ea62=로그인되어있는계정, 재접속필요!#}
+
+66 21 41 10 0 eLogin_UsePassError_1
+접속실패：{#FFd8ea62=잘못된 암호입니다!#}
+
+38 16 18 10 0 eLogin_LastLogin
+최종접속서버명：%s
+
+44 14 26 10 0 eLogin_TimeOut
+서버응답없음, 잠시후시도！
+
+44 20 20 10 0 eLogin_AccountOnline
+이미접속중인소환사！
+
+39 23 12 10 0 eLogin_WaitingSignining
+연결취소(%d)
+
+46 28 14 10 0 eLogin_WaitingUserDisConnect
+연결취소는클릭
+
+17 11 2 10 0 eText_Empty
+　
+
+34 16 14 10 0 eLogin_CurServer
+최근서버명：%s
+
+51 14 33 10 0 eLogin_UnKnown
+접속실패：{#FFd8ea62=알수없음！#}
+
+32 14 14 10 0 eLogin_CurLine
+현재회선：%d선
+
+25 15 6 10 0 eLogin_LineName
+ %d 선
+
+29 21 4 10 0 eLogin_LineState_Idle
+쾌적
+
+31 23 4 10 0 eLogin_LineState_Normal
+양호
+
+29 21 4 10 0 eLogin_LineState_Busy
+혼잡
+
+29 21 4 10 0 eLogin_LineState_Full
+만원
+
+32 24 4 10 0 eLogin_LineState_Unknown
+불명
+
+59 22 33 10 0 eCreate_PlayerNameSame
+생성실패：{#FFd8ea62=중복이름！#}
+
+56 19 33 10 0 eCreate_SystemError
+생성실패：{#FFd8ea62=생성오류！#}
+
+52 15 33 10 0 eCreate_TimeOut
+생성실패：{#FFd8ea62=시간초과！#}
+
+56 19 33 10 0 eCreate_InvalidName
+생성실패：{#FFd8ea62=금지이름！#}
+
+22 10 8 10 0 eSystemMsg
+공지사항
+
+31 17 10 10 0 eDeletePlayerFail
+삭제실패！
+
+57 13 40 10 0 eExchange_Ask
+{#FFFFD940=%s#} 거래요청도착，수락희망？
+
+26 12 10 10 0 eExchange_OK
+거래확정？
+
+35 19 12 10 0 eExchange_OtherExit
+거래상대퇴장
+
+33 17 12 10 0 eExchange_Error_2
+상대거래거부
+
+35 17 14 10 0 eExchange_Error_3
+상대거래취소！
+
+31 13 14 10 0 ePack_NotGrid
+인벤토리꽉참！
+
+28 14 10 10 0 eExchange_fail
+거래실패！
+
+35 17 14 10 0 eExchange_timeout
+거래시간초과！
+
+35 17 14 10 0 eExchange_ItemCnt
+물품수량을지정
+
+54 18 32 10 0 eExchange_NotMoney
+소유금화부족，해당옵션선택불가！
+
+40 18 18 10 0 eExchange_InputCnt
+정확한수량을입력！
+
+45 17 24 10 0 eExchange_NotGrid
+물건수납공간이부족해요！
+
+43 21 18 10 0 eExchange_InputBuyCnt
+물건구매수량을입력
+
+43 21 18 10 0 ePack_InputTakeOutCnt
+가져갈물건수량입력
+
+46 22 20 10 0 eExchange_InputSellCnt
+판매할물품의갯수입력
+
+22 12 6 10 0 eUI_InputBox
+입력창
+
+41 17 20 10 0 eUI_InputThrowCnt
+버릴 물품의 갯수입력
+
+20 12 4 10 0 eUI_Exchange
+거래
+
+25 13 8 10 0 eUI_AddFriend
+친구추가
+
+16 8 4 10 0 eUI_Team
+초대
+
+20 12 4 10 0 eUI_FellowMe
+동행
+
+31 13 14 10 0 eItem_UseFail
+물품사용실패！
+
+21 13 4 10 0 eUnknown_fail
+실패
+
+33 13 16 10 0 eUI_EquipFail
+장비삭제를실패！
+
+17 9 4 10 0 eUI_Price
+가격
+
+24 12 8 10 0 eUI_ExitGame
+로그아웃
+
+29 13 12 10 0 eUI_InputName
+이름을입력！
+
+30 14 12 10 0 eUI_PlayerFull
+캐릭터만원！
+
+21 13 4 10 0 eUI_ItemLvl_0
+보통
+
+21 13 4 10 0 eUI_ItemLvl_1
+기본
+
+21 13 4 10 0 eUI_ItemLvl_2
+정밀
+
+21 13 4 10 0 eUI_ItemLvl_3
+희귀
+
+21 13 4 10 0 eUI_ItemLvl_4
+신기
+
+21 13 4 10 0 eUI_Unknown_0
+불명
+
+21 13 4 10 0 eUI_Unknown_1
+불명
+
+28 20 4 10 0 eProfession_Assassin
+암살
+
+27 19 4 10 0 eProfession_Warrior
+전사
+
+28 18 6 10 0 eProfession_Knight
+수호자
+
+25 17 4 10 0 eProfession_Rabbi
+법사
+
+28 18 6 10 0 eProfession_Priest
+대사제
+
+27 19 4 10 0 eProfession_Unknown
+불명
+
+25 15 6 10 0 eUI_AttStrength
+공격력
+
+29 17 8 10 0 eUI_MagicStrength
+주문강도
+
+13 7 2 10 0 eUI_Yes
+예
+
+12 6 2 10 0 eUI_NO
+NO
+
+21 9 8 10 0 eUI_AddHP
+체력회복
+
+21 9 8 10 0 eUI_AddMP
+마나회복
+
+24 10 10 10 0 eUI_AddExp
+경험치증가
+
+32 15 13 10 0 eUI_Add_Unknown
+추가효과:불명
+
+24 12 8 10 0 eUI_AttSpeed
+공격속도
+
+27 15 8 10 0 eUI_AttackSpeed
+공격속도
+
+33 19 10 10 0 eUI_stPlayAtt_Blaze
+불속성공격
+
+33 19 10 10 0 eUI_stPlayAtt_Frost
+빙속성공격
+
+35 21 10 10 0 eUI_stPlayAtt_Thunder
+광속성공격
+
+34 20 10 10 0 eUI_stPlayAtt_Poison
+독속성공격
+
+30 20 6 10 0 eUI_ePlayAtt_Physics
+공격력
+
+30 18 8 10 0 eUI_ePlayAtt_Magic
+주문강도
+
+28 16 8 10 0 eUI_Hurt_Physics
+추가피해
+
+26 14 8 10 0 eUI_Hurt_Magic
+주문강도
+
+26 12 10 10 0 eUI_Hurt_Ice
+빙속성공격
+
+27 13 10 10 0 eUI_Hurt_Fire
+불속성공격
+
+28 14 10 10 0 eUI_Hurt_Light
+광속성공격
+
+27 13 10 10 0 eUI_Hurt_Dark
+독속성공격
+
+18 10 4 10 0 eUI_sExact
+명중
+
+26 14 8 10 0 eUI_CritialHit
+치명확률
+
+28 18 6 10 0 eUI_CriticalDamage
+치명타
+
+20 12 4 10 0 eUI_sAddLuck
+행운
+
+30 18 8 10 0 eUI_sIntonateSpeed
+영창속도
+
+29 17 8 10 0 eUI_stAtkSpeedAdd
+공격속도
+
+35 21 10 10 0 eUI_stPlayAtt_Blaze_0
+불속성공격
+
+35 21 10 10 0 eUI_stPlayAtt_Frost_0
+빙속성공격
+
+37 23 10 10 0 eUI_stPlayAtt_Thunder_0
+광속성공격
+
+28 16 8 10 0 eUI_ePlayHolyDef
+신성방어
+
+23 15 4 10 0 eUI_sPhysicsDef
+방어
+
+30 16 10 10 0 eUI_ePlayFireDef
+불속성저항
+
+29 15 10 10 0 eUI_ePlayIceDef
+빙속성저항
+
+31 17 10 10 0 eUI_ePlayLightDef
+광속성저항
+
+30 16 10 10 0 eUI_ePlayDarkDef
+암속성저항
+
+20 10 6 10 0 eUI_nHpMax
+생명력
+
+25 15 6 10 0 eUI_shieldValue
+방어력
+
+25 13 8 10 0 eUI_sHpMaxPer
+최대체력
+
+20 10 6 10 0 eUI_sMpMax
+마나량
+
+25 13 8 10 0 eUI_sMpMaxPer
+최대마나
+
+25 13 8 10 0 eUI_HpRestore
+체력회복
+
+25 13 8 10 0 eUI_MpRestore
+마나회복
+
+29 17 8 10 0 eUI_danderRestore
+분노회복
+
+29 17 8 10 0 ui_energy_Restore
+기력회복
+
+30 14 12 10 0 eUI_sHpRestore
+체력회복/5초
+
+30 14 12 10 0 eUI_sMpRestore
+마나회복/5초
+
+28 16 8 10 0 eUI_sReboundRate
+물리반사
+
+18 10 4 10 0 eUI_sDodge
+회피
+
+22 14 4 10 0 eUI_sAddLuck_0
+행운
+
+28 16 8 10 0 eUI_sComposeRate
+합성확률
+
+34 18 12 10 0 eUI_fBaseMoveSpeed
+기본이동속도
+
+26 14 8 10 0 eUI_fMoveSpeed
+이동속도
+
+27 15 8 10 0 eUI_ustPrepTime
+영창시간
+
+36 20 12 10 0 eUI_ustStatusHitRate
+명중확률상태
+
+23 13 6 10 0 eUI_ustCostHP
+HP소모
+
+23 13 6 10 0 eUI_ustCostMP
+MP소모
+
+42 26 12 10 0 eUI_stDamageEffectDistance
+피해유효거리
+
+31 17 10 10 0 eUI_CoolDownMinus
+쿨타임감소
+
+33 23 6 10 0 eUI_dwSkillColddownTime
+쿨타임
+
+29 17 8 10 0 eUI_iDurationTime
+공격속도
+
+33 19 10 10 0 eUI_fChanged_ExpMul
+경험치개편
+
+42 23 15 10 0 eUI_ePlayAtt_PhysicsPer
+공격개편 백분비
+
+44 21 19 10 0 eUI_ePlayAtt_MagicPer
+주문강도개편 백분비
+
+44 19 21 10 0 eUI_ePlayAtt_IcePer
+빙속성공격개편 백분비
+
+45 20 21 10 0 eUI_ePlayAtt_FirePer
+화속성공격개편 백분비
+
+48 23 21 10 0 eUI_ePlayAtt_ThunderPer
+광속성공격개편 백분비
+
+47 22 21 10 0 eUI_ePlayAtt_PoisonPer
+암속성공격개편 백분비
+
+22 14 4 10 0 eUI_SuperArmor
+강인
+
+30 18 8 10 0 eUI_DamageIncrease
+피해증가
+
+31 19 8 10 0 eUI_DamageReduction
+피해감소
+
+29 17 8 10 0 eUI_ArmorPuncture
+방어관통
+
+34 22 8 10 0 eUI_MagicArmorPuncture
+주문관통
+
+36 24 8 10 0 eUI_ArmorPuncturePercent
+방어관통
+
+41 29 8 10 0 eUI_MagicArmorPuncturePercent
+주문관통
+
+34 26 4 10 0 eUI_ChangedPlayAtt_Physics
+공격
+
+36 24 8 10 0 eUI_ChangedPlayAtt_Magic
+주문강도
+
+36 22 10 10 0 eUI_ChangedPlayAtt_Ice
+빙속성공격
+
+37 23 10 10 0 eUI_ChangedPlayAtt_Fire
+불속성공격
+
+40 26 10 10 0 eUI_ChangedPlayAtt_Thunder
+광속성공격
+
+39 25 10 10 0 eUI_ChangedPlayAtt_Poison
+독속성공격
+
+35 27 4 10 0 eUI_stChangedPhysicsDef_Per
+방어
+
+31 23 4 10 0 eUI_ChangededPhysicsDef
+방어
+
+33 21 8 10 0 eUI_ChangededMagicDef
+주문저항
+
+39 25 10 10 0 eUI_ChangedDefElement_Ice
+빙속성저항
+
+40 26 10 10 0 eUI_ChangedDefPlayDef_Fire
+불속성저항
+
+43 29 10 10 0 eUI_ChangedDefPlayDef_Thunder
+광속성저항
+
+42 28 10 10 0 eUI_ChangedDefPlayDef_Poison
+암속성저항
+
+43 27 12 10 0 eUI_stChangWeapon_Attribute
+무기속성개편
+
+38 22 12 10 0 eUI_stChangWeapon_Only
+장비고유속성
+
+48 25 19 10 0 eUI_stChanged_FianHurtPer
+최종개편피해 백분비
+
+38 22 12 10 0 eUI_stChanged_FianHurt
+최종개편피해
+
+36 20 12 10 0 eUI_stMagic_FreeHurt
+마력상쇄피해
+
+46 23 19 10 0 eUI_stMagic_FreeHurtPer
+마력상쇄피해 백분비
+
+33 19 10 10 0 eUI_stChanged_HPMax
+체력최대량
+
+43 22 17 10 0 eUI_stChanged_HPMaxPer
+체력최대량 백분비
+
+33 19 10 10 0 eUI_stChanged_MPMax
+마나최대량
+
+43 22 17 10 0 eUI_stChanged_MPMaxPer
+마나최대량 백분비
+
+27 15 8 10 0 eUI_stResume_HP
+체력회복
+
+27 15 8 10 0 eUI_stResume_MP
+마나회복
+
+28 16 8 10 0 eUI_stChanged_HP
+체력변동
+
+28 16 8 10 0 eUI_stChanged_MP
+마나변동
+
+37 21 12 10 0 eUI_stChanged_AttRect
+공격거리변동
+
+33 17 12 10 0 eUI_stChanged_Hit
+명중능력변동
+
+39 23 12 10 0 eUI_stChanged_FrenzyPer
+치명확률변동
+
+38 22 12 10 0 eUI_fChanged_FrenzyVal
+치명배수변동
+
+36 24 8 10 0 eUI_stChanged_ReboundVal
+피해반사
+
+32 15 13 10 0 eHurtImmunity_0
+피해저항 물리
+
+32 15 13 10 0 eHurtImmunity_1
+피해저항 주문
+
+34 15 15 10 0 eHurtImmunity_2
+피해저항 빙속성
+
+34 15 15 10 0 eHurtImmunity_3
+피해저항 화속성
+
+34 15 15 10 0 eHurtImmunity_4
+피해저항 광속성
+
+34 15 15 10 0 eHurtImmunity_5
+피해저항 독속성
+
+23 11 8 10 0 eStatusFree
+저항상태
+
+33 14 15 10 0 eStatusFreePer
+저항상태 백분비
+
+22 10 8 10 0 eHedgeNull
+회피무시
+
+24 12 8 10 0 eUI_HPAbsorb
+생명흡수
+
+32 22 6 10 0 eUI_stAbsorbExtraHPVal
+흡혈률
+
+24 12 8 10 0 eUI_MPAbsorb
+마나흡수
+
+32 22 6 10 0 eUI_stAbsorbExtraMPVal
+흡수량
+
+33 21 8 10 0 eUI_fMoveSpeedChanged
+이동속도
+
+34 21 9 10 0 eUI_stAttSpeedChanged
+%공격속도
+
+26 14 8 10 0 eUI_bIsMoveAtt
+이동공격
+
+34 22 8 10 0 eUI_stPrepSpeedChanged
+영창속도
+
+32 20 8 10 0 eUI_Element_Ice_Hurt
+빙결피해
+
+33 21 8 10 0 eUI_Element_Fire_Hurt
+화염피해
+
+38 24 10 10 0 eUI_Element_Thunder_Hurt
+광속성피해
+
+37 23 10 10 0 eUI_Element_Poison_Hurt
+독속성피해
+
+35 21 10 10 0 eUI_stChangedPhy_Hurt
+공격력증가
+
+45 24 17 10 0 eUI_stChangedPhy_HurtPer
+공격력증가 백분비
+
+44 23 17 10 0 eUI_Element_Ice_HurtPer
+빙속성피해 백분비
+
+45 24 17 10 0 eUI_Element_Fire_HurtPer
+화속성피해 백분비
+
+48 27 17 10 0 eUI_Element_Thunder_HurtPer
+광속성피해 백분비
+
+47 26 17 10 0 eUI_Element_Poison_HurtPer
+독속성피해 백분비
+
+41 33 4 10 0 eClient_MonsterType_NormalMonster
+보통
+
+32 24 4 10 0 eClient_MonsterType_Mine
+광물
+
+32 24 4 10 0 eClient_MonsterType_Wood
+목재
+
+36 28 4 10 0 eClient_MonsterType_Treasure
+상자
+
+34 26 4 10 0 eClient_MonsterRace_Animal
+동물
+
+33 25 4 10 0 eClient_MonsterRace_Human
+인간
+
+33 25 4 10 0 eClient_MonsterRace_Plant
+식물
+
+34 26 4 10 0 eClient_MonsterRace_Undead
+불사
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Normal
+【일반】
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Family
+【가족】
+
+47 35 8 10 0 eClient_Chat_Prepositive_Text_Guild
+【길드】
+
+46 34 8 10 0 eClient_Chat_Prepositive_Text_Team
+【팀원】
+
+49 37 8 10 0 eClient_Chat_Prepositive_Text_Private
+【귓말】
+
+47 35 8 10 0 eClient_Chat_Prepositive_Text_World
+【월드】
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Friend
+【친구】
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_System
+【공지】
+
+47 35 8 10 0 eClient_Chat_Prepositive_Text_Shout
+【나팔】
+
+53 37 12 10 0 eClient_Chat_Prepositive_Text_ShoutEx
+【영원나팔】
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Region
+【전체】
+
+48 36 8 10 0 eClient_Chat_Prepositive_Text_Nation
+【국가】
+
+47 35 8 10 0 eClient_Chat_Prepositive_Text_Lobby
+【로비】
+
+30 21 5 10 0 eClient_Npc_CanAccept
+-가용
+
+30 21 5 10 0 eClient_Npc_CanFinish
+-완료
+
+29 18 7 10 0 eClinet_Npc_Undone
+-진행중
+
+37 24 9 10 0 eClinet_Npc_Unsuccessful
+-임무실패
+
+23 15 4 10 0 eClient_NpcTalk
+대화
+
+23 15 4 10 0 eClient_NpcHelp
+도움
+
+23 15 4 10 0 eClient_NpcShop
+상점
+
+27 19 4 10 0 eClient_NpcTransmit
+송신
+
+24 16 4 10 0 eClient_NpcLeave
+떠남
+
+31 23 4 10 0 eClient_PetState_Defend
+방어
+
+38 30 4 10 0 eClient_PetState_CounterStrike
+반격
+
+31 23 4 10 0 eClient_PetState_Attack
+공격
+
+33 25 4 10 0 eClient_PetQuality_Normal
+보통
+
+46 25 17 10 0 eClient_PetQuality_Better
+{#ff00ffff=양호#}
+
+44 23 17 10 0 eClient_PetQuality_Good
+{#ffffdb32=우수#}
+
+49 28 17 10 0 eClient_PetQuality_Excellent
+{#ffff6c32=출중#}
+
+47 26 17 10 0 eClient_PetQuality_Perfect
+{#ffd632ff=최고#}
+
+20 14 2 10 0 eClient_Level1
+급
+
+23 13 6 10 0 eClient_Level
+등급：
+
+21 11 6 10 0 eClient_Sex
+성별：
+
+28 16 8 10 0 eClient_GrowAttr
+성장속성
+
+31 19 8 10 0 eClient_BindingAttr
+귀속속성
+
+25 15 6 10 0 eClient_UnBeset
+미설정
+
+26 16 6 10 0 eClient_EquipOne
+장비①
+
+26 16 6 10 0 eClinet_EquipTwo
+장비②
+
+28 18 6 10 0 eClient_EquipThree
+장비③
+
+27 17 6 10 0 eClient_EquipFour
+장비④
+
+27 17 6 10 0 eClient_EquipFive
+장비⑤
+
+25 15 6 10 0 eClinet_AttrOne
+속성①
+
+25 15 6 10 0 eClient_AttrTwo
+속성②
+
+23 13 6 10 0 eClient_Three
+속성③
+
+22 12 6 10 0 eClient_Four
+속성④
+
+23 15 4 10 0 eClient_Warrior
+전사
+
+24 14 6 10 0 eClient_Knight
+수호자
+
+24 16 4 10 0 eClient_Assassin
+암살
+
+20 12 4 10 0 eClient_Mage
+법사
+
+24 14 6 10 0 eClient_Priest
+대사제
+
+31 19 8 10 0 eClient_RestoreItem
+회복약품
+
+31 19 8 10 0 eClient_ComposeItem
+합성재료
+
+35 23 8 10 0 eClient_InitiativeSkill
+사용능력
+
+28 16 8 10 0 eClient_TaskItem
+임무물품
+
+31 17 10 10 0 eClient_ItemLevel
+물품등급：
+
+24 12 8 10 0 eClient_Rare
+희귀도：
+
+30 16 10 10 0 eClient_UseLevel
+사용등급：
+
+32 18 10 10 0 eClient_SkillLevel
+기술등급：
+
+27 15 8 10 0 eClient_MPConst
+MP소모：
+
+32 20 8 10 0 eClient_ColdDownTime
+쿨타임：
+
+33 21 8 10 0 eClient_FunEquipBoost
+장비강화
+
+30 18 8 10 0 eClient_MailTitle1
+제목：%s
+
+30 18 8 10 0 eClient_MailTitle2
+제목：　
+
+34 22 8 10 0 eClient_FunGoldConsign
+금화거래
+
+52 38 10 10 0 eClient_InputBox_PrivateShopChangeName
+상점명입력
+
+21 9 8 10 0 Name_Soul
+영혼상태
+
+41 25 12 10 0 Name_IlluminatiPrometheus
+프로메테우스
+
+28 16 8 10 0 Name_MonthRabbit
+세일러문
+
+33 21 8 10 0 Name_AnamnesisCoherer
+형상금속
+
+28 16 8 10 0 Name_RomeMonarch
+로마황제
+
+38 24 10 10 0 Name_DestroyDragonTrojan
+멸룡마검사
+
+23 13 6 10 0 Name_Succubae
+메두사
+
+27 15 8 10 0 Name_CattleKing
+평천대성
+
+24 16 4 10 0 Name_ProtectLing
+삼장
+
+32 18 10 10 0 Name_ExplorerLaura
+탐험가로라
+
+29 17 8 10 0 Name_RockColossus
+암석거인
+
+34 24 6 10 0 Name_DestroyDragonTrojan
+강시왕
+
+34 24 6 10 0 Name_DestroyDragonTrojan
+소강시
+
+23 11 8 10 0 Name_Monkey
+리틀몽키
+
+29 17 8 10 0 Name_PrettyHunter
+야만용사
+
+27 15 8 10 0 Name_StyxPunter
+명하도자
+
+24 14 6 10 0 Name_StormLady
+메데아
+
+29 17 8 10 0 Name_AraneidBegum
+용주공주
+
+30 18 8 10 0 Name_AnchorCaptain
+거묘선장
+
+27 15 8 10 0 Name_bianyimogu
+변이버섯
+
+33 19 10 10 0 Name_huaxingzhanshi
+아바타용사
+
+29 17 8 10 0 Name_jifengzhiren
+모치즈키
+
+25 15 6 10 0 Name_meihouwang
+미후왕
+
+29 19 6 10 0 Name_manchuiyongshi
+크루거
+
+28 18 6 10 0 Name_yingxiongwang
+사오정
+
+28 16 8 10 0 Name_emuolieshou
+실바나스
+
+24 16 4 10 0 Name_jixiegongdi
+월-E
+
+26 18 4 10 0 Name_hanbingnvjisi
+쿨라
+
+27 17 6 10 0 Name_leitingzhinu
+메데아
+
+27 15 8 10 0 Name_kapaidashi
+카드달인
+
+21 13 4 10 0 Name_mangseng
+맹승
+
+18 10 4 10 0 Name_liluo
+보카
+
+22 12 6 10 0 Name_qiandai
+섀도우
+
+21 11 6 10 0 Name_kalasi
+칼라스
+
+19 9 6 10 0 Name_ainu
+아이누
+
+21 11 6 10 0 Name_bolisi
+저팔계
+
+21 9 8 10 0 Name_muli
+식신닌자
+
+24 12 8 10 0 Name_haokaya
+하오카야
+
+24 12 8 10 0 Name_duolixi
+마법소녀
+
+22 12 6 10 0 Name_mingren
+나루토
+
+18 10 4 10 0 Name_lufei
+루피
+
+26 14 8 10 0 Name_haenlaite
+아키볼드
+
+24 12 8 10 0 Name_aoteman
+울트라맨
+
+20 12 4 10 0 Name_wusuopu
+우솝
+
+22 12 6 10 0 Name_woailuo
+가아라
+
+19 10 5 10 0 Name_saber
+Saber
+
+21 13 4 10 0 Name_xialuote
+샬롯
+
+25 13 8 10 0 Name_shilaike
+검은수염
+
+23 13 6 10 0 Name_yadianna
+아테나
+
+19 11 4 10 0 Name_qiaoba
+쵸파
+
+22 12 6 10 0 Name_yingyan
+미호크
+
+18 10 4 10 0 Name_croki
+커쳐
+
+17 9 4 10 0 Name_lvbu
+여포
+
+21 13 4 10 0 Name_diaochan
+초선
+
+21 13 4 10 0 Name_zhangfei
+장비
+
+25 15 6 10 0 Name_zhugeliang
+제갈량
+
+19 11 4 10 0 Name_guanyu
+관우
+
+27 13 10 10 0 Name_dashewan
+오로치마루
+
+24 12 8 10 0 Name_hamcock
+보아핸콕
+
+19 9 6 10 0 Name_aisi
+에이스
+
+22 12 6 10 0 Name_zilaiye
+지라이
+
+21 11 6 10 0 Name_zuozhu
+사스케
+
+22 12 6 10 0 Name_mingren
+나루토
+
+22 12 6 10 0 Name_baihuzi
+흰수염
+
+21 11 6 10 0 Name_kakaxi
+카카시
+
+20 12 4 10 0 Name_suolong
+조로
+
+19 11 4 10 0 Name_sishen
+사신
+
+25 8 13 10 0 Name_xue
+자객·L·릴리
+
+25 11 10 10 0 Name_luojie
+함대사령관
+
+26 9 13 10 0 Name_xue2
+자객·D·루시
+
+23 11 8 10 0 Name_fuwang
+도끼전사
+
+27 17 6 10 0 Name_tongkunvwang
+아카샤
+
+22 12 6 10 0 Name_difashi
+일리단
+
+34 19 11 10 0 Name_yueliangnvjisi
+달의 여사제
+
+26 16 6 10 0 Name_diyulingzhu
+아서스
+
+20 12 4 10 0 Name_jinzhan
+근접
+
+22 14 4 10 0 Name_yuancheng
+원격
+
+18 8 6 10 0 Name_fda
+마법사
+
+25 13 8 10 0 Name_shushiwa
+흑마법사
+
+22 12 6 10 0 Name_qishiwa
+성기사
+
+17 9 4 10 0 Name_nazi
+나츠
+
+27 10 13 10 0 Name_asuna
+유우키 아스나
+
+21 11 6 10 0 Name_hunter
+사냥꾼
+
+19 11 4 10 0 Name_zombie
+강시
+
+18 10 4 10 0 Name_rogue
+도적
+
+20 12 4 10 0 Name_warrior
+전사
+
+20 12 4 10 0 Name_suolong
+조로
+
+19 11 4 10 0 Name_cleric
+사제
+
+32 18 10 10 0 Name_heiyansheshou
+블랙록슈터
+
+22 12 6 10 0 Name_tongren
+키리토
+
+33 16 13 10 0 Name_yubanmeiqin
+미사카 미코토
+
+23 13 6 10 0 Name_lingmeng
+레이무
+
+20 10 6 10 0 Name_inori
+이노리
+
+18 10 4 10 0 Name_shana
+샤나
+
+28 16 8 10 0 Name_jinshanshan
+길가메시
+
+26 11 11 10 0 Name_chuyin
+하츠네 미쿠
+
+27 15 8 10 0 Name_safeiluosi
+세피로스
+
+20 10 6 10 0 Name_gelei
+그레이
+
+20 10 6 10 0 Name_sanli
+미카사
+
+16 8 4 10 0 Name_hei
+헤이
+
+23 11 8 10 0 Name_sessho
+셋쇼마루
+
+19 9 6 10 0 Name_kami
+케이마
+
+29 19 6 10 0 Name_QueenOfVanpire
+시노부
+
+25 15 6 10 0 Name_lixiaolang
+샤오랑
+
+20 12 4 10 0 Name_jianxin
+켄신
+
+24 14 6 10 0 Name_sunwukong
+손오공
+
+23 13 6 10 0 Name_lvziqiao
+지챠오
+
+27 12 11 10 0 Name_freedom
+프리덤 건담
+
+25 15 6 10 0 Name_chenmeijia
+미스첸
+
+27 15 8 10 0 Name_buzhihuowu
+시라누이
+
+23 13 6 10 0 Name_kuangsan
+쿠루미
+
+25 17 4 10 0 Name_zengxiaoxian
+시안
+
+19 9 6 10 0 Name_16ye
+사쿠야
+
+17 9 4 10 0 Name_yeye
+야야
+
+18 8 6 10 0 Name_gin
+긴토키
+
+27 17 6 10 0 Name_littlewukong
+손오공
+
+23 11 8 10 0 Name_icarus
+이카루스
+
+25 10 11 10 0 Name_konan
+명탐정 코난
+
+27 10 13 10 0 Name_rikka
+타카나시 릿카
+
+27 10 13 10 0 Name_tohka
+야토가미 토카
+
+17 9 4 10 0 Name_yami
+야미
+
+18 10 4 10 0 Name_ryuko
+류코
+
+16 8 4 10 0 Name_nep
+넵튠
+
+21 11 6 10 0 Name_homura
+호무라
+
+25 12 9 10 0 Name_oumashu
+오우마 슈
+
+21 11 6 10 0 Name_madoka
+마도카
+
+22 12 6 10 0 Name_nyaruko
+냐루코
+
+23 13 6 10 0 Name_lihuazou
+카나데
+
+17 9 4 10 0 Name_momo
+모모
+
+25 8 13 10 0 Name_wrs
+화이트 록슈터
+
+34 17 13 10 0 Name_baijingheizi
+시라이 쿠로코
+
+21 11 6 10 0 Name_archer
+Archer
+
+25 13 8 10 0 Name_kuroneko
+쿠로네코
+
+21 11 6 10 0 Name_yukari
+유카리
+
+23 15 4 10 0 Name_liangyishi
+시키
+
+26 14 8 10 0 Name_zekamashi
+시마카제
+
+24 9 11 10 0 Name_jojo
+쿠죠 죠타로
+
+21 11 6 10 0 Name_killua
+키르아
+
+25 10 11 10 0 Name_kyoko
+사쿠라 쿄코
+
+26 11 11 10 0 Name_sayaka
+미키 사야카
+
+26 13 9 10 0 Name_jinmuyan
+카네키 켄
+
+27 17 6 10 0 Name_gaotingnaiye
+나노하
+
+20 10 6 10 0 Name_qinli
+코토리
+
+26 11 11 10 0 Name_shinai
+아사다 시노
+
+18 8 6 10 0 Name_rin
+린    
+
+20 10 6 10 0 Name_iriya
+이리야
+
+20 10 6 10 0 Name_feite
+페이트
+
+17 9 4 10 0 Name_nilu
+네로
+
+23 11 8 10 0 Name_zhezhi
+오리가미
+
+22 12 6 10 0 Name_siminai
+요시노
+
+25 13 8 10 0 Name_heixueji
+흑설공주
+
+22 12 6 10 0 Name_yaomeng
+요우무
+
+27 12 11 10 0 Name_bamamei
+토모에 마미
+
+19 9 6 10 0 Name_kezi
+쿠우코
+
+21 11 6 10 0 Name_yaliya
+아리아
+
+22 12 6 10 0 Name_nuowalu
+느와르
+
+18 10 4 10 0 Name_dasha
+콩고
+
+37 23 10 10 0 Name_zhandoubaolongshou
+워그레이몬
+
+31 19 8 10 0 Name_yifangtongxing
+일방통행
+
+35 18 13 10 0 Name_youxiaomeijiu
+이자요이 미쿠
+
+35 18 13 10 0 Name_mulaihongliqi
+미카세 크리스
+
+17 9 4 10 0 Name_dita
+티타
+
+27 17 6 10 0 Name_lishanweilai
+미라이
+
+18 10 4 10 0 Name_yisha
+이샤
+
+29 17 8 10 0 Name_zetiangangji
+츠나요시
+
+22 10 8 10 0 eUI_Steps0
+전체등급
+
+21 10 7 10 0 eUI_Steps1
+1 - 9급
+
+23 10 9 10 0 eUI_Steps2
+10 - 19급
+
+23 10 9 10 0 eUI_Steps3
+20 - 29급
+
+23 10 9 10 0 eUI_Steps4
+30 - 39급
+
+23 10 9 10 0 eUI_Steps5
+40 - 49급
+
+23 10 9 10 0 eUI_Steps6
+50 - 59급
+
+23 10 9 10 0 eUI_Steps7
+60 - 69급
+
+23 10 9 10 0 eUI_Steps8
+70 - 79급
+
+23 10 9 10 0 eUI_Steps9
+80 - 89급
+
+25 11 10 10 0 eUI_Steps10
+90 - 100급
+
+19 11 4 10 0 eUI_Steps11
+11계
+
+19 11 4 10 0 eUI_Steps12
+12계
+
+19 11 4 10 0 eUI_Steps13
+13계
+
+19 11 4 10 0 eUI_Steps14
+14계
+
+19 11 4 10 0 eUI_Steps15
+15계
+
+19 11 4 10 0 eUI_Steps16
+16계
+
+19 11 4 10 0 eUI_Steps17
+17계
+
+19 11 4 10 0 eUI_Steps18
+18계
+
+19 11 4 10 0 eUI_Steps19
+19계
+
+19 11 4 10 0 eUI_Steps20
+20계
+
+24 12 8 10 0 eUI_Quality0
+전체품질
+
+19 12 3 10 0 eUI_Quality1
+1품
+
+19 12 3 10 0 eUI_Quality2
+2품
+
+19 12 3 10 0 eUI_Quality3
+3품
+
+19 12 3 10 0 eUI_Quality4
+4품
+
+19 12 3 10 0 eUI_Quality5
+5품
+
+19 12 3 10 0 eUI_Quality6
+6품
+
+19 12 3 10 0 eUI_Quality7
+7품
+
+19 12 3 10 0 eUI_Quality8
+8품
+
+19 12 3 10 0 eUI_Quality9
+9품
+
+21 13 4 10 0 eUI_Quality10
+10품
+
+34 22 8 10 0 eClient_FunGuildCreate
+길드창설
+
+40 24 12 10 0 eClient_FunShowGuildList
+길드목록보기
+
+47 27 16 10 0 eGoldSale_ConSignbuy_Failed
+금화위탁매매실패
+
+48 28 16 10 0 eGoldSale_ConSignSell_Failed
+금화위탁매매실패
+
+21 13 4 10 0 eSangreaLevel
+등급
+
+22 12 6 10 0 eSangrealExp
+경험치
+
+21 13 4 10 0 eSangrealType
+유형
+
+31 15 12 10 0 eSangrealAddons
+경치획득증가
+
+22 14 4 10 0 strSangrealCap
+용량
+
+31 19 8 10 0 eClient_UI_BuyFaild
+구입실패
+
+18 10 4 10 0 eTaskType0
+메인
+
+18 10 4 10 0 eTaskType1
+활동
+
+19 11 4 10 0 eTaskType10
+매일
+
+44 21 19 10 0 eTaskUI_List_Complete
+【%s】Lv.%d %s-완료
+
+30 12 14 10 0 eTaskUI_List
+【%s】Lv.%d %s
+
+47 30 13 10 0 eTaskUI_List_Complete_No_Level
+【%s】%s-완료
+
+17 11 2 10 0 eClient_Day
+일
+
+20 12 4 10 0 eClient_Hour
+시간
+
+20 14 2 10 0 eClient_Minute
+분
+
+20 14 2 10 0 eClient_Second
+초
+
+20 12 4 10 0 eClient_Gold
+금화
+
+21 13 4 10 0 eClient_Money
+금전
+
+23 15 4 10 0 eClient_Crystal
+수정
+
+21 13 4 10 0 eClient_Stone
+부적
+
+24 16 4 10 0 eClient_ReelItem
+족자
+
+29 17 8 10 0 eClient_OtherItem
+기타물품
+
+23 11 8 10 0 eUI_npc_Lv1
+평가：★
+
+25 11 10 10 0 eUI_npc_Lv2
+평가：★★
+
+27 11 12 10 0 eUI_npc_Lv3
+평가：★★★
+
+29 11 14 10 0 eUI_npc_Lv4
+평가：★★★★
+
+31 11 16 10 0 eUI_npc_Lv5
+평가：★★★★★
+
+19 11 4 10 0 eEr_Skill_1
+중단
+
+29 17 8 10 0 eUI_Hurt_MagicDef
+마법저항
+
+24 16 4 10 0 eComposeFoundry0
+전체
+
+24 16 4 10 0 eComposeFoundry6
+기타
+
+22 14 4 10 0 eComposeCloth0
+전체
+
+22 14 4 10 0 eComposeCloth7
+기타
+
+26 18 4 10 0 eComposeTechnical0
+전체
+
+26 18 4 10 0 eComposeTechnical5
+기타
+
+24 16 4 10 0 eComposeAlchemy0
+전체
+
+24 16 4 10 0 eComposeAlchemy3
+기타
+
+28 20 4 10 0 eComposeProficiency0
+전체
+
+28 20 4 10 0 eComposeProficiency1
+보석
+
+28 20 4 10 0 eComposeProficiency2
+재료
+
+28 20 4 10 0 eComposeProficiency3
+기타
+
+19 9 6 10 0 [perfect]
+최상품
+
+25 19 2 10 0 eCommon_Time_Minute
+분
+
+29 17 8 10 0 eBargainLackMoney
+금전확인
+
+65 27 34 10 0 eGoldSaleData_ExamineString
+%10s %8s %8d %8d금/100금화 %6d시간
+
+44 28 12 10 0 eGoldSale_ConSignSell_Sucess
+금화판매성공
+
+32 20 8 10 0 eGoldConsignLackGold
+금화확인
+
+33 21 8 10 0 eGoldConsignLackMoney
+금전확인
+
+34 18 12 10 0 eGoldConsignFailed
+금화위탁실패
+
+35 19 12 10 0 eGoldConsignSucceed
+금화거래실패
+
+30 20 6 10 0 eUI_MinPhysicsAttack
+공격력
+
+30 20 6 10 0 eUI_MaxPhysicsAttack
+공격력
+
+30 18 8 10 0 eUI_MinMagicAttack
+주문강도
+
+30 18 8 10 0 eUI_MaxMagicAttack
+주문강도
+
+20 12 4 10 0 eText_IT_GEM
+보석
+
+25 13 8 10 0 eText_IT_TASK
+임무물품
+
+22 14 4 10 0 eSystemName_HP
+체력
+
+22 14 4 10 0 eSystemName_MP
+법강
+
+24 18 2 10 0 eSystemName_Second
+초
+
+30 16 10 10 0 eExchange_sucess
+거래성공！
+
+30 16 10 10 0 eExchange_fail_0
+거래실패！
+
+29 15 10 10 0 eLogin_Logining
+로그인 …
+
+25 13 8 10 0 eText_ConFail
+연결실패
+
+18 10 4 10 0 eText_Fail
+실패
+
+20 12 4 10 0 eText_Prompt
+안내
+
+28 16 8 10 0 eText_CompSucess
+합성성공
+
+26 14 8 10 0 eText_CompFail
+합성실패
+
+24 12 8 10 0 eExchangeing
+거래중…
+
+17 11 2 10 0 eText_Enemy
+적
+
+31 24 3 10 0 eClient_AddInfo_2slk_132
+남 
+
+30 24 2 10 0 eClient_AddInfo_2slk_133
+여
+
+34 22 8 10 0 eAttrType_MagicDefence
+주문저항
+
+41 29 8 10 0 eAttrType_MagicDefencePercent
+주문저항
+
+39 27 8 10 0 eAttrType_ResistancePhysics
+물리저항
+
+39 27 8 10 0 eAttrType_ResistanceSilence
+침묵저항
+
+38 26 8 10 0 eAttrType_ResistanceFreeze
+빙결저항
+
+37 25 8 10 0 eAttrType_ResistanceSleep
+수면저항
+
+37 25 8 10 0 eAttrType_ResistanceDizzy
+기절저항
+
+14 8 2 10 0 eSex_Man
+남
+
+16 10 2 10 0 eSex_FeMan
+여
+
+25 14 7 10 0 eShopUI_Price2
+%s 보석
+
+26 17 5 10 0 eShopUI_VIPPrice2
+%d 금
+
+24 13 7 10 0 eShopUI_Price
+%d 금화
+
+27 16 7 10 0 eShopUI_VIPPrice
+%d 금화
+
+46 21 21 10 0 eText_ReasonAddItem16
+거래성공，획득 %s×%d
+
+34 21 9 10 0 eText_ReasonAddItem33
+환매성공!
+
+19 9 6 10 0 eText_Exp
+경험치
+
+34 24 6 10 0 eClient_FriendUI_Husband
+[남편]
+
+31 21 6 10 0 eClient_FriendUI_Wife
+[아내]
+
+34 24 6 10 0 eClient_FriendUI_Brother
+[형제]
+
+29 17 8 10 0 eMsgResBuyResult0
+구매성공
+
+29 17 8 10 0 eMsgResBuyResult1
+구매실패
+
+33 21 8 10 0 eClient_En_AttackItem
+근일공개
+
+26 14 8 10 0 eClient_En_Pet
+근일공개
+
+31 19 8 10 0 eClient_En_HeadGear
+근일공개
+
+28 16 8 10 0 eClient_En_ExBag
+근일공개
+
+38 26 8 10 0 eClient_Newer_En_CountDown
+근일공개
+
+42 30 8 10 0 eClient_Newer_En_CountDownLast
+근일공개
+
+33 21 8 10 0 eEquipType_AttackPart
+공격부위
+
+34 22 8 10 0 eEquipType_DefencePart
+방어부위
+
+31 19 8 10 0 eEquipType_BodyPart
+생명부위
+
+30 18 8 10 0 eEquipType_HitPart
+명중부위
+
+32 20 8 10 0 eEquipType_DodgePart
+회피부위
+
+28 20 4 10 0 eClient_Effect_Set_0
+최저
+
+26 20 2 10 0 eClient_Effect_Set_1
+저
+
+26 20 2 10 0 eClient_Effect_Set_2
+중
+
+26 20 2 10 0 eClient_Effect_Set_3
+고
+
+28 20 4 10 0 eClient_Effect_Set_4
+최고
+
+34 26 4 10 0 eClient_FriendListColumn_1
+등급
+
+34 26 4 10 0 eClient_FriendListColumn_3
+지역
+
+34 26 4 10 0 eClient_MemberListColumn_1
+등급
+
+48 38 6 10 0 eClient_SubTaskMemberList_StateOffline
+미접속
+
+45 37 4 10 0 eClient_SubTaskMemberList_StateToofar
+멀다
+
+45 37 4 10 0 eClient_SubTaskMemberList_StateNormal
+정상
+
+23 13 6 10 0 ui_energy_tip
+기력량
+
+23 13 6 10 0 ui_dander_tip
+분노량
+
+19 9 6 10 0 ui_mp_tip
+마나량
+
+23 15 4 10 0 ui_TelePort_tip
+귀환
+
+32 11 17 10 0 ui_shop_tip
+상점，단축키【P】
+
+39 15 20 10 0 eUseItemSuccess
+【%s】이미사용성공！
+
+44 30 10 10 0 eClinet_Eternal_AthleticsScene
+영원경기장
+
+39 27 8 10 0 eClinet_Eternal_BattleScene
+영원전장
+
+37 25 8 10 0 eClinet_Eternal_RankScene
+천제배위
+
+41 27 10 10 0 eClinet_Reason_Abnormalquit
+비정상종료
+
+29 19 6 10 0 eClient_UseTimeItem
+[시효]
+
+28 18 6 10 0 eClient_TryOutItem
+[체험]
+
+29 18 7 10 0 eClient_EquipLevel
+  등급 
+
+34 22 8 10 0 eClient_EquipNoUpgrade
+  미승급
+
+27 18 5 10 0 eClient_EquipGhost
+주령:
+
+41 27 10 10 0 eClient_EquipGhostGrowthMax
+성장상한선
+
+40 25 11 10 0 eClient_EquipGhostValue00
+30%공격속도
+
+40 25 11 10 0 eClient_EquipGhostValue01
+20%방어관통
+
+42 25 13 10 0 eClient_EquipGhostValue10
+20%쿨타임감소
+
+40 25 11 10 0 eClient_EquipGhostValue11
+20%마법관통
+
+40 25 11 10 0 eClient_EquipGhostValue21
+10%피해감소
+
+40 25 11 10 0 eClient_EquipGhostValue31
+20%주문강도
+
+41 25 12 10 0 eClient_EquipGhostValue40
+25물리공격력
+
+39 25 10 10 0 eClient_EquipGhostValue41
+5%방어관통
+
+41 25 12 10 0 eClient_EquipGhostValue42
+50물리공격력
+
+40 25 11 10 0 eClient_EquipGhostValue43
+10%방어관통
+
+35 24 7 10 0 eClient_ChatChannelWhole
+전체 /r
+
+34 23 7 10 0 eClient_ChatChannelTeam
+팀원 /t
+
+36 25 7 10 0 eClient_ChatChannelSecret
+귓말 /p
+
+36 25 7 10 0 eClient_ChatChannelFriend
+친구 /f
+
+34 23 7 10 0 eClient_ChatChannelHall
+로비 /r
+
+32 21 7 10 0 eClient_ChatChannelOB
+관전 /o
+
+36 24 8 10 0 eClient_BattleFieldMedal
+전장메달
+
+31 21 6 10 0 eClient_EquipUpGoldOr
+금화나
+
+27 19 4 10 0 eClient_PointVolume
+보석
+
+44 26 14 10 0 eClient_PrepareSurplusTime
+준비까지시간：
+
+34 20 10 10 0 eClient_PrepareStart
+개시까지：
+
+28 19 5 10 0 eClient_FriendColon
+친구:
+
+55 32 19 10 0 eClient_PrepareSurplusTimeSecond
+남은 준비 시간:%d초
+
+41 26 11 10 0 eClient_PrepareStartSecond
+개시준비:%d
+
+25 15 6 10 0 eUI_violentRate
+치명률
+
+30 18 8 10 0 eUI_AttackDistance
+공격거리
+
+24 14 6 10 0 eUI_AttackType
+공격류
+
+27 17 6 10 0 eUI_MagicArtsType
+주문류
+
+26 14 8 10 0 eUI_ExtraMoney
+금전획득
+
+24 14 6 10 0 eUI_GrowUpType
+성장류
+
+25 15 6 10 0 eUI_ControlType
+제어류
+
+22 12 6 10 0 eUI_AureType
+오오라
+
+33 21 8 10 0 eClinet_helpinterface
+UI도움말
+
+20 12 4 10 0 eClinet_shop
+상점
+
+26 18 4 10 0 eClinet_centershop
+시장
+
+20 12 4 10 0 eClinet_stop
+중지
+
+22 14 4 10 0 eClinet_attack
+공격
+
+22 12 6 10 0 eClinet_gold
+%s보석
+
+23 13 6 10 0 eClinet_money
+%d금화
+
+25 15 6 10 0 eClinet_exploit
+%d공훈
+
+37 19 14 10 0 eClinet_GoldOrMoney
+%s보석or%d금화
+
+36 24 8 10 0 eClinet_notenoughexploit
+공훈부족
+
+24 14 6 10 0 eClinet_goldor
+보석or
+
+27 19 4 10 0 eClinet_commonequip
+보통
+
+25 17 4 10 0 eClinet_heroequip
+전속
+
+26 18 4 10 0 eClinet_skillequip
+스킬
+
+26 18 4 10 0 eClinet_ghostequip
+주령
+
+33 25 4 10 0 eClinet_attributemedicine
+속성
+
+31 23 4 10 0 eClinet_recovermedicine
+회복
+
+20 12 4 10 0 eClinet_gift
+보상
+
+20 12 4 10 0 eClinet_card
+카드
+
+26 18 4 10 0 eClinet_upgradegem
+승급
+
+29 21 4 10 0 eClinet_strengthengem
+강화
+
+19 11 4 10 0 eClinet_gem
+보석
+
+21 13 4 10 0 eClinet_equip
+장비
+
+19 11 4 10 0 eClinet_buy
+구매
+
+26 14 8 10 0 eClinet_orGold
+or%s보석
+
+57 28 25 10 0 eClinet_youInitiateSurrender
+정말로 항복을 하실건가요?
+
+22 14 4 10 0 eClinet_prompt
+안내
+
+26 14 8 10 0 eClinet_Lowest
+    최저
+
+21 11 6 10 0 eClinet_Low
+    저
+
+29 17 8 10 0 eClinet_Secondary
+    중급
+
+22 12 6 10 0 eClinet_High
+    고
+
+27 15 8 10 0 eClinet_Highest
+    최고
+
+27 19 4 10 0 eClinet_PercentdDay
+%d일
+
+27 15 8 10 0 eClient_MoneyOr
+또는금화
+
+24 16 4 10 0 eClient_GameGold
+보석
+
+42 16 22 10 0 eClinet_fuselose
+합성실패！차회성공기원
+
+55 19 32 10 0 eClinet_TimehaveDay
+잔여유효기한 %d 시간 %d 분 %d 초
+
+49 25 20 10 0 eClient_TimeHaveExceedDay
+초과된유효기한 %d 일
+
+36 19 13 10 0 eClent_SportsSumNum
+경기장경기수:
+
+26 18 4 10 0 eClinet_thecapital
+대문
+
+25 17 4 10 0 eClinet_lowercase
+소문
+
+63 31 28 10 0 eClinet_PointOutEmitSigalPlease
+알림:%s 님의신호，주의하세요
+
+57 27 26 10 0 eClinet_PointOutPleaseLeave
+알림:%s 님의신호，%s퇴각해
+
+62 26 32 10 0 eClinet_PointOutPleaseCome
+알림:%s 님의신호，여기로집합요청
+
+23 15 4 10 0 eClinet_Success
+성공
+
+22 14 4 10 0 eClient_Accept
+수락
+
+22 14 4 10 0 eClient_Refuse
+거절
+
+54 21 29 10 0 eClient_EnterIntoRoom
+[color=0xffffffff] 님이  입장
+
+50 17 29 10 0 eClient_LeaveRoom
+[color=0xffffffff] 님이  퇴장
+
+33 20 9 10 0 eClient_LifeValueAdd
+생명력 + 
+
+34 21 9 10 0 eClient_MagicValueAdd
+마나량 + 
+
+37 22 11 10 0 eClient_AttackSpeedAdd
+공격속도 + 
+
+41 26 11 10 0 eClient_CharAttr_MoveSpeed
+이동속도 + 
+
+35 22 9 10 0 eClient_CharAttr_Dodge
+회피율 + 
+
+41 26 11 10 0 eClient_CharAttr_HPRecover
+체력회복 + 
+
+29 21 4 10 0 eClient_PerFiveSecond
+/5초
+
+41 26 11 10 0 eClient_CharAttr_MPRecover
+마나회복 + 
+
+44 29 11 10 0 eClient_CharAttr_CriticalOdds
+치명확률 + 
+
+48 33 11 10 0 eClient_CharAttr_PhysicsAttackMax
+물리공격 + 
+
+42 27 11 10 0 eClient_CharAttr_PhysicsDef
+물리방어 + 
+
+45 30 11 10 0 eClient_CharAttr_ArmorPuncture
+물리관통 + 
+
+43 28 11 10 0 eClient_CharAttr_MagicAttack
+주문강도 + 
+
+40 25 11 10 0 eClient_CharAttr_MagicDef
+주문저항 + 
+
+50 35 11 10 0 eClient_CharAttr_MagicArmorPuncture
+주문관통 + 
+
+38 27 7 10 0 eClient_CharAttr_SuperArmor
+강인 + 
+
+40 25 11 10 0 eClient_CharAttr_HPAbsorb
+생명흡수 + 
+
+40 25 11 10 0 eClient_CharAttr_MPAbsorb
+주문흡혈 + 
+
+29 18 7 10 0 eClient_UnKnownAdd
+불명 + 
+
+29 19 6 10 0 eClient_HeaveSucess
+  성공
+
+29 19 6 10 0 eClient_HeaveReport
+신고  
+
+24 16 4 10 0 eClient_QuitTeam
+종료
+
+24 16 4 10 0 eClient_ShopGold
+보석
+
+25 17 4 10 0 eClient_ShopMoney
+금화
+
+27 19 4 10 0 eClient_Shopexploit
+공훈
+
+25 17 4 10 0 eClient_shop_Hero
+영웅
+
+24 16 4 10 0 eClient_shop_Gem
+보석
+
+28 20 4 10 0 eClient_shop_restore
+약품
+
+26 18 4 10 0 eClient_shop_equip
+장비
+
+26 16 6 10 0 eClinet_Viptotal
+%d적립
+
+22 14 4 10 0 eClient_dPoint
+%d점
+
+26 18 4 10 0 eClient_StandAlone
+독립
+
+26 15 7 10 0 eClent_AddMoney
++%d금전
+
+25 14 7 10 0 eClient_AddExp
++%d경치
+
+24 16 4 10 0 eClient_HeroSkin
+스킨
+
+25 17 4 10 0 eClient_MagicArts
+주문
+
+30 22 4 10 0 eClient_TeamDifficulty
+단체
+
+23 15 4 10 0 eClient_Operate
+조작
+
+27 17 6 10 0 eClient_Passivity
+(수동)
+
+30 18 8 10 0 eClient_HeroDefine
+추천위치
+
+27 17 6 10 0 eClient_TaskAward
+보상：
+
+29 17 8 10 0 eClient_TaskFinsh
+[완료됨]
+
+32 18 10 10 0 eClient_TaskNormal
+일상임무：
+
+33 16 13 10 0 eClient_TaskNext
+다음수행임무:
+
+34 20 10 10 0 eClient_TaskACTIVITY
+활동임무：
+
+32 20 8 10 0 eClient_TaskFinshNot
+[미완료]
+
+26 14 8 10 0 eClient_SignIn
+[출석OK]
+
+37 25 8 10 0 eClient_BonusTypeFirstWin
+첫승보상
+
+35 23 8 10 0 eClient_BonusTypeNewbie
+신입보상
+
+33 21 8 10 0 eClient_BonusTypeTask
+활동보상
+
+26 18 4 10 0 eClient_BonusTotal
+총계
+
+27 17 6 10 0 eClient_BonusAttr
+[추가]
+
+24 16 4 10 0 eClient_FullAttr
+[금]
+
+18 10 4 10 0 eClient_Ok
+확정
+
+30 18 8 10 0 eClient_Useyuanbao
+보석사용
+
+37 23 10 10 0 eClient_NameInvalidName
+잘못된이름
+
+33 21 8 10 0 eClient_NameSystemErr
+오류발생
+
+39 20 15 10 0 eClient_NameTooShort
+이름이 너무짧음
+
+37 21 12 10 0 eClient_ReNameSucceed
+이름변경성공
+
+33 17 12 10 0 eClient_hideTitle
+【칭호숨김】
+
+44 23 17 10 0 eClient_RequestDuelItem
+Solo허가증1개필요
+
+34 22 8 10 0 eClient_ServerName1002
+풍림화산
+
+34 22 8 10 0 eClient_ServerName1003
+임병두자
+
+35 23 8 10 0 eClient_ServerName10611
+도검신역
+
+35 23 8 10 0 eClient_ServerName11111
+성배전쟁
+
+35 23 8 10 0 eClient_ServerName12291
+절대성역
+
+35 23 8 10 0 eClient_ServerName12292
+위풍당당
+
+35 23 8 10 0 eClient_ServerName12293
+학원도시
+
+35 23 8 10 0 eClient_ServerName12294
+공의경계
+
+35 23 8 10 0 eClient_ServerName12431
+사왕진안
+
+35 23 8 10 0 eClient_ServerName12394
+천강지물
+
+35 23 8 10 0 eClient_ServerName12432
+몽상봉인
+
+35 23 8 10 0 eClient_ServerName12591
+진격거인
+
+35 23 8 10 0 eClient_ServerName20000
+무한검제
+
+35 23 8 10 0 eClient_ServerName20001
+공의경계
+
+35 23 8 10 0 eClient_ServerName20002
+마녀지야
+
+35 23 8 10 0 eClient_ServerName20003
+몽상봉인
+
+35 23 8 10 0 eClient_ServerName20004
+천양겁화
+
+35 23 8 10 0 eClient_ServerName20005
+실낙성탄
+
+35 23 8 10 0 eClient_ServerName20006
+원환지리
+
+31 23 4 10 0 eClient_ServerName20007
+XXXX
+
+35 23 8 10 0 eClient_ServerName20008
+연희무쌍
+
+35 23 8 10 0 eClient_ServerName20009
+가속세계
+
+35 23 8 10 0 eClient_ServerName20010
+기교소녀
+
+35 23 8 10 0 eClient_ServerName20011
+죄의왕관
+
+35 23 8 10 0 eClient_ServerName20012
+욱일지심
+
+35 23 8 10 0 eClient_ServerName20013
+절멸천사
+
+35 23 8 10 0 eClient_ServerName20014
+파군가희
+
+35 23 8 10 0 eClient_ServerName20015
+황금극장
+
+35 23 8 10 0 eClient_ServerName20016
+경계저편
+
+32 22 6 10 0 eClient_ServerName5000
+테스트
+
+28 18 6 10 0 eClient_GuildApply
+신청중
+
+33 19 10 10 0 eClient_AlchemySucc
+연금성공！
+
+25 16 5 10 0 eClient_UI_Match
+싱 글
+
+25 16 5 10 0 eClient_UI_Enter
+입 력
+
+30 16 10 10 0 eClient_GetMoney
+%d금화취득
+
+30 16 10 10 0 eClient_UseMoney
+%d금화소비
+
+34 26 4 10 0 eClinet_battleevaluateitem
+명예
+
+27 19 4 10 0 eClient_exploititem
+공훈
+
+32 22 6 10 0 eClinet_battleevaluate
+%d명예
+
+25 17 4 10 0 eClient_UI_Single
+싱글
+
+27 19 4 10 0 eClient_UI_DeadMode
+초월
+

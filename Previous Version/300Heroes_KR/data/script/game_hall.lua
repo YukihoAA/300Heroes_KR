@@ -20,18 +20,40 @@ function InitGame_hallUI(wnd, bisopen)
 	g_game_hall_ui:SetVisible(bisopen)	
 end
 
+-- ÷˜“≥±≥æ∞Õº∫Õ”¢–€Id
+local MainHall_BK = nil
+local MainHall_Effect = nil
+MainHall_BKHeroId = 193
+local btn_gotoshop = nil
+local btn_herodetail = nil
+local btn_defaultbk = nil
+local main_herologo = nil
+
 function InitMainGame_hall(wnd)
 
 	--µ◊Õº±≥æ∞
-	--wnd:AddImage("../UI/hero/190.png",0,0,1280,800)
-	wnd:AddEffect("../Data/Magic/Common/UI/changwai/183Skin1/183Skin1_od.x",0,0,1280,800)
+	MainHall_BK = wnd:AddImage("../UI/hero/" .. MainHall_BKHeroId .. ".png",0,0,1280,800)
+	MainHall_Effect = wnd:AddEffect("../Data/Magic/Common/UI/changwai/183Skin1/183Skin1_od.x",0,0,1280,800)
 	
 	--”¢–€Õº±Í
-	wnd:AddImage(path.."logoHero_hall.png",50,528-OffsetY1,482,170)
+	main_herologo = wnd:AddImage(path.."logoHero_hall.png",50,528-OffsetY1,482,170)
 	wnd:AddImage(path.."bkmoney_hall.png",925,92,355,30)
+	--local AA = wnd:AddImage(path_hero.."LOVEBK_hero.png",200,350,296,167)
+	--AA:AddCodeCheck(50,40,300,300)
+	
+	--ª÷∏¥ƒ¨»œ
+	btn_defaultbk = wnd:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png",70,700-OffsetY1, 179, 56)
+	btn_defaultbk:AddFont("»®∆‰¿Ã¡ˆ", 15, 0, 50, 15, 72, 20, 0xbeb9cf)
+	btn_defaultbk.script[XE_LBUP] = function()
+		XClickPlaySound(5)
+		
+		SetImage_MainHallBK("../UI/hero/" .. MainHall_BKHeroId .. ".png", "")
+		XSendMainBKData(MainHall_BKHeroId,5)
+	end
+	btn_defaultbk:SetVisible(0)
 	
 	--«∞Õ˘…Ã≥«
-	local btn_gotoshop = wnd:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png",170,700-OffsetY1, 179, 56)
+	btn_gotoshop = wnd:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png",70,700-OffsetY1, 179, 56)
 	btn_gotoshop:AddFont("Ω√¿ÂπÊπÆ", 15, 0, 50, 15, 72, 20, 0xbeb9cf)
 	btn_gotoshop.script[XE_LBUP] = function()
 		XClickPlaySound(5)
@@ -41,7 +63,7 @@ function InitMainGame_hall(wnd)
 		Set_JumpToShopHero()
 	end
 	--”¢–€œÍ«È
-	local btn_herodetail = wnd:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png",350,700-OffsetY1, 179, 56)
+	btn_herodetail = wnd:AddButton(path.."button1_hall.png", path.."button2_hall.png", path.."button3_hall.png",250,700-OffsetY1, 179, 56)
 	btn_herodetail:AddFont("øµøı¡§∫∏", 15, 0, 50, 15, 72, 20, 0xbeb9cf)
 	btn_herodetail.script[XE_LBUP] = function()
 		XClickPlaySound(5)
@@ -66,6 +88,27 @@ function Sign_IsFirstLogin(IsfirstLogin)
 		--SetsigninIsVisible(0)
 	end
 end
+
+-- …Ë÷√÷˜“≥±≥æ∞Õº
+function SetImage_MainHallBK(picture,path)
+	MainHall_BK.changeimage(picture)
+	
+	if path ~= "" then
+		MainHall_Effect:ChangeEffect(path)
+	else
+		MainHall_Effect:ChangeEffect("../Data/Magic/Common/UI/changwai/183Skin1/183Skin1_od.x")
+	end
+end
+
+-- ª÷∏¥ƒ¨»œ ±∞¥≈•¥¶¿Ì
+function ShowDefaultMainHallBK(flag)
+	btn_defaultbk:SetVisible(1-flag)
+		
+	main_herologo:SetVisible(flag)
+	btn_gotoshop:SetVisible(flag)
+	btn_herodetail:SetVisible(flag)
+end
+
 
 --…Ë÷√œ‘ æ
 function SetGameHallIsVisible(flag) 

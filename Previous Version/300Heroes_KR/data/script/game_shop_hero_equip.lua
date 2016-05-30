@@ -540,7 +540,7 @@ end
 function Set_JumpToHeroDetail()
 		btn_hero:TriggerBehaviour(XE_LBDOWN)
 		btn_hero:CancelCapture()
-		EventToHeroDetail(183)		-- 跳到金刚的集卡书二级页	
+		EventToHeroDetail(MainHall_BKHeroId)		-- 跳到金刚的集卡书二级页	
 end
 
 

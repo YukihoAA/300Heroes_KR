@@ -10,7 +10,7 @@ local skin_heroname = {}
 
 local SKIN_LISTL = {}
 SKIN_LISTL.BK = {}
-SKIN_LISTL.BTN = { path_hero.."ffffff_hero.png", path_hero.."ffffff_hero.png", path_hero.."ffffff_hero.png", path_hero.."ffffff_hero.png"}
+
 SKIN_LISTL.NAME = {}
 SKIN_LISTL.HAVE = {}
 SKIN_LISTL.POSXS = { 0, 121, 242}
@@ -225,10 +225,10 @@ function SetSkinSizeAndInfo_skinframe( cPath, cXB, cYB, cWid, cHei, cIsHave, cSk
 	-- end
 	if IsCanSelSkin==0 then
 		if cIsHave == 1 then
-			-- SKIN_LISTL_HAVE[cindex]:SetFontText( "º¸À¯Áß", 0xffffff)
+			-- SKIN_LISTL_HAVE[cindex]:SetFontText( "ÒÑÓµÓÐ", 0xffffff)
 			SKIN_LISTL_BUY[cindex]:SetVisible(0)
 		else
-			-- SKIN_LISTL_HAVE[cindex]:SetFontText( "¹Ìº¸À¯", 0xff0000)
+			-- SKIN_LISTL_HAVE[cindex]:SetFontText( "Î´ÓµÓÐ", 0xff0000)
 			SKIN_LISTL_BUY[cindex]:SetVisible(1)
 		end
 	end

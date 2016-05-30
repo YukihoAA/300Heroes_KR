@@ -78,7 +78,7 @@ function InitMainGameStart_ui(wnd)
 		
 		hero_buttom[i] = YourTeam_ui:AddImage(path_start.."icon0_start.png",85*i-133,110,86,170)
 		--hero_buttom[i]:SetTouchEnabled(0)
-		hero_controlName[i] = hero_buttom[i]:AddFont("Ó¢ÐÛÃû×Ö",12,8,7,8,100,0,0x81f5ff)
+		hero_controlName[i] = hero_buttom[i]:AddFont("¿µ¿õÀÌ¸§",12,8,7,8,100,0,0x81f5ff)
 		hero_controlName[i]:SetVisible(0)
 		-------Á½¸ö¸¨Öú¼¼ÄÜ
 		hero_assistA[i] = hero_buttom[i]:AddImage(path_equip.."bag_equip.png",11,165,29,29)
@@ -421,7 +421,7 @@ function SetGameStartTutorialState( cIsEnable, cId)
 	elseif cId==2 then
 		hero_side[1]:EnableImageAnimateEX(cIsEnable, 11, 90, -90, 0, 510, 0)
 	elseif cId==3 then
-		hero_side[2]:EnableImageAnimateEX(cIsEnable, 11, 90, -30, -320, 510, 380)
+		hero_side[2]:EnableImageAnimateEX(cIsEnable, 11, 90, 80, -320, 410, 360)
 	elseif cId==4 then
 		iiiimgFont:EnableImageAnimateEX(cIsEnable, 7, 90, 20, 120, -20, -120)
 	elseif cId==5 then

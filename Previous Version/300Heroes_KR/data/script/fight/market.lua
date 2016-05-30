@@ -827,7 +827,39 @@ function InitMain_MarketB(wnd)
 		
 		market_max[i].script[XE_LBUP] = function()
 			XClickPlaySound(5)
-			XClickMaxGoods(max_goods.Id[i])
+			
+			local selectA = 0
+			local selectB = 0
+			
+			if i==2 then
+				selectA = 1
+				selectB = 0
+			elseif i==3 then
+				selectA = 1
+				selectB = 1
+			elseif i==4 then
+				selectA = 1
+				selectB = 2
+			elseif i==5 then
+				selectA = 2
+				selectB = 0
+			elseif i==6 then
+				selectA = 2
+				selectB = 1
+			elseif i==7 then
+				selectA = 2
+				selectB = 2
+			elseif i==8 then
+				selectA = 2
+				selectB = 3
+			elseif i==9 then
+				selectA = 2
+				selectB = 4
+			elseif i==10 then
+				selectA = 2
+				selectB = 5
+			end
+			XClickMaxGoods(max_goods.Id[i], selectA, selectB)
 			
 			local L,T = market_max[i]:GetPosition()			
 			market_maxClick:SetAbsolutePosition(L-6,T-8)
